@@ -73,5 +73,5 @@ class SemanticScholar:
             temp = json.loads(response_current.text)["results"]
             for elem in temp:
                 json_content["results"].append(elem)
-        with open('contents_raw/semantic_scholar_raw.json', 'w', encoding='utf-8') as f:
+        with open('0_initial_request_raw/semantic_scholar_raw.json', 'w', encoding='utf-8') as f:
             json.dump(json_content, f, ensure_ascii=False, indent=4)

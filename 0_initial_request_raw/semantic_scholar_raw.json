@@ -30304,7 +30304,7 @@
                 ],
                 "keyCitedByBuckets": [],
                 "numCitations": 6,
-                "estNumCitations": 11.001593346371784,
+                "estNumCitations": 11.113263238210536,
                 "numReferences": 46,
                 "numKeyCitations": 0,
                 "numKeyReferences": 0,
@@ -45770,344 +45770,6 @@
             "cues": {}
         },
         {
-            "id": "0f3f061a758edf91dd0acc6dee582018c1dd426c",
-            "corpusId": 256447130,
-            "title": {
-                "text": "5G-Enabled Cyber-Physical Systems for Smart Transportation Using Blockchain Technology",
-                "fragments": [
-                    {
-                        "start": 11,
-                        "end": 16
-                    },
-                    {
-                        "start": 17,
-                        "end": 25
-                    },
-                    {
-                        "start": 26,
-                        "end": 33
-                    }
-                ]
-            },
-            "slug": "5G-Enabled-Cyber-Physical-Systems-for-Smart-Using-Rajawat-Goyal",
-            "paperAbstract": {
-                "text": "The physical world can be controlled directly over the Internet once a Cyber-Physical 1 System (CPS) infrastructure is established. The Intelligent Transportation System (ITS) encompasses Wireless Sensor Network (WSN), Vehicular ad hoc network (VANET), and 5G-enabled Internet of Things (IoT) solutions to transform traditional transportation into an ITS. This research investigates the option of running a blockchain-driven security assurance model to safeguard intelligent roads and smart vehicles as part of ITS. The proposed model considers a semi-distributed model in blockchain deployment to ensure satisfactory Internet of Vehicles (IoV) service while mining acceptable security assurance. The experimental outcomes on intelligent roads and smart parking management indicate that the proposed model achieves comparably good data delivery and reduced latency, paving the way to an innovative deployment of blockchain technologies in IoV for a dependable and trustworthy ITS.",
-                "fragments": [
-                    {
-                        "start": 4,
-                        "end": 12
-                    },
-                    {
-                        "start": 55,
-                        "end": 63
-                    },
-                    {
-                        "start": 71,
-                        "end": 76
-                    },
-                    {
-                        "start": 77,
-                        "end": 85
-                    },
-                    {
-                        "start": 88,
-                        "end": 94
-                    },
-                    {
-                        "start": 96,
-                        "end": 99
-                    },
-                    {
-                        "start": 163,
-                        "end": 169
-                    },
-                    {
-                        "start": 268,
-                        "end": 276
-                    },
-                    {
-                        "start": 280,
-                        "end": 286
-                    },
-                    {
-                        "start": 288,
-                        "end": 291
-                    },
-                    {
-                        "start": 425,
-                        "end": 433
-                    },
-                    {
-                        "start": 618,
-                        "end": 626
-                    },
-                    {
-                        "start": 677,
-                        "end": 685
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "The physical world can be controlled directly over the Internet once a Cyber-Physical 1 System (CPS) infrastructure is e...",
-            "tldr": {
-                "text": "The experimental outcomes on intelligent roads and smart parking management indicate that the proposed model achieves comparably good data delivery and reduced latency, paving the way to an innovative deployment of blockchain technologies in IoV for a dependable and trustworthy ITS.",
-                "abstractSimilarityScore": 5
-            },
-            "authors": [
-                [
-                    {
-                        "name": "A. Rajawat",
-                        "ids": [
-                            "40642247"
-                        ],
-                        "slug": "A.-Rajawat",
-                        "structuredName": {
-                            "firstName": "Anand",
-                            "middleNames": [
-                                "Singh"
-                            ],
-                            "lastName": "Rajawat"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Rajawat",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "S. Goyal",
-                        "ids": [
-                            "2067928143"
-                        ],
-                        "slug": "S.-Goyal",
-                        "structuredName": {
-                            "firstName": "S.",
-                            "middleNames": [
-                                "B."
-                            ],
-                            "lastName": "Goyal"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "S. Goyal",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "P. Bedi",
-                        "ids": [
-                            "2005805289"
-                        ],
-                        "slug": "P.-Bedi",
-                        "structuredName": {
-                            "firstName": "Pradeep",
-                            "middleNames": [],
-                            "lastName": "Bedi"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "P. Bedi",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Chaman Verma",
-                        "ids": [
-                            "2056710699"
-                        ],
-                        "slug": "Chaman-Verma",
-                        "structuredName": {
-                            "firstName": "Chaman",
-                            "middleNames": [],
-                            "lastName": "Verma"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Chaman Verma",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "E. I. Ionete",
-                        "ids": [
-                            "10159211"
-                        ],
-                        "slug": "E.-I.-Ionete",
-                        "structuredName": {
-                            "firstName": "Eusebiu",
-                            "middleNames": [
-                                "Ilarian"
-                            ],
-                            "lastName": "Ionete"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "E. I. Ionete",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "M. Răboacă",
-                        "ids": [
-                            "101679891"
-                        ],
-                        "slug": "M.-Răboacă",
-                        "structuredName": {
-                            "firstName": "Maria",
-                            "middleNames": [
-                                "Simona"
-                            ],
-                            "lastName": "Răboacă"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "M. Răboacă",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Anand",
-                    "middleNames": [
-                        "Singh"
-                    ],
-                    "lastName": "Rajawat"
-                },
-                {
-                    "firstName": "S.",
-                    "middleNames": [
-                        "B."
-                    ],
-                    "lastName": "Goyal"
-                },
-                {
-                    "firstName": "Pradeep",
-                    "middleNames": [],
-                    "lastName": "Bedi"
-                },
-                {
-                    "firstName": "Chaman",
-                    "middleNames": [],
-                    "lastName": "Verma"
-                },
-                {
-                    "firstName": "Eusebiu",
-                    "middleNames": [
-                        "Ilarian"
-                    ],
-                    "lastName": "Ionete"
-                },
-                {
-                    "firstName": "Maria",
-                    "middleNames": [
-                        "Simona"
-                    ],
-                    "lastName": "Răboacă"
-                }
-            ],
-            "year": {
-                "text": "2023",
-                "fragments": []
-            },
-            "venue": {
-                "text": "Mathematics",
-                "fragments": []
-            },
-            "venueId": "6175efe8-6f8e-4cbe-8cee-d154f4e78627",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2023,
-                        "endKey": 2023,
-                        "count": 5
-                    },
-                    {
-                        "startKey": 2024,
-                        "endKey": 2024,
-                        "count": 2
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 7,
-                "estNumCitations": 9.184102296521255,
-                "numReferences": 33,
-                "numKeyCitations": 0,
-                "numKeyReferences": 0,
-                "numViewableReferences": 33,
-                "keyCitationRate": 0.0,
-                "firstCitationVelocityYear": 2023,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1675267686.699493,
-            "journal": {
-                "name": "Mathematics"
-            },
-            "doiInfo": {
-                "doi": "10.3390/math11030679",
-                "doiUrl": "https://doi.org/10.3390/math11030679"
-            },
-            "links": [
-                {
-                    "url": "https://doi.org/10.3390/math11030679",
-                    "linkType": "doi"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "https://doi.org/10.3390/math11030679",
-                "linkType": "doi"
-            },
-            "alternatePaperLinks": [
-                {
-                    "url": "https://www.mdpi.com/2227-7390/11/3/679/pdf?version=1674976312",
-                    "linkType": "openaccess"
-                }
-            ],
-            "entities": [],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 7,
-                    "keyCitationCount": 0,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Engineering",
-                "Computer Science",
-                "Environmental Science"
-            ],
-            "openAccessInfo": {
-                "license": "CCBY",
-                "status": "GOLD",
-                "location": {
-                    "url": "https://www.mdpi.com/2227-7390/11/3/679/pdf?version=1674976312",
-                    "isPdf": true
-                }
-            },
-            "pubDate": "2023-01-29",
-            "badges": [
-                {
-                    "id": "UNPAYWALL"
-                }
-            ],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
             "id": "a3c947c0f355ec4704e947b9a29f623446b76034",
             "corpusId": 236722197,
             "title": {
@@ -47131,7 +46793,7 @@
                     {
                         "startKey": 2020,
                         "endKey": 2020,
-                        "count": 47
+                        "count": 48
                     },
                     {
                         "startKey": 2021,
@@ -47155,17 +46817,17 @@
                     }
                 ],
                 "keyCitedByBuckets": [],
-                "numCitations": 330,
-                "estNumCitations": 692.5107674241461,
+                "numCitations": 331,
+                "estNumCitations": 681.4858524459314,
                 "numReferences": 38,
                 "numKeyCitations": 13,
                 "numKeyReferences": 3,
                 "numViewableReferences": 38,
-                "keyCitationRate": 0.03939393939393939,
-                "citationVelocity": 35.666666666666664,
-                "citationAcceleration": -0.1724137931034483,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
+                "keyCitationRate": 0.03927492447129909,
+                "citationVelocity": 21.0,
+                "citationAcceleration": -0.5833333333333334,
+                "firstCitationVelocityYear": 2022,
+                "lastCitationVelocityYear": 2024
             },
             "earliestAcquisitionsDate": 1487731423.449,
             "journal": {
@@ -47207,7 +46869,7 @@
             "scorecardStats": [
                 {
                     "typeKey": "cited_by",
-                    "citationCount": 330,
+                    "citationCount": 331,
                     "keyCitationCount": 13,
                     "score": 10.0
                 }
@@ -47499,7 +47161,7 @@
                 ],
                 "keyCitedByBuckets": [],
                 "numCitations": 304,
-                "estNumCitations": 1035.0751043223495,
+                "estNumCitations": 1036.4749782278057,
                 "numReferences": 230,
                 "numKeyCitations": 10,
                 "numKeyReferences": 14,
@@ -52433,6 +52095,291 @@
                 "Engineering"
             ],
             "pubDate": "2022-04-29",
+            "badges": [],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
+            "id": "8b1a74426a7da667b13861d5734e1a534c6cf447",
+            "corpusId": 213446188,
+            "title": {
+                "text": "Smart production systems drivers for business process management improvement: An integrative framework",
+                "fragments": [
+                    {
+                        "start": 17,
+                        "end": 24
+                    }
+                ]
+            },
+            "slug": "Smart-production-systems-drivers-for-business-An-Queiroz-Wamba",
+            "paperAbstract": {
+                "text": "PurposeThe Industry 4.0 phenomenon offers opportunities and challenges to all business models. Despite the literature advances in this field, little attention has been paid to the interplay of smart production systems (SPSs), big data analytics (BDA), cyber-physical systems (CPS), internet of things (IoT), and the potential business process management (BPM) improvements. This study aims to identify the main drivers and their implications for improved BPM.Design/methodology/approachThis study employed a narrative literature review of studies concerning smart-production-systems-related issues in the context of Industry 4.0.FindingsThe study identified 26 drivers from the literature associated with SPSs that have an impact on improved BPM. These drivers are presented in an integrative framework considering BDA, CPS, and the IoT.Research limitations/implicationsThe framework's component integration is yet not tested. However, this study offers a significant theoretical contribution by presenting drivers that can be utilised to develop constructs, exploring critical factors related to the interplay of SPSs and improved BPM, and shading light on Industry 4.0's main elements. The study also makes suggestions for further research.Practical implicationsThe proposed framework, with its 26 drivers, provides insights for practitioners and decision-makers interested in gaining an in-depth understanding of the complexities of SPSs and improved BPM.Originality/valueThis study integrates BDA, CPS, and IoT into a framework with 26 drivers associated with SPSs to improve BPM.",
+                "fragments": [
+                    {
+                        "start": 210,
+                        "end": 217
+                    },
+                    {
+                        "start": 252,
+                        "end": 257
+                    },
+                    {
+                        "start": 258,
+                        "end": 266
+                    },
+                    {
+                        "start": 267,
+                        "end": 274
+                    },
+                    {
+                        "start": 276,
+                        "end": 279
+                    },
+                    {
+                        "start": 282,
+                        "end": 290
+                    },
+                    {
+                        "start": 294,
+                        "end": 300
+                    },
+                    {
+                        "start": 302,
+                        "end": 305
+                    },
+                    {
+                        "start": 575,
+                        "end": 582
+                    },
+                    {
+                        "start": 820,
+                        "end": 823
+                    },
+                    {
+                        "start": 1502,
+                        "end": 1505
+                    },
+                    {
+                        "start": 1511,
+                        "end": 1514
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "PurposeThe Industry 4.0 phenomenon offers opportunities and challenges to all business models. Despite the literature ad...",
+            "tldr": {
+                "text": "This study integrates BDA, CPS, and IoT into a framework with 26 drivers associated with SPSs to improve BPM, and provides insights for practitioners and decision-makers interested in gaining an in-depth understanding of the complexities of S PSs and improved BPM.",
+                "abstractSimilarityScore": 40
+            },
+            "authors": [
+                [
+                    {
+                        "name": "M. Queiroz",
+                        "ids": [
+                            "97137835"
+                        ],
+                        "slug": "M.-Queiroz",
+                        "structuredName": {
+                            "firstName": "Maciel",
+                            "middleNames": [
+                                "Manoel",
+                                "de"
+                            ],
+                            "lastName": "Queiroz"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "M. Queiroz",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "S. Wamba",
+                        "ids": [
+                            "2749823"
+                        ],
+                        "slug": "S.-Wamba",
+                        "structuredName": {
+                            "firstName": "Samuel",
+                            "middleNames": [
+                                "Fosso"
+                            ],
+                            "lastName": "Wamba"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "S. Wamba",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "M. C. Machado",
+                        "ids": [
+                            "32640065"
+                        ],
+                        "slug": "M.-C.-Machado",
+                        "structuredName": {
+                            "firstName": "Marcio",
+                            "middleNames": [
+                                "Cardoso"
+                            ],
+                            "lastName": "Machado"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "M. C. Machado",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Renato Telles",
+                        "ids": [
+                            "1732712"
+                        ],
+                        "slug": "Renato-Telles",
+                        "structuredName": {
+                            "firstName": "Renato",
+                            "middleNames": [],
+                            "lastName": "Telles"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Renato Telles",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Maciel",
+                    "middleNames": [
+                        "Manoel",
+                        "de"
+                    ],
+                    "lastName": "Queiroz"
+                },
+                {
+                    "firstName": "Samuel",
+                    "middleNames": [
+                        "Fosso"
+                    ],
+                    "lastName": "Wamba"
+                },
+                {
+                    "firstName": "Marcio",
+                    "middleNames": [
+                        "Cardoso"
+                    ],
+                    "lastName": "Machado"
+                },
+                {
+                    "firstName": "Renato",
+                    "middleNames": [],
+                    "lastName": "Telles"
+                }
+            ],
+            "year": {
+                "text": "2020",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Business Process Management Journal",
+                "fragments": []
+            },
+            "venueId": "1e07c289-2f48-4e53-952a-2774c8173782",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 14
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 19
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 17
+                    },
+                    {
+                        "startKey": 2024,
+                        "endKey": 2024,
+                        "count": 10
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 65,
+                "estNumCitations": 359.08439340759475,
+                "numReferences": 105,
+                "numKeyCitations": 4,
+                "numKeyReferences": 0,
+                "numViewableReferences": 105,
+                "keyCitationRate": 0.06153846153846154,
+                "citationVelocity": 15.333333333333334,
+                "citationAcceleration": -0.4117647058823529,
+                "firstCitationVelocityYear": 2022,
+                "lastCitationVelocityYear": 2024
+            },
+            "earliestAcquisitionsDate": 1582794312.62,
+            "journal": {
+                "name": "Bus. Process. Manag. J.",
+                "volume": "26",
+                "pages": "1075-1092"
+            },
+            "doiInfo": {
+                "doi": "10.1108/bpmj-03-2019-0134",
+                "doiUrl": "https://doi.org/10.1108/bpmj-03-2019-0134"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1108/bpmj-03-2019-0134",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1108/bpmj-03-2019-0134",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://doi.org/10.1108/BPMJ-03-2019-0134",
+                    "linkType": "dblp"
+                }
+            ],
+            "entities": [],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 65,
+                    "keyCitationCount": 4,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Business",
+                "Engineering",
+                "Computer Science",
+                "Environmental Science"
+            ],
+            "pubDate": "2020-02-20",
+            "pubUpdateDate": "2020-02-20",
             "badges": [],
             "isPdfVisible": false,
             "cues": {}
@@ -58709,6 +58656,205 @@
             "cues": {}
         },
         {
+            "id": "641ea570259679b9913d1cacadd8356ed1398149",
+            "corpusId": 228874256,
+            "title": {
+                "text": "Explainable Artificial Intelligence (xAI) Approaches and Deep Meta-Learning Models for Cyber-Physical Systems",
+                "fragments": [
+                    {
+                        "start": 87,
+                        "end": 92
+                    },
+                    {
+                        "start": 93,
+                        "end": 101
+                    },
+                    {
+                        "start": 102,
+                        "end": 109
+                    }
+                ]
+            },
+            "slug": "Explainable-Artificial-Intelligence-(xAI)-and-Deep-Daglarli",
+            "paperAbstract": {
+                "text": "Today, the effects of promising technologies such as explainable artificial intelligence (xAI) and meta-learning (ML) on the internet of things (IoT) and the cyber-physical systems (CPS), which are important components of Industry 4.0, are increasingly intensified. However, there are important shortcomings that current deep learning models are currently inadequate. These artificial neural network based models are black box models that generalize the data transmitted to it and learn from the data. Therefore, the relational link between input and output is not observable. For these reasons, it is necessary to make serious efforts on the explanability and interpretability of black box models. In the near future, the integration of explainable artificial intelligence and meta-learning approaches to cyber-physical systems will have effects on a high level of virtualization and simulation infrastructure, real-time supply chain, cyber factories with smart machines communicating over the internet, maximizing production efficiency, analysis of service quality and competition level.",
+                "fragments": [
+                    {
+                        "start": 125,
+                        "end": 133
+                    },
+                    {
+                        "start": 137,
+                        "end": 143
+                    },
+                    {
+                        "start": 145,
+                        "end": 148
+                    },
+                    {
+                        "start": 158,
+                        "end": 163
+                    },
+                    {
+                        "start": 164,
+                        "end": 172
+                    },
+                    {
+                        "start": 173,
+                        "end": 180
+                    },
+                    {
+                        "start": 182,
+                        "end": 185
+                    },
+                    {
+                        "start": 806,
+                        "end": 811
+                    },
+                    {
+                        "start": 812,
+                        "end": 820
+                    },
+                    {
+                        "start": 821,
+                        "end": 828
+                    },
+                    {
+                        "start": 936,
+                        "end": 941
+                    },
+                    {
+                        "start": 995,
+                        "end": 1003
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Today, the effects of promising technologies such as explainable artificial intelligence (xAI) and meta-learning (ML) on...",
+            "tldr": {
+                "text": "In the near future, the integration of explainable artificial intelligence and meta-learning approaches to cyber-physical systems will have effects on a high level of virtualization and simulation infrastructure, real-time supply chain, cyber factories with smart machines communicating over the internet, maximizing production efficiency, analysis of service quality and competition level.",
+                "abstractSimilarityScore": 51
+            },
+            "authors": [
+                [
+                    {
+                        "name": "Evren Daglarli",
+                        "ids": [
+                            "2939288"
+                        ],
+                        "slug": "Evren-Daglarli",
+                        "structuredName": {
+                            "firstName": "Evren",
+                            "middleNames": [],
+                            "lastName": "Daglarli"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Evren Daglarli",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Evren",
+                    "middleNames": [],
+                    "lastName": "Daglarli"
+                }
+            ],
+            "year": {
+                "text": "2021",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Advances in Systems Analysis, Software Engineering, and High Performance Computing",
+                "fragments": [
+                    {
+                        "start": 12,
+                        "end": 19
+                    }
+                ]
+            },
+            "venueId": "",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 4
+                    },
+                    {
+                        "startKey": 2024,
+                        "endKey": 2024,
+                        "count": 1
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 14,
+                "estNumCitations": 34.591664591829975,
+                "numReferences": 43,
+                "numKeyCitations": 1,
+                "numKeyReferences": 0,
+                "numViewableReferences": 43,
+                "keyCitationRate": 0.07142857142857142,
+                "firstCitationVelocityYear": 2021,
+                "lastCitationVelocityYear": 2023
+            },
+            "earliestAcquisitionsDate": 1604567377.060134,
+            "journal": {
+                "name": "Advances in Systems Analysis, Software Engineering, and High Performance Computing"
+            },
+            "doiInfo": {
+                "doi": "10.4018/978-1-7998-5101-1.ch003",
+                "doiUrl": "https://doi.org/10.4018/978-1-7998-5101-1.ch003"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.4018/978-1-7998-5101-1.ch003",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.4018/978-1-7998-5101-1.ch003",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 14,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Computer Science",
+                "Engineering"
+            ],
+            "badges": [],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
             "id": "ce552f4e2b1720909e1a1be92029be5896b3d107",
             "corpusId": 238010125,
             "title": {
@@ -62225,7 +62371,7 @@
                 ],
                 "keyCitedByBuckets": [],
                 "numCitations": 63,
-                "estNumCitations": 186.41619493589965,
+                "estNumCitations": 186.5458141532296,
                 "numReferences": 50,
                 "numKeyCitations": 2,
                 "numKeyReferences": 3,
@@ -64816,564 +64962,6 @@
             "cues": {}
         },
         {
-            "id": "26651ef74ea16e0469b2d7e3b98d7fc69960f05c",
-            "corpusId": 221132102,
-            "title": {
-                "text": "Scalable Emulated Framework for IoT Devices in Smart Logistics Based Cyber-Physical Systems: Bonded Coverage and Connectivity Analysis",
-                "fragments": [
-                    {
-                        "start": 32,
-                        "end": 35
-                    },
-                    {
-                        "start": 69,
-                        "end": 74
-                    },
-                    {
-                        "start": 75,
-                        "end": 83
-                    },
-                    {
-                        "start": 84,
-                        "end": 91
-                    }
-                ]
-            },
-            "slug": "Scalable-Emulated-Framework-for-IoT-Devices-in-and-Abbas-Marwat",
-            "paperAbstract": {
-                "text": "In this research, scalable framework for Smart Logistics based Cyber-Physical System (SLCPS) is emulated for stable coverage and connectivity of Internet of Things (IoT) devices. This work is modern manifestation of three laws of computing. Moore’s and Koomey’s laws recommend performance gain and energy efficiency whereas Metcalfe’s law imply network scalability. Combination of these laws suggests the research proposition that development of scalable and performance efficient IoT networks is inevitable. Although IoT has improved specific logistics modules considerably, but incorporation of IoT in complete supply chain of food and random placement of IoT devices due to which unstable coverage and connectivity occurred are major challenges in logistics. The proposed SLCPS framework is designed firstly, to develop apt IoT protocol stack for logistics. Secondly, for bonded connectivity and coverage, mathematical models are proposed instead of random placement and coverage map is based on binary coverage model. Thirdly, for scalability supply chain of food for smart logistics process is designed in terms of container, storehouse and warehouse comprising of varying number of IoT devices. The architecture of SLCPS framework has three modules i.e. internal IoT network, border router and external network, emulated in Cooja simulator. The contikimac protocol is used for efficient traffic flow and power consumption. Single hop, multiple hops and random IoT devices placement scenarios are used for results comparison and validation. The performance evaluation results, i.e. throughput, network convergence time, packet delivery ratio, average latency, power consumption and timeline investigation validated utilization of proposed framework in terms of enhanced network performance. Significance of proposed SLCPS framework results in cost minimization, reducing communication and computation overhead, resilience to IoT device failures and an interference free network connectivity and coverage. Coverage and connectivity are measure of quality of service in IoT network. Therefore, this research provided bonded coverage and connectivity in smart logistics using mathematical models. In addition, a baseline framework is provided for extended research in CPS and IoT applications.",
-                "fragments": [
-                    {
-                        "start": 63,
-                        "end": 68
-                    },
-                    {
-                        "start": 69,
-                        "end": 77
-                    },
-                    {
-                        "start": 78,
-                        "end": 84
-                    },
-                    {
-                        "start": 145,
-                        "end": 153
-                    },
-                    {
-                        "start": 157,
-                        "end": 163
-                    },
-                    {
-                        "start": 165,
-                        "end": 168
-                    },
-                    {
-                        "start": 481,
-                        "end": 484
-                    },
-                    {
-                        "start": 518,
-                        "end": 521
-                    },
-                    {
-                        "start": 597,
-                        "end": 600
-                    },
-                    {
-                        "start": 658,
-                        "end": 661
-                    },
-                    {
-                        "start": 827,
-                        "end": 830
-                    },
-                    {
-                        "start": 1188,
-                        "end": 1191
-                    },
-                    {
-                        "start": 1269,
-                        "end": 1272
-                    },
-                    {
-                        "start": 1466,
-                        "end": 1469
-                    },
-                    {
-                        "start": 1930,
-                        "end": 1933
-                    },
-                    {
-                        "start": 2073,
-                        "end": 2076
-                    },
-                    {
-                        "start": 2270,
-                        "end": 2273
-                    },
-                    {
-                        "start": 2278,
-                        "end": 2281
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "In this research, scalable framework for Smart Logistics based Cyber-Physical System (SLCPS) is emulated for stable cove...",
-            "tldr": {
-                "text": "Significance of proposed SLCPS framework results in cost minimization, reducing communication and computation overhead, resilience to IoT device failures and an interference free network connectivity and coverage.",
-                "abstractSimilarityScore": 43
-            },
-            "authors": [
-                [
-                    {
-                        "name": "A. Abbas",
-                        "ids": [
-                            "152710362"
-                        ],
-                        "slug": "A.-Abbas",
-                        "structuredName": {
-                            "firstName": "Arbab",
-                            "middleNames": [
-                                "Waseem"
-                            ],
-                            "lastName": "Abbas"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Abbas",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "S. N. K. Marwat",
-                        "ids": [
-                            "1765197"
-                        ],
-                        "slug": "S.-N.-K.-Marwat",
-                        "structuredName": {
-                            "firstName": "Safdar",
-                            "middleNames": [
-                                "Nawaz",
-                                "Khan"
-                            ],
-                            "lastName": "Marwat"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "S. N. K. Marwat",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Arbab",
-                    "middleNames": [
-                        "Waseem"
-                    ],
-                    "lastName": "Abbas"
-                },
-                {
-                    "firstName": "Safdar",
-                    "middleNames": [
-                        "Nawaz",
-                        "Khan"
-                    ],
-                    "lastName": "Marwat"
-                }
-            ],
-            "year": {
-                "text": "2020",
-                "fragments": []
-            },
-            "venue": {
-                "text": "IEEE Access",
-                "fragments": []
-            },
-            "venueId": "2633f5b2-c15c-49fe-80f5-07523e770c26",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2021,
-                        "endKey": 2021,
-                        "count": 6
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 5
-                    },
-                    {
-                        "startKey": 2023,
-                        "endKey": 2023,
-                        "count": 3
-                    },
-                    {
-                        "startKey": 2024,
-                        "endKey": 2024,
-                        "count": 1
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 15,
-                "estNumCitations": 54.805364628411134,
-                "numReferences": 32,
-                "numKeyCitations": 1,
-                "numKeyReferences": 0,
-                "numViewableReferences": 32,
-                "keyCitationRate": 0.06666666666666667,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1596074802.151869,
-            "journal": {
-                "name": "IEEE Access",
-                "volume": "8",
-                "pages": "138350-138372"
-            },
-            "doiInfo": {
-                "doi": "10.1109/access.2020.3012458",
-                "doiUrl": "https://doi.org/10.1109/access.2020.3012458"
-            },
-            "links": [
-                {
-                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151115",
-                    "linkType": "ieee"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151115",
-                "linkType": "ieee"
-            },
-            "alternatePaperLinks": [
-                {
-                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09151115.pdf",
-                    "linkType": "openaccess"
-                },
-                {
-                    "url": "https://doi.org/10.1109/ACCESS.2020.3012458",
-                    "linkType": "dblp"
-                },
-                {
-                    "url": "https://doi.org/10.1109/access.2020.3012458",
-                    "linkType": "doi"
-                }
-            ],
-            "entities": [],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 15,
-                    "keyCitationCount": 1,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering",
-                "Environmental Science"
-            ],
-            "openAccessInfo": {
-                "license": "CCBY",
-                "status": "GOLD",
-                "location": {
-                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09151115.pdf",
-                    "isPdf": true
-                }
-            },
-            "badges": [
-                {
-                    "id": "OPEN_ACCESS"
-                }
-            ],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
-            "id": "26651ef74ea16e0469b2d7e3b98d7fc69960f05c",
-            "corpusId": 221132102,
-            "title": {
-                "text": "Scalable Emulated Framework for IoT Devices in Smart Logistics Based Cyber-Physical Systems: Bonded Coverage and Connectivity Analysis",
-                "fragments": [
-                    {
-                        "start": 32,
-                        "end": 35
-                    },
-                    {
-                        "start": 69,
-                        "end": 74
-                    },
-                    {
-                        "start": 75,
-                        "end": 83
-                    },
-                    {
-                        "start": 84,
-                        "end": 91
-                    }
-                ]
-            },
-            "slug": "Scalable-Emulated-Framework-for-IoT-Devices-in-and-Abbas-Marwat",
-            "paperAbstract": {
-                "text": "In this research, scalable framework for Smart Logistics based Cyber-Physical System (SLCPS) is emulated for stable coverage and connectivity of Internet of Things (IoT) devices. This work is modern manifestation of three laws of computing. Moore’s and Koomey’s laws recommend performance gain and energy efficiency whereas Metcalfe’s law imply network scalability. Combination of these laws suggests the research proposition that development of scalable and performance efficient IoT networks is inevitable. Although IoT has improved specific logistics modules considerably, but incorporation of IoT in complete supply chain of food and random placement of IoT devices due to which unstable coverage and connectivity occurred are major challenges in logistics. The proposed SLCPS framework is designed firstly, to develop apt IoT protocol stack for logistics. Secondly, for bonded connectivity and coverage, mathematical models are proposed instead of random placement and coverage map is based on binary coverage model. Thirdly, for scalability supply chain of food for smart logistics process is designed in terms of container, storehouse and warehouse comprising of varying number of IoT devices. The architecture of SLCPS framework has three modules i.e. internal IoT network, border router and external network, emulated in Cooja simulator. The contikimac protocol is used for efficient traffic flow and power consumption. Single hop, multiple hops and random IoT devices placement scenarios are used for results comparison and validation. The performance evaluation results, i.e. throughput, network convergence time, packet delivery ratio, average latency, power consumption and timeline investigation validated utilization of proposed framework in terms of enhanced network performance. Significance of proposed SLCPS framework results in cost minimization, reducing communication and computation overhead, resilience to IoT device failures and an interference free network connectivity and coverage. Coverage and connectivity are measure of quality of service in IoT network. Therefore, this research provided bonded coverage and connectivity in smart logistics using mathematical models. In addition, a baseline framework is provided for extended research in CPS and IoT applications.",
-                "fragments": [
-                    {
-                        "start": 63,
-                        "end": 68
-                    },
-                    {
-                        "start": 69,
-                        "end": 77
-                    },
-                    {
-                        "start": 78,
-                        "end": 84
-                    },
-                    {
-                        "start": 145,
-                        "end": 153
-                    },
-                    {
-                        "start": 157,
-                        "end": 163
-                    },
-                    {
-                        "start": 165,
-                        "end": 168
-                    },
-                    {
-                        "start": 481,
-                        "end": 484
-                    },
-                    {
-                        "start": 518,
-                        "end": 521
-                    },
-                    {
-                        "start": 597,
-                        "end": 600
-                    },
-                    {
-                        "start": 658,
-                        "end": 661
-                    },
-                    {
-                        "start": 827,
-                        "end": 830
-                    },
-                    {
-                        "start": 1188,
-                        "end": 1191
-                    },
-                    {
-                        "start": 1269,
-                        "end": 1272
-                    },
-                    {
-                        "start": 1466,
-                        "end": 1469
-                    },
-                    {
-                        "start": 1930,
-                        "end": 1933
-                    },
-                    {
-                        "start": 2073,
-                        "end": 2076
-                    },
-                    {
-                        "start": 2270,
-                        "end": 2273
-                    },
-                    {
-                        "start": 2278,
-                        "end": 2281
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "In this research, scalable framework for Smart Logistics based Cyber-Physical System (SLCPS) is emulated for stable cove...",
-            "tldr": {
-                "text": "Significance of proposed SLCPS framework results in cost minimization, reducing communication and computation overhead, resilience to IoT device failures and an interference free network connectivity and coverage.",
-                "abstractSimilarityScore": 43
-            },
-            "authors": [
-                [
-                    {
-                        "name": "A. Abbas",
-                        "ids": [
-                            "152710362"
-                        ],
-                        "slug": "A.-Abbas",
-                        "structuredName": {
-                            "firstName": "Arbab",
-                            "middleNames": [
-                                "Waseem"
-                            ],
-                            "lastName": "Abbas"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Abbas",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "S. N. K. Marwat",
-                        "ids": [
-                            "1765197"
-                        ],
-                        "slug": "S.-N.-K.-Marwat",
-                        "structuredName": {
-                            "firstName": "Safdar",
-                            "middleNames": [
-                                "Nawaz",
-                                "Khan"
-                            ],
-                            "lastName": "Marwat"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "S. N. K. Marwat",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Arbab",
-                    "middleNames": [
-                        "Waseem"
-                    ],
-                    "lastName": "Abbas"
-                },
-                {
-                    "firstName": "Safdar",
-                    "middleNames": [
-                        "Nawaz",
-                        "Khan"
-                    ],
-                    "lastName": "Marwat"
-                }
-            ],
-            "year": {
-                "text": "2020",
-                "fragments": []
-            },
-            "venue": {
-                "text": "IEEE Access",
-                "fragments": []
-            },
-            "venueId": "2633f5b2-c15c-49fe-80f5-07523e770c26",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2021,
-                        "endKey": 2021,
-                        "count": 6
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 5
-                    },
-                    {
-                        "startKey": 2023,
-                        "endKey": 2023,
-                        "count": 3
-                    },
-                    {
-                        "startKey": 2024,
-                        "endKey": 2024,
-                        "count": 1
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 15,
-                "estNumCitations": 54.805364628411134,
-                "numReferences": 32,
-                "numKeyCitations": 1,
-                "numKeyReferences": 0,
-                "numViewableReferences": 32,
-                "keyCitationRate": 0.06666666666666667,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1596074802.151869,
-            "journal": {
-                "name": "IEEE Access",
-                "volume": "8",
-                "pages": "138350-138372"
-            },
-            "doiInfo": {
-                "doi": "10.1109/access.2020.3012458",
-                "doiUrl": "https://doi.org/10.1109/access.2020.3012458"
-            },
-            "links": [
-                {
-                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151115",
-                    "linkType": "ieee"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151115",
-                "linkType": "ieee"
-            },
-            "alternatePaperLinks": [
-                {
-                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09151115.pdf",
-                    "linkType": "openaccess"
-                },
-                {
-                    "url": "https://doi.org/10.1109/ACCESS.2020.3012458",
-                    "linkType": "dblp"
-                },
-                {
-                    "url": "https://doi.org/10.1109/access.2020.3012458",
-                    "linkType": "doi"
-                }
-            ],
-            "entities": [],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 15,
-                    "keyCitationCount": 1,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering",
-                "Environmental Science"
-            ],
-            "openAccessInfo": {
-                "license": "CCBY",
-                "status": "GOLD",
-                "location": {
-                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09151115.pdf",
-                    "isPdf": true
-                }
-            },
-            "badges": [
-                {
-                    "id": "OPEN_ACCESS"
-                }
-            ],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
             "id": "1b83df0141c00b9bd6e26f676bcfe187315c409c",
             "corpusId": 2160411,
             "title": {
@@ -67533,6 +67121,299 @@
             "cues": {}
         },
         {
+            "id": "364fc1dcb6d63a5f6ee29ad535783c92ecb08625",
+            "corpusId": 52302714,
+            "title": {
+                "text": "Cyber physical systems design, methodology, and integration: the current status and future outlook",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "start": 6,
+                        "end": 14
+                    },
+                    {
+                        "start": 15,
+                        "end": 22
+                    }
+                ]
+            },
+            "slug": "Cyber-physical-systems-design,-methodology,-and-the-Darwish-Hassanien",
+            "paperAbstract": {
+                "text": "Emerging cyber-physical systems (CPS) field will impact on every activity of the daily life in the next few years With the increasing advances in ICT information communication technology (ICT), multidisciplinary fields of research such as cyber-physical systems (CPS) have been wide. The emergence of cyber-physical-social systems (CPS) as a novel paradigm has revolutionized the relationship between humans, computers and the physical environment. This paper aims to present a comprehensive overview of CPS key aspects from different points of views such as design, methodology, and key enabler technologies such as sensor networks, Internet of Things (IoT), cloud computing, and multi-agent systems. Also, some important applications such as smart cities which are considered as one of the important application that will provide new services for healthcare applications, vehicular networks, energy distribution, the monitoring of environmental changes, business and commerce applications, emergency response, and other social activities and industrial systems are explored. Also, this paper considers the requirements and methodologies for CPS integrations such as CloudIoT and CloudIoV systems. Although, there are significant efforts and studies have been made towards CPS application, key challenges and problems in CPS have been identified in this paper to be considered as research issues the next few years.",
+                "fragments": [
+                    {
+                        "start": 9,
+                        "end": 14
+                    },
+                    {
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "start": 24,
+                        "end": 31
+                    },
+                    {
+                        "start": 33,
+                        "end": 36
+                    },
+                    {
+                        "start": 239,
+                        "end": 244
+                    },
+                    {
+                        "start": 245,
+                        "end": 253
+                    },
+                    {
+                        "start": 254,
+                        "end": 261
+                    },
+                    {
+                        "start": 263,
+                        "end": 266
+                    },
+                    {
+                        "start": 301,
+                        "end": 306
+                    },
+                    {
+                        "start": 307,
+                        "end": 315
+                    },
+                    {
+                        "start": 323,
+                        "end": 330
+                    },
+                    {
+                        "start": 332,
+                        "end": 335
+                    },
+                    {
+                        "start": 427,
+                        "end": 435
+                    },
+                    {
+                        "start": 504,
+                        "end": 507
+                    },
+                    {
+                        "start": 634,
+                        "end": 642
+                    },
+                    {
+                        "start": 646,
+                        "end": 652
+                    },
+                    {
+                        "start": 654,
+                        "end": 657
+                    },
+                    {
+                        "start": 693,
+                        "end": 700
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1062
+                    },
+                    {
+                        "start": 1143,
+                        "end": 1146
+                    },
+                    {
+                        "start": 1190,
+                        "end": 1197
+                    },
+                    {
+                        "start": 1274,
+                        "end": 1277
+                    },
+                    {
+                        "start": 1322,
+                        "end": 1325
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "Emerging cyber-physical systems (CPS) field will impact on every activity of the daily life in the next few years With t...",
+            "tldr": {
+                "text": "A comprehensive overview of CPS key aspects from different points of views such as design, methodology, and key enabler technologies such as sensor networks, Internet of Things (IoT), cloud computing, and multi-agent systems are presented.",
+                "abstractSimilarityScore": 39
+            },
+            "authors": [
+                [
+                    {
+                        "name": "A. Darwish",
+                        "ids": [
+                            "145480829"
+                        ],
+                        "slug": "A.-Darwish",
+                        "structuredName": {
+                            "firstName": "Ashraf",
+                            "middleNames": [
+                                "A."
+                            ],
+                            "lastName": "Darwish"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "A. Darwish",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "A. Hassanien",
+                        "ids": [
+                            "1697259"
+                        ],
+                        "slug": "A.-Hassanien",
+                        "structuredName": {
+                            "firstName": "Aboul",
+                            "middleNames": [
+                                "Ella"
+                            ],
+                            "lastName": "Hassanien"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "A. Hassanien",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Ashraf",
+                    "middleNames": [
+                        "A."
+                    ],
+                    "lastName": "Darwish"
+                },
+                {
+                    "firstName": "Aboul",
+                    "middleNames": [
+                        "Ella"
+                    ],
+                    "lastName": "Hassanien"
+                }
+            ],
+            "year": {
+                "text": "2017",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Journal of Ambient Intelligence and Humanized Computing",
+                "fragments": []
+            },
+            "venueId": "60538382-994e-41df-b512-6ff16fedd7cc",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 9
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 10
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 9
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2024,
+                        "endKey": 2024,
+                        "count": 2
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 45,
+                "estNumCitations": 90.04424634153987,
+                "numReferences": 114,
+                "numKeyCitations": 1,
+                "numKeyReferences": 3,
+                "numViewableReferences": 114,
+                "keyCitationRate": 0.022222222222222223,
+                "citationVelocity": 6.333333333333333,
+                "firstCitationVelocityYear": 2021,
+                "lastCitationVelocityYear": 2023
+            },
+            "earliestAcquisitionsDate": 1537448661.274,
+            "journal": {
+                "name": "Journal of Ambient Intelligence and Humanized Computing",
+                "volume": "9",
+                "pages": "1541 - 1556"
+            },
+            "doiInfo": {
+                "doi": "10.1007/s12652-017-0575-4",
+                "doiUrl": "https://doi.org/10.1007/s12652-017-0575-4"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1007/s12652-017-0575-4",
+                    "linkType": "publisher",
+                    "publisherName": "Springer"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1007/s12652-017-0575-4",
+                "linkType": "publisher",
+                "publisherName": "Springer"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 45,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Computer Science",
+                "Engineering"
+            ],
+            "openAccessInfo": {
+                "status": "CLOSED"
+            },
+            "pubDate": "2017-09-14",
+            "pubUpdateDate": "2018-10-01",
+            "publisher": {
+                "name": "Springer Berlin Heidelberg"
+            },
+            "badges": [],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
             "id": "6bdfbb21f34c12f6e540b4e896cf5ab7e1de1edd",
             "corpusId": 9996530,
             "title": {
@@ -67882,299 +67763,6 @@
             "cues": {}
         },
         {
-            "id": "364fc1dcb6d63a5f6ee29ad535783c92ecb08625",
-            "corpusId": 52302714,
-            "title": {
-                "text": "Cyber physical systems design, methodology, and integration: the current status and future outlook",
-                "fragments": [
-                    {
-                        "start": 0,
-                        "end": 5
-                    },
-                    {
-                        "start": 6,
-                        "end": 14
-                    },
-                    {
-                        "start": 15,
-                        "end": 22
-                    }
-                ]
-            },
-            "slug": "Cyber-physical-systems-design,-methodology,-and-the-Darwish-Hassanien",
-            "paperAbstract": {
-                "text": "Emerging cyber-physical systems (CPS) field will impact on every activity of the daily life in the next few years With the increasing advances in ICT information communication technology (ICT), multidisciplinary fields of research such as cyber-physical systems (CPS) have been wide. The emergence of cyber-physical-social systems (CPS) as a novel paradigm has revolutionized the relationship between humans, computers and the physical environment. This paper aims to present a comprehensive overview of CPS key aspects from different points of views such as design, methodology, and key enabler technologies such as sensor networks, Internet of Things (IoT), cloud computing, and multi-agent systems. Also, some important applications such as smart cities which are considered as one of the important application that will provide new services for healthcare applications, vehicular networks, energy distribution, the monitoring of environmental changes, business and commerce applications, emergency response, and other social activities and industrial systems are explored. Also, this paper considers the requirements and methodologies for CPS integrations such as CloudIoT and CloudIoV systems. Although, there are significant efforts and studies have been made towards CPS application, key challenges and problems in CPS have been identified in this paper to be considered as research issues the next few years.",
-                "fragments": [
-                    {
-                        "start": 9,
-                        "end": 14
-                    },
-                    {
-                        "start": 15,
-                        "end": 23
-                    },
-                    {
-                        "start": 24,
-                        "end": 31
-                    },
-                    {
-                        "start": 33,
-                        "end": 36
-                    },
-                    {
-                        "start": 239,
-                        "end": 244
-                    },
-                    {
-                        "start": 245,
-                        "end": 253
-                    },
-                    {
-                        "start": 254,
-                        "end": 261
-                    },
-                    {
-                        "start": 263,
-                        "end": 266
-                    },
-                    {
-                        "start": 301,
-                        "end": 306
-                    },
-                    {
-                        "start": 307,
-                        "end": 315
-                    },
-                    {
-                        "start": 323,
-                        "end": 330
-                    },
-                    {
-                        "start": 332,
-                        "end": 335
-                    },
-                    {
-                        "start": 427,
-                        "end": 435
-                    },
-                    {
-                        "start": 504,
-                        "end": 507
-                    },
-                    {
-                        "start": 634,
-                        "end": 642
-                    },
-                    {
-                        "start": 646,
-                        "end": 652
-                    },
-                    {
-                        "start": 654,
-                        "end": 657
-                    },
-                    {
-                        "start": 693,
-                        "end": 700
-                    },
-                    {
-                        "start": 1055,
-                        "end": 1062
-                    },
-                    {
-                        "start": 1143,
-                        "end": 1146
-                    },
-                    {
-                        "start": 1190,
-                        "end": 1197
-                    },
-                    {
-                        "start": 1274,
-                        "end": 1277
-                    },
-                    {
-                        "start": 1322,
-                        "end": 1325
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "Emerging cyber-physical systems (CPS) field will impact on every activity of the daily life in the next few years With t...",
-            "tldr": {
-                "text": "A comprehensive overview of CPS key aspects from different points of views such as design, methodology, and key enabler technologies such as sensor networks, Internet of Things (IoT), cloud computing, and multi-agent systems are presented.",
-                "abstractSimilarityScore": 39
-            },
-            "authors": [
-                [
-                    {
-                        "name": "A. Darwish",
-                        "ids": [
-                            "145480829"
-                        ],
-                        "slug": "A.-Darwish",
-                        "structuredName": {
-                            "firstName": "Ashraf",
-                            "middleNames": [
-                                "A."
-                            ],
-                            "lastName": "Darwish"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Darwish",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "A. Hassanien",
-                        "ids": [
-                            "1697259"
-                        ],
-                        "slug": "A.-Hassanien",
-                        "structuredName": {
-                            "firstName": "Aboul",
-                            "middleNames": [
-                                "Ella"
-                            ],
-                            "lastName": "Hassanien"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Hassanien",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Ashraf",
-                    "middleNames": [
-                        "A."
-                    ],
-                    "lastName": "Darwish"
-                },
-                {
-                    "firstName": "Aboul",
-                    "middleNames": [
-                        "Ella"
-                    ],
-                    "lastName": "Hassanien"
-                }
-            ],
-            "year": {
-                "text": "2017",
-                "fragments": []
-            },
-            "venue": {
-                "text": "Journal of Ambient Intelligence and Humanized Computing",
-                "fragments": []
-            },
-            "venueId": "60538382-994e-41df-b512-6ff16fedd7cc",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2018,
-                        "endKey": 2018,
-                        "count": 5
-                    },
-                    {
-                        "startKey": 2019,
-                        "endKey": 2019,
-                        "count": 9
-                    },
-                    {
-                        "startKey": 2020,
-                        "endKey": 2020,
-                        "count": 10
-                    },
-                    {
-                        "startKey": 2021,
-                        "endKey": 2021,
-                        "count": 3
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 9
-                    },
-                    {
-                        "startKey": 2023,
-                        "endKey": 2023,
-                        "count": 7
-                    },
-                    {
-                        "startKey": 2024,
-                        "endKey": 2024,
-                        "count": 2
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 45,
-                "estNumCitations": 90.04424634153987,
-                "numReferences": 114,
-                "numKeyCitations": 1,
-                "numKeyReferences": 3,
-                "numViewableReferences": 114,
-                "keyCitationRate": 0.022222222222222223,
-                "citationVelocity": 6.333333333333333,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1537448661.274,
-            "journal": {
-                "name": "Journal of Ambient Intelligence and Humanized Computing",
-                "volume": "9",
-                "pages": "1541 - 1556"
-            },
-            "doiInfo": {
-                "doi": "10.1007/s12652-017-0575-4",
-                "doiUrl": "https://doi.org/10.1007/s12652-017-0575-4"
-            },
-            "links": [
-                {
-                    "url": "https://doi.org/10.1007/s12652-017-0575-4",
-                    "linkType": "publisher",
-                    "publisherName": "Springer"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "https://doi.org/10.1007/s12652-017-0575-4",
-                "linkType": "publisher",
-                "publisherName": "Springer"
-            },
-            "alternatePaperLinks": [],
-            "entities": [],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 45,
-                    "keyCitationCount": 1,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering"
-            ],
-            "openAccessInfo": {
-                "status": "CLOSED"
-            },
-            "pubDate": "2017-09-14",
-            "pubUpdateDate": "2018-10-01",
-            "publisher": {
-                "name": "Springer Berlin Heidelberg"
-            },
-            "badges": [],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
             "id": "e0c6d630c05d81af9dadbc25538d0e0bbc99f5c4",
             "corpusId": 229491568,
             "title": {
@@ -68409,6 +67997,395 @@
             "publisher": {
                 "name": "Springer US"
             },
+            "badges": [],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
+            "id": "67335f761bdd2ad2ff721b167aa541425ef5e5f0",
+            "corpusId": 199440993,
+            "title": {
+                "text": "Implementation of Industrial Cyber Physical System: Challenges and Solutions",
+                "fragments": [
+                    {
+                        "start": 29,
+                        "end": 34
+                    },
+                    {
+                        "start": 35,
+                        "end": 43
+                    },
+                    {
+                        "start": 44,
+                        "end": 50
+                    }
+                ]
+            },
+            "slug": "Implementation-of-Industrial-Cyber-Physical-System:-Yu-Dillon",
+            "paperAbstract": {
+                "text": "The Industry Internet of Things (IIoT) and the Industry Cyber-Physical System (ICPS) for real industry are becoming vitally necessary in the smart manufacturing environment. Very large number of intelligent sensors are being available generating an exploding amount of data. Several issues come with the big data in real industry, including the a grand-scale connected network construction with the data security and access protocol issues, data quality with considerable noise when gathered from industrial factories, efficient data storage, smart interconnection with cloud services, and real-time analytics requirements. This paper proposes an integrated CPS based architecture for smart manufacturing and provides the deployment details, addressing all the potential problems in an appropriate way. It has been successfully implemented in a real industry environment, and won the Best Industry Application of IoT at the BigInsights Data & AI Innovation Awards.",
+                "fragments": [
+                    {
+                        "start": 13,
+                        "end": 21
+                    },
+                    {
+                        "start": 25,
+                        "end": 31
+                    },
+                    {
+                        "start": 56,
+                        "end": 61
+                    },
+                    {
+                        "start": 62,
+                        "end": 70
+                    },
+                    {
+                        "start": 71,
+                        "end": 77
+                    },
+                    {
+                        "start": 404,
+                        "end": 412
+                    },
+                    {
+                        "start": 658,
+                        "end": 661
+                    },
+                    {
+                        "start": 913,
+                        "end": 916
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "The Industry Internet of Things (IIoT) and the Industry Cyber-Physical System (ICPS) for real industry are becoming vita...",
+            "tldr": {
+                "text": "This paper proposes an integrated CPS based architecture for smart manufacturing and provides the deployment details, addressing all the potential problems in an appropriate way and won the Best Industry Application of IoT at the BigInsights Data & AI Innovation Awards.",
+                "abstractSimilarityScore": 44
+            },
+            "authors": [
+                [
+                    {
+                        "name": "Wenjin Yu",
+                        "ids": [
+                            "12254777"
+                        ],
+                        "slug": "Wenjin-Yu",
+                        "structuredName": {
+                            "firstName": "Wenjin",
+                            "middleNames": [],
+                            "lastName": "Yu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Wenjin Yu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "T. Dillon",
+                        "ids": [
+                            "144306547"
+                        ],
+                        "slug": "T.-Dillon",
+                        "structuredName": {
+                            "firstName": "Tharam",
+                            "middleNames": [
+                                "S."
+                            ],
+                            "lastName": "Dillon"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "T. Dillon",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Fahed Mostafa",
+                        "ids": [
+                            "40388712"
+                        ],
+                        "slug": "Fahed-Mostafa",
+                        "structuredName": {
+                            "firstName": "Fahed",
+                            "middleNames": [],
+                            "lastName": "Mostafa"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Fahed Mostafa",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "W. Rahayu",
+                        "ids": [
+                            "145492472"
+                        ],
+                        "slug": "W.-Rahayu",
+                        "structuredName": {
+                            "firstName": "Wenny",
+                            "middleNames": [],
+                            "lastName": "Rahayu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "W. Rahayu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Yuehua Liu",
+                        "ids": [
+                            "46399450"
+                        ],
+                        "slug": "Yuehua-Liu",
+                        "structuredName": {
+                            "firstName": "Yuehua",
+                            "middleNames": [],
+                            "lastName": "Liu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Yuehua Liu",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Wenjin",
+                    "middleNames": [],
+                    "lastName": "Yu"
+                },
+                {
+                    "firstName": "Tharam",
+                    "middleNames": [
+                        "S."
+                    ],
+                    "lastName": "Dillon"
+                },
+                {
+                    "firstName": "Fahed",
+                    "middleNames": [],
+                    "lastName": "Mostafa"
+                },
+                {
+                    "firstName": "Wenny",
+                    "middleNames": [],
+                    "lastName": "Rahayu"
+                },
+                {
+                    "firstName": "Yuehua",
+                    "middleNames": [],
+                    "lastName": "Liu"
+                }
+            ],
+            "year": {
+                "text": "2019",
+                "fragments": []
+            },
+            "venue": {
+                "text": "Industrial Cyber-Physical Systems",
+                "fragments": [
+                    {
+                        "start": 11,
+                        "end": 16
+                    },
+                    {
+                        "start": 17,
+                        "end": 25
+                    },
+                    {
+                        "start": 26,
+                        "end": 33
+                    }
+                ]
+            },
+            "venueId": "7fbf5fc7-3fd7-4c0a-bebd-fd82ef6ec9f3",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 4
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 8
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 21,
+                "estNumCitations": 34.4479557495662,
+                "numReferences": 13,
+                "numKeyCitations": 2,
+                "numKeyReferences": 0,
+                "numViewableReferences": 13,
+                "keyCitationRate": 0.09523809523809523,
+                "firstCitationVelocityYear": 2021,
+                "lastCitationVelocityYear": 2023
+            },
+            "earliestAcquisitionsDate": 1565096778.903,
+            "journal": {
+                "name": "2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS)",
+                "pages": "173-178"
+            },
+            "doiInfo": {
+                "doi": "10.1109/ICPHYS.2019.8780271",
+                "doiUrl": "https://doi.org/10.1109/ICPHYS.2019.8780271"
+            },
+            "links": [
+                {
+                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780271",
+                    "linkType": "ieee"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780271",
+                "linkType": "ieee"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://doi.org/10.1109/ICPHYS.2019.8780271",
+                    "linkType": "doi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "20355",
+                    "name": "Big data",
+                    "slug": "Big-data"
+                },
+                {
+                    "id": "47267",
+                    "name": "NoSQL",
+                    "slug": "NoSQL"
+                },
+                {
+                    "id": "207003",
+                    "name": "Apache Spark",
+                    "slug": "Apache-Spark"
+                },
+                {
+                    "id": "23731",
+                    "name": "Data quality",
+                    "slug": "Data-quality"
+                },
+                {
+                    "id": "35130",
+                    "name": "Data security",
+                    "slug": "Data-security"
+                },
+                {
+                    "id": "136",
+                    "name": "Requirement",
+                    "slug": "Requirement"
+                },
+                {
+                    "id": "150299",
+                    "name": "Open Platform Communications",
+                    "slug": "Open-Platform-Communications"
+                },
+                {
+                    "id": "48065",
+                    "name": "Cyber-physical system",
+                    "slug": "Cyber-physical-system"
+                },
+                {
+                    "id": "18968",
+                    "name": "Noise reduction",
+                    "slug": "Noise-reduction"
+                },
+                {
+                    "id": "2756",
+                    "name": "Cloud computing",
+                    "slug": "Cloud-computing"
+                },
+                {
+                    "id": "51309",
+                    "name": "Internet of things",
+                    "slug": "Internet-of-things"
+                },
+                {
+                    "id": "195",
+                    "name": "Interconnection",
+                    "slug": "Interconnection"
+                },
+                {
+                    "id": "1283",
+                    "name": "Computer data storage",
+                    "slug": "Computer-data-storage"
+                },
+                {
+                    "id": "378",
+                    "name": "Experiment",
+                    "slug": "Experiment"
+                },
+                {
+                    "id": "1117",
+                    "name": "Sensor",
+                    "slug": "Sensor"
+                },
+                {
+                    "id": "763488",
+                    "name": "Real-time transcription",
+                    "slug": "Real-time-transcription"
+                },
+                {
+                    "id": "121831",
+                    "name": "Real-time clock",
+                    "slug": "Real-time-clock"
+                },
+                {
+                    "id": "328066",
+                    "name": "Software deployment",
+                    "slug": "Software-deployment"
+                },
+                {
+                    "id": "727",
+                    "name": "Ecosystem",
+                    "slug": "Ecosystem"
+                }
+            ],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 21,
+                    "keyCitationCount": 2,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Engineering",
+                "Computer Science"
+            ],
+            "pubDate": "2019-05-06",
             "badges": [],
             "isPdfVisible": false,
             "cues": {}
@@ -71115,436 +71092,6 @@
             "cues": {}
         },
         {
-            "id": "5ac2950c2518f8bfc050a7ac0fe00841ac9d7ede",
-            "corpusId": 207401484,
-            "title": {
-                "text": "Enabling cyber-physical systems with machine-to-machine technologies",
-                "fragments": [
-                    {
-                        "start": 9,
-                        "end": 14
-                    },
-                    {
-                        "start": 15,
-                        "end": 23
-                    },
-                    {
-                        "start": 24,
-                        "end": 31
-                    }
-                ]
-            },
-            "slug": "Enabling-cyber-physical-systems-with-technologies-Wan-Yan",
-            "paperAbstract": {
-                "text": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between physical and virtual worlds. While Machine-to-Machine M2M, Wireless Sensor Networks WSNs and CPS are quite similar in many networking aspects, there are still some major differences. In this paper, we first review several concepts and terms, including M2M, WSNs, CPS and Internet of Things IoT. Then, we conduct a case study exemplified by home M2M networks, and outline the further research proposals of M2M communications. On this basis, a case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised. Finally, we carry out a comparison of M2M and CPS to demonstrate how M2M systems with the capabilities of decision-making and real-time control can be upgraded to CPS.",
-                "fragments": [
-                    {
-                        "start": 17,
-                        "end": 22
-                    },
-                    {
-                        "start": 23,
-                        "end": 31
-                    },
-                    {
-                        "start": 32,
-                        "end": 39
-                    },
-                    {
-                        "start": 40,
-                        "end": 43
-                    },
-                    {
-                        "start": 116,
-                        "end": 124
-                    },
-                    {
-                        "start": 209,
-                        "end": 212
-                    },
-                    {
-                        "start": 379,
-                        "end": 382
-                    },
-                    {
-                        "start": 387,
-                        "end": 395
-                    },
-                    {
-                        "start": 399,
-                        "end": 405
-                    },
-                    {
-                        "start": 406,
-                        "end": 409
-                    },
-                    {
-                        "start": 566,
-                        "end": 569
-                    },
-                    {
-                        "start": 577,
-                        "end": 582
-                    },
-                    {
-                        "start": 583,
-                        "end": 591
-                    },
-                    {
-                        "start": 592,
-                        "end": 598
-                    },
-                    {
-                        "start": 615,
-                        "end": 621
-                    },
-                    {
-                        "start": 794,
-                        "end": 797
-                    },
-                    {
-                        "start": 821,
-                        "end": 828
-                    },
-                    {
-                        "start": 911,
-                        "end": 914
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between phys...",
-            "tldr": {
-                "text": "A case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised.",
-                "abstractSimilarityScore": 46
-            },
-            "authors": [
-                [
-                    {
-                        "name": "J. Wan",
-                        "ids": [
-                            "70985296"
-                        ],
-                        "slug": "J.-Wan",
-                        "structuredName": {
-                            "firstName": "Jiafu",
-                            "middleNames": [],
-                            "lastName": "Wan"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "J. Wan",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Hehua Yan",
-                        "ids": [
-                            "1774813"
-                        ],
-                        "slug": "Hehua-Yan",
-                        "structuredName": {
-                            "firstName": "Hehua",
-                            "middleNames": [],
-                            "lastName": "Yan"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Hehua Yan",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Qiang Liu",
-                        "ids": [
-                            "2155192598"
-                        ],
-                        "slug": "Qiang-Liu",
-                        "structuredName": {
-                            "firstName": "Qiang",
-                            "middleNames": [],
-                            "lastName": "Liu"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Qiang Liu",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Keliang Zhou",
-                        "ids": [
-                            "2075359502"
-                        ],
-                        "slug": "Keliang-Zhou",
-                        "structuredName": {
-                            "firstName": "Keliang",
-                            "middleNames": [],
-                            "lastName": "Zhou"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Keliang Zhou",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Rongshuang Lu",
-                        "ids": [
-                            "2047259"
-                        ],
-                        "slug": "Rongshuang-Lu",
-                        "structuredName": {
-                            "firstName": "Rongshuang",
-                            "middleNames": [],
-                            "lastName": "Lu"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Rongshuang Lu",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "Di Li",
-                        "ids": [
-                            "46599370"
-                        ],
-                        "slug": "Di-Li",
-                        "structuredName": {
-                            "firstName": "Di",
-                            "middleNames": [],
-                            "lastName": "Li"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "Di Li",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Jiafu",
-                    "middleNames": [],
-                    "lastName": "Wan"
-                },
-                {
-                    "firstName": "Hehua",
-                    "middleNames": [],
-                    "lastName": "Yan"
-                },
-                {
-                    "firstName": "Qiang",
-                    "middleNames": [],
-                    "lastName": "Liu"
-                },
-                {
-                    "firstName": "Keliang",
-                    "middleNames": [],
-                    "lastName": "Zhou"
-                },
-                {
-                    "firstName": "Rongshuang",
-                    "middleNames": [],
-                    "lastName": "Lu"
-                },
-                {
-                    "firstName": "Di",
-                    "middleNames": [],
-                    "lastName": "Li"
-                }
-            ],
-            "year": {
-                "text": "2013",
-                "fragments": []
-            },
-            "venue": {
-                "text": "International Journal of Ad Hoc and Ubiquitous Computing",
-                "fragments": []
-            },
-            "venueId": "8f4c1222-c99f-4367-b156-7a71e0f339df",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2013,
-                        "endKey": 2013,
-                        "count": 3
-                    },
-                    {
-                        "startKey": 2014,
-                        "endKey": 2014,
-                        "count": 6
-                    },
-                    {
-                        "startKey": 2015,
-                        "endKey": 2015,
-                        "count": 2
-                    },
-                    {
-                        "startKey": 2016,
-                        "endKey": 2016,
-                        "count": 15
-                    },
-                    {
-                        "startKey": 2017,
-                        "endKey": 2017,
-                        "count": 13
-                    },
-                    {
-                        "startKey": 2018,
-                        "endKey": 2018,
-                        "count": 7
-                    },
-                    {
-                        "startKey": 2019,
-                        "endKey": 2019,
-                        "count": 10
-                    },
-                    {
-                        "startKey": 2020,
-                        "endKey": 2020,
-                        "count": 7
-                    },
-                    {
-                        "startKey": 2021,
-                        "endKey": 2021,
-                        "count": 5
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 1
-                    },
-                    {
-                        "startKey": 2023,
-                        "endKey": 2023,
-                        "count": 1
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 71,
-                "estNumCitations": 99.2898935926378,
-                "numReferences": 26,
-                "numKeyCitations": 1,
-                "numKeyReferences": 1,
-                "numViewableReferences": 26,
-                "keyCitationRate": 0.014084507042253521,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1522719977.331869,
-            "journal": {
-                "name": "Int. J. Ad Hoc Ubiquitous Comput.",
-                "volume": "13",
-                "pages": "187-196"
-            },
-            "doiInfo": {
-                "doi": "10.1504/IJAHUC.2013.055454",
-                "doiUrl": "https://doi.org/10.1504/IJAHUC.2013.055454"
-            },
-            "links": [
-                {
-                    "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
-                    "linkType": "doi"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
-                "linkType": "doi"
-            },
-            "alternatePaperLinks": [],
-            "entities": [
-                {
-                    "id": "48065",
-                    "name": "Cyber-physical system",
-                    "slug": "Cyber-physical-system"
-                },
-                {
-                    "id": "51309",
-                    "name": "Internet of things",
-                    "slug": "Internet-of-things"
-                },
-                {
-                    "id": "22328",
-                    "name": "Machine to machine",
-                    "slug": "Machine-to-machine"
-                },
-                {
-                    "id": "120611",
-                    "name": "System safety",
-                    "slug": "System-safety"
-                },
-                {
-                    "id": "1413",
-                    "name": "Virtual world",
-                    "slug": "Virtual-world"
-                },
-                {
-                    "id": "44839",
-                    "name": "Technical support",
-                    "slug": "Technical-support"
-                },
-                {
-                    "id": "72",
-                    "name": "Interaction",
-                    "slug": "Interaction"
-                },
-                {
-                    "id": "1175",
-                    "name": "Autonomous robot",
-                    "slug": "Autonomous-robot"
-                },
-                {
-                    "id": "4982",
-                    "name": "Semantic network",
-                    "slug": "Semantic-network"
-                },
-                {
-                    "id": "1117",
-                    "name": "Sensor",
-                    "slug": "Sensor"
-                },
-                {
-                    "id": "339",
-                    "name": "Computation",
-                    "slug": "Computation"
-                }
-            ],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 71,
-                    "keyCitationCount": 1,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering"
-            ],
-            "openAccessInfo": {
-                "status": "CLOSED"
-            },
-            "pubDate": "2013-07-01",
-            "badges": [],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
             "id": "48ddbb2f666c05ad99374d085455b4d82bf2401f",
             "corpusId": 211063470,
             "title": {
@@ -71880,6 +71427,754 @@
                 }
             ],
             "isPdfVisible": true,
+            "cues": {}
+        },
+        {
+            "id": "5ac2950c2518f8bfc050a7ac0fe00841ac9d7ede",
+            "corpusId": 207401484,
+            "title": {
+                "text": "Enabling cyber-physical systems with machine-to-machine technologies",
+                "fragments": [
+                    {
+                        "start": 9,
+                        "end": 14
+                    },
+                    {
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "start": 24,
+                        "end": 31
+                    }
+                ]
+            },
+            "slug": "Enabling-cyber-physical-systems-with-technologies-Wan-Yan",
+            "paperAbstract": {
+                "text": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between physical and virtual worlds. While Machine-to-Machine M2M, Wireless Sensor Networks WSNs and CPS are quite similar in many networking aspects, there are still some major differences. In this paper, we first review several concepts and terms, including M2M, WSNs, CPS and Internet of Things IoT. Then, we conduct a case study exemplified by home M2M networks, and outline the further research proposals of M2M communications. On this basis, a case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised. Finally, we carry out a comparison of M2M and CPS to demonstrate how M2M systems with the capabilities of decision-making and real-time control can be upgraded to CPS.",
+                "fragments": [
+                    {
+                        "start": 17,
+                        "end": 22
+                    },
+                    {
+                        "start": 23,
+                        "end": 31
+                    },
+                    {
+                        "start": 32,
+                        "end": 39
+                    },
+                    {
+                        "start": 40,
+                        "end": 43
+                    },
+                    {
+                        "start": 116,
+                        "end": 124
+                    },
+                    {
+                        "start": 209,
+                        "end": 212
+                    },
+                    {
+                        "start": 379,
+                        "end": 382
+                    },
+                    {
+                        "start": 387,
+                        "end": 395
+                    },
+                    {
+                        "start": 399,
+                        "end": 405
+                    },
+                    {
+                        "start": 406,
+                        "end": 409
+                    },
+                    {
+                        "start": 566,
+                        "end": 569
+                    },
+                    {
+                        "start": 577,
+                        "end": 582
+                    },
+                    {
+                        "start": 583,
+                        "end": 591
+                    },
+                    {
+                        "start": 592,
+                        "end": 598
+                    },
+                    {
+                        "start": 615,
+                        "end": 621
+                    },
+                    {
+                        "start": 794,
+                        "end": 797
+                    },
+                    {
+                        "start": 821,
+                        "end": 828
+                    },
+                    {
+                        "start": 911,
+                        "end": 914
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between phys...",
+            "tldr": {
+                "text": "A case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised.",
+                "abstractSimilarityScore": 46
+            },
+            "authors": [
+                [
+                    {
+                        "name": "J. Wan",
+                        "ids": [
+                            "70985296"
+                        ],
+                        "slug": "J.-Wan",
+                        "structuredName": {
+                            "firstName": "Jiafu",
+                            "middleNames": [],
+                            "lastName": "Wan"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "J. Wan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Hehua Yan",
+                        "ids": [
+                            "1774813"
+                        ],
+                        "slug": "Hehua-Yan",
+                        "structuredName": {
+                            "firstName": "Hehua",
+                            "middleNames": [],
+                            "lastName": "Yan"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Hehua Yan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Qiang Liu",
+                        "ids": [
+                            "2155192598"
+                        ],
+                        "slug": "Qiang-Liu",
+                        "structuredName": {
+                            "firstName": "Qiang",
+                            "middleNames": [],
+                            "lastName": "Liu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Qiang Liu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Keliang Zhou",
+                        "ids": [
+                            "2075359502"
+                        ],
+                        "slug": "Keliang-Zhou",
+                        "structuredName": {
+                            "firstName": "Keliang",
+                            "middleNames": [],
+                            "lastName": "Zhou"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Keliang Zhou",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Rongshuang Lu",
+                        "ids": [
+                            "2047259"
+                        ],
+                        "slug": "Rongshuang-Lu",
+                        "structuredName": {
+                            "firstName": "Rongshuang",
+                            "middleNames": [],
+                            "lastName": "Lu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Rongshuang Lu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Di Li",
+                        "ids": [
+                            "46599370"
+                        ],
+                        "slug": "Di-Li",
+                        "structuredName": {
+                            "firstName": "Di",
+                            "middleNames": [],
+                            "lastName": "Li"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Di Li",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Jiafu",
+                    "middleNames": [],
+                    "lastName": "Wan"
+                },
+                {
+                    "firstName": "Hehua",
+                    "middleNames": [],
+                    "lastName": "Yan"
+                },
+                {
+                    "firstName": "Qiang",
+                    "middleNames": [],
+                    "lastName": "Liu"
+                },
+                {
+                    "firstName": "Keliang",
+                    "middleNames": [],
+                    "lastName": "Zhou"
+                },
+                {
+                    "firstName": "Rongshuang",
+                    "middleNames": [],
+                    "lastName": "Lu"
+                },
+                {
+                    "firstName": "Di",
+                    "middleNames": [],
+                    "lastName": "Li"
+                }
+            ],
+            "year": {
+                "text": "2013",
+                "fragments": []
+            },
+            "venue": {
+                "text": "International Journal of Ad Hoc and Ubiquitous Computing",
+                "fragments": []
+            },
+            "venueId": "8f4c1222-c99f-4367-b156-7a71e0f339df",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2013,
+                        "endKey": 2013,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2014,
+                        "endKey": 2014,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2015,
+                        "endKey": 2015,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 15
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 13
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 10
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 1
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 70,
+                "estNumCitations": 99.80162048741,
+                "numReferences": 26,
+                "numKeyCitations": 1,
+                "numKeyReferences": 1,
+                "numViewableReferences": 26,
+                "keyCitationRate": 0.014285714285714285,
+                "firstCitationVelocityYear": 2022,
+                "lastCitationVelocityYear": 2024
+            },
+            "earliestAcquisitionsDate": 1522719977.331869,
+            "journal": {
+                "name": "Int. J. Ad Hoc Ubiquitous Comput.",
+                "volume": "13",
+                "pages": "187-196"
+            },
+            "doiInfo": {
+                "doi": "10.1504/IJAHUC.2013.055454",
+                "doiUrl": "https://doi.org/10.1504/IJAHUC.2013.055454"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 70,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Computer Science",
+                "Engineering"
+            ],
+            "openAccessInfo": {
+                "status": "CLOSED"
+            },
+            "pubDate": "2013-07-01",
+            "badges": [],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
+            "id": "5ac2950c2518f8bfc050a7ac0fe00841ac9d7ede",
+            "corpusId": 207401484,
+            "title": {
+                "text": "Enabling cyber-physical systems with machine-to-machine technologies",
+                "fragments": [
+                    {
+                        "start": 9,
+                        "end": 14
+                    },
+                    {
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "start": 24,
+                        "end": 31
+                    }
+                ]
+            },
+            "slug": "Enabling-cyber-physical-systems-with-technologies-Wan-Yan",
+            "paperAbstract": {
+                "text": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between physical and virtual worlds. While Machine-to-Machine M2M, Wireless Sensor Networks WSNs and CPS are quite similar in many networking aspects, there are still some major differences. In this paper, we first review several concepts and terms, including M2M, WSNs, CPS and Internet of Things IoT. Then, we conduct a case study exemplified by home M2M networks, and outline the further research proposals of M2M communications. On this basis, a case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised. Finally, we carry out a comparison of M2M and CPS to demonstrate how M2M systems with the capabilities of decision-making and real-time control can be upgraded to CPS.",
+                "fragments": [
+                    {
+                        "start": 17,
+                        "end": 22
+                    },
+                    {
+                        "start": 23,
+                        "end": 31
+                    },
+                    {
+                        "start": 32,
+                        "end": 39
+                    },
+                    {
+                        "start": 40,
+                        "end": 43
+                    },
+                    {
+                        "start": 116,
+                        "end": 124
+                    },
+                    {
+                        "start": 209,
+                        "end": 212
+                    },
+                    {
+                        "start": 379,
+                        "end": 382
+                    },
+                    {
+                        "start": 387,
+                        "end": 395
+                    },
+                    {
+                        "start": 399,
+                        "end": 405
+                    },
+                    {
+                        "start": 406,
+                        "end": 409
+                    },
+                    {
+                        "start": 566,
+                        "end": 569
+                    },
+                    {
+                        "start": 577,
+                        "end": 582
+                    },
+                    {
+                        "start": 583,
+                        "end": 591
+                    },
+                    {
+                        "start": 592,
+                        "end": 598
+                    },
+                    {
+                        "start": 615,
+                        "end": 621
+                    },
+                    {
+                        "start": 794,
+                        "end": 797
+                    },
+                    {
+                        "start": 821,
+                        "end": 828
+                    },
+                    {
+                        "start": 911,
+                        "end": 914
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "In recent years, Cyber-Physical Systems CPS has emerged as a promising direction to enrich the interactions between phys...",
+            "tldr": {
+                "text": "A case of CPS, Human-Cyber-Physical System HCPS to achieve system safety and efficiency for connected vehicles, is proposed, and the research proposals and challenges for HCPS are summarised.",
+                "abstractSimilarityScore": 46
+            },
+            "authors": [
+                [
+                    {
+                        "name": "J. Wan",
+                        "ids": [
+                            "70985296"
+                        ],
+                        "slug": "J.-Wan",
+                        "structuredName": {
+                            "firstName": "Jiafu",
+                            "middleNames": [],
+                            "lastName": "Wan"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "J. Wan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Hehua Yan",
+                        "ids": [
+                            "1774813"
+                        ],
+                        "slug": "Hehua-Yan",
+                        "structuredName": {
+                            "firstName": "Hehua",
+                            "middleNames": [],
+                            "lastName": "Yan"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Hehua Yan",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Qiang Liu",
+                        "ids": [
+                            "2155192598"
+                        ],
+                        "slug": "Qiang-Liu",
+                        "structuredName": {
+                            "firstName": "Qiang",
+                            "middleNames": [],
+                            "lastName": "Liu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Qiang Liu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Keliang Zhou",
+                        "ids": [
+                            "2075359502"
+                        ],
+                        "slug": "Keliang-Zhou",
+                        "structuredName": {
+                            "firstName": "Keliang",
+                            "middleNames": [],
+                            "lastName": "Zhou"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Keliang Zhou",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Rongshuang Lu",
+                        "ids": [
+                            "2047259"
+                        ],
+                        "slug": "Rongshuang-Lu",
+                        "structuredName": {
+                            "firstName": "Rongshuang",
+                            "middleNames": [],
+                            "lastName": "Lu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Rongshuang Lu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Di Li",
+                        "ids": [
+                            "46599370"
+                        ],
+                        "slug": "Di-Li",
+                        "structuredName": {
+                            "firstName": "Di",
+                            "middleNames": [],
+                            "lastName": "Li"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Di Li",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Jiafu",
+                    "middleNames": [],
+                    "lastName": "Wan"
+                },
+                {
+                    "firstName": "Hehua",
+                    "middleNames": [],
+                    "lastName": "Yan"
+                },
+                {
+                    "firstName": "Qiang",
+                    "middleNames": [],
+                    "lastName": "Liu"
+                },
+                {
+                    "firstName": "Keliang",
+                    "middleNames": [],
+                    "lastName": "Zhou"
+                },
+                {
+                    "firstName": "Rongshuang",
+                    "middleNames": [],
+                    "lastName": "Lu"
+                },
+                {
+                    "firstName": "Di",
+                    "middleNames": [],
+                    "lastName": "Li"
+                }
+            ],
+            "year": {
+                "text": "2013",
+                "fragments": []
+            },
+            "venue": {
+                "text": "International Journal of Ad Hoc and Ubiquitous Computing",
+                "fragments": []
+            },
+            "venueId": "8f4c1222-c99f-4367-b156-7a71e0f339df",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2013,
+                        "endKey": 2013,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2014,
+                        "endKey": 2014,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2015,
+                        "endKey": 2015,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2016,
+                        "endKey": 2016,
+                        "count": 15
+                    },
+                    {
+                        "startKey": 2017,
+                        "endKey": 2017,
+                        "count": 13
+                    },
+                    {
+                        "startKey": 2018,
+                        "endKey": 2018,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2019,
+                        "endKey": 2019,
+                        "count": 10
+                    },
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 5
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 1
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 1
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 70,
+                "estNumCitations": 99.80162048741,
+                "numReferences": 26,
+                "numKeyCitations": 1,
+                "numKeyReferences": 1,
+                "numViewableReferences": 26,
+                "keyCitationRate": 0.014285714285714285,
+                "firstCitationVelocityYear": 2022,
+                "lastCitationVelocityYear": 2024
+            },
+            "earliestAcquisitionsDate": 1522719977.331869,
+            "journal": {
+                "name": "Int. J. Ad Hoc Ubiquitous Comput.",
+                "volume": "13",
+                "pages": "187-196"
+            },
+            "doiInfo": {
+                "doi": "10.1504/IJAHUC.2013.055454",
+                "doiUrl": "https://doi.org/10.1504/IJAHUC.2013.055454"
+            },
+            "links": [
+                {
+                    "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
+                    "linkType": "doi"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "https://doi.org/10.1504/IJAHUC.2013.055454",
+                "linkType": "doi"
+            },
+            "alternatePaperLinks": [],
+            "entities": [],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 70,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Computer Science",
+                "Engineering"
+            ],
+            "openAccessInfo": {
+                "status": "CLOSED"
+            },
+            "pubDate": "2013-07-01",
+            "badges": [],
+            "isPdfVisible": false,
             "cues": {}
         },
         {
@@ -80932,892 +81227,6 @@
             "cues": {}
         },
         {
-            "id": "7b3277a8d59857775b51760ad14e7949e51c3d07",
-            "corpusId": 19146533,
-            "title": {
-                "text": "Cyber Physical Systems and Body Area Sensor Networks in Smart Cities",
-                "fragments": [
-                    {
-                        "start": 0,
-                        "end": 5
-                    },
-                    {
-                        "start": 6,
-                        "end": 14
-                    },
-                    {
-                        "start": 15,
-                        "end": 22
-                    }
-                ]
-            },
-            "slug": "Cyber-Physical-Systems-and-Body-Area-Sensor-in-Fabbri-Medaglia",
-            "paperAbstract": {
-                "text": "The increasing pervasiveness of ICT and the development of the Internet of Things (IoT) will allow the spread of the often time and safety-critical embedded Cyber Physical Systems (CPS). The new challenge will be to design, programme and implement highly distributed and connected digital technologies. These technologies will be embedded in a multitude of increasingly autonomous physical systems with various dynamics and satisfying multiple critical constraints including cost, security, safety, power efficiency, high performance, and size. This combination of various cyber-physical systems gives rise to emergent properties and unpredictable behaviours. In the future world of Cyber Physical Systems, a significant number of devices connected to the physical world will be able to exchange data with each other, access web services, and interact with people. Thanks to the development of the IoT and of high speed broadband, this embedded world will then meet the internet world and the physical world will meet the cyber world. The purpose of this paper is to give a comprehensive view on Cyber-Physical Systems and Body Area Sensor Networks (BASNs) focusing on the convergence of these technologies and research thrusts that underpin “Smart Cities” and the Internet of Things concepts. Moreover as a practical example of CPS and BASN, a research project that aims at the development of a Smart and Safe Wearable System for Hand Pattern Recognition is presented. This project has been approved for funding by the Italian Ministry for Foreign Affairs and International Cooperation in the framework of the Scientific and Technological Cooperation Agreement between Italy and USA.",
-                "fragments": [
-                    {
-                        "start": 63,
-                        "end": 71
-                    },
-                    {
-                        "start": 75,
-                        "end": 81
-                    },
-                    {
-                        "start": 83,
-                        "end": 86
-                    },
-                    {
-                        "start": 157,
-                        "end": 162
-                    },
-                    {
-                        "start": 163,
-                        "end": 171
-                    },
-                    {
-                        "start": 172,
-                        "end": 179
-                    },
-                    {
-                        "start": 181,
-                        "end": 184
-                    },
-                    {
-                        "start": 281,
-                        "end": 288
-                    },
-                    {
-                        "start": 381,
-                        "end": 389
-                    },
-                    {
-                        "start": 390,
-                        "end": 397
-                    },
-                    {
-                        "start": 481,
-                        "end": 489
-                    },
-                    {
-                        "start": 573,
-                        "end": 578
-                    },
-                    {
-                        "start": 579,
-                        "end": 587
-                    },
-                    {
-                        "start": 588,
-                        "end": 595
-                    },
-                    {
-                        "start": 683,
-                        "end": 688
-                    },
-                    {
-                        "start": 689,
-                        "end": 697
-                    },
-                    {
-                        "start": 698,
-                        "end": 705
-                    },
-                    {
-                        "start": 756,
-                        "end": 764
-                    },
-                    {
-                        "start": 898,
-                        "end": 901
-                    },
-                    {
-                        "start": 970,
-                        "end": 978
-                    },
-                    {
-                        "start": 993,
-                        "end": 1001
-                    },
-                    {
-                        "start": 1022,
-                        "end": 1027
-                    },
-                    {
-                        "start": 1096,
-                        "end": 1101
-                    },
-                    {
-                        "start": 1102,
-                        "end": 1110
-                    },
-                    {
-                        "start": 1111,
-                        "end": 1118
-                    },
-                    {
-                        "start": 1265,
-                        "end": 1273
-                    },
-                    {
-                        "start": 1277,
-                        "end": 1283
-                    },
-                    {
-                        "start": 1329,
-                        "end": 1332
-                    },
-                    {
-                        "start": 1420,
-                        "end": 1426
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "The increasing pervasiveness of ICT and the development of the Internet of Things (IoT) will allow the spread of the oft...",
-            "tldr": {
-                "text": "A comprehensive view on Cyber-Physical Systems and Body Area Sensor Networks (BASNs) focusing on the convergence of these technologies and research thrusts that underpin “Smart Cities” and the Internet of Things concepts is given.",
-                "abstractSimilarityScore": 42
-            },
-            "authors": [
-                [
-                    {
-                        "name": "G. Fabbri",
-                        "ids": [
-                            "33208104"
-                        ],
-                        "slug": "G.-Fabbri",
-                        "structuredName": {
-                            "firstName": "Gianluca",
-                            "middleNames": [],
-                            "lastName": "Fabbri"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "G. Fabbri",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "C. Medaglia",
-                        "ids": [
-                            "1805851"
-                        ],
-                        "slug": "C.-Medaglia",
-                        "structuredName": {
-                            "firstName": "Carlo",
-                            "middleNames": [
-                                "Maria"
-                            ],
-                            "lastName": "Medaglia"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "C. Medaglia",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "A. Pecora",
-                        "ids": [
-                            "145558841"
-                        ],
-                        "slug": "A.-Pecora",
-                        "structuredName": {
-                            "firstName": "Alessandro",
-                            "middleNames": [],
-                            "lastName": "Pecora"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Pecora",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "L. Maiolo",
-                        "ids": [
-                            "2854476"
-                        ],
-                        "slug": "L.-Maiolo",
-                        "structuredName": {
-                            "firstName": "Luca",
-                            "middleNames": [],
-                            "lastName": "Maiolo"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "L. Maiolo",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "M. Santello",
-                        "ids": [
-                            "144712240"
-                        ],
-                        "slug": "M.-Santello",
-                        "structuredName": {
-                            "firstName": "Marco",
-                            "middleNames": [],
-                            "lastName": "Santello"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "M. Santello",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Gianluca",
-                    "middleNames": [],
-                    "lastName": "Fabbri"
-                },
-                {
-                    "firstName": "Carlo",
-                    "middleNames": [
-                        "Maria"
-                    ],
-                    "lastName": "Medaglia"
-                },
-                {
-                    "firstName": "Alessandro",
-                    "middleNames": [],
-                    "lastName": "Pecora"
-                },
-                {
-                    "firstName": "Luca",
-                    "middleNames": [],
-                    "lastName": "Maiolo"
-                },
-                {
-                    "firstName": "Marco",
-                    "middleNames": [],
-                    "lastName": "Santello"
-                }
-            ],
-            "year": {
-                "text": "2016",
-                "fragments": []
-            },
-            "venue": {
-                "text": "International Symposium on Industrial Electronics",
-                "fragments": []
-            },
-            "venueId": "95476c30-e600-4582-aa77-bf9db261be05",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2017,
-                        "endKey": 2017,
-                        "count": 2
-                    },
-                    {
-                        "startKey": 2018,
-                        "endKey": 2018,
-                        "count": 1
-                    },
-                    {
-                        "startKey": 2020,
-                        "endKey": 2020,
-                        "count": 1
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 1
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 5,
-                "estNumCitations": 4.096749811035526,
-                "numReferences": 17,
-                "numKeyCitations": 0,
-                "numKeyReferences": 0,
-                "numViewableReferences": 17,
-                "keyCitationRate": 0.0,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1487460945.491,
-            "journal": {
-                "name": "2016 IEEE 25th International Symposium on Industrial Electronics (ISIE)",
-                "pages": "980-985"
-            },
-            "doiInfo": {
-                "doi": "10.1109/ISIE.2016.7745024",
-                "doiUrl": "https://doi.org/10.1109/ISIE.2016.7745024"
-            },
-            "links": [
-                {
-                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7745024",
-                    "linkType": "ieee"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7745024",
-                "linkType": "ieee"
-            },
-            "alternatePaperLinks": [
-                {
-                    "url": "https://doi.org/10.1109/ISIE.2016.7745024",
-                    "linkType": "doi"
-                },
-                {
-                    "url": "https://www.wikidata.org/entity/Q60184773",
-                    "linkType": "dblp"
-                }
-            ],
-            "entities": [
-                {
-                    "id": "59899",
-                    "name": "Smart city",
-                    "slug": "Smart-city"
-                },
-                {
-                    "id": "51309",
-                    "name": "Internet of things",
-                    "slug": "Internet-of-things"
-                },
-                {
-                    "id": "48065",
-                    "name": "Cyber-physical system",
-                    "slug": "Cyber-physical-system"
-                },
-                {
-                    "id": "4423",
-                    "name": "Embedded system",
-                    "slug": "Embedded-system"
-                },
-                {
-                    "id": "5580",
-                    "name": "Emergence",
-                    "slug": "Emergence"
-                },
-                {
-                    "id": "237",
-                    "name": "Pattern recognition",
-                    "slug": "Pattern-recognition"
-                },
-                {
-                    "id": "16865",
-                    "name": "Synergy",
-                    "slug": "Synergy"
-                },
-                {
-                    "id": "108212",
-                    "name": "Performance per watt",
-                    "slug": "Performance-per-watt"
-                },
-                {
-                    "id": "11597",
-                    "name": "Web service",
-                    "slug": "Web-service"
-                },
-                {
-                    "id": "2756",
-                    "name": "Cloud computing",
-                    "slug": "Cloud-computing"
-                },
-                {
-                    "id": "101236",
-                    "name": "Point of View (computer hardware company)",
-                    "slug": "Point-of-View-(computer-hardware-company)"
-                },
-                {
-                    "id": "1175",
-                    "name": "Autonomous robot",
-                    "slug": "Autonomous-robot"
-                },
-                {
-                    "id": "54317",
-                    "name": "Aggregate data",
-                    "slug": "Aggregate-data"
-                },
-                {
-                    "id": "30581",
-                    "name": "Wearable computer",
-                    "slug": "Wearable-computer"
-                }
-            ],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 5,
-                    "keyCitationCount": 0,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering",
-                "Environmental Science"
-            ],
-            "openAccessInfo": {
-                "status": "CLOSED"
-            },
-            "pubDate": "2016-06-08",
-            "badges": [],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
-            "id": "7b3277a8d59857775b51760ad14e7949e51c3d07",
-            "corpusId": 19146533,
-            "title": {
-                "text": "Cyber Physical Systems and Body Area Sensor Networks in Smart Cities",
-                "fragments": [
-                    {
-                        "start": 0,
-                        "end": 5
-                    },
-                    {
-                        "start": 6,
-                        "end": 14
-                    },
-                    {
-                        "start": 15,
-                        "end": 22
-                    }
-                ]
-            },
-            "slug": "Cyber-Physical-Systems-and-Body-Area-Sensor-in-Fabbri-Medaglia",
-            "paperAbstract": {
-                "text": "The increasing pervasiveness of ICT and the development of the Internet of Things (IoT) will allow the spread of the often time and safety-critical embedded Cyber Physical Systems (CPS). The new challenge will be to design, programme and implement highly distributed and connected digital technologies. These technologies will be embedded in a multitude of increasingly autonomous physical systems with various dynamics and satisfying multiple critical constraints including cost, security, safety, power efficiency, high performance, and size. This combination of various cyber-physical systems gives rise to emergent properties and unpredictable behaviours. In the future world of Cyber Physical Systems, a significant number of devices connected to the physical world will be able to exchange data with each other, access web services, and interact with people. Thanks to the development of the IoT and of high speed broadband, this embedded world will then meet the internet world and the physical world will meet the cyber world. The purpose of this paper is to give a comprehensive view on Cyber-Physical Systems and Body Area Sensor Networks (BASNs) focusing on the convergence of these technologies and research thrusts that underpin “Smart Cities” and the Internet of Things concepts. Moreover as a practical example of CPS and BASN, a research project that aims at the development of a Smart and Safe Wearable System for Hand Pattern Recognition is presented. This project has been approved for funding by the Italian Ministry for Foreign Affairs and International Cooperation in the framework of the Scientific and Technological Cooperation Agreement between Italy and USA.",
-                "fragments": [
-                    {
-                        "start": 63,
-                        "end": 71
-                    },
-                    {
-                        "start": 75,
-                        "end": 81
-                    },
-                    {
-                        "start": 83,
-                        "end": 86
-                    },
-                    {
-                        "start": 157,
-                        "end": 162
-                    },
-                    {
-                        "start": 163,
-                        "end": 171
-                    },
-                    {
-                        "start": 172,
-                        "end": 179
-                    },
-                    {
-                        "start": 181,
-                        "end": 184
-                    },
-                    {
-                        "start": 281,
-                        "end": 288
-                    },
-                    {
-                        "start": 381,
-                        "end": 389
-                    },
-                    {
-                        "start": 390,
-                        "end": 397
-                    },
-                    {
-                        "start": 481,
-                        "end": 489
-                    },
-                    {
-                        "start": 573,
-                        "end": 578
-                    },
-                    {
-                        "start": 579,
-                        "end": 587
-                    },
-                    {
-                        "start": 588,
-                        "end": 595
-                    },
-                    {
-                        "start": 683,
-                        "end": 688
-                    },
-                    {
-                        "start": 689,
-                        "end": 697
-                    },
-                    {
-                        "start": 698,
-                        "end": 705
-                    },
-                    {
-                        "start": 756,
-                        "end": 764
-                    },
-                    {
-                        "start": 898,
-                        "end": 901
-                    },
-                    {
-                        "start": 970,
-                        "end": 978
-                    },
-                    {
-                        "start": 993,
-                        "end": 1001
-                    },
-                    {
-                        "start": 1022,
-                        "end": 1027
-                    },
-                    {
-                        "start": 1096,
-                        "end": 1101
-                    },
-                    {
-                        "start": 1102,
-                        "end": 1110
-                    },
-                    {
-                        "start": 1111,
-                        "end": 1118
-                    },
-                    {
-                        "start": 1265,
-                        "end": 1273
-                    },
-                    {
-                        "start": 1277,
-                        "end": 1283
-                    },
-                    {
-                        "start": 1329,
-                        "end": 1332
-                    },
-                    {
-                        "start": 1420,
-                        "end": 1426
-                    }
-                ]
-            },
-            "paperAbstractTruncated": "The increasing pervasiveness of ICT and the development of the Internet of Things (IoT) will allow the spread of the oft...",
-            "tldr": {
-                "text": "A comprehensive view on Cyber-Physical Systems and Body Area Sensor Networks (BASNs) focusing on the convergence of these technologies and research thrusts that underpin “Smart Cities” and the Internet of Things concepts is given.",
-                "abstractSimilarityScore": 42
-            },
-            "authors": [
-                [
-                    {
-                        "name": "G. Fabbri",
-                        "ids": [
-                            "33208104"
-                        ],
-                        "slug": "G.-Fabbri",
-                        "structuredName": {
-                            "firstName": "Gianluca",
-                            "middleNames": [],
-                            "lastName": "Fabbri"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "G. Fabbri",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "C. Medaglia",
-                        "ids": [
-                            "1805851"
-                        ],
-                        "slug": "C.-Medaglia",
-                        "structuredName": {
-                            "firstName": "Carlo",
-                            "middleNames": [
-                                "Maria"
-                            ],
-                            "lastName": "Medaglia"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "C. Medaglia",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "A. Pecora",
-                        "ids": [
-                            "145558841"
-                        ],
-                        "slug": "A.-Pecora",
-                        "structuredName": {
-                            "firstName": "Alessandro",
-                            "middleNames": [],
-                            "lastName": "Pecora"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "A. Pecora",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "L. Maiolo",
-                        "ids": [
-                            "2854476"
-                        ],
-                        "slug": "L.-Maiolo",
-                        "structuredName": {
-                            "firstName": "Luca",
-                            "middleNames": [],
-                            "lastName": "Maiolo"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "L. Maiolo",
-                        "fragments": []
-                    }
-                ],
-                [
-                    {
-                        "name": "M. Santello",
-                        "ids": [
-                            "144712240"
-                        ],
-                        "slug": "M.-Santello",
-                        "structuredName": {
-                            "firstName": "Marco",
-                            "middleNames": [],
-                            "lastName": "Santello"
-                        },
-                        "bitmap$0": false
-                    },
-                    {
-                        "text": "M. Santello",
-                        "fragments": []
-                    }
-                ]
-            ],
-            "structuredAuthors": [
-                {
-                    "firstName": "Gianluca",
-                    "middleNames": [],
-                    "lastName": "Fabbri"
-                },
-                {
-                    "firstName": "Carlo",
-                    "middleNames": [
-                        "Maria"
-                    ],
-                    "lastName": "Medaglia"
-                },
-                {
-                    "firstName": "Alessandro",
-                    "middleNames": [],
-                    "lastName": "Pecora"
-                },
-                {
-                    "firstName": "Luca",
-                    "middleNames": [],
-                    "lastName": "Maiolo"
-                },
-                {
-                    "firstName": "Marco",
-                    "middleNames": [],
-                    "lastName": "Santello"
-                }
-            ],
-            "year": {
-                "text": "2016",
-                "fragments": []
-            },
-            "venue": {
-                "text": "International Symposium on Industrial Electronics",
-                "fragments": []
-            },
-            "venueId": "95476c30-e600-4582-aa77-bf9db261be05",
-            "citationContexts": [],
-            "citationStats": {
-                "citedByBuckets": [
-                    {
-                        "startKey": 2017,
-                        "endKey": 2017,
-                        "count": 2
-                    },
-                    {
-                        "startKey": 2018,
-                        "endKey": 2018,
-                        "count": 1
-                    },
-                    {
-                        "startKey": 2020,
-                        "endKey": 2020,
-                        "count": 1
-                    },
-                    {
-                        "startKey": 2022,
-                        "endKey": 2022,
-                        "count": 1
-                    }
-                ],
-                "keyCitedByBuckets": [],
-                "numCitations": 5,
-                "estNumCitations": 4.096749811035526,
-                "numReferences": 17,
-                "numKeyCitations": 0,
-                "numKeyReferences": 0,
-                "numViewableReferences": 17,
-                "keyCitationRate": 0.0,
-                "firstCitationVelocityYear": 2021,
-                "lastCitationVelocityYear": 2023
-            },
-            "earliestAcquisitionsDate": 1487460945.491,
-            "journal": {
-                "name": "2016 IEEE 25th International Symposium on Industrial Electronics (ISIE)",
-                "pages": "980-985"
-            },
-            "doiInfo": {
-                "doi": "10.1109/ISIE.2016.7745024",
-                "doiUrl": "https://doi.org/10.1109/ISIE.2016.7745024"
-            },
-            "links": [
-                {
-                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7745024",
-                    "linkType": "ieee"
-                }
-            ],
-            "primaryPaperLink": {
-                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7745024",
-                "linkType": "ieee"
-            },
-            "alternatePaperLinks": [
-                {
-                    "url": "https://doi.org/10.1109/ISIE.2016.7745024",
-                    "linkType": "doi"
-                },
-                {
-                    "url": "https://www.wikidata.org/entity/Q60184773",
-                    "linkType": "dblp"
-                }
-            ],
-            "entities": [
-                {
-                    "id": "59899",
-                    "name": "Smart city",
-                    "slug": "Smart-city"
-                },
-                {
-                    "id": "51309",
-                    "name": "Internet of things",
-                    "slug": "Internet-of-things"
-                },
-                {
-                    "id": "48065",
-                    "name": "Cyber-physical system",
-                    "slug": "Cyber-physical-system"
-                },
-                {
-                    "id": "4423",
-                    "name": "Embedded system",
-                    "slug": "Embedded-system"
-                },
-                {
-                    "id": "5580",
-                    "name": "Emergence",
-                    "slug": "Emergence"
-                },
-                {
-                    "id": "237",
-                    "name": "Pattern recognition",
-                    "slug": "Pattern-recognition"
-                },
-                {
-                    "id": "16865",
-                    "name": "Synergy",
-                    "slug": "Synergy"
-                },
-                {
-                    "id": "108212",
-                    "name": "Performance per watt",
-                    "slug": "Performance-per-watt"
-                },
-                {
-                    "id": "11597",
-                    "name": "Web service",
-                    "slug": "Web-service"
-                },
-                {
-                    "id": "2756",
-                    "name": "Cloud computing",
-                    "slug": "Cloud-computing"
-                },
-                {
-                    "id": "101236",
-                    "name": "Point of View (computer hardware company)",
-                    "slug": "Point-of-View-(computer-hardware-company)"
-                },
-                {
-                    "id": "1175",
-                    "name": "Autonomous robot",
-                    "slug": "Autonomous-robot"
-                },
-                {
-                    "id": "54317",
-                    "name": "Aggregate data",
-                    "slug": "Aggregate-data"
-                },
-                {
-                    "id": "30581",
-                    "name": "Wearable computer",
-                    "slug": "Wearable-computer"
-                }
-            ],
-            "entityRelations": [],
-            "faqs": [],
-            "scorecardStats": [
-                {
-                    "typeKey": "cited_by",
-                    "citationCount": 5,
-                    "keyCitationCount": 0,
-                    "score": 10.0
-                }
-            ],
-            "fieldsOfStudy": [
-                "Computer Science",
-                "Engineering",
-                "Environmental Science"
-            ],
-            "openAccessInfo": {
-                "status": "CLOSED"
-            },
-            "pubDate": "2016-06-08",
-            "badges": [],
-            "isPdfVisible": false,
-            "cues": {}
-        },
-        {
             "id": "094c4b8db30a1771d2c68a506149d11644a7e0c0",
             "corpusId": 63782051,
             "title": {
@@ -84336,6 +83745,433 @@
             },
             "pubDate": "2020-11-09",
             "pubUpdateDate": "2020-11-09",
+            "badges": [
+                {
+                    "id": "OPEN_ACCESS"
+                }
+            ],
+            "isPdfVisible": false,
+            "cues": {}
+        },
+        {
+            "id": "7560316304d352f05afe6904b0d6bfe29b30ab9f",
+            "corpusId": 215816121,
+            "title": {
+                "text": "Security Analysis of CPS Systems Under Different Swapping Strategies in IoT Environments",
+                "fragments": [
+                    {
+                        "start": 0,
+                        "end": 8
+                    },
+                    {
+                        "start": 21,
+                        "end": 24
+                    },
+                    {
+                        "start": 25,
+                        "end": 32
+                    },
+                    {
+                        "start": 72,
+                        "end": 75
+                    }
+                ]
+            },
+            "slug": "Security-Analysis-of-CPS-Systems-Under-Different-in-Peng-Liu",
+            "paperAbstract": {
+                "text": "In this paper, we give attention to the robustness of the Cyber-Physical System, which consists of interdependent physical resources and computational resources. Numerous infrastructure systems can evolve into the Cyber-Physical System, e.g., smart power grids, traffic control systems, and wireless sensor and actuator networks. These networks depend on their interdependent networks, which provide information or energy to function. In a Cyber-Physical System, a small failure could trigger serious cascading failures within the entire interdependent networks. In this paper, we try to alleviate these cascading failures between interdependent networks to reduce losses. We discuss the robustness of systems for random attacks by calculating the size of functioning components in entire networks. We change the inter-links topology of the coupled networks to enhance the reliability of the entire system. Then we get the most effective swapping strategy in enhancing the robustness of the Cyber-Physical System compared to previous studies. Different systems’ structures would influence the performance of swap inter links strategies on improving the reliability of networks. Moreover, our work could guide how to optimize a Cyber-Physical System topology by reducing the influence of cascading failures.",
+                "fragments": [
+                    {
+                        "start": 58,
+                        "end": 63
+                    },
+                    {
+                        "start": 64,
+                        "end": 72
+                    },
+                    {
+                        "start": 73,
+                        "end": 79
+                    },
+                    {
+                        "start": 114,
+                        "end": 122
+                    },
+                    {
+                        "start": 186,
+                        "end": 193
+                    },
+                    {
+                        "start": 214,
+                        "end": 219
+                    },
+                    {
+                        "start": 220,
+                        "end": 228
+                    },
+                    {
+                        "start": 229,
+                        "end": 235
+                    },
+                    {
+                        "start": 278,
+                        "end": 285
+                    },
+                    {
+                        "start": 440,
+                        "end": 445
+                    },
+                    {
+                        "start": 446,
+                        "end": 454
+                    },
+                    {
+                        "start": 455,
+                        "end": 461
+                    },
+                    {
+                        "start": 702,
+                        "end": 709
+                    },
+                    {
+                        "start": 721,
+                        "end": 728
+                    },
+                    {
+                        "start": 899,
+                        "end": 905
+                    },
+                    {
+                        "start": 991,
+                        "end": 996
+                    },
+                    {
+                        "start": 997,
+                        "end": 1005
+                    },
+                    {
+                        "start": 1006,
+                        "end": 1012
+                    },
+                    {
+                        "start": 1053,
+                        "end": 1060
+                    },
+                    {
+                        "start": 1227,
+                        "end": 1232
+                    },
+                    {
+                        "start": 1233,
+                        "end": 1241
+                    },
+                    {
+                        "start": 1242,
+                        "end": 1248
+                    }
+                ]
+            },
+            "paperAbstractTruncated": "In this paper, we give attention to the robustness of the Cyber-Physical System, which consists of interdependent physic...",
+            "tldr": {
+                "text": "This work changes the inter-links topology of the coupled networks to enhance the reliability of the entire system and gets the most effective swapping strategy in enhancing the robustness of the Cyber-Physical System compared to previous studies.",
+                "abstractSimilarityScore": 47
+            },
+            "authors": [
+                [
+                    {
+                        "name": "Hao Peng",
+                        "ids": [
+                            "2007526774"
+                        ],
+                        "slug": "Hao-Peng",
+                        "structuredName": {
+                            "firstName": "Hao",
+                            "middleNames": [],
+                            "lastName": "Peng"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Hao Peng",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Can Liu",
+                        "ids": [
+                            "123266444"
+                        ],
+                        "slug": "Can-Liu",
+                        "structuredName": {
+                            "firstName": "Can",
+                            "middleNames": [],
+                            "lastName": "Liu"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Can Liu",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Dandan Zhao",
+                        "ids": [
+                            "47783266"
+                        ],
+                        "slug": "Dandan-Zhao",
+                        "structuredName": {
+                            "firstName": "Dandan",
+                            "middleNames": [],
+                            "lastName": "Zhao"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Dandan Zhao",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Hongxia Ye",
+                        "ids": [
+                            "2027092617"
+                        ],
+                        "slug": "Hongxia-Ye",
+                        "structuredName": {
+                            "firstName": "Hongxia",
+                            "middleNames": [],
+                            "lastName": "Ye"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Hongxia Ye",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Zian Fang",
+                        "ids": [
+                            "1642176209"
+                        ],
+                        "slug": "Zian-Fang",
+                        "structuredName": {
+                            "firstName": "Zian",
+                            "middleNames": [],
+                            "lastName": "Fang"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Zian Fang",
+                        "fragments": []
+                    }
+                ],
+                [
+                    {
+                        "name": "Wei Wang",
+                        "ids": [
+                            "2158623777"
+                        ],
+                        "slug": "Wei-Wang",
+                        "structuredName": {
+                            "firstName": "Wei",
+                            "middleNames": [],
+                            "lastName": "Wang"
+                        },
+                        "bitmap$0": false
+                    },
+                    {
+                        "text": "Wei Wang",
+                        "fragments": []
+                    }
+                ]
+            ],
+            "structuredAuthors": [
+                {
+                    "firstName": "Hao",
+                    "middleNames": [],
+                    "lastName": "Peng"
+                },
+                {
+                    "firstName": "Can",
+                    "middleNames": [],
+                    "lastName": "Liu"
+                },
+                {
+                    "firstName": "Dandan",
+                    "middleNames": [],
+                    "lastName": "Zhao"
+                },
+                {
+                    "firstName": "Hongxia",
+                    "middleNames": [],
+                    "lastName": "Ye"
+                },
+                {
+                    "firstName": "Zian",
+                    "middleNames": [],
+                    "lastName": "Fang"
+                },
+                {
+                    "firstName": "Wei",
+                    "middleNames": [],
+                    "lastName": "Wang"
+                }
+            ],
+            "year": {
+                "text": "2020",
+                "fragments": []
+            },
+            "venue": {
+                "text": "IEEE Access",
+                "fragments": []
+            },
+            "venueId": "2633f5b2-c15c-49fe-80f5-07523e770c26",
+            "citationContexts": [],
+            "citationStats": {
+                "citedByBuckets": [
+                    {
+                        "startKey": 2020,
+                        "endKey": 2020,
+                        "count": 3
+                    },
+                    {
+                        "startKey": 2021,
+                        "endKey": 2021,
+                        "count": 7
+                    },
+                    {
+                        "startKey": 2022,
+                        "endKey": 2022,
+                        "count": 6
+                    },
+                    {
+                        "startKey": 2023,
+                        "endKey": 2023,
+                        "count": 2
+                    },
+                    {
+                        "startKey": 2024,
+                        "endKey": 2024,
+                        "count": 3
+                    }
+                ],
+                "keyCitedByBuckets": [],
+                "numCitations": 21,
+                "estNumCitations": 48.56455342982544,
+                "numReferences": 55,
+                "numKeyCitations": 1,
+                "numKeyReferences": 4,
+                "numViewableReferences": 55,
+                "keyCitationRate": 0.047619047619047616,
+                "firstCitationVelocityYear": 2021,
+                "lastCitationVelocityYear": 2023
+            },
+            "earliestAcquisitionsDate": 1585820264.08,
+            "journal": {
+                "name": "IEEE Access",
+                "volume": "8",
+                "pages": "63567-63576"
+            },
+            "doiInfo": {
+                "doi": "10.1109/ACCESS.2020.2983335",
+                "doiUrl": "https://doi.org/10.1109/ACCESS.2020.2983335"
+            },
+            "links": [
+                {
+                    "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046760",
+                    "linkType": "ieee"
+                }
+            ],
+            "primaryPaperLink": {
+                "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9046760",
+                "linkType": "ieee"
+            },
+            "alternatePaperLinks": [
+                {
+                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09046760.pdf",
+                    "linkType": "openaccess"
+                },
+                {
+                    "url": "https://doi.org/10.1109/ACCESS.2020.2983335",
+                    "linkType": "doi"
+                }
+            ],
+            "entities": [
+                {
+                    "id": "48065",
+                    "name": "Cyber-physical system",
+                    "slug": "Cyber-physical-system"
+                },
+                {
+                    "id": "23151",
+                    "name": "Paging",
+                    "slug": "Paging"
+                },
+                {
+                    "id": "33271",
+                    "name": "Interdependence",
+                    "slug": "Interdependence"
+                },
+                {
+                    "id": "581434",
+                    "name": "Interdependent networks",
+                    "slug": "Interdependent-networks"
+                },
+                {
+                    "id": "759303",
+                    "name": "Cascading failure",
+                    "slug": "Cascading-failure"
+                },
+                {
+                    "id": "185548",
+                    "name": "Information",
+                    "slug": "Information"
+                },
+                {
+                    "id": "36160",
+                    "name": "Computational resource",
+                    "slug": "Computational-resource"
+                },
+                {
+                    "id": "80",
+                    "name": "Control system",
+                    "slug": "Control-system"
+                },
+                {
+                    "id": "572930",
+                    "name": "Hot swapping",
+                    "slug": "Hot-swapping"
+                }
+            ],
+            "entityRelations": [],
+            "faqs": [],
+            "scorecardStats": [
+                {
+                    "typeKey": "cited_by",
+                    "citationCount": 21,
+                    "keyCitationCount": 1,
+                    "score": 10.0
+                }
+            ],
+            "fieldsOfStudy": [
+                "Computer Science",
+                "Engineering"
+            ],
+            "openAccessInfo": {
+                "license": "CCBY",
+                "status": "GOLD",
+                "location": {
+                    "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09046760.pdf",
+                    "isPdf": true
+                }
+            },
             "badges": [
                 {
                     "id": "OPEN_ACCESS"

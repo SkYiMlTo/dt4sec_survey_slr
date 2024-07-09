@@ -1,0 +1,4730 @@
+[
+    {
+        "title": "Design & Development of Virtual Reality Empowered Cyber-Security Training Testbed for IoT Systems",
+        "authors": [
+            {
+                "lastName": "Chandrashekar"
+            },
+            {
+                "lastName": "King"
+            },
+            {
+                "lastName": "Gračanin"
+            },
+            {
+                "lastName": "Azab"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Mathematically Modified Adaptive Neuro-Fuzzy Inference System for an Intelligent Cyber Security System",
+        "authors": [
+            {
+                "lastName": "Marimuthu"
+            },
+            {
+                "lastName": "Rao"
+            },
+            {
+                "lastName": "Mehbodniya"
+            },
+            {
+                "lastName": "Mohanasundaram"
+            },
+            {
+                "lastName": "Sundaram"
+            },
+            {
+                "lastName": "Maria"
+            },
+            {
+                "lastName": "Mani"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Health Care in the Cyberspace: Medical Cyber-Physical System and Digital Twin Challenges",
+        "authors": [
+            {
+                "lastName": "Jimenez"
+            },
+            {
+                "lastName": "Jahankhani"
+            },
+            {
+                "lastName": "Kendzierskyj"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "MUD-Based Behavioral Profiling Security Framework for Software-Defined IoT Networks",
+        "authors": [
+            {
+                "lastName": "Krishnan"
+            },
+            {
+                "lastName": "Jain"
+            },
+            {
+                "lastName": "Buyya"
+            },
+            {
+                "lastName": "Vijayakumar"
+            },
+            {
+                "lastName": "Nayyar"
+            },
+            {
+                "lastName": "Bilal"
+            },
+            {
+                "lastName": "Song"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cyber-Physical Systems and Digital Twins in the Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Koulamas"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Digital Twin Applications: A Survey of Recent Advances and Challenges",
+        "authors": [
+            {
+                "lastName": "da Silva Mendonça"
+            },
+            {
+                "lastName": "de Oliveira Lins"
+            },
+            {
+                "lastName": "de Bessa"
+            },
+            {
+                "lastName": "de Carvalho Ayres"
+            },
+            {
+                "lastName": "de Medeiros"
+            },
+            {
+                "lastName": "de Lucena"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cybersecurity of Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Gardasevic"
+            },
+            {
+                "lastName": "Berbakov"
+            },
+            {
+                "lastName": "Mastilović"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "A Taxonomy of Security and Defense Mechanisms in Digital Twins-based Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Hussaini"
+            },
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cybersecurity for Digital Twins in the Built Environment: Research Landscape, Industry Attitudes and Future Direction",
+        "authors": [
+            {
+                "lastName": "Alshammari"
+            },
+            {
+                "lastName": "Beach"
+            },
+            {
+                "lastName": "Rezgui"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Digital twins based on augmented reality of measurement instruments for the implementation of a cyber-physical system",
+        "authors": [
+            {
+                "lastName": "Liccardo"
+            },
+            {
+                "lastName": "Bonavolontã"
+            },
+            {
+                "lastName": "Schiano Lo Moriello"
+            },
+            {
+                "lastName": "Lamonaca"
+            },
+            {
+                "lastName": "De Vito"
+            },
+            {
+                "lastName": "Gloria"
+            },
+            {
+                "lastName": "Caputo"
+            },
+            {
+                "lastName": "de Alteriis"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Design & Development of Virtual Reality Empowered Cyber-Security Training Testbed for IoT Systems",
+        "authors": [
+            {
+                "lastName": "Chandrashekar"
+            },
+            {
+                "lastName": "King"
+            },
+            {
+                "lastName": "Gračanin"
+            },
+            {
+                "lastName": "Azab"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Mathematically Modified Adaptive Neuro-Fuzzy Inference System for an Intelligent Cyber Security System",
+        "authors": [
+            {
+                "lastName": "Marimuthu"
+            },
+            {
+                "lastName": "Rao"
+            },
+            {
+                "lastName": "Mehbodniya"
+            },
+            {
+                "lastName": "Mohanasundaram"
+            },
+            {
+                "lastName": "Sundaram"
+            },
+            {
+                "lastName": "Maria"
+            },
+            {
+                "lastName": "Mani"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Health Care in the Cyberspace: Medical Cyber-Physical System and Digital Twin Challenges",
+        "authors": [
+            {
+                "lastName": "Jimenez"
+            },
+            {
+                "lastName": "Jahankhani"
+            },
+            {
+                "lastName": "Kendzierskyj"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "MUD-Based Behavioral Profiling Security Framework for Software-Defined IoT Networks",
+        "authors": [
+            {
+                "lastName": "Krishnan"
+            },
+            {
+                "lastName": "Jain"
+            },
+            {
+                "lastName": "Buyya"
+            },
+            {
+                "lastName": "Vijayakumar"
+            },
+            {
+                "lastName": "Nayyar"
+            },
+            {
+                "lastName": "Bilal"
+            },
+            {
+                "lastName": "Song"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cyber-Physical Systems and Digital Twins in the Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Koulamas"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Digital Twin Applications: A Survey of Recent Advances and Challenges",
+        "authors": [
+            {
+                "lastName": "da Silva Mendonça"
+            },
+            {
+                "lastName": "de Oliveira Lins"
+            },
+            {
+                "lastName": "de Bessa"
+            },
+            {
+                "lastName": "de Carvalho Ayres"
+            },
+            {
+                "lastName": "de Medeiros"
+            },
+            {
+                "lastName": "de Lucena"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cybersecurity of Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Gardasevic"
+            },
+            {
+                "lastName": "Berbakov"
+            },
+            {
+                "lastName": "Mastilović"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "A Taxonomy of Security and Defense Mechanisms in Digital Twins-based Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Hussaini"
+            },
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cybersecurity for Digital Twins in the Built Environment: Research Landscape, Industry Attitudes and Future Direction",
+        "authors": [
+            {
+                "lastName": "Alshammari"
+            },
+            {
+                "lastName": "Beach"
+            },
+            {
+                "lastName": "Rezgui"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Digital twins based on augmented reality of measurement instruments for the implementation of a cyber-physical system",
+        "authors": [
+            {
+                "lastName": "Liccardo"
+            },
+            {
+                "lastName": "Bonavolontã"
+            },
+            {
+                "lastName": "Schiano Lo Moriello"
+            },
+            {
+                "lastName": "Lamonaca"
+            },
+            {
+                "lastName": "De Vito"
+            },
+            {
+                "lastName": "Gloria"
+            },
+            {
+                "lastName": "Caputo"
+            },
+            {
+                "lastName": "de Alteriis"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Industry-university collaboration on IoT cyber security education: Academic course: \"Resilience of Internet of Things and cyber-physical systems\"",
+        "authors": [
+            {
+                "lastName": "Rajamäki"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A Triple Human-Digital Twin Architecture for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Shangguan"
+            },
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Su"
+            },
+            {
+                "lastName": "Ding"
+            },
+            {
+                "lastName": "Liu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "AML4DT: A Model-Driven Framework for Developing and Maintaining Digital Twins with AutomationML",
+        "authors": [
+            {
+                "lastName": "Lehner"
+            },
+            {
+                "lastName": "Sint"
+            },
+            {
+                "lastName": "Vierhauser"
+            },
+            {
+                "lastName": "Narzt"
+            },
+            {
+                "lastName": "Wimmer"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Industrial IoT and Digital Twins for a Smart Factory : An open source toolkit for application design and benchmarking",
+        "authors": [
+            {
+                "lastName": "Kamath"
+            },
+            {
+                "lastName": "Morgan"
+            },
+            {
+                "lastName": "Ali"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Digital Twins in Architecture, Engineering, Construction and Operations. A Brief Review and Analysis",
+        "authors": [
+            {
+                "lastName": "Al-Sehrawy"
+            },
+            {
+                "lastName": "Kumar"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Enhancing Cybersecurity in Smart Manufacturing: A Comprehensive Approach",
+        "authors": [
+            {
+                "lastName": "Bharti"
+            },
+            {
+                "lastName": "Hazela"
+            }
+        ],
+        "publicationYear": "2024"
+    },
+    {
+        "title": "Old MacDonald had a smart farm: Building a testbed to study cybersecurity in smart dairy farming",
+        "authors": [
+            {
+                "lastName": "Agarwal"
+            },
+            {
+                "lastName": "Rashid"
+            },
+            {
+                "lastName": "Gardiner"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Deep Learning Model for Cybersecurity Attack Detection in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Abdullahi"
+            },
+            {
+                "lastName": "Alhussian"
+            },
+            {
+                "lastName": "Aziz"
+            },
+            {
+                "lastName": "Abdulkadir"
+            },
+            {
+                "lastName": "Baashar"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "A Managerial Review and Guidelines for Industry 4.0 Factories on Cybersecurity",
+        "authors": [
+            {
+                "lastName": "Zia"
+            },
+            {
+                "lastName": "Burita"
+            },
+            {
+                "lastName": "Huseynova"
+            },
+            {
+                "lastName": "Owusu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cognitive Cybersecurity for CPS-IoT Enabled Healthcare Ecosystems",
+        "authors": [
+            {
+                "lastName": "Abie"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "An Evaluative Study on IoT Ecosystem for Smart Predictive Maintenance (IoT-SPM) in Manufacturing: Multiview Requirements and Data Quality",
+        "authors": [
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Yu"
+            },
+            {
+                "lastName": "Rahayu"
+            },
+            {
+                "lastName": "Dillon"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Cyber Physical Security for Industrial Control Systems and IoT",
+        "authors": [
+            {
+                "lastName": "Kobara"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Detecting Cyber Supply Chain Attacks on Cyber Physical Systems Using Bayesian Belief Network",
+        "authors": [
+            {
+                "lastName": "Yeboah-Ofori"
+            },
+            {
+                "lastName": "Islam"
+            },
+            {
+                "lastName": "Brimicombe"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "A Cyber Digital Twin Framework to Support Cyber-Physical Systems Security",
+        "authors": [
+            {
+                "lastName": "Somma"
+            },
+            {
+                "lastName": "Casola"
+            },
+            {
+                "lastName": "Cavalli"
+            },
+            {
+                "lastName": "De Benedictis"
+            },
+            {
+                "lastName": "Mallouli"
+            },
+            {
+                "lastName": "Valdés"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "A new enhanced cyber security framework for medical cyber physical systems",
+        "authors": [
+            {
+                "lastName": "Priyadarshini"
+            },
+            {
+                "lastName": "Kumar"
+            },
+            {
+                "lastName": "Tuan"
+            },
+            {
+                "lastName": "Son"
+            },
+            {
+                "lastName": "Long"
+            },
+            {
+                "lastName": "Sharma"
+            },
+            {
+                "lastName": "Rai"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber-Physical System Security Based on Human Activity Recognition through IoT Cloud Computing",
+        "authors": [
+            {
+                "lastName": "Achar"
+            },
+            {
+                "lastName": "Faruqui"
+            },
+            {
+                "lastName": "Whaiduzzaman"
+            },
+            {
+                "lastName": "Awajan"
+            },
+            {
+                "lastName": "Alazab"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Cyber-physical system with IoT-based smart vehicles",
+        "authors": [
+            {
+                "lastName": "Alshdadi"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Digital Twin - Cyber Replica of Physical Things: Architecture, Applications and Future Research Directions",
+        "authors": [
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Ripley"
+            },
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Liang"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Blockchain, Internet of Things and Digital Twins in Trustless Security of Critical National Infrastructure",
+        "authors": [
+            {
+                "lastName": "Hammoudeh"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Digital Twin perspective of Fourth Industrial and Healthcare Revolution",
+        "authors": [
+            {
+                "lastName": "Khan"
+            },
+            {
+                "lastName": "Arslan"
+            },
+            {
+                "lastName": "Ratnarajah"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Digital Twin Virtualization with Machine Learning for IoT and Beyond 5G Networks: Research Directions for Security and Optimal Control",
+        "authors": [
+            {
+                "lastName": "Jagannath"
+            },
+            {
+                "lastName": "Ramezanpour"
+            },
+            {
+                "lastName": "Jagannath"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Digital Twin-Assisted Cooperative Driving at Non-Signalized Intersections",
+        "authors": [
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Han"
+            },
+            {
+                "lastName": "Tiwari"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "An Adapted Model of Cognitive Digital Twins for Building Lifecycle Management",
+        "authors": [
+            {
+                "lastName": "Yitmen"
+            },
+            {
+                "lastName": "Alizadehsalehi"
+            },
+            {
+                "lastName": "Akıner"
+            },
+            {
+                "lastName": "Akıner"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Toward Detection and Attribution of Cyber-Attacks in IoT-Enabled Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Jahromi"
+            },
+            {
+                "lastName": "Karimipour"
+            },
+            {
+                "lastName": "Dehghantanha"
+            },
+            {
+                "lastName": "Choo"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Blockchain-Based Deep Learning Approach for Cyber Security in Next Generation Industrial Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Rathore"
+            },
+            {
+                "lastName": "Park"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "STRIDE-based Cyber Security Threat Modeling for IoT-enabled Precision Agriculture Systems",
+        "authors": [
+            {
+                "lastName": "Asif"
+            },
+            {
+                "lastName": "Hasan"
+            },
+            {
+                "lastName": "Islam"
+            },
+            {
+                "lastName": "Khondoker"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A survey on Classification of Cyber-attacks on IoT and IIoT devices",
+        "authors": [
+            {
+                "lastName": "Shah"
+            },
+            {
+                "lastName": "Sengupta"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Data Integrity: A security threat for Internet of Things and Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Garagad"
+            },
+            {
+                "lastName": "Iyer"
+            },
+            {
+                "lastName": "Wali"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Digital Twins for Dependability Improvement of Autonomous Driving",
+        "authors": [
+            {
+                "lastName": "Veledar"
+            },
+            {
+                "lastName": "Damjanovic-Behrendt"
+            },
+            {
+                "lastName": "Macher"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Preliminary Exploration on Digital Twin for Power Systems: Challenges, Framework, and Applications.",
+        "authors": [
+            {
+                "lastName": "He"
+            },
+            {
+                "lastName": "Ai"
+            },
+            {
+                "lastName": "Qiu"
+            },
+            {
+                "lastName": "Zhang"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Digital Twin Modeling, Co-Simulation and Cyber Use-Case Inclusion Methodology for IOT Systems",
+        "authors": [
+            {
+                "lastName": "Mittal"
+            },
+            {
+                "lastName": "Tolk"
+            },
+            {
+                "lastName": "Pyles"
+            },
+            {
+                "lastName": "Balen"
+            },
+            {
+                "lastName": "Bergollo"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Towards an Importance of Security for Cyber-Physical Systems/Internet-of-Things",
+        "authors": [
+            {
+                "lastName": "Rehman"
+            },
+            {
+                "lastName": "Ceglia"
+            },
+            {
+                "lastName": "Siddiqui"
+            },
+            {
+                "lastName": "Gruhn"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Cyber Physical Systems: The Role of Machine Learning and Cyber Security in Present and Future",
+        "authors": [
+            {
+                "lastName": "SravanthiReddy"
+            },
+            {
+                "lastName": "Shamila"
+            },
+            {
+                "lastName": "Tyagi"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Artificial Intelligence for Detection, Estimation, and Compensation of Malicious Attacks in Nonlinear Cyber-Physical Systems and Industrial IoT",
+        "authors": [
+            {
+                "lastName": "Farivar"
+            },
+            {
+                "lastName": "Haghighi"
+            },
+            {
+                "lastName": "Jolfaei"
+            },
+            {
+                "lastName": "Alazab"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Hybrid Technique for Cyber-Physical Security in Cloud-Based Smart Industries",
+        "authors": [
+            {
+                "lastName": "Garg"
+            },
+            {
+                "lastName": "Rani"
+            },
+            {
+                "lastName": "Herencsar"
+            },
+            {
+                "lastName": "Verma"
+            },
+            {
+                "lastName": "Woźniak"
+            },
+            {
+                "lastName": "Ijaz"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Trends in Smart Manufacturing: Role of Humans and Industrial Robots in Smart Factories",
+        "authors": [
+            {
+                "lastName": "Evjemo"
+            },
+            {
+                "lastName": "Gjerstad"
+            },
+            {
+                "lastName": "Grøtli"
+            },
+            {
+                "lastName": "Sziebig"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Intelligent Behavior-Based Malware Detection System on Cloud Computing Environment",
+        "authors": [
+            {
+                "lastName": "Aslan"
+            },
+            {
+                "lastName": "Ozkan-Okay"
+            },
+            {
+                "lastName": "Gupta"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Provable Secure and Lightweight Smart Healthcare Cyber-Physical System With Public Verifiability",
+        "authors": [
+            {
+                "lastName": "Kumar"
+            },
+            {
+                "lastName": "Chand"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Security of Machine Learning-Based Anomaly Detection in Cyber Physical Systems",
+        "authors": [
+            {
+                "lastName": "Jadidi"
+            },
+            {
+                "lastName": "Pal"
+            },
+            {
+                "lastName": "K"
+            },
+            {
+                "lastName": "Selvakkumar"
+            },
+            {
+                "lastName": "Chang"
+            },
+            {
+                "lastName": "Beheshti"
+            },
+            {
+                "lastName": "Jolfaei"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "G-IDS: Generative Adversarial Networks Assisted Intrusion Detection System",
+        "authors": [
+            {
+                "lastName": "Shahriar"
+            },
+            {
+                "lastName": "Haque"
+            },
+            {
+                "lastName": "Rahman"
+            },
+            {
+                "lastName": "Alonso"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Security risks in cyber physical systems—A systematic mapping study",
+        "authors": [
+            {
+                "lastName": "Zahid"
+            },
+            {
+                "lastName": "Inayat"
+            },
+            {
+                "lastName": "Daneva"
+            },
+            {
+                "lastName": "Mehmood"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Risk Management and Standard Compliance for Cyber-Physical Systems of Systems",
+        "authors": [
+            {
+                "lastName": "Matta"
+            },
+            {
+                "lastName": "Chlup"
+            },
+            {
+                "lastName": "Shaaban"
+            },
+            {
+                "lastName": "Schmittner"
+            },
+            {
+                "lastName": "Pinzenöhler"
+            },
+            {
+                "lastName": "Szalai"
+            },
+            {
+                "lastName": "Tauber"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber-Physical Vulnerability Analysis of Communication-Based Train Control",
+        "authors": [
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Won"
+            },
+            {
+                "lastName": "Park"
+            },
+            {
+                "lastName": "Eun"
+            },
+            {
+                "lastName": "Park"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "CYBER-PHYSICAL VUNERABILITIES IN ADDITIVE MANUFACTURING SYSTEMS",
+        "authors": [
+            {
+                "lastName": "Sturm"
+            },
+            {
+                "lastName": "Williams"
+            },
+            {
+                "lastName": "Camelio"
+            },
+            {
+                "lastName": "White"
+            },
+            {
+                "lastName": "Parker"
+            }
+        ],
+        "publicationYear": "2014"
+    },
+    {
+        "title": "Evaluation of GAN Applicability for Intrusion Detection in Self-Organizing Networks of Cyber Physical Systems",
+        "authors": [
+            {
+                "lastName": "Belenko"
+            },
+            {
+                "lastName": "Chernenko"
+            },
+            {
+                "lastName": "Kalinin"
+            },
+            {
+                "lastName": "Krundyshev"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "An accurate multi-modal biometric identification system for person identification via fusion of face and finger print",
+        "authors": [
+            {
+                "lastName": "Aleem"
+            },
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Masood"
+            },
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Sheng"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Machine Learning Techniques for IoT Intrusions Detection in Aerospace Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Maleh"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Augmented reality and digital twin system for interaction with construction machinery",
+        "authors": [
+            {
+                "lastName": "Hasan"
+            },
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Moon"
+            },
+            {
+                "lastName": "Kwon"
+            },
+            {
+                "lastName": "Jinwoo"
+            },
+            {
+                "lastName": "Lee"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "TwinOps - DevOps meets model-based engineering and digital twins for the engineering of CPS",
+        "authors": [
+            {
+                "lastName": "Hugues"
+            },
+            {
+                "lastName": "Hristosov"
+            },
+            {
+                "lastName": "Hudak"
+            },
+            {
+                "lastName": "Yankel"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "On the Security of Cyber-Physical Systems Against Stochastic Cyber-Attacks Models",
+        "authors": [
+            {
+                "lastName": "Al-Haija"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "IoT-based Mine Ventilation Control System Architecture with Digital Twin",
+        "authors": [
+            {
+                "lastName": "Kychkin"
+            },
+            {
+                "lastName": "Nikolaev"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "IEEE 1451 Smart Sensor Digital Twin Federation for IoT/CPS Research",
+        "authors": [
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Burns"
+            },
+            {
+                "lastName": "Pandey"
+            },
+            {
+                "lastName": "Roth"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Study of Cyber Attacks on Cyber-Physical System",
+        "authors": [
+            {
+                "lastName": "Singh"
+            },
+            {
+                "lastName": "Jain"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Cyber Attack Detection on IOT Using Network Traffic Mechanism by Neural Network Predictive Approach",
+        "authors": [
+            {
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "lastName": "Balajivijayan"
+            },
+            {
+                "lastName": "Sowmiya"
+            },
+            {
+                "lastName": "Thiagarajan"
+            },
+            {
+                "lastName": "Arun"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Artiﬁcial Intelligence for Detection, Estimation, and Compensation of Malicious Attacks in Nonlinear Cyber Physical Systems and Industrial IoT",
+        "authors": [
+            {
+                "lastName": "Faezeh Farivar"
+            },
+            {
+                "lastName": "Mohammad Sayad Haghighi"
+            },
+            {
+                "lastName": "Mamoun Alazab"
+            },
+            {
+                "lastName": "Haghighi"
+            },
+            {
+                "lastName": "Jolfaei"
+            }
+        ],
+        "publicationYear": ""
+    },
+    {
+        "title": "Computational Intelligence Enabled Cybersecurity for the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Zhao"
+            },
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Qi"
+            },
+            {
+                "lastName": "Xu"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Internet of Things, cybersecurity and governing wicked problems: learning from climate change governance",
+        "authors": [
+            {
+                "lastName": "Carr"
+            },
+            {
+                "lastName": "Lesniewska"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "An Ontology-Based Cybersecurity Framework for the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Mozzaquatro"
+            },
+            {
+                "lastName": "Agostinho"
+            },
+            {
+                "lastName": "Gonçalves"
+            },
+            {
+                "lastName": "Martins"
+            },
+            {
+                "lastName": "Jardim-Gonçalves"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "The internet of things for smart manufacturing: A review",
+        "authors": [
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Kumara"
+            },
+            {
+                "lastName": "Bukkapatnam"
+            },
+            {
+                "lastName": "Tsung"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Artificial Intelligence and the Internet of Things in Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Radanliev"
+            },
+            {
+                "lastName": "De Roure"
+            },
+            {
+                "lastName": "Nicolescu"
+            },
+            {
+                "lastName": "Huth"
+            },
+            {
+                "lastName": "Santos"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Machine Learning for Security and the Internet of Things: The Good, the Bad, and the Ugly",
+        "authors": [
+            {
+                "lastName": "Liang"
+            },
+            {
+                "lastName": "Hatcher"
+            },
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Gao"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Towards The Internet-of-Smart-Clothing: A Review on IoT Wearables and Garments for Creating Intelligent Connected E-Textiles",
+        "authors": [
+            {
+                "lastName": "Fernández-Caramés"
+            },
+            {
+                "lastName": "Fraga-Lamas"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Analysis of Cyber-Attack in Big Data IoT and Cyber-Physical Systems - A Technical Approach to Cybersecurity Modeling",
+        "authors": [
+            {
+                "lastName": "Sen"
+            },
+            {
+                "lastName": "Jayawardena"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "The security challenges in the IoT enabled cyber-physical systems and opportunities for evolutionary computing & other computational intelligence",
+        "authors": [
+            {
+                "lastName": "He"
+            },
+            {
+                "lastName": "Maple"
+            },
+            {
+                "lastName": "Watson"
+            },
+            {
+                "lastName": "Tiwari"
+            },
+            {
+                "lastName": "Mehnen"
+            },
+            {
+                "lastName": "Jin"
+            },
+            {
+                "lastName": "Gabrys"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Cyber-Physical Observability for the Electric Grid",
+        "authors": [
+            {
+                "lastName": "Jacobs"
+            },
+            {
+                "lastName": "Hossain‐McKenzie"
+            },
+            {
+                "lastName": "Summers"
+            },
+            {
+                "lastName": "Jones"
+            },
+            {
+                "lastName": "Wright"
+            },
+            {
+                "lastName": "Chavez"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Benchmarking Vulnerability Assessment Tools for Enhanced Cyber-Physical System (CPS) Resiliency",
+        "authors": [
+            {
+                "lastName": "McMahon"
+            },
+            {
+                "lastName": "Patton"
+            },
+            {
+                "lastName": "Samtani"
+            },
+            {
+                "lastName": "Chen"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Enhancing cyber-physical security in manufacturing through game-theoretic analysis",
+        "authors": [
+            {
+                "lastName": "DeSmit"
+            },
+            {
+                "lastName": "Kulkarni"
+            },
+            {
+                "lastName": "Wernz"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Securing Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Pathan"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "A Survey of Internet of Things and Cyber-Physical Systems: Standards, Algorithms, Applications, Security, Challenges, and Future Directions",
+        "authors": [
+            {
+                "lastName": "Chui"
+            },
+            {
+                "lastName": "Gupta"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Arya"
+            },
+            {
+                "lastName": "Nedjah"
+            },
+            {
+                "lastName": "Almomani"
+            },
+            {
+                "lastName": "Chaurasia"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "Secure Smart Wearable Computing through Artificial Intelligence-Enabled Internet of Things and Cyber-Physical Systems for Health Monitoring",
+        "authors": [
+            {
+                "lastName": "Ramasamy"
+            },
+            {
+                "lastName": "Khan"
+            },
+            {
+                "lastName": "Shah"
+            },
+            {
+                "lastName": "Prasad"
+            },
+            {
+                "lastName": "Iwendi"
+            },
+            {
+                "lastName": "Biamba"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Safety, Security and Privacy in Machine Learning Based Internet of Things",
+        "authors": [
+            {
+                "lastName": "Abbas"
+            },
+            {
+                "lastName": "Mehmood"
+            },
+            {
+                "lastName": "Maple"
+            },
+            {
+                "lastName": "Epiphaniou"
+            },
+            {
+                "lastName": "Lloret"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Recent Advances in Artificial Intelligence for Wireless Internet of Things and Cyber–Physical Systems: A Comprehensive Survey",
+        "authors": [
+            {
+                "lastName": "Salau"
+            },
+            {
+                "lastName": "Rawal"
+            },
+            {
+                "lastName": "Rawat"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "A Review of the Integration of Cyber-Physical System and Internet of Things",
+        "authors": [
+            {
+                "lastName": "Nandhini"
+            },
+            {
+                "lastName": "Lakshmanan"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Cyber Physical System: Security Challenges in Internet of Things System",
+        "authors": [
+            {
+                "lastName": "Mohanta"
+            },
+            {
+                "lastName": "Dehury"
+            },
+            {
+                "lastName": "Sukhni"
+            },
+            {
+                "lastName": "Mohapatra"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "A Survey of Honeypots and Honeynets for Internet of Things, Industrial Internet of Things, and Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Franco"
+            },
+            {
+                "lastName": "Aris"
+            },
+            {
+                "lastName": "Canberk"
+            },
+            {
+                "lastName": "Uluagac"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Internet of Things and Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Grobelna"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "SHARKS: Smart Hacking Approaches for RisK Scanning in Internet-of-Things and Cyber-Physical Systems Based on Machine Learning",
+        "authors": [
+            {
+                "lastName": "Saha"
+            },
+            {
+                "lastName": "Aaraj"
+            },
+            {
+                "lastName": "Ajjarapu"
+            },
+            {
+                "lastName": "Jha"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Anatomy of Threats to the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Makhdoom"
+            },
+            {
+                "lastName": "Abolhasan"
+            },
+            {
+                "lastName": "Lipman"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Ni"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "The Role and Impact of Industry 4.0 and the Internet of Things on the Business Strategy of the Value Chain—The Case of Hungary",
+        "authors": [
+            {
+                "lastName": "Nagy"
+            },
+            {
+                "lastName": "Oláh"
+            },
+            {
+                "lastName": "Erdei"
+            },
+            {
+                "lastName": "Máté"
+            },
+            {
+                "lastName": "Popp"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "GRAVITAS: Graphical Reticulated Attack Vectors for Internet-of-Things Aggregate Security",
+        "authors": [
+            {
+                "lastName": "Brown"
+            },
+            {
+                "lastName": "Saha"
+            },
+            {
+                "lastName": "Jha"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Industry 4.0: The Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Gilchrist"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Industrial Internet of Things and Cyber Manufacturing Systems",
+        "authors": [
+            {
+                "lastName": "Jeschke"
+            },
+            {
+                "lastName": "Brecher"
+            },
+            {
+                "lastName": "Meisen"
+            },
+            {
+                "lastName": "Özdemir"
+            },
+            {
+                "lastName": "Eschert"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Guest Editorial: Cloud-Edge Computing for Cyber-Physical Systems and Internet of Things",
+        "authors": [
+            {
+                "lastName": "Hu"
+            },
+            {
+                "lastName": "Shi"
+            },
+            {
+                "lastName": "Colombo"
+            },
+            {
+                "lastName": "Karnouskos"
+            },
+            {
+                "lastName": "Li"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Reinforcement Learning-Based Control and Networking Co-Design for Industrial Internet of Things",
+        "authors": [
+            {
+                "lastName": "Xu"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Yu"
+            },
+            {
+                "lastName": "Griffith"
+            },
+            {
+                "lastName": "Golmie"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Wireless Communication and Security Issues for Cyber–Physical Systems and the Internet-of-Things",
+        "authors": [
+            {
+                "lastName": "Burg"
+            },
+            {
+                "lastName": "Chattopadhyay"
+            },
+            {
+                "lastName": "Lam"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Artificial intelligence in Internet of things",
+        "authors": [
+            {
+                "lastName": "Ghosh"
+            },
+            {
+                "lastName": "Chakraborty"
+            },
+            {
+                "lastName": "Law"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Sensor Reliability in Cyber-Physical Systems Using Internet-of-Things Data: A Review and Case Study",
+        "authors": [
+            {
+                "lastName": "Castaño"
+            },
+            {
+                "lastName": "Strzelczak"
+            },
+            {
+                "lastName": "Villalonga"
+            },
+            {
+                "lastName": "Haber"
+            },
+            {
+                "lastName": "Kossakowska"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "A Roadmap Toward the Resilient Internet of Things for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Ratasich"
+            },
+            {
+                "lastName": "Khalid"
+            },
+            {
+                "lastName": "Geissler"
+            },
+            {
+                "lastName": "Grosu"
+            },
+            {
+                "lastName": "Shafique"
+            },
+            {
+                "lastName": "Bartocci"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Sensor-Chain: A Lightweight Scalable Blockchain Framework for Internet of Things",
+        "authors": [
+            {
+                "lastName": "Shahid"
+            },
+            {
+                "lastName": "Pissinou"
+            },
+            {
+                "lastName": "Staier"
+            },
+            {
+                "lastName": "Kwan"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Exploring Data Security and Privacy Issues in Internet of Things Based on Five-Layer Architecture",
+        "authors": [
+            {
+                "lastName": "Patchmuthu"
+            },
+            {
+                "lastName": "Wan"
+            },
+            {
+                "lastName": "Suhaili"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Recent Advancements in Intrusion Detection Systems for the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Khan"
+            },
+            {
+                "lastName": "Herrmann"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Search Engine for the Internet of Things: Lessons From Web Search, Vision, and Opportunities",
+        "authors": [
+            {
+                "lastName": "Liang"
+            },
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Hatcher"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Implementation of Industrial Internet of Things and Cyber-Physical Systems in SMEs for Distributed and Service-Oriented Control",
+        "authors": [
+            {
+                "lastName": "Rojas"
+            },
+            {
+                "lastName": "Garcia"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "A review Cyber of Industry 4.0 (Cyber-Physical Systems (CPS), the Internet of Things (IoT) and the Internet of Services (IoS)): Components, and Security Challenges.",
+        "authors": [
+            {
+                "lastName": "Al-Salman"
+            },
+            {
+                "lastName": "Salih"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "The Big Picture on the \"AI Turn\" for Digital Health: The Internet of Things and Cyber-Physical Systems.",
+        "authors": [
+            {
+                "lastName": "Özdemir"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "An Internet-of-Things (IoT) based cyber manufacturing framework for the assembly of microdevices",
+        "authors": [
+            {
+                "lastName": "Cecil"
+            },
+            {
+                "lastName": "Albuhamood"
+            },
+            {
+                "lastName": "Ramanathan"
+            },
+            {
+                "lastName": "Gupta"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Secure and Trusted Execution: Past, Present, and Future - A Critical Review in the Context of the Internet of Things and Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Shepherd"
+            },
+            {
+                "lastName": "Arfaoui"
+            },
+            {
+                "lastName": "Gurulian"
+            },
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Markantonakis"
+            },
+            {
+                "lastName": "Akram"
+            },
+            {
+                "lastName": "Sauveron"
+            },
+            {
+                "lastName": "Conchon"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Surveying the Hardware Trojan Threat Landscape for the Internet-of-Things",
+        "authors": [
+            {
+                "lastName": "Venugopalan"
+            },
+            {
+                "lastName": "Patterson"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A Microservice Architecture for the Industrial Internet-Of-Things",
+        "authors": [
+            {
+                "lastName": "Dobaj"
+            },
+            {
+                "lastName": "Iber"
+            },
+            {
+                "lastName": "Krisper"
+            },
+            {
+                "lastName": "Kreiner"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Lightweight security protocols for the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Wu"
+            },
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Robustness for Smart Cyber Physical Systems and Internet-of-Things: From Adaptive Robustness Methods to Reliability and Security for Machine Learning",
+        "authors": [
+            {
+                "lastName": "Kriebel"
+            },
+            {
+                "lastName": "Rehman"
+            },
+            {
+                "lastName": "Hanif"
+            },
+            {
+                "lastName": "Khalid"
+            },
+            {
+                "lastName": "Shafique"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "An authentication and access control framework for CoAP-based Internet of Things",
+        "authors": [
+            {
+                "lastName": "Pereira"
+            },
+            {
+                "lastName": "Eliasson"
+            },
+            {
+                "lastName": "Delsing"
+            }
+        ],
+        "publicationYear": "2014"
+    },
+    {
+        "title": "SCALE: Safe community awareness and alerting leveraging the internet of things",
+        "authors": [
+            {
+                "lastName": "Benson"
+            },
+            {
+                "lastName": "Fracchia"
+            },
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Zhu"
+            },
+            {
+                "lastName": "Almomen"
+            },
+            {
+                "lastName": "Cohn"
+            },
+            {
+                "lastName": "D'arcy"
+            },
+            {
+                "lastName": "Hoffman"
+            },
+            {
+                "lastName": "Makai"
+            },
+            {
+                "lastName": "Stamatakis"
+            },
+            {
+                "lastName": "Venkatasubramanian"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "Information Fusion to Defend Intentional Attack in Internet of Things",
+        "authors": [
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Cheng"
+            },
+            {
+                "lastName": "Chen"
+            }
+        ],
+        "publicationYear": "2014"
+    },
+    {
+        "title": "Utilizing the Internet of Things (IoT) Technologies in the Implementation of Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Zawra"
+            },
+            {
+                "lastName": "Mansour"
+            },
+            {
+                "lastName": "Eldin"
+            },
+            {
+                "lastName": "Messiha"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Panel summary of cyber-physical systems (CPS) and Internet of Things (IoT) opportunities with information fusion",
+        "authors": [
+            {
+                "lastName": "Blasch"
+            },
+            {
+                "lastName": "Kadar"
+            },
+            {
+                "lastName": "Grewe"
+            },
+            {
+                "lastName": "Brooks"
+            },
+            {
+                "lastName": "Yu"
+            },
+            {
+                "lastName": "Kwasinski"
+            },
+            {
+                "lastName": "Thomopoulos"
+            },
+            {
+                "lastName": "Salerno"
+            },
+            {
+                "lastName": "Qi"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "TRM-IoT: A trust management model based on fuzzy reputation for internet of things",
+        "authors": [
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Chang"
+            },
+            {
+                "lastName": "Sun"
+            },
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Jia"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2011"
+    },
+    {
+        "title": "A data privacy model based on internet of things and cyber-physical systems reference architectures",
+        "authors": [
+            {
+                "lastName": "Baloyi"
+            },
+            {
+                "lastName": "Kotzé"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Real-time big data computing for Internet of Things and cyber physical system aided medical devices for better healthcare",
+        "authors": [
+            {
+                "lastName": "Rizwan"
+            },
+            {
+                "lastName": "Babu"
+            },
+            {
+                "lastName": "Balamurugan"
+            },
+            {
+                "lastName": "Suresh"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Cyber-Physical System and Internet of Things Security: An Overview",
+        "authors": [
+            {
+                "lastName": "Ulz"
+            },
+            {
+                "lastName": "Haas"
+            },
+            {
+                "lastName": "Steger"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "A New Software Engineering Undergraduate Program Supporting the Internet of Things (IoT) and Cyber-Physical Systems (CPS)",
+        "authors": [
+            {
+                "lastName": "Laird"
+            },
+            {
+                "lastName": "Bowen"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Lightweight key management scheme to enhance the security of internet of things",
+        "authors": [
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Chang"
+            },
+            {
+                "lastName": "Sun"
+            },
+            {
+                "lastName": "Jia"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2012"
+    },
+    {
+        "title": "Towards a Semantic Web of Things: A Hybrid Semantic Annotation, Extraction, and Reasoning Framework for Cyber-Physical System",
+        "authors": [
+            {
+                "lastName": "Wu"
+            },
+            {
+                "lastName": "Xu"
+            },
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Zhang"
+            },
+            {
+                "lastName": "Zhu"
+            },
+            {
+                "lastName": "Ji"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Cyber-Physical Cloud Computing Systems and Internet of Everything",
+        "authors": [
+            {
+                "lastName": "Kaur"
+            },
+            {
+                "lastName": "Riaz"
+            },
+            {
+                "lastName": "Mushtaq"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "The Role of Internet of Services (IoS) on Industry 4.0 Through the Service Oriented Architecture (SOA)",
+        "authors": [
+            {
+                "lastName": "Reis"
+            },
+            {
+                "lastName": "Gonçalves"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A Novel Hybrid Trustworthy Decentralized Authentication and Data Preservation Model for Digital Healthcare IoT Based CPS",
+        "authors": [
+            {
+                "lastName": "Almaiah"
+            },
+            {
+                "lastName": "Hajjej"
+            },
+            {
+                "lastName": "Ali"
+            },
+            {
+                "lastName": "Pasha"
+            },
+            {
+                "lastName": "Almomani"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Trustworthiness in Industrial IoT Systems Based on Artificial Intelligence",
+        "authors": [
+            {
+                "lastName": "Lv"
+            },
+            {
+                "lastName": "Han"
+            },
+            {
+                "lastName": "Singh"
+            },
+            {
+                "lastName": "Manogaran"
+            },
+            {
+                "lastName": "Lv"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Survey of Cyber-Physical Systems From a Game-Theoretic Perspective",
+        "authors": [
+            {
+                "lastName": "Tushar"
+            },
+            {
+                "lastName": "Yuen"
+            },
+            {
+                "lastName": "Saha"
+            },
+            {
+                "lastName": "Nizami"
+            },
+            {
+                "lastName": "Alam"
+            },
+            {
+                "lastName": "Smith"
+            },
+            {
+                "lastName": "Vincent Poor"
+            }
+        ],
+        "publicationYear": "2023"
+    },
+    {
+        "title": "New IT Driven Service-Oriented Smart Manufacturing: Framework and Characteristics",
+        "authors": [
+            {
+                "lastName": "Tao"
+            },
+            {
+                "lastName": "Qi"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Deep Neural Network Security Collaborative Filtering Scheme for Service Recommendation in Intelligent Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Liang"
+            },
+            {
+                "lastName": "Xie"
+            },
+            {
+                "lastName": "Cai"
+            },
+            {
+                "lastName": "Xu"
+            },
+            {
+                "lastName": "Hu"
+            },
+            {
+                "lastName": "Xu"
+            },
+            {
+                "lastName": "Qiu"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction",
+        "authors": [
+            {
+                "lastName": "Jiang"
+            },
+            {
+                "lastName": "Yin"
+            },
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Deng"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Cai"
+            },
+            {
+                "lastName": "Deng"
+            },
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Shibasaki"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cloud-Assisted IoT-Based SCADA Systems Security: A Review of the State of the Art and Future Challenges",
+        "authors": [
+            {
+                "lastName": "Sajid"
+            },
+            {
+                "lastName": "Abbas"
+            },
+            {
+                "lastName": "Saleem"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "A Review of Passive RFID Tag Antenna-Based Sensors and Systems for Structural Health Monitoring Applications",
+        "authors": [
+            {
+                "lastName": "Zhang"
+            },
+            {
+                "lastName": "Tian"
+            },
+            {
+                "lastName": "Marindra"
+            },
+            {
+                "lastName": "Sunny"
+            },
+            {
+                "lastName": "Zhao"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "On Feasibility of Coordinated Time-Delay and False Data Injection Attacks on Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Zhang"
+            },
+            {
+                "lastName": "Deng"
+            },
+            {
+                "lastName": "Cheng"
+            },
+            {
+                "lastName": "Wei"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Scopus scientific mapping production in industry 4.0 (2011–2018): a bibliometric analysis",
+        "authors": [
+            {
+                "lastName": "Kipper"
+            },
+            {
+                "lastName": "Furstenau"
+            },
+            {
+                "lastName": "Hoppe"
+            },
+            {
+                "lastName": "Frozza"
+            },
+            {
+                "lastName": "Iepsen"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "The evolution of man–machine interaction: the role of human in Industry 4.0 paradigm",
+        "authors": [
+            {
+                "lastName": "Nardo"
+            },
+            {
+                "lastName": "Forino"
+            },
+            {
+                "lastName": "Murino"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Authenticated Key Agreement Scheme With User Anonymity and Untraceability for 5G-Enabled Softwarized Industrial Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Sutrala"
+            },
+            {
+                "lastName": "Obaidat"
+            },
+            {
+                "lastName": "Saha"
+            },
+            {
+                "lastName": "Das"
+            },
+            {
+                "lastName": "Alazab"
+            },
+            {
+                "lastName": "Park"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Zero Knowledge Clustering Based Adversarial Mitigation in Heterogeneous Federated Learning",
+        "authors": [
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Tian"
+            },
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "The impact of the fourth industrial revolution: a cross-country/region comparison",
+        "authors": [
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Loures"
+            },
+            {
+                "lastName": "Deschamps"
+            },
+            {
+                "lastName": "Brezinski"
+            },
+            {
+                "lastName": "Venâncio"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Security analysis on consumer and industrial IoT devices",
+        "authors": [
+            {
+                "lastName": "Wurm"
+            },
+            {
+                "lastName": "Hoang"
+            },
+            {
+                "lastName": "Arias"
+            },
+            {
+                "lastName": "Sadeghi"
+            },
+            {
+                "lastName": "Jin"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Robust Machine Learning Systems: Challenges,Current Trends, Perspectives, and the Road Ahead",
+        "authors": [
+            {
+                "lastName": "Shafique"
+            },
+            {
+                "lastName": "Naseer"
+            },
+            {
+                "lastName": "Theocharides"
+            },
+            {
+                "lastName": "Kyrkou"
+            },
+            {
+                "lastName": "Mutlu"
+            },
+            {
+                "lastName": "Orosa"
+            },
+            {
+                "lastName": "Choi"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Towards Blockchain-based Hierarchical Federated Learning for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Aloqaily"
+            },
+            {
+                "lastName": "Al Ridhawi"
+            },
+            {
+                "lastName": "Karray"
+            },
+            {
+                "lastName": "Guizani"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Hash-MAC-DSDV: Mutual Authentication for Intelligent IoT-Based Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Adil"
+            },
+            {
+                "lastName": "Jan"
+            },
+            {
+                "lastName": "Mastorakis"
+            },
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Jadoon"
+            },
+            {
+                "lastName": "Abbas"
+            },
+            {
+                "lastName": "Farouk"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Smart Agent System for Cyber Nano-Manufacturing in Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Almakayeel"
+            },
+            {
+                "lastName": "Desai"
+            },
+            {
+                "lastName": "Alghamdi"
+            },
+            {
+                "lastName": "Qureshi"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Self-Aware Data Processing for Power Saving in Resource-Constrained IoT Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Hadizadeh Hafshejani"
+            },
+            {
+                "lastName": "Taherinejad"
+            },
+            {
+                "lastName": "Rabbani"
+            },
+            {
+                "lastName": "Azizi"
+            },
+            {
+                "lastName": "Mohin"
+            },
+            {
+                "lastName": "Fotowat-Ahmady"
+            },
+            {
+                "lastName": "Mirabbasi"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "A Review of Cyber-Physical System Research Relevant to the Emerging IT Trends: Industry 4.0, IoT, Big Data, and Cloud Computing",
+        "authors": [
+            {
+                "lastName": "Kim"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Smart manufacturing based on cyber-physical systems and beyond",
+        "authors": [
+            {
+                "lastName": "Yao"
+            },
+            {
+                "lastName": "Zhou"
+            },
+            {
+                "lastName": "Lin"
+            },
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Yu"
+            },
+            {
+                "lastName": "Liu"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "The 4th industrial revolution – its impact on vocational skills",
+        "authors": [
+            {
+                "lastName": "Spöttl"
+            },
+            {
+                "lastName": "Windelband"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Cyber‐physical Systems",
+        "authors": [
+            {
+                "lastName": "H. J. Nardelli"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Smart production systems drivers for business process management improvement: An integrative framework",
+        "authors": [
+            {
+                "lastName": "Queiroz"
+            },
+            {
+                "lastName": "Wamba"
+            },
+            {
+                "lastName": "Machado"
+            },
+            {
+                "lastName": "Telles"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Early-Stage Risk Prediction of Non-Communicable Disease Using Machine Learning in Health CPS",
+        "authors": [
+            {
+                "lastName": "Ferdousi"
+            },
+            {
+                "lastName": "Hossain"
+            },
+            {
+                "lastName": "El Saddik"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Resource Management for Secure Computation Offloading in Softwarized Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Zhao"
+            },
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Lin"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Literature Review on Blockchain-enabled Security and Operation of Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Khalil"
+            },
+            {
+                "lastName": "Franco"
+            },
+            {
+                "lastName": "Parvez"
+            },
+            {
+                "lastName": "Uluagac"
+            },
+            {
+                "lastName": "Shahriar"
+            },
+            {
+                "lastName": "Rahman"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber Physical System (CPS)-Based Industry 4.0: A Survey",
+        "authors": [
+            {
+                "lastName": "Lu"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Cyber-physical systems for structural health monitoring: sensing technologies and intelligent computing",
+        "authors": [
+            {
+                "lastName": "Doghri"
+            },
+            {
+                "lastName": "Saddoud"
+            },
+            {
+                "lastName": "Chaari Fourati"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Big data in manufacturing: a systematic mapping study",
+        "authors": [
+            {
+                "lastName": "O'Donovan"
+            },
+            {
+                "lastName": "Leahy"
+            },
+            {
+                "lastName": "Bruton"
+            },
+            {
+                "lastName": "O’Sullivan"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "How Data Will Transform Industrial Processes: Crowdsensing, Crowdsourcing and Big Data as Pillars of Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Pilloni"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A New Threat Intelligence Scheme for Safeguarding Industry 4.0 Systems",
+        "authors": [
+            {
+                "lastName": "Moustafa"
+            },
+            {
+                "lastName": "Adi"
+            },
+            {
+                "lastName": "Turnbull"
+            },
+            {
+                "lastName": "Hu"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A2G2V: Automatic Attack Graph Generation and Visualization and Its Applications to Computer and SCADA Networks",
+        "authors": [
+            {
+                "lastName": "Al Ghazo"
+            },
+            {
+                "lastName": "Ibrahim"
+            },
+            {
+                "lastName": "Ren"
+            },
+            {
+                "lastName": "Kumar"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Cyber physical systems: A smart city perspective",
+        "authors": [
+            {
+                "lastName": "Khan"
+            },
+            {
+                "lastName": "Kumar"
+            },
+            {
+                "lastName": "Kadry"
+            },
+            {
+                "lastName": "Nam"
+            },
+            {
+                "lastName": "Meqdad"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber physical systems: A smart city perspective",
+        "authors": [
+            {
+                "lastName": "Khan"
+            },
+            {
+                "lastName": "Kumar"
+            },
+            {
+                "lastName": "Kadry"
+            },
+            {
+                "lastName": "Nam"
+            },
+            {
+                "lastName": "Meqdad"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Review of Current Research Trends in Power-Electronic Innovations in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "S.K. Mazumder"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "A Mobility-Aware Human-Centric Cyber–Physical System for Efficient and Secure Smart Healthcare",
+        "authors": [
+            {
+                "lastName": "Razaque"
+            },
+            {
+                "lastName": "Amsaad"
+            },
+            {
+                "lastName": "Abdulgader"
+            },
+            {
+                "lastName": "Alotaibi"
+            },
+            {
+                "lastName": "Alsolami"
+            },
+            {
+                "lastName": "Gulsezim"
+            },
+            {
+                "lastName": "Mohanty"
+            },
+            {
+                "lastName": "Hariri"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Intelligent Predictive Maintenance ( IPdM ) System – Industry 4.0 Scenario",
+        "authors": [
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "A Survey on Multimedia Analytics in Security Systems of Cyber Physical Systems and IoT",
+        "authors": [
+            {
+                "lastName": "Krishna"
+            },
+            {
+                "lastName": "Mohan"
+            },
+            {
+                "lastName": "Chowdary"
+            },
+            {
+                "lastName": "Dr.P.Nancy"
+            },
+            {
+                "lastName": "Dr.V.Arulkumar"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Reviewing Cyber-Physical System as a Part of Smart Factory in Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Sinha"
+            },
+            {
+                "lastName": "Roy"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Cyber Physical Systems Dependability Using CPS-IOT Monitoring",
+        "authors": [
+            {
+                "lastName": "Bagula"
+            },
+            {
+                "lastName": "Ajayi"
+            },
+            {
+                "lastName": "Maluleke"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cloud-Based Cyber-Physical Robotic Mobile Fulfillment Systems: A Case Study of Collision Avoidance",
+        "authors": [
+            {
+                "lastName": "Keung"
+            },
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Ji"
+            },
+            {
+                "lastName": "Ng"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Machine health management in smart factory: A review",
+        "authors": [
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Quan"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Yoon"
+            },
+            {
+                "lastName": "Min"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Mun"
+            },
+            {
+                "lastName": "Oh"
+            },
+            {
+                "lastName": "Choi"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Chu"
+            },
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Bhandari"
+            },
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Ihn"
+            },
+            {
+                "lastName": "Ahn"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "BRIoT: Behavior Rule Specification-Based Misbehavior Detection for IoT-Embedded Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Sharma"
+            },
+            {
+                "lastName": "You"
+            },
+            {
+                "lastName": "Yim"
+            },
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Cho"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Explainable Artificial Intelligence (xAI) Approaches and Deep Meta-Learning Models for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Daglarli"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber Physical System Fraud Analysis by Mobile Robot",
+        "authors": [
+            {
+                "lastName": "Rajawat"
+            },
+            {
+                "lastName": "Rawat"
+            },
+            {
+                "lastName": "Shaw"
+            },
+            {
+                "lastName": "Ghosh"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Systematic review of features for co‐simulating security incidents in Cyber‐Physical Systems",
+        "authors": [
+            {
+                "lastName": "Czekster"
+            },
+            {
+                "lastName": "Morisset"
+            },
+            {
+                "lastName": "Clark"
+            },
+            {
+                "lastName": "Soudjani"
+            },
+            {
+                "lastName": "Patsios"
+            },
+            {
+                "lastName": "Davison"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Deep-Learning–Based App Sensitive Behavior Surveillance for Android Powered Cyber–Physical Systems",
+        "authors": [
+            {
+                "lastName": "Ma"
+            },
+            {
+                "lastName": "Tian"
+            },
+            {
+                "lastName": "Qiu"
+            },
+            {
+                "lastName": "Lo"
+            },
+            {
+                "lastName": "Gao"
+            },
+            {
+                "lastName": "Wu"
+            },
+            {
+                "lastName": "Jia"
+            },
+            {
+                "lastName": "Baker"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Cyber Resilience and Incident Response in Smart Cities: A Systematic Literature Review",
+        "authors": [
+            {
+                "lastName": "Ahmadi-Assalemi"
+            },
+            {
+                "lastName": "Al-Khateeb"
+            },
+            {
+                "lastName": "Epiphaniou"
+            },
+            {
+                "lastName": "Maple"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "An IOT-Oriented Privacy-Preserving Publish/Subscribe Model Over Blockchains",
+        "authors": [
+            {
+                "lastName": "Lv"
+            },
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Zhu"
+            },
+            {
+                "lastName": "Deng"
+            },
+            {
+                "lastName": "Gu"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Designing CPS/IoT applications for smart buildings and cities",
+        "authors": [
+            {
+                "lastName": "Shih"
+            },
+            {
+                "lastName": "Chou"
+            },
+            {
+                "lastName": "Reijers"
+            },
+            {
+                "lastName": "Kuo"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "The challenge of real-time multi-agent systems for enabling IoT and CPS",
+        "authors": [
+            {
+                "lastName": "Calvaresi"
+            },
+            {
+                "lastName": "Marinoni"
+            },
+            {
+                "lastName": "Sturm"
+            },
+            {
+                "lastName": "Schumacher"
+            },
+            {
+                "lastName": "Buttazzo"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "From machine-to-machine communications towards cyber-physical systems",
+        "authors": [
+            {
+                "lastName": "Wan"
+            },
+            {
+                "lastName": "Chen"
+            },
+            {
+                "lastName": "Xia"
+            },
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Zhou"
+            }
+        ],
+        "publicationYear": "2013"
+    },
+    {
+        "title": "Industry 4.0 Applications in Agriculture: Cyber-Physical Agricultural Systems (CPASs)",
+        "authors": [
+            {
+                "lastName": "Sharma"
+            },
+            {
+                "lastName": "Parhi"
+            },
+            {
+                "lastName": "Shishodia"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "SCOTRES: Secure Routing for IoT and CPS",
+        "authors": [
+            {
+                "lastName": "Hatzivasilis"
+            },
+            {
+                "lastName": "Papaefstathiou"
+            },
+            {
+                "lastName": "Manifavas"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Networking architectures and protocols for smart city systems",
+        "authors": [
+            {
+                "lastName": "Jawhar"
+            },
+            {
+                "lastName": "Mohamed"
+            },
+            {
+                "lastName": "Al-Jaroodi"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Cloud-based cyber-physical systems and quality of services",
+        "authors": [
+            {
+                "lastName": "Mourtzis"
+            },
+            {
+                "lastName": "Vlachou"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "IoT Data Integrity Verification for Cyber-Physical Systems Using Blockchain",
+        "authors": [
+            {
+                "lastName": "Machado"
+            },
+            {
+                "lastName": "Fröhlich"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Implementation of a Large-Scale Platform for Cyber-Physical System Real-Time Monitoring",
+        "authors": [
+            {
+                "lastName": "Canizo"
+            },
+            {
+                "lastName": "Conde"
+            },
+            {
+                "lastName": "Charramendieta"
+            },
+            {
+                "lastName": "Miñón"
+            },
+            {
+                "lastName": "Cid-Fuentes"
+            },
+            {
+                "lastName": "Onieva"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "IoT-based production logistics and supply chain system - Part 2: IoT-based cyber-physical system: a framework and evaluation",
+        "authors": [
+            {
+                "lastName": "Tu"
+            },
+            {
+                "lastName": "Lim"
+            },
+            {
+                "lastName": "Yang"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "The Importance of Implementing Cyber Physical Systems to Acquire Real-Time Data and Indicators",
+        "authors": [
+            {
+                "lastName": "Morella"
+            },
+            {
+                "lastName": "Lambán"
+            },
+            {
+                "lastName": "Royo"
+            },
+            {
+                "lastName": "Sánchez"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Design of a Secure Password-Based Authentication Scheme for M2M Networks in IoT Enabled Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Renuka"
+            },
+            {
+                "lastName": "Kumari"
+            },
+            {
+                "lastName": "Zhao"
+            },
+            {
+                "lastName": "Li"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Design Space Exploration for Secure IoT Devices and Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Gressl"
+            },
+            {
+                "lastName": "Steger"
+            },
+            {
+                "lastName": "Neffe"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "A Survey on Cyber Physical System Security for IoT: Issues, Challenges, Threats, Solutions",
+        "authors": [
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Rathore"
+            },
+            {
+                "lastName": "Ryu"
+            },
+            {
+                "lastName": "Park"
+            },
+            {
+                "lastName": "Park"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Strategic Trust in Cloud-Enabled Cyber-Physical Systems With an Application to Glucose Control",
+        "authors": [
+            {
+                "lastName": "Pawlick"
+            },
+            {
+                "lastName": "Zhu"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "IoTBench: Towards a Benchmark for Low-Power Wireless Networking",
+        "authors": [
+            {
+                "lastName": "Boano"
+            },
+            {
+                "lastName": "Duquennoy"
+            },
+            {
+                "lastName": "Förster"
+            },
+            {
+                "lastName": "Gnawali"
+            },
+            {
+                "lastName": "Jacob"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Landsiedel"
+            },
+            {
+                "lastName": "Marfievici"
+            },
+            {
+                "lastName": "Mottola"
+            },
+            {
+                "lastName": "Picco"
+            },
+            {
+                "lastName": "Vilajosana"
+            },
+            {
+                "lastName": "Watteyne"
+            },
+            {
+                "lastName": "Zimmerling"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "IoT-Enabled Adaptive Context-Aware and Playful Cyber-Physical System for Everyday Energy Savings",
+        "authors": [
+            {
+                "lastName": "Lu"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Privacy and Security for Resource-Constrained IoT Devices and Networks: Research Challenges and Opportunities",
+        "authors": [
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Iqbal"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "A Dependable Time Series Analytic Framework for Cyber-Physical Systems of IoT-based Smart Grid",
+        "authors": [
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Zhu"
+            },
+            {
+                "lastName": "Shi"
+            },
+            {
+                "lastName": "Chang"
+            },
+            {
+                "lastName": "Vijayakumar"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Mao"
+            },
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Fan"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A BPMN extension for modeling Cyber-Physical-Production-Systems in the context of Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Bocciarelli"
+            },
+            {
+                "lastName": "D’Ambrogio"
+            },
+            {
+                "lastName": "Giglio"
+            },
+            {
+                "lastName": "Paglia"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Cyber physical systems design, methodology, and integration: the current status and future outlook",
+        "authors": [
+            {
+                "lastName": "Darwish"
+            },
+            {
+                "lastName": "Hassanien"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Industry 4.1 for Wheel Machining Automation",
+        "authors": [
+            {
+                "lastName": "Cheng"
+            },
+            {
+                "lastName": "Tieng"
+            },
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Hung"
+            },
+            {
+                "lastName": "Lin"
+            },
+            {
+                "lastName": "Wei"
+            },
+            {
+                "lastName": "Shieh"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "QoS-Aware Optical Fog-Assisted Cyber-Physical System in the 5G Ready Heterogeneous Network",
+        "authors": [
+            {
+                "lastName": "Singh"
+            },
+            {
+                "lastName": "Sood"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Implementation of Industrial Cyber Physical System: Challenges and Solutions",
+        "authors": [
+            {
+                "lastName": "Yu"
+            },
+            {
+                "lastName": "Dillon"
+            },
+            {
+                "lastName": "Mostafa"
+            },
+            {
+                "lastName": "Rahayu"
+            },
+            {
+                "lastName": "Liu"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Communication technology for industry 4.0",
+        "authors": [
+            {
+                "lastName": "Marcon"
+            },
+            {
+                "lastName": "Zezulka"
+            },
+            {
+                "lastName": "Veselý"
+            },
+            {
+                "lastName": "Szabó"
+            },
+            {
+                "lastName": "Roubal"
+            },
+            {
+                "lastName": "Sajdl"
+            },
+            {
+                "lastName": "Gescheidtová"
+            },
+            {
+                "lastName": "Dohnal"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "ANASTACIA: Advanced networked agents for security and trust assessment in CPS IoT architectures",
+        "authors": [
+            {
+                "lastName": "Ziegler"
+            },
+            {
+                "lastName": "Gómez-Skarmeta"
+            },
+            {
+                "lastName": "Bernabé"
+            },
+            {
+                "lastName": "Kim"
+            },
+            {
+                "lastName": "Bianchi"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Geo-Spatiotemporal Intelligence for Smart Agricultural and Environmental Eco-Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Majidi"
+            },
+            {
+                "lastName": "Hemmati"
+            },
+            {
+                "lastName": "Baniardalan"
+            },
+            {
+                "lastName": "Farahmand"
+            },
+            {
+                "lastName": "Hajitabar"
+            },
+            {
+                "lastName": "Sharafi"
+            },
+            {
+                "lastName": "Aghajani"
+            },
+            {
+                "lastName": "Esmaeili"
+            },
+            {
+                "lastName": "Manzuri"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Federated Blockchain-Based Tracking and Liability Attribution Framework for Employees and Cyber-Physical Objects in a Smart Workplace",
+        "authors": [
+            {
+                "lastName": "Ahmadi-Assalemi"
+            },
+            {
+                "lastName": "Al-Khateeb"
+            },
+            {
+                "lastName": "Epiphaniou"
+            },
+            {
+                "lastName": "Cosson"
+            },
+            {
+                "lastName": "Jahankhani"
+            },
+            {
+                "lastName": "Pillai"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "A Cyber-Physical System to Detect IoT Security Threats of a Smart Home Heterogeneous Wireless Sensor Node",
+        "authors": [
+            {
+                "lastName": "Alam Majumder"
+            },
+            {
+                "lastName": "Veilleux"
+            },
+            {
+                "lastName": "Miller"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Cyber Physical Systems and IoT: Architectural Practices, Interoperability, and Transformation",
+        "authors": [
+            {
+                "lastName": "Fatima"
+            },
+            {
+                "lastName": "Anjum"
+            },
+            {
+                "lastName": "Malik"
+            },
+            {
+                "lastName": "Ahmad"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Q-Learning for Securing Cyber-Physical Systems : A survey",
+        "authors": [
+            {
+                "lastName": "Alabadi"
+            },
+            {
+                "lastName": "Albayrak"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Protecting cyber physical production systems using anomaly detection to enable self-adaptation",
+        "authors": [
+            {
+                "lastName": "Settanni"
+            },
+            {
+                "lastName": "Skopik"
+            },
+            {
+                "lastName": "Karaj"
+            },
+            {
+                "lastName": "Wurzenberger"
+            },
+            {
+                "lastName": "Fiedler"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Bio-Inspired Approaches to Safety and Security in IoT-Enabled Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Johnson"
+            },
+            {
+                "lastName": "Al-Aqrabi"
+            },
+            {
+                "lastName": "Hill"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Enabling cyber-physical systems with machine-to-machine technologies",
+        "authors": [
+            {
+                "lastName": "Wan"
+            },
+            {
+                "lastName": "Yan"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Zhou"
+            },
+            {
+                "lastName": "Lu"
+            },
+            {
+                "lastName": "Li"
+            }
+        ],
+        "publicationYear": "2013"
+    },
+    {
+        "title": "Enabling cyber-physical systems with machine-to-machine technologies",
+        "authors": [
+            {
+                "lastName": "Wan"
+            },
+            {
+                "lastName": "Yan"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Zhou"
+            },
+            {
+                "lastName": "Lu"
+            },
+            {
+                "lastName": "Li"
+            }
+        ],
+        "publicationYear": "2013"
+    },
+    {
+        "title": "A next-generation IoT-based collaborative framework for electronics assembly",
+        "authors": [
+            {
+                "lastName": "Krishnamurthy"
+            },
+            {
+                "lastName": "Cecil"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Risk Assessment for IoT-Enabled Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Stellios"
+            },
+            {
+                "lastName": "Kotzanikolaou"
+            },
+            {
+                "lastName": "Psarakis"
+            },
+            {
+                "lastName": "Alcaraz"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Cyber-physical systems as the technical foundation for problem solutions in manufacturing, logistics and supply chain management",
+        "authors": [
+            {
+                "lastName": "Klotzer"
+            },
+            {
+                "lastName": "Pflaum"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "Cyber-physical systems: a case study of development for manufacturing industry",
+        "authors": [
+            {
+                "lastName": "Choi"
+            },
+            {
+                "lastName": "Kang"
+            },
+            {
+                "lastName": "Jun"
+            },
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Han"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Realizing an Implementation Platform for Closed Loop Cyber-Physical Systems Using Blockchain",
+        "authors": [
+            {
+                "lastName": "Masood"
+            },
+            {
+                "lastName": "Qureshi"
+            },
+            {
+                "lastName": "Danish"
+            },
+            {
+                "lastName": "Lestas"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Big Data for Cyber Physical Systems: An Analysis of Challenges, Solutions and Opportunities",
+        "authors": [
+            {
+                "lastName": "Jara"
+            },
+            {
+                "lastName": "Genoud"
+            },
+            {
+                "lastName": "Bocchi"
+            }
+        ],
+        "publicationYear": "2014"
+    },
+    {
+        "title": "Resource virtualization in cloud manufacturing",
+        "authors": [
+            {
+                "lastName": "Luo"
+            }
+        ],
+        "publicationYear": "2011"
+    },
+    {
+        "title": "The Evolution of Cyber-Physical Systems as a Driving Force Behind Digital Transformation",
+        "authors": [
+            {
+                "lastName": "Klotzer"
+            },
+            {
+                "lastName": "WeiBenborn"
+            },
+            {
+                "lastName": "Pflaum"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Latest Advancement in CPS and IoT Applications",
+        "authors": [
+            {
+                "lastName": "Wang"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "A Survey of IoT Platform Comparison for Building Cyber-Physical System Architecture",
+        "authors": [
+            {
+                "lastName": "Fridelin Panduman"
+            },
+            {
+                "lastName": "Sukaridhoto"
+            },
+            {
+                "lastName": "Tjahjono"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Building Cyber‐Physical Systems – A Smart Building Use Case",
+        "authors": [
+            {
+                "lastName": "Song"
+            },
+            {
+                "lastName": "Srinivasan"
+            },
+            {
+                "lastName": "Sookoor"
+            },
+            {
+                "lastName": "Jeschke"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Science of design for societal-scale cyber-physical systems: challenges and opportunities",
+        "authors": [
+            {
+                "lastName": "Sztipanovits"
+            },
+            {
+                "lastName": "Koutsoukos"
+            },
+            {
+                "lastName": "Karsai"
+            },
+            {
+                "lastName": "Sastry"
+            },
+            {
+                "lastName": "Tomlin"
+            },
+            {
+                "lastName": "Damm"
+            },
+            {
+                "lastName": "Fränzle"
+            },
+            {
+                "lastName": "Rieger"
+            },
+            {
+                "lastName": "Pretschner"
+            },
+            {
+                "lastName": "Köster"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "A PT-SOA Model for CPS/IoT Services",
+        "authors": [
+            {
+                "lastName": "Zhu"
+            },
+            {
+                "lastName": "Zhou"
+            },
+            {
+                "lastName": "Yen"
+            },
+            {
+                "lastName": "Bastani"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "Designing a Cyber-Physical Cloud Computing Architecture",
+        "authors": [
+            {
+                "lastName": "Simmon"
+            },
+            {
+                "lastName": "Sowe"
+            },
+            {
+                "lastName": "Zettsu"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "Enabling technologies and cyber-physical systems for mission-critical scenarios",
+        "authors": [
+            {
+                "lastName": "Lamas"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Security Challenges in CPS and IoT: From End-Node to the System",
+        "authors": [
+            {
+                "lastName": "Ly"
+            },
+            {
+                "lastName": "Jin"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Cyber-Physical Manufacturing Systems (CPMS)",
+        "authors": [
+            {
+                "lastName": "Jakovljević"
+            },
+            {
+                "lastName": "Majstorovic"
+            },
+            {
+                "lastName": "Stojadinovic"
+            },
+            {
+                "lastName": "Zivkovic"
+            },
+            {
+                "lastName": "Gligorijević"
+            },
+            {
+                "lastName": "Pajic"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Preserving Location Privacy in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Butun"
+            },
+            {
+                "lastName": "Österberg"
+            },
+            {
+                "lastName": "Gidlund"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "Cybercrime and Risks for Cyber Physical Systems: A Review",
+        "authors": [
+            {
+                "lastName": "Yeboah-Ofori"
+            },
+            {
+                "lastName": "Abdulai"
+            },
+            {
+                "lastName": "Katsriku"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Cyber-Physical Manufacturing in Context of Industry 4.0 Model",
+        "authors": [
+            {
+                "lastName": "Majstorovic"
+            },
+            {
+                "lastName": "Velimirović"
+            },
+            {
+                "lastName": "Glišić"
+            },
+            {
+                "lastName": "Kostic"
+            },
+            {
+                "lastName": "Đura"
+            },
+            {
+                "lastName": "Rančić"
+            },
+            {
+                "lastName": "Mitrović"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Collaborative wireless sensor networks: A survey",
+        "authors": [
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Bao"
+            },
+            {
+                "lastName": "Shen"
+            }
+        ],
+        "publicationYear": "2011"
+    },
+    {
+        "title": "Inaugural issue of ‘cyber-physical systems’",
+        "authors": [
+            {
+                "lastName": "Stojmenovic"
+            },
+            {
+                "lastName": "Zhang"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "TARTARUS: A Multi-Agent Platform for Bridging the Gap between Cyber and Physical Systems (Demonstration)",
+        "authors": [
+            {
+                "lastName": "Semwal"
+            },
+            {
+                "lastName": "S"
+            },
+            {
+                "lastName": "Jha"
+            },
+            {
+                "lastName": "Nair"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Incentivizing Efficiency in Societal-Scale Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Ratliff"
+            }
+        ],
+        "publicationYear": "2015"
+    },
+    {
+        "title": "Cyber Physical Production Systems—An IEC 61499 Perspective",
+        "authors": [
+            {
+                "lastName": "Jakovljević"
+            },
+            {
+                "lastName": "Mitrović"
+            },
+            {
+                "lastName": "Pajic"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Foundational elements of next generation cyber physical and IoT frameworks for distributed collaboration",
+        "authors": [
+            {
+                "lastName": "Cecil"
+            },
+            {
+                "lastName": "Cecil-Xavier"
+            },
+            {
+                "lastName": "Gupta"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "Security Architecture and Key Technologies for IoT/CPS",
+        "authors": [
+            {
+                "lastName": "Chao"
+            },
+            {
+                "lastName": "Lijun"
+            },
+            {
+                "lastName": "Meng"
+            }
+        ],
+        "publicationYear": "2011"
+    },
+    {
+        "title": "A Novel Framework for Healthcare Monitoring System Through Cyber-Physical System",
+        "authors": [
+            {
+                "lastName": "Monisha"
+            },
+            {
+                "lastName": "Babu"
+            }
+        ],
+        "publicationYear": "2018"
+    },
+    {
+        "title": "Information security governance on national cyber physical systems",
+        "authors": [
+            {
+                "lastName": "Setiawan"
+            },
+            {
+                "lastName": "Syamsudin"
+            },
+            {
+                "lastName": "Sastrosubroto"
+            }
+        ],
+        "publicationYear": "2016"
+    },
+    {
+        "title": "Vehicular CPS: an application of IoT in vehicular networks",
+        "authors": [
+            {
+                "lastName": "Min-you"
+            }
+        ],
+        "publicationYear": "2012"
+    },
+    {
+        "title": "GAN Base feedback analysis system for industrial IOT networks",
+        "authors": [
+            {
+                "lastName": "Ashok"
+            },
+            {
+                "lastName": "Boddu"
+            },
+            {
+                "lastName": "Syed"
+            },
+            {
+                "lastName": "Sonawane"
+            },
+            {
+                "lastName": "Dabhade"
+            },
+            {
+                "lastName": "Chandra"
+            },
+            {
+                "lastName": "Reddy"
+            }
+        ],
+        "publicationYear": "2022"
+    },
+    {
+        "title": "Predictive Big Data Analytics and Cyber Physical Systems for TES Systems",
+        "authors": [
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Jin"
+            },
+            {
+                "lastName": "Liu"
+            }
+        ],
+        "publicationYear": "2017"
+    },
+    {
+        "title": "The challenges, approaches, and used techniques of CPS for manufacturing in Industry 4.0: a literature review",
+        "authors": [
+            {
+                "lastName": "Dafflon"
+            },
+            {
+                "lastName": "Moalla"
+            },
+            {
+                "lastName": "Ouzrout"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "Secure and Optimized Cloud-Based Cyber-Physical Systems with Memory-Aware Scheduling Scheme",
+        "authors": [
+            {
+                "lastName": "Haoxiang"
+            },
+            {
+                "lastName": "Smys"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Development of a Smart Cyber-Physical Manufacturing System in the Industry 4.0 Context",
+        "authors": [
+            {
+                "lastName": "Tran"
+            },
+            {
+                "lastName": "Park"
+            },
+            {
+                "lastName": "Nguyen"
+            },
+            {
+                "lastName": "Hoang"
+            }
+        ],
+        "publicationYear": "2019"
+    },
+    {
+        "title": "5G ready optical fog-assisted cyber-physical system for IoT applications",
+        "authors": [
+            {
+                "lastName": "Singh"
+            },
+            {
+                "lastName": "Sood"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "A Dynamic Context-Aware Workflow Management Scheme for Cyber-Physical Systems Based on Multi-Agent System Architecture",
+        "authors": [
+            {
+                "lastName": "Hsieh"
+            }
+        ],
+        "publicationYear": "2021"
+    },
+    {
+        "title": "MegaSense: Cyber-Physical System for Real-time Urban Air Quality Monitoring",
+        "authors": [
+            {
+                "lastName": "Rebeiro-Hargrave"
+            },
+            {
+                "lastName": "Motlagh"
+            },
+            {
+                "lastName": "Varjonen"
+            },
+            {
+                "lastName": "Lagerspetz"
+            },
+            {
+                "lastName": "Nurmi"
+            },
+            {
+                "lastName": "Tarkoma"
+            }
+        ],
+        "publicationYear": "2020"
+    },
+    {
+        "title": "Security Analysis of CPS Systems Under Different Swapping Strategies in IoT Environments",
+        "authors": [
+            {
+                "lastName": "Peng"
+            },
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Zhao"
+            },
+            {
+                "lastName": "Ye"
+            },
+            {
+                "lastName": "Fang"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2020"
+    }
+]

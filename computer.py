@@ -56,11 +56,13 @@ class Computer:
         response = self.request_computer()
         json_content = json.loads(response.text)
         number_of_pages = ceil(json_content["numHits"] / json_content["resultLimit"])
-        print(number_of_pages)
+        # print(number_of_pages)
         for i in range(2, number_of_pages + 1):
             response_current = self.request_computer(i)
             temp = json.loads(response_current.text)["results"]
             for elem in temp:
                 json_content["results"].append(elem)
-        with open('contents_raw/computer_raw.json', 'w', encoding='utf-8') as f:
+        json_content["resultLimit"] = 'none'
+        json_content["currentPage"] = 'all'
+        with open('0_initial_request_raw/computer_raw.json', 'w', encoding='utf-8') as f:
             json.dump(json_content, f, ensure_ascii=False, indent=4)

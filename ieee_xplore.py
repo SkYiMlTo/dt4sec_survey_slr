@@ -74,12 +74,13 @@ class IeeeXplore:
             temp = json.loads(response_current.text)["records"]
             for elem in temp:
                 json_content["records"].append(elem)
-        with open('contents_raw/ieeexplore_raw.json', 'w', encoding='utf-8') as f:
+        json_content["endRecord"] = json_content["totalRecords"]
+        with open('0_initial_request_raw/ieeexplore_raw.json', 'w', encoding='utf-8') as f:
             json.dump(json_content, f, ensure_ascii=False, indent=4)
 
     def get_articles_and_authors_ieeexplore(self):
-        with open('contents_raw/ieeexplore.json', 'r', encoding='utf-8') as input_file:
-            output_file = open("contents_raw/ieeexplore_articles.json", "w", encoding='utf-8')
+        with open('0_initial_request_raw/ieeexplore.json', 'r', encoding='utf-8') as input_file:
+            output_file = open("0_initial_request_raw/ieeexplore_articles.json", "w", encoding='utf-8')
             content = json.load(input_file)
             for elem in content["records"]:
                 auth = ""
