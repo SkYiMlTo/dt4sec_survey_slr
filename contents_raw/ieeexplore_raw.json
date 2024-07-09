@@ -1,16 +1,24 @@
 {
     "userInfo": {
-        "institute": false,
+        "institutionName": "IMT ATLANTIQUE",
+        "institute": true,
         "member": false,
         "individual": false,
         "guest": false,
-        "subscribedContent": false,
+        "subscribedContent": true,
         "fileCabinetContent": false,
         "fileCabinetUser": false,
         "institutionalFileCabinetUser": false,
-        "ip": "2a01:e0a:1b7:10b0:297c:df36:852c:cda8",
+        "products": "IEL|WILEYTELECOM:2022:2022|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7824
+        ],
+        "ip": "192.44.77.246",
         "showPatentCitations": true,
-        "showGet802Link": false,
+        "showGet802Link": true,
+        "marketingInfoCaptured": false,
+        "ringGoldId": "52826",
         "isReadAndPublish": false
     },
     "records": [
@@ -43,8 +51,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 27,
@@ -125,8 +133,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -223,8 +231,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 15,
@@ -337,8 +345,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "9",
@@ -421,8 +429,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -519,8 +527,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -600,8 +608,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 11,
@@ -706,8 +714,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "19",
@@ -814,8 +822,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -880,8 +888,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -962,8 +970,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -1051,8 +1059,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 26,
@@ -1133,8 +1141,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 8,
@@ -1232,8 +1240,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 12,
@@ -1329,8 +1337,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -1403,8 +1411,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 39,
@@ -1485,8 +1493,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -1574,8 +1582,8 @@
             ],
             "patentCitationCount": 1,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "11",
@@ -1683,8 +1691,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "26",
@@ -1879,8 +1887,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -1984,8 +1992,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -2098,8 +2106,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -2180,8 +2188,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -2253,8 +2261,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 36,
@@ -2351,8 +2359,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "21",
@@ -2444,8 +2452,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -2550,8 +2558,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "18",
@@ -2657,8 +2665,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -2834,8 +2842,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -2899,8 +2907,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -2964,8 +2972,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -3029,8 +3037,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -3110,8 +3118,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -3199,8 +3207,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -3328,8 +3336,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -3449,8 +3457,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 44,
@@ -3531,8 +3539,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -3605,8 +3613,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "24",
@@ -3697,8 +3705,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -3787,8 +3795,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 17,
@@ -3861,8 +3869,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -3951,8 +3959,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -4081,8 +4089,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -4154,8 +4162,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -4259,8 +4267,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "7",
@@ -4351,8 +4359,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -4440,8 +4448,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "11",
@@ -4531,8 +4539,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 10,
@@ -4613,8 +4621,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -4694,8 +4702,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -4775,8 +4783,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -4889,8 +4897,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "22",
@@ -4980,8 +4988,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -5054,8 +5062,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -5160,8 +5168,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -5242,8 +5250,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -5434,8 +5442,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "5",
@@ -5524,8 +5532,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -5852,8 +5860,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -5933,8 +5941,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -6095,8 +6103,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -6209,8 +6217,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "11",
@@ -6372,8 +6380,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -6461,8 +6469,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -6551,8 +6559,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -6657,8 +6665,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 7,
@@ -6731,8 +6739,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -6829,8 +6837,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -6910,8 +6918,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "1",
@@ -7018,8 +7026,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -7115,8 +7123,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 7,
@@ -7221,8 +7229,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "17",
@@ -7297,8 +7305,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -7402,8 +7410,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 31,
@@ -7484,8 +7492,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "24",
@@ -7687,8 +7695,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -7760,8 +7768,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -7841,8 +7849,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -7954,8 +7962,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "70",
@@ -8037,8 +8045,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -8110,8 +8118,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -8208,8 +8216,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "58",
@@ -8332,8 +8340,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 9,
@@ -8414,8 +8422,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -8503,8 +8511,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -8609,8 +8617,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -8739,8 +8747,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "21",
@@ -8906,8 +8914,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -9004,8 +9012,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -9126,8 +9134,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "51",
@@ -9202,8 +9210,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -9284,8 +9292,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -9374,8 +9382,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -9456,8 +9464,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -9562,8 +9570,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -9669,8 +9677,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "6",
@@ -9735,8 +9743,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -9822,8 +9830,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 10,
@@ -9904,8 +9912,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -10002,8 +10010,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 7,
@@ -10100,8 +10108,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -10198,8 +10206,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "11",
@@ -10273,8 +10281,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -10363,8 +10371,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "700",
@@ -10445,8 +10453,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -10645,8 +10653,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 24,
@@ -10719,8 +10727,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -10800,8 +10808,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -10992,8 +11000,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -11080,8 +11088,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -11169,8 +11177,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -11274,8 +11282,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "16",
@@ -11365,8 +11373,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -11436,8 +11444,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": false,
             "citationCount": 1,
@@ -11612,8 +11620,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 66,
@@ -11694,8 +11702,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -11792,8 +11800,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "12",
@@ -11893,8 +11901,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "24",
@@ -11969,8 +11977,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -12058,8 +12066,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -12140,8 +12148,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -12230,8 +12238,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 10,
@@ -12329,8 +12337,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -12443,8 +12451,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -12526,8 +12534,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -12608,8 +12616,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -12698,8 +12706,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "41",
@@ -12782,8 +12790,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -12879,8 +12887,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "10",
@@ -12963,8 +12971,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -13060,8 +13068,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -13166,8 +13174,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -13263,8 +13271,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 13,
@@ -13432,8 +13440,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -13554,8 +13562,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "10",
@@ -13638,8 +13646,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -13736,8 +13744,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 18,
@@ -13833,8 +13841,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -13930,8 +13938,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "17",
@@ -14022,8 +14030,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -14112,8 +14120,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 5,
@@ -14202,8 +14210,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -14283,8 +14291,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -14365,8 +14373,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -14446,8 +14454,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -14520,8 +14528,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -14601,8 +14609,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -14699,8 +14707,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -14780,8 +14788,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "20",
@@ -14872,8 +14880,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -14977,8 +14985,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -15106,8 +15114,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "18",
@@ -15221,8 +15229,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "11",
@@ -15328,8 +15336,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "9",
@@ -15444,8 +15452,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -15525,8 +15533,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "38",
@@ -15688,8 +15696,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": false,
             "citationCount": 0,
@@ -15767,8 +15775,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "28",
@@ -15860,8 +15868,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -16298,8 +16306,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -16396,8 +16404,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "18",
@@ -16488,8 +16496,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -16569,8 +16577,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "13",
@@ -16677,8 +16685,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -16783,8 +16791,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "12",
@@ -16965,8 +16973,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -17078,8 +17086,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -17168,8 +17176,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "10",
@@ -17346,8 +17354,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 10,
@@ -17500,8 +17508,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 11,
@@ -17606,8 +17614,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 50,
@@ -17704,8 +17712,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 10,
@@ -17794,8 +17802,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "5",
@@ -17990,8 +17998,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -18080,8 +18088,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "38",
@@ -18274,8 +18282,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "17",
@@ -18365,8 +18373,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -18455,8 +18463,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "6",
@@ -18611,8 +18619,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -18701,8 +18709,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -18775,8 +18783,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -18962,8 +18970,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -19075,8 +19083,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 11,
@@ -19165,8 +19173,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "25",
@@ -19233,8 +19241,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -19322,8 +19330,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -19410,8 +19418,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 7,
@@ -19499,8 +19507,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -19596,8 +19604,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "41",
@@ -19720,8 +19728,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -19817,8 +19825,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -19954,8 +19962,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 9,
@@ -20187,8 +20195,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -20261,8 +20269,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -20367,8 +20375,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -20457,8 +20465,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -20595,8 +20603,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -20684,8 +20692,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -20773,8 +20781,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 2,
@@ -20871,8 +20879,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "9",
@@ -20963,8 +20971,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -21060,8 +21068,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 23,
@@ -21158,8 +21166,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "18",
@@ -21258,8 +21266,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 12,
@@ -21372,8 +21380,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "10",
@@ -21607,8 +21615,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -21712,8 +21720,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -21817,8 +21825,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -21882,8 +21890,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -21972,8 +21980,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -22077,8 +22085,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "19",
@@ -22254,8 +22262,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -22477,8 +22485,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -22681,8 +22689,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -22754,8 +22762,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -22860,8 +22868,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -22925,8 +22933,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23030,8 +23038,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 4,
@@ -23128,8 +23136,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23233,8 +23241,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 8,
@@ -23339,8 +23347,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23412,8 +23420,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23509,8 +23517,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "41",
@@ -23593,8 +23601,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -23691,8 +23699,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23764,8 +23772,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -23915,8 +23923,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24020,8 +24028,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "19",
@@ -24102,8 +24110,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24207,8 +24215,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24279,8 +24287,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24344,8 +24352,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": false,
             "citationCount": 0,
@@ -24433,8 +24441,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 49,
@@ -24507,8 +24515,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24571,8 +24579,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -24652,8 +24660,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "volume": "25",
@@ -24752,8 +24760,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 3,
@@ -24826,8 +24834,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -24924,8 +24932,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -25037,8 +25045,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -25440,8 +25448,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -25601,8 +25609,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 6,
@@ -25698,8 +25706,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -25795,8 +25803,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 1,
@@ -25877,8 +25885,8 @@
             ],
             "patentCitationCount": 0,
             "accessType": {
-                "type": "locked",
-                "message": "Full text access may be available."
+                "type": "subscribed",
+                "message": "Included in Your Digital Subscription"
             },
             "showHtml": true,
             "citationCount": 0,
@@ -26071,7 +26079,7 @@
             ]
         }
     ],
-    "showStandardDictionary": false,
+    "showStandardDictionary": true,
     "searchType": "basic",
     "startRecord": 0,
     "promoApplied": false,
