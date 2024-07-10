@@ -14,8 +14,6 @@ def remove_duplicates_main():
                 articles_known.append(article["title"])
                 output_without_duplicates.append(article)
                 counter += 1
-            else:
-                print(coucou)
         print(input_filename + " has " + str(counter) + " articles")
         output_filename = open("2_remove_duplicates/" + input_filename, "w", encoding="utf-8")
         json.dump(output_without_duplicates, output_filename, ensure_ascii=False, indent=4)
