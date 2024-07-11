@@ -115,25 +115,6 @@
         "doi": "10.4018/979-8-3693-3550-5.ch008"
     },
     {
-        "title": "Digital-Twin-Based CPS Anomaly Diagnosis and Security Defense Countermeasure Recommendation",
-        "authors": [
-            {
-                "lastName": "Ma"
-            },
-            {
-                "lastName": "Guo"
-            },
-            {
-                "lastName": "Fang"
-            },
-            {
-                "lastName": "Zhang"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/JIOT.2024.3366904"
-    },
-    {
         "title": "An Overview of Tools and Challenges for Safety Evaluation and Exposure Assessment in Industry 4.0",
         "authors": [
             {
@@ -262,28 +243,6 @@
         "doi": "10.1016/j.seta.2024.103650"
     },
     {
-        "title": "Digital Twin-Based Cyber-Attack Detection Framework for Cyber-Physical Manufacturing Systems",
-        "authors": [
-            {
-                "lastName": "Balta"
-            },
-            {
-                "lastName": "Pease"
-            },
-            {
-                "lastName": "Moyne"
-            },
-            {
-                "lastName": "Barton"
-            },
-            {
-                "lastName": "Tilbury"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/TASE.2023.3243147"
-    },
-    {
         "title": "IoTFuzz: Automated Discovery of Violations in Smart Homes with Real Environment",
         "authors": [
             {
@@ -386,50 +345,6 @@
         "doi": ""
     },
     {
-        "title": "Decisioning-Based Approach for Optimising Control Engineering Tools Using Digital Twin Capabilities and Other Cyber-Physical Metaverse Manufacturing System Components",
-        "authors": [
-            {
-                "lastName": "Mourad"
-            },
-            {
-                "lastName": "Alsattar"
-            },
-            {
-                "lastName": "Qahtan"
-            },
-            {
-                "lastName": "Sangaiah"
-            },
-            {
-                "lastName": "Pedrycz"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/TCE.2023.3326047"
-    },
-    {
-        "title": "Human-Collaborative Artificial Intelligence Along With Social Values in Industry 5.0: A Survey of the State-of-the-Art",
-        "authors": [
-            {
-                "lastName": "Khosravy"
-            },
-            {
-                "lastName": "Gupta"
-            },
-            {
-                "lastName": "Pasquali"
-            },
-            {
-                "lastName": "Crespo"
-            },
-            {
-                "lastName": "Witkowski"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/TCDS.2023.3326192"
-    },
-    {
         "title": "FL-CTIF: A federated learning based CTI framework based on information fusion for secure IIoT",
         "authors": [
             {
@@ -499,12 +414,6 @@
         "doi": "10.1007/978-3-031-61382-1_4"
     },
     {
-        "title": "6th International Conference on HCI for Cybersecurity, Privacy and Trust, HCI-CPT 2024, held as Part of the 26th HCI International Conference, HCII 2024",
-        "authors": [],
-        "publicationYear": 2024,
-        "doi": ""
-    },
-    {
         "title": "An Integration of Digital Twin and 6G Edge Computing Approach to Secure Cyber Physical Systems",
         "authors": [
             {
@@ -568,28 +477,6 @@
         "doi": "10.1109/TGCN.2024.3403901"
     },
     {
-        "title": "Effects of Adopting Industry 4.0 on a Manufacturing Plant",
-        "authors": [
-            {
-                "lastName": "Waghanna"
-            },
-            {
-                "lastName": "Reddy"
-            },
-            {
-                "lastName": "Deshpande"
-            },
-            {
-                "lastName": "Jaiswal"
-            },
-            {
-                "lastName": "Naranje"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/ICRITO61523.2024.10522189"
-    },
-    {
         "title": "A Resilience Component for a Digital Twin",
         "authors": [
             {
@@ -629,22 +516,6 @@
         ],
         "publicationYear": 2024,
         "doi": "10.2514/6.2024-0277"
-    },
-    {
-        "title": "Digital Twins and 5G: Unlocking the Potential in the Energy Sector",
-        "authors": [
-            {
-                "lastName": "Maksimovic"
-            },
-            {
-                "lastName": "Jokic"
-            },
-            {
-                "lastName": "Boskovic"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1109/INFOTEH60418.2024.10495937"
     },
     {
         "title": "Building a trustworthy digital twin: A brave new world of human machine teams and autonomous biological internet of things (BIoT)",
@@ -899,50 +770,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1007/s00170-023-12515-6"
-    },
-    {
-        "title": "Uncertainty Decision Modeling Approach for Control Engineering Tools to Support Industrial Cyber-Physical Metaverse Smart Manufacturing Systems",
-        "authors": [
-            {
-                "lastName": "Zaidan"
-            },
-            {
-                "lastName": "Alsattar"
-            },
-            {
-                "lastName": "Qahtan"
-            },
-            {
-                "lastName": "Pamucar"
-            },
-            {
-                "lastName": "Hajiaghaei-Keshteli"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/JSYST.2023.3266842"
-    },
-    {
-        "title": "Digital Twin-Based Cyber Range for Industrial Internet of Things",
-        "authors": [
-            {
-                "lastName": "Zhou"
-            },
-            {
-                "lastName": "Li"
-            },
-            {
-                "lastName": "Sun"
-            },
-            {
-                "lastName": "Yun"
-            },
-            {
-                "lastName": "Tian"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/MCE.2022.3203202"
     },
     {
         "title": "A Hybrid Methodology to Assess Cyber Resilience of IoT in Energy Management and Connected Sites",
@@ -1335,91 +1162,6 @@
         "doi": "10.1007/978-3-031-27986-7"
     },
     {
-        "title": "Digital Twins in Industry 4.0 Cyber Security",
-        "authors": [
-            {
-                "lastName": "Lo"
-            },
-            {
-                "lastName": "Win"
-            },
-            {
-                "lastName": "Rezaeifar"
-            },
-            {
-                "lastName": "Khan"
-            },
-            {
-                "lastName": "Legg"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/SWC57546.2023.10449147"
-    },
-    {
-        "title": "Trust in Sociotechnical Systems: The Case of Aluminum Packaging Process",
-        "authors": [
-            {
-                "lastName": "Jauernig"
-            },
-            {
-                "lastName": "Falaleyeva"
-            },
-            {
-                "lastName": "Cevani"
-            },
-            {
-                "lastName": "Iqbal"
-            },
-            {
-                "lastName": "Suhail"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/SWC57546.2023.10448736"
-    },
-    {
-        "title": "A Cyber Digital Twin Framework to Support Cyber-Physical Systems Security",
-        "authors": [
-            {
-                "lastName": "Somma"
-            },
-            {
-                "lastName": "Casola"
-            },
-            {
-                "lastName": "Cavalli"
-            },
-            {
-                "lastName": "Mallouli"
-            },
-            {
-                "lastName": "Valdes"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/SWC57546.2023.10449161"
-    },
-    {
-        "title": "Digital Twins and the Future of Their Use Enabling Shift Left and Shift Right Cybersecurity Operations",
-        "authors": [
-            {
-                "lastName": "Mohsin"
-            },
-            {
-                "lastName": "Janicke"
-            },
-            {
-                "lastName": "Nepal"
-            },
-            {
-                "lastName": "Holmes"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/TPS-ISA58951.2023.00042"
-    },
-    {
         "title": "Digital Twin Management Systems - challenges, application, development",
         "authors": [
             {
@@ -1431,25 +1173,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1109/TELECOM59629.2023.10409753"
-    },
-    {
-        "title": "Securing the Smart Grid: A Review on Digital Twins for Cyber Resilience",
-        "authors": [
-            {
-                "lastName": "Anto"
-            },
-            {
-                "lastName": "Marattukalam"
-            },
-            {
-                "lastName": "Roop"
-            },
-            {
-                "lastName": "Swain"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ETFG55873.2023.10408446"
     },
     {
         "title": "Cybersecurity Aspects of Smart Manufacturing Transition to Industry 5.0 Model",
@@ -1494,19 +1217,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1016/j.procs.2023.10.282"
-    },
-    {
-        "title": "Securing IoT Device Networks: A Digital Twin and Automated Adversary Emulation Approach",
-        "authors": [
-            {
-                "lastName": "Van Der Wal"
-            },
-            {
-                "lastName": "El-Hajj"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/DTPI59677.2023.10365459"
     },
     {
         "title": "Design &amp; Development of Virtual Reality Empowered Cyber-Security Training Testbed for IoT Systems",
@@ -1569,22 +1279,6 @@
         "doi": "10.1049/icp.2023.0614"
     },
     {
-        "title": "Digital Twin for Evaluating Detective Countermeasures in Smart Grid Cybersecurity",
-        "authors": [
-            {
-                "lastName": "Sen"
-            },
-            {
-                "lastName": "Bleser"
-            },
-            {
-                "lastName": "Ulbig"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/SmartGridComm57358.2023.10333871"
-    },
-    {
         "title": "Distributed Digital Twins as Proxies-Unlocking Composability and Flexibility for Purpose-Oriented Digital Twins",
         "authors": [
             {
@@ -1602,101 +1296,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1109/ACCESS.2023.3340132"
-    },
-    {
-        "title": "DT4I4-Secure: Digital Twin Framework for Industry 4.0 Systems Security",
-        "authors": [
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Shao"
-            },
-            {
-                "lastName": "Rahman"
-            },
-            {
-                "lastName": "Shafae"
-            },
-            {
-                "lastName": "Satam"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/UEMCON59035.2023.10316090"
-    },
-    {
-        "title": "Digital Twin-Empowered Smart Attack Detection System for 6G Edge of Things Networks",
-        "authors": [
-            {
-                "lastName": "Yigit"
-            },
-            {
-                "lastName": "Chrysoulas"
-            },
-            {
-                "lastName": "Yurdakul"
-            },
-            {
-                "lastName": "Maglaras"
-            },
-            {
-                "lastName": "Canberk"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/GCWkshps58843.2023.10465218"
-    },
-    {
-        "title": "Change Management using Generative Modeling on Digital Twins",
-        "authors": [
-            {
-                "lastName": "Das"
-            },
-            {
-                "lastName": "Kotal"
-            },
-            {
-                "lastName": "Roseberry"
-            },
-            {
-                "lastName": "Joshi"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ISI58743.2023.10297181"
-    },
-    {
-        "title": "Building Human Digital Twins: Cases for Intelligence and Security Informatics",
-        "authors": [
-            {
-                "lastName": "Chung"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ISI58743.2023.10297175"
-    },
-    {
-        "title": "Poisoning Attacks in Federated Edge Learning for Digital Twin 6G-Enabled IoTs: An Anticipatory Study",
-        "authors": [
-            {
-                "lastName": "Ferrag"
-            },
-            {
-                "lastName": "Kantarci"
-            },
-            {
-                "lastName": "Cordeiro"
-            },
-            {
-                "lastName": "Debbah"
-            },
-            {
-                "lastName": "Choo"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ICCWorkshops57953.2023.10283797"
     },
     {
         "title": "A Runtime Verification Framework for Cyber-Physical Systems Based on Data Analytics and LTL Formula Learning",
@@ -1734,47 +1333,6 @@
         "doi": "10.36680/j.itcon.2023.031"
     },
     {
-        "title": "TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports",
-        "authors": [
-            {
-                "lastName": "Yigit"
-            },
-            {
-                "lastName": "Kinaci"
-            },
-            {
-                "lastName": "Duong"
-            },
-            {
-                "lastName": "Canberk"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ICCWorkshops57953.2023.10283756"
-    },
-    {
-        "title": "Security of Cloud-Assisted BANs Using Digital Twin",
-        "authors": [
-            {
-                "lastName": "Sama"
-            },
-            {
-                "lastName": "Zen"
-            },
-            {
-                "lastName": "Ud Din"
-            },
-            {
-                "lastName": "Azim"
-            },
-            {
-                "lastName": "Ur Rahman"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/CITA58204.2023.10262535"
-    },
-    {
         "title": "Toward Deterministic Communications in 6G Networks: State of the Art, Open Challenges and the Way Forward",
         "authors": [
             {
@@ -1803,28 +1361,6 @@
         "doi": ""
     },
     {
-        "title": "Threat intelligence using Digital Twin honeypots in Cybersecurity",
-        "authors": [
-            {
-                "lastName": "Nintsiou"
-            },
-            {
-                "lastName": "Grigoriou"
-            },
-            {
-                "lastName": "Karypidis"
-            },
-            {
-                "lastName": "Fountoukidis"
-            },
-            {
-                "lastName": "Sarigiannidis"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/CSR57506.2023.10224997"
-    },
-    {
         "title": "Digital twins in the minerals industry–a comprehensive review",
         "authors": [
             {
@@ -1842,25 +1378,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1080/25726668.2023.2257479"
-    },
-    {
-        "title": "Enhancing Operational Resilience of Critical Infrastructure Processes Through Chaos Engineering",
-        "authors": [
-            {
-                "lastName": "Dedousis"
-            },
-            {
-                "lastName": "Stergiopoulos"
-            },
-            {
-                "lastName": "Arampatzis"
-            },
-            {
-                "lastName": "Gritzalis"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ACCESS.2023.3316028"
     },
     {
         "title": "Cybersecurity and Dependability for Digital Twins and the Internet of Things",
@@ -1917,152 +1434,16 @@
         "doi": "10.1007/978-3-031-37586-6_9"
     },
     {
-        "title": "A Smart Digital Twin Enabled Security Framework for Vehicle-to-Grid Cyber-Physical Systems",
-        "authors": [
-            {
-                "lastName": "Ali"
-            },
-            {
-                "lastName": "Kaddoum"
-            },
-            {
-                "lastName": "Li"
-            },
-            {
-                "lastName": "Tariq"
-            },
-            {
-                "lastName": "Poor"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/TIFS.2023.3305916"
-    },
-    {
-        "title": "Skilled Agricultural Task Delivery by a Digital Twin",
-        "authors": [
-            {
-                "lastName": "Kaburlasos"
-            },
-            {
-                "lastName": "Lytridis"
-            },
-            {
-                "lastName": "Siavalas"
-            },
-            {
-                "lastName": "Rantos"
-            },
-            {
-                "lastName": "Kalaboukas"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/CAI54212.2023.00159"
-    },
-    {
-        "title": "Digital Twins: Shaping the Future of Energy Systems and Smart Cities through Cybersecurity, Efficiency, and Sustainability",
-        "authors": [
-            {
-                "lastName": "Cali"
-            },
-            {
-                "lastName": "Dimd"
-            },
-            {
-                "lastName": "Hajialigol"
-            },
-            {
-                "lastName": "Lobaccaro"
-            },
-            {
-                "lastName": "Aghaei"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/FES57669.2023.10182868"
-    },
-    {
         "title": "2023 18th Annual System of Systems Engineering Conference, SoSe 2023",
         "authors": [],
         "publicationYear": 2023,
         "doi": ""
     },
     {
-        "title": "Next Generation Financial Services: Role of Blockchain enabled Federated Learning and Metaverse",
-        "authors": [
-            {
-                "lastName": "Chatterjee"
-            },
-            {
-                "lastName": "Das"
-            },
-            {
-                "lastName": "Rawat"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/CCGridW59191.2023.00025"
-    },
-    {
         "title": "3rd International Conference on Internet of Things and Smart City, IoTSC 2023",
         "authors": [],
         "publicationYear": 2023,
         "doi": ""
-    },
-    {
-        "title": "Industrial Control Systems attack detection by hybrid digital twin",
-        "authors": [
-            {
-                "lastName": "Pisani"
-            },
-            {
-                "lastName": "Cavone"
-            },
-            {
-                "lastName": "Giarre"
-            },
-            {
-                "lastName": "Pascucci"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.23919/ECC57647.2023.10178183"
-    },
-    {
-        "title": "Digitalization in Power Energy Sector: Principles of Cybersecurity",
-        "authors": [
-            {
-                "lastName": "Timcenko"
-            },
-            {
-                "lastName": "Rakas"
-            },
-            {
-                "lastName": "Kabovic"
-            },
-            {
-                "lastName": "Kabovic"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/IWSSIP58668.2023.10180280"
-    },
-    {
-        "title": "Advancements in Fin-Tech and Security Challenges of Banking Industry",
-        "authors": [
-            {
-                "lastName": "Gopal"
-            },
-            {
-                "lastName": "Gupta"
-            },
-            {
-                "lastName": "Minocha"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ICIEM59379.2023.10165876"
     },
     {
         "title": "14th IFIP WG 5.5/SOCOLNET Advanced Doctoral Conference on Computing, Electrical and Industrial Systems, DoCEIS 2023",
@@ -2091,25 +1472,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1007/978-981-99-1624-5_34"
-    },
-    {
-        "title": "Towards a Mixed Virtual Reality Environment Implementation to Enable Industrial Robot Programming Competencies within a Cyber-Physical Factory",
-        "authors": [
-            {
-                "lastName": "Vázquez-Hurtado"
-            },
-            {
-                "lastName": "Altamirano-Avila"
-            },
-            {
-                "lastName": "Roman-Flores"
-            },
-            {
-                "lastName": "Vargas-Martinez"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/EDUCON54358.2023.10125175"
     },
     {
         "title": "Cybersecurity for Satellite Smart Critical Infrastructure",
@@ -2142,25 +1504,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.17116/profmed20232605189"
-    },
-    {
-        "title": "Protecting Modbus/TCP-Based Industrial Automation and Control Systems Using Message Authentication Codes",
-        "authors": [
-            {
-                "lastName": "Katulic"
-            },
-            {
-                "lastName": "Sumina"
-            },
-            {
-                "lastName": "Gros"
-            },
-            {
-                "lastName": "Erceg"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ACCESS.2023.3275443"
     },
     {
         "title": "A Cognitive Digital Twin Architecture for Cybersecurity in IoT-Based Smart Homes",
@@ -2204,70 +1547,10 @@
         "doi": "10.3390/su15021441"
     },
     {
-        "title": "Digital Twin and Ontology based DDoS Attack Detection in a Smart-Factory 4.0",
-        "authors": [
-            {
-                "lastName": "Gowripeddi"
-            },
-            {
-                "lastName": "Sasirekha"
-            },
-            {
-                "lastName": "Bapat"
-            },
-            {
-                "lastName": "Das"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ICAIIC57133.2023.10067049"
-    },
-    {
-        "title": "A Probabilistic Model Checking (PMC) Approach to Solve Security Issues in Digital Twin (DT)",
-        "authors": [
-            {
-                "lastName": "Shaikh"
-            },
-            {
-                "lastName": "Mohammad"
-            },
-            {
-                "lastName": "Al-Ali"
-            },
-            {
-                "lastName": "Muhammad"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/IDCIoT56793.2023.10053389"
-    },
-    {
         "title": "International Conference on Cyber Security, Privacy and Networking, ICSPN 2022",
         "authors": [],
         "publicationYear": 2023,
         "doi": ""
-    },
-    {
-        "title": "DDoS Attack Detection Through Digital Twin Technique in Metaverse",
-        "authors": [
-            {
-                "lastName": "Gupta"
-            },
-            {
-                "lastName": "Gaurav"
-            },
-            {
-                "lastName": "Chui"
-            },
-            {
-                "lastName": "Shukla"
-            },
-            {
-                "lastName": "Perakovic"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1109/ICCE56470.2023.10043433"
     },
     {
         "title": "Human-in-Loop: A Review of Smart Manufacturing Deployments",
@@ -2408,19 +1691,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1016/j.compind.2022.103699"
-    },
-    {
-        "title": "Digital Twin: A Comprehensive Survey of Security Threats",
-        "authors": [
-            {
-                "lastName": "Alcaraz"
-            },
-            {
-                "lastName": "Lopez"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/COMST.2022.3171465"
     },
     {
         "title": "A Data Normalization Technique for Detecting Cyber Attacks on UAVs",
@@ -2619,28 +1889,6 @@
         "doi": "10.1016/j.compind.2022.103611"
     },
     {
-        "title": "MUD-Based Behavioral Profiling Security Framework for Software-Defined IoT Networks",
-        "authors": [
-            {
-                "lastName": "Krishnan"
-            },
-            {
-                "lastName": "Jain"
-            },
-            {
-                "lastName": "Buyya"
-            },
-            {
-                "lastName": "Bilal"
-            },
-            {
-                "lastName": "Song"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/JIOT.2021.3113577"
-    },
-    {
         "title": "Study Cybersecurity of Cyber Physical System in the Virtual Environment: A Survey and New Direction",
         "authors": [
             {
@@ -2740,22 +1988,6 @@
         "doi": "10.1007/978-3-030-97166-3_4"
     },
     {
-        "title": "Data Processing in Industrial Internet of Things (IIoT) Applications : Industrial Agility",
-        "authors": [
-            {
-                "lastName": "Sergeeva"
-            },
-            {
-                "lastName": "Voskobovich"
-            },
-            {
-                "lastName": "Kukharenko"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/WECONF55058.2022.9803390"
-    },
-    {
         "title": "Industry 4.0: Applications in Oil and Gas Industry",
         "authors": [
             {
@@ -2788,19 +2020,6 @@
         "doi": "10.1007/978-3-030-84205-5_29"
     },
     {
-        "title": "Virtualized Experiential Learning Platform (VELP) for Smart Grids and Operational Technology Cybersecurity",
-        "authors": [
-            {
-                "lastName": "Manbachi"
-            },
-            {
-                "lastName": "Hammami"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ICIR55739.2022.00027"
-    },
-    {
         "title": "Digital twins and cybersecurity in healthcare systems",
         "authors": [
             {
@@ -2809,38 +2028,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1016/B978-0-32-399163-6.00015-9"
-    },
-    {
-        "title": "Securing Networks of IoT Devices With Digital Twins and Automated Adversary Emulation",
-        "authors": [
-            {
-                "lastName": "Van Der Wal"
-            },
-            {
-                "lastName": "El-Hajj"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ICSEC56337.2022.10049355"
-    },
-    {
-        "title": "Cybersecurity Threats, Vulnerabilities, Mitigation Measures in Industrial Control and Automation Systems: A Technical Review",
-        "authors": [
-            {
-                "lastName": "Ocaka"
-            },
-            {
-                "lastName": "Briain"
-            },
-            {
-                "lastName": "Davy"
-            },
-            {
-                "lastName": "Barrett"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/Cyber-RCI55324.2022.10032665"
     },
     {
         "title": "A Managerial Review and Guidelines for Industry 4.0 Factories on Cybersecurity",
@@ -2860,82 +2047,6 @@
         ],
         "publicationYear": 2022,
         "doi": ""
-    },
-    {
-        "title": "Hybrid Digital Twin Architecture for Power System Cyber Security Analysis",
-        "authors": [
-            {
-                "lastName": "Ayyalusamy"
-            },
-            {
-                "lastName": "Sivaneasan"
-            },
-            {
-                "lastName": "Kandasamy"
-            },
-            {
-                "lastName": "Abidi"
-            },
-            {
-                "lastName": "Chandra"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ISGTAsia54193.2022.10003563"
-    },
-    {
-        "title": "Solution Approaches from Industry for Flightline of the Future and Next Generation Test Systems",
-        "authors": [
-            {
-                "lastName": "Dziuk"
-            },
-            {
-                "lastName": "Edinburgh"
-            },
-            {
-                "lastName": "Reynolds"
-            },
-            {
-                "lastName": "Rousseau"
-            },
-            {
-                "lastName": "Winn"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/AUTOTESTCON47462.2022.9984798"
-    },
-    {
-        "title": "Digital Twin-Enhanced Methodology for Training Edge-Based Models for Cyber Security Applications",
-        "authors": [
-            {
-                "lastName": "Allison"
-            },
-            {
-                "lastName": "Smith"
-            },
-            {
-                "lastName": "McLaughlin"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/INDIN51773.2022.9976095"
-    },
-    {
-        "title": "Real-Time Cyber-Physical Analysis of Distribution Systems Using Digital Twins",
-        "authors": [
-            {
-                "lastName": "Siraj Khan"
-            },
-            {
-                "lastName": "Giraldo"
-            },
-            {
-                "lastName": "Parvania"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/SmartGridComm52983.2022.9961022"
     },
     {
         "title": "Investigating the Cybersecurity of Smart Grids Based on Cyber-Physical Twin Approach",
@@ -3080,22 +2191,6 @@
         "doi": "10.1007/978-3-031-14179-9_21"
     },
     {
-        "title": "Towards a Novel Framework for Reinforcing Cybersecurity using Digital Twins in IoT-based Healthcare Applications",
-        "authors": [
-            {
-                "lastName": "Pirbhulal"
-            },
-            {
-                "lastName": "Abie"
-            },
-            {
-                "lastName": "Shukla"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/VTC2022-Spring54318.2022.9860581"
-    },
-    {
         "title": "Digital Transformation of Oil &amp; Gas Fields Architecting Multi-Services Digital Private Network on 5G NR-U Model",
         "authors": [
             {
@@ -3110,22 +2205,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1109/WAMS54719.2022.9848382"
-    },
-    {
-        "title": "Deep Learning Driven Security in Digital Twins of Drone Network",
-        "authors": [
-            {
-                "lastName": "Wu"
-            },
-            {
-                "lastName": "Guo"
-            },
-            {
-                "lastName": "Lv"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ICC45855.2022.9838734"
     },
     {
         "title": "The Ideas of Industry 4.0: Seven Years after",
@@ -3148,28 +2227,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1016/j.ifacol.2022.06.024"
-    },
-    {
-        "title": "An Industrial Network Digital Twin for enhanced security of Cyber-Physical Systems",
-        "authors": [
-            {
-                "lastName": "Grasselli"
-            },
-            {
-                "lastName": "Melis"
-            },
-            {
-                "lastName": "Rinieri"
-            },
-            {
-                "lastName": "Gori"
-            },
-            {
-                "lastName": "Sadi"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ISNCC55209.2022.9851731"
     },
     {
         "title": "Monitoring Cyber-Physical Systems Using a Tiny Twin to Prevent Cyber-Attacks",
@@ -3251,44 +2308,6 @@
         "doi": "10.1007/978-3-031-07920-7_15"
     },
     {
-        "title": "VAC: A Software Approach to Resilient SCADA Automation",
-        "authors": [
-            {
-                "lastName": "Johnson"
-            },
-            {
-                "lastName": "Weber"
-            },
-            {
-                "lastName": "Smith"
-            },
-            {
-                "lastName": "Dawson"
-            },
-            {
-                "lastName": "McDaniel"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/ISGT50606.2022.9817462"
-    },
-    {
-        "title": "Cyber Security Threats for 5G Networks",
-        "authors": [
-            {
-                "lastName": "Mohan"
-            },
-            {
-                "lastName": "Sugunaraj"
-            },
-            {
-                "lastName": "Ranganathan"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/eIT53891.2022.9813965"
-    },
-    {
         "title": "Cyber Security Standards for the Industrial Internet of Things (IIoT)- A Systematic Review",
         "authors": [
             {
@@ -3325,28 +2344,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1007/978-3-030-81089-4"
-    },
-    {
-        "title": "Quantitative Risk Assessment of Cyber Attacks on Cyber-Physical Systems using Attack Graphs",
-        "authors": [
-            {
-                "lastName": "Semertzis"
-            },
-            {
-                "lastName": "Rajkumar"
-            },
-            {
-                "lastName": "Stefanov"
-            },
-            {
-                "lastName": "Fransen"
-            },
-            {
-                "lastName": "Palensky"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/MSCPES55116.2022.9770140"
     },
     {
         "title": "Integration of AI and IoT Approaches for Evaluating Cybersecurity Risk on Smart City",
@@ -3451,28 +2448,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1007/978-3-030-80119-9_74"
-    },
-    {
-        "title": "Towards Cybersecurity of the Smart Grid Using Digital Twins",
-        "authors": [
-            {
-                "lastName": "Olivares-Rojas"
-            },
-            {
-                "lastName": "Reyes-Archundia"
-            },
-            {
-                "lastName": "Gutierrez-Gnecchi"
-            },
-            {
-                "lastName": "Cerda-Jacobo"
-            },
-            {
-                "lastName": "Mendez-Patino"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1109/MIC.2021.3063674"
     },
     {
         "title": "Adoption of blockchain technology through digital twins in the construction industry 4.0: A PESTELS approach",
@@ -3675,28 +2650,6 @@
         "doi": "10.1016/j.iotcps.2021.12.003"
     },
     {
-        "title": "Real-Time Digital Twin of Residential Energy Storage System for Cyber-Security Study",
-        "authors": [
-            {
-                "lastName": "Shitole"
-            },
-            {
-                "lastName": "Kandasamy"
-            },
-            {
-                "lastName": "Liew"
-            },
-            {
-                "lastName": "Sim"
-            },
-            {
-                "lastName": "Bui"
-            }
-        ],
-        "publicationYear": 2021,
-        "doi": "10.1109/STPEC52385.2021.9718616"
-    },
-    {
         "title": "Digital Twins and Cyber Security - solution or challenge?",
         "authors": [
             {
@@ -3733,25 +2686,6 @@
         ],
         "publicationYear": 2021,
         "doi": "10.1109/IOTSMS53705.2021.9704946"
-    },
-    {
-        "title": "Cyber-Physical System Security Surveillance using Knowledge Graph based Digital Twins - A Smart Farming Usecase",
-        "authors": [
-            {
-                "lastName": "Chukkapalli"
-            },
-            {
-                "lastName": "Pillai"
-            },
-            {
-                "lastName": "Mittal"
-            },
-            {
-                "lastName": "Joshi"
-            }
-        ],
-        "publicationYear": 2021,
-        "doi": "10.1109/ISI53945.2021.9624688"
     },
     {
         "title": "Smart Inverter Twin Model for Anomaly Detection",
@@ -3792,28 +2726,6 @@
         "doi": ""
     },
     {
-        "title": "Environment for Education on Industry 4.0",
-        "authors": [
-            {
-                "lastName": "Fuertes"
-            },
-            {
-                "lastName": "Prada"
-            },
-            {
-                "lastName": "Rodríguez-Ossorio"
-            },
-            {
-                "lastName": "Pérez"
-            },
-            {
-                "lastName": "Domínguez"
-            }
-        ],
-        "publicationYear": 2021,
-        "doi": "10.1109/ACCESS.2021.3120517"
-    },
-    {
         "title": "Advanced Cyber and Physical Situation Awareness in Urban Smart Spaces",
         "authors": [
             {
@@ -3847,22 +2759,6 @@
         ],
         "publicationYear": 2021,
         "doi": ""
-    },
-    {
-        "title": "A Review of Cybersecurity Guidelines for Manufacturing Factories in Industry 4.0",
-        "authors": [
-            {
-                "lastName": "Mullet"
-            },
-            {
-                "lastName": "Sondi"
-            },
-            {
-                "lastName": "Ramat"
-            }
-        ],
-        "publicationYear": 2021,
-        "doi": "10.1109/ACCESS.2021.3056650"
     },
     {
         "title": "Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments",
@@ -3913,66 +2809,6 @@
         "doi": "10.1109/TSG.2020.3000958"
     },
     {
-        "title": "Verification of Large Scale Control Systems with Hybrid Digital Models and Digital Twins",
-        "authors": [
-            {
-                "lastName": "Semenkov"
-            },
-            {
-                "lastName": "Promyslov"
-            },
-            {
-                "lastName": "Poletykin"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/RusAutoCon49822.2020.9208167"
-    },
-    {
-        "title": "Cyber-physical data stream assessment incorporating Digital Twins in future power systems",
-        "authors": [
-            {
-                "lastName": "Kummerow"
-            },
-            {
-                "lastName": "Monsalve"
-            },
-            {
-                "lastName": "Rosch"
-            },
-            {
-                "lastName": "Schafer"
-            },
-            {
-                "lastName": "Nicolai"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/SEST48500.2020.9203270"
-    },
-    {
-        "title": "Digital-Twin based Services for advanced Monitoring and Control of future power systems",
-        "authors": [
-            {
-                "lastName": "Kummerow"
-            },
-            {
-                "lastName": "Nicolai"
-            },
-            {
-                "lastName": "Brosinsky"
-            },
-            {
-                "lastName": "Naumann"
-            },
-            {
-                "lastName": "Richter"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/PESGM41954.2020.9354468"
-    },
-    {
         "title": "Digital Twin for Cybersecurity Incident Prediction: A Multivocal Literature Review",
         "authors": [
             {
@@ -3989,28 +2825,6 @@
         "doi": "10.1145/3387940.3392199"
     },
     {
-        "title": "Security Aspects of Communications in VANETs",
-        "authors": [
-            {
-                "lastName": "Mihai"
-            },
-            {
-                "lastName": "Dokuz"
-            },
-            {
-                "lastName": "Ali"
-            },
-            {
-                "lastName": "Shah"
-            },
-            {
-                "lastName": "Trestian"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/COMM48946.2020.9142034"
-    },
-    {
         "title": "Exploring the interrelationship between additive manufacturing and industry 4.0",
         "authors": [
             {
@@ -4021,39 +2835,10 @@
         "doi": "10.3390/designs4020013"
     },
     {
-        "title": "A Digital Twins Approach to Smart Grid Security Testing and Standardization",
-        "authors": [
-            {
-                "lastName": "Atalay"
-            },
-            {
-                "lastName": "Angin"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/MetroInd4.0IoT48571.2020.9138264"
-    },
-    {
         "title": "8th Workshop on Modeling and Simulation of Cyber-Physical Energy Systems, MSCPES 2020 - Proceedings",
         "authors": [],
         "publicationYear": 2020,
         "doi": ""
-    },
-    {
-        "title": "User Group Behavioural Pattern in a Cellular Mobile Network for 5G Use-cases",
-        "authors": [
-            {
-                "lastName": "Soos"
-            },
-            {
-                "lastName": "Ficzere"
-            },
-            {
-                "lastName": "Varga"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/NOMS47738.2020.9110427"
     },
     {
         "title": "Technologies, opportunities and challenges of the industrial revolution 4.0: Theoretical considerations",
@@ -4086,28 +2871,6 @@
         ],
         "publicationYear": 2020,
         "doi": ""
-    },
-    {
-        "title": "Anomaly and attack detection in supervisory control networks for cyber-physical systems",
-        "authors": [
-            {
-                "lastName": "Del Prete"
-            },
-            {
-                "lastName": "Pera"
-            },
-            {
-                "lastName": "Faramondi"
-            },
-            {
-                "lastName": "Oliva"
-            },
-            {
-                "lastName": "Setola"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.3850/978-981-14-8593-0_4315-cd"
     },
     {
         "title": "Digital twin: Collaborative virtual reality environment for multi-purpose industrial applications",
@@ -4150,28 +2913,6 @@
         ],
         "publicationYear": 2020,
         "doi": "10.1007/978-3-030-42726-9"
-    },
-    {
-        "title": "Digital Twin for the Oil and Gas Industry: Overview, Research Trends, Opportunities, and Challenges",
-        "authors": [
-            {
-                "lastName": "Wanasinghe"
-            },
-            {
-                "lastName": "Wroblewski"
-            },
-            {
-                "lastName": "Petersen"
-            },
-            {
-                "lastName": "Mann"
-            },
-            {
-                "lastName": "Warrian"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1109/ACCESS.2020.2998723"
     },
     {
         "title": "Digital twins for precision healthcare",
@@ -4256,22 +2997,6 @@
         "doi": "10.1109/ICII.2019.00062"
     },
     {
-        "title": "ANGEL: An Intelligent Digital Twin Framework for Microgrid Security",
-        "authors": [
-            {
-                "lastName": "Danilczyk"
-            },
-            {
-                "lastName": "Sun"
-            },
-            {
-                "lastName": "He"
-            }
-        ],
-        "publicationYear": 2019,
-        "doi": "10.1109/NAPS46351.2019.9000371"
-    },
-    {
         "title": "Assessment of a method for detecting process anomalies using digital-twinning",
         "authors": [
             {
@@ -4283,22 +3008,6 @@
         ],
         "publicationYear": 2019,
         "doi": "10.1109/EDCC.2019.00031"
-    },
-    {
-        "title": "Enhancing Cyber Situational Awareness for Cyber-Physical Systems through Digital Twins",
-        "authors": [
-            {
-                "lastName": "Eckhart"
-            },
-            {
-                "lastName": "Ekelhart"
-            },
-            {
-                "lastName": "Weippl"
-            }
-        ],
-        "publicationYear": 2019,
-        "doi": "10.1109/ETFA.2019.8869197"
     },
     {
         "title": "Application of the Internet of Things in the textile industry",

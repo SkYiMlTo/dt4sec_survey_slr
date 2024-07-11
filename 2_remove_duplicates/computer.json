@@ -192,19 +192,6 @@
         "doi": "10.1109/MSEC.2023.3271225"
     },
     {
-        "title": "IEEE Internet Computing",
-        "authors": [
-            {
-                "lastName": "Saracco"
-            },
-            {
-                "lastName": "Henz"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MIC.2021.3088318"
-    },
-    {
         "title": "2022 26th International Conference on Engineering of Complex Computer Systems (ICECCS)",
         "authors": [
             {
@@ -314,28 +301,6 @@
         ],
         "publicationYear": "2021",
         "doi": "10.1109/EuroSPW54576.2021.00020"
-    },
-    {
-        "title": "IEEE Transactions on Emerging Topics in Computing",
-        "authors": [
-            {
-                "lastName": "Mortlock"
-            },
-            {
-                "lastName": "Muthirayan"
-            },
-            {
-                "lastName": "Yu"
-            },
-            {
-                "lastName": "Khargonekar"
-            },
-            {
-                "lastName": "Abdullah Al Faruque"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/TETC.2021.3132251"
     },
     {
         "title": "2022 IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA)",
@@ -451,22 +416,6 @@
         "doi": "10.1109/TDSC.2023.3236798"
     },
     {
-        "title": "IEEE Internet Computing",
-        "authors": [
-            {
-                "lastName": "Nguyen"
-            },
-            {
-                "lastName": "Zeadally"
-            },
-            {
-                "lastName": "Vuduthala"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MIC.2021.3058921"
-    },
-    {
         "title": "2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
         "authors": [
             {
@@ -501,22 +450,6 @@
         "doi": "10.1109/MODELS-C53483.2021.00032"
     },
     {
-        "title": "2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)",
-        "authors": [
-            {
-                "lastName": "Dietz"
-            },
-            {
-                "lastName": "Schlette"
-            },
-            {
-                "lastName": "Pernul"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/COMPSAC54236.2022.00129"
-    },
-    {
         "title": "2022 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
         "authors": [
             {
@@ -539,16 +472,6 @@
         "doi": "10.1109/PerComWorkshops53856.2022.9767492"
     },
     {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Laplante"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MC.2022.3149448"
-    },
-    {
         "title": "2022 IEEE International Performance, Computing, and Communications Conference (IPCCC)",
         "authors": [
             {
@@ -569,72 +492,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/IPCCC55026.2022.9894313"
-    },
-    {
-        "title": "2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)",
-        "authors": [
-            {
-                "lastName": "Palmieri"
-            },
-            {
-                "lastName": "Quadri"
-            },
-            {
-                "lastName": "Fagiolini"
-            },
-            {
-                "lastName": "Rossi"
-            },
-            {
-                "lastName": "Bernardeschi"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/WoWMoM54355.2022.00096"
-    },
-    {
-        "title": "IEEE Internet Computing",
-        "authors": [
-            {
-                "lastName": "Kopponen"
-            },
-            {
-                "lastName": "Hahto"
-            },
-            {
-                "lastName": "Kettunen"
-            },
-            {
-                "lastName": "Mikkonen"
-            },
-            {
-                "lastName": "Makitalo"
-            },
-            {
-                "lastName": "Nurmi"
-            },
-            {
-                "lastName": "Rossi"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MIC.2022.3159683"
-    },
-    {
-        "title": "IEEE Internet Computing",
-        "authors": [
-            {
-                "lastName": "Mendi"
-            },
-            {
-                "lastName": "Erol"
-            },
-            {
-                "lastName": "Doğan"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MIC.2021.3055153"
     },
     {
         "title": "2023 IEEE 6th International Conference on Multimedia Information Processing and Retrieval (MIPR)",
@@ -848,47 +705,6 @@
         "doi": "10.1109/CAI54212.2023.00159"
     },
     {
-        "title": "2021 IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing (CCGrid)",
-        "authors": [
-            {
-                "lastName": "Leivadaros"
-            },
-            {
-                "lastName": "Kornaros"
-            },
-            {
-                "lastName": "Coppola"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/CCGrid51090.2021.00091"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Di Marzo Serugendo"
-            },
-            {
-                "lastName": "Cutting-Decelle"
-            },
-            {
-                "lastName": "Guise"
-            },
-            {
-                "lastName": "Cormenier"
-            },
-            {
-                "lastName": "Khan"
-            },
-            {
-                "lastName": "Hossenlopp"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MC.2022.3156847"
-    },
-    {
         "title": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
         "authors": [
             {
@@ -903,25 +719,6 @@
         ],
         "publicationYear": "5555",
         "doi": "10.1109/TCBB.2023.3252668"
-    },
-    {
-        "title": "IEEE Transactions on Services Computing",
-        "authors": [
-            {
-                "lastName": "Gai"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Qiu"
-            },
-            {
-                "lastName": "Thuraisingham"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TSC.2022.3192166"
     },
     {
         "title": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
@@ -978,25 +775,6 @@
         "doi": "10.1109/ICNP52444.2021.9651970"
     },
     {
-        "title": "2021 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)",
-        "authors": [
-            {
-                "lastName": "Bonney"
-            },
-            {
-                "lastName": "de Angelis"
-            },
-            {
-                "lastName": "Wagg"
-            },
-            {
-                "lastName": "Borgo"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/MODELS-C53483.2021.00042"
-    },
-    {
         "title": "IEEE Software",
         "authors": [
             {
@@ -1014,19 +792,6 @@
         ],
         "publicationYear": "2023",
         "doi": "10.1109/MS.2022.3171305"
-    },
-    {
-        "title": "2022 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)",
-        "authors": [
-            {
-                "lastName": "Zhao"
-            },
-            {
-                "lastName": "Silverajan"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics55523.2022.00051"
     },
     {
         "title": "2022 IEEE International Conference on Smart Computing (SMARTCOMP)",
@@ -1052,50 +817,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/SMARTCOMP55677.2022.00063"
-    },
-    {
-        "title": "IEEE Transactions on Services Computing",
-        "authors": [
-            {
-                "lastName": "Hao"
-            },
-            {
-                "lastName": "Ren"
-            },
-            {
-                "lastName": "Fei"
-            },
-            {
-                "lastName": "Zhu"
-            },
-            {
-                "lastName": "Choo"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TSC.2022.3179727"
-    },
-    {
-        "title": "IEEE Transactions on Emerging Topics in Computing",
-        "authors": [
-            {
-                "lastName": "Corradi"
-            },
-            {
-                "lastName": "Di Modica"
-            },
-            {
-                "lastName": "Foschini"
-            },
-            {
-                "lastName": "Patera"
-            },
-            {
-                "lastName": "Solimando"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/TETC.2021.3111974"
     },
     {
         "title": "2020 IEEE/ACM 24th International Symposium on Distributed Simulation and Real Time Applications (DS-RT)",
@@ -1147,53 +868,6 @@
         ],
         "publicationYear": "2020",
         "doi": "10.1109/SmartIoT49966.2020.00016"
-    },
-    {
-        "title": "2022 IEEE International Conference on Big Data (Big Data)",
-        "authors": [
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Wan"
-            },
-            {
-                "lastName": "Gan"
-            },
-            {
-                "lastName": "Chen"
-            },
-            {
-                "lastName": "Chao"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/BigData55660.2022.10021004"
-    },
-    {
-        "title": "IEEE Transactions on Emerging Topics in Computing",
-        "authors": [
-            {
-                "lastName": "Flammini"
-            },
-            {
-                "lastName": "Alcaraz"
-            },
-            {
-                "lastName": "Bellini"
-            },
-            {
-                "lastName": "Marrone"
-            },
-            {
-                "lastName": "Lopez"
-            },
-            {
-                "lastName": "Bondavalli"
-            }
-        ],
-        "publicationYear": "2024",
-        "doi": "10.1109/TETC.2022.3227113"
     },
     {
         "title": "2022 IEEE Symposium on Computers and Communications (ISCC)",
@@ -1310,28 +984,6 @@
         "doi": "10.1109/ISCC50000.2020.9219683"
     },
     {
-        "title": "IEEE Transactions on Dependable and Secure Computing",
-        "authors": [
-            {
-                "lastName": "Sáez-de-Cámara"
-            },
-            {
-                "lastName": "Flores"
-            },
-            {
-                "lastName": "Arellano"
-            },
-            {
-                "lastName": "Urbieta"
-            },
-            {
-                "lastName": "Zurutuza"
-            }
-        ],
-        "publicationYear": "2024",
-        "doi": "10.1109/TDSC.2023.3247166"
-    },
-    {
         "title": "2021 2nd International Conference on Computational Methods in Science & Technology (ICCMST)",
         "authors": [
             {
@@ -1349,22 +1001,6 @@
         ],
         "publicationYear": "2021",
         "doi": "10.1109/ICCMST54943.2021.00064"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Weiss"
-            },
-            {
-                "lastName": "Stephens"
-            },
-            {
-                "lastName": "Miller"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MC.2021.3138231"
     },
     {
         "title": "2021 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)",
@@ -1416,31 +1052,6 @@
         ],
         "publicationYear": "2020",
         "doi": "10.1109/TPS-ISA50397.2020.00029"
-    },
-    {
-        "title": "IEEE Transactions on Mobile Computing",
-        "authors": [
-            {
-                "lastName": "Zhao"
-            },
-            {
-                "lastName": "Bi"
-            },
-            {
-                "lastName": "Hawbani"
-            },
-            {
-                "lastName": "Yu"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Guizani"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TMC.2022.3179254"
     },
     {
         "title": "2019 7th International Conference on Future Internet of Things and Cloud (FiCloud)",
@@ -1592,68 +1203,6 @@
         "doi": "10.1109/EDCC.2019.00031"
     },
     {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Bresniker"
-            },
-            {
-                "lastName": "Gavrilovska"
-            },
-            {
-                "lastName": "Holt"
-            },
-            {
-                "lastName": "Milojicic"
-            },
-            {
-                "lastName": "Tran"
-            }
-        ],
-        "publicationYear": "2019",
-        "doi": "10.1109/MC.2019.2942584"
-    },
-    {
-        "title": "IEEE Transactions on Emerging Topics in Computing",
-        "authors": [
-            {
-                "lastName": "Alvarenga"
-            },
-            {
-                "lastName": "Brands"
-            },
-            {
-                "lastName": "Doliwa"
-            },
-            {
-                "lastName": "den Hartog"
-            },
-            {
-                "lastName": "Kraft"
-            },
-            {
-                "lastName": "Medwed"
-            },
-            {
-                "lastName": "Nikov"
-            },
-            {
-                "lastName": "Renes"
-            },
-            {
-                "lastName": "Rosso"
-            },
-            {
-                "lastName": "Schneider"
-            },
-            {
-                "lastName": "Veshchikov"
-            }
-        ],
-        "publicationYear": "2024",
-        "doi": "10.1109/TETC.2022.3231692"
-    },
-    {
         "title": "2022 48th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)",
         "authors": [
             {
@@ -1709,31 +1258,6 @@
         "doi": ""
     },
     {
-        "title": "IEEE Transactions on Mobile Computing",
-        "authors": [
-            {
-                "lastName": "Nguyen"
-            },
-            {
-                "lastName": "Lee"
-            },
-            {
-                "lastName": "Pham"
-            },
-            {
-                "lastName": "Hoang"
-            },
-            {
-                "lastName": "Nguyen"
-            },
-            {
-                "lastName": "Hwang"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TMC.2022.3190510"
-    },
-    {
         "title": "2017 International Conference on Computational Science and Computational Intelligence (CSCI)",
         "authors": [
             {
@@ -1772,19 +1296,6 @@
         "doi": "10.1109/MCG.2022.3156846"
     },
     {
-        "title": "2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS)",
-        "authors": [
-            {
-                "lastName": "Polanski"
-            },
-            {
-                "lastName": "Angelopoulos"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/DCOSS54816.2022.00046"
-    },
-    {
         "title": "2023 IEEE 15th International Symposium on Autonomous Decentralized System (ISADS)",
         "authors": [
             {
@@ -1793,35 +1304,6 @@
         ],
         "publicationYear": "2023",
         "doi": "10.1109/ISADS56919.2023.10091973"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Milojicic"
-            }
-        ],
-        "publicationYear": "2019",
-        "doi": "10.1109/MC.2019.2944708"
-    },
-    {
-        "title": "2022 IEEE International Conference on Big Data (Big Data)",
-        "authors": [
-            {
-                "lastName": "Chen"
-            },
-            {
-                "lastName": "Wu"
-            },
-            {
-                "lastName": "Gan"
-            },
-            {
-                "lastName": "Qi"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/BigData55660.2022.10021112"
     },
     {
         "title": "2019 Sixth International Conference on eDemocracy & eGovernment (ICEDEG)",
@@ -1841,25 +1323,6 @@
         ],
         "publicationYear": "2019",
         "doi": "10.1109/ICEDEG.2019.8734339"
-    },
-    {
-        "title": "IEEE Security & Privacy",
-        "authors": [
-            {
-                "lastName": "Roman"
-            },
-            {
-                "lastName": "Alcaraz"
-            },
-            {
-                "lastName": "Lopez"
-            },
-            {
-                "lastName": "Sakurai"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/MSEC.2023.3247946"
     },
     {
         "title": "IEEE Open Journal of the Computer Society",
@@ -1944,25 +1407,6 @@
         "doi": "10.1109/MIPR51284.2021.00074"
     },
     {
-        "title": "2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)",
-        "authors": [
-            {
-                "lastName": "Chukkapalli"
-            },
-            {
-                "lastName": "Ranade"
-            },
-            {
-                "lastName": "Mittal"
-            },
-            {
-                "lastName": "Joshi"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/TPSISA52974.2021.00037"
-    },
-    {
         "title": "2022 IEEE 21st International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
         "authors": [
             {
@@ -2038,25 +1482,6 @@
         "doi": "10.1109/CyberC49757.2020.00010"
     },
     {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Wei"
-            },
-            {
-                "lastName": "Ma"
-            },
-            {
-                "lastName": "Li"
-            },
-            {
-                "lastName": "Hu"
-            }
-        ],
-        "publicationYear": "2020",
-        "doi": "10.1109/MC.2020.2970821"
-    },
-    {
         "title": "2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)",
         "authors": [
             {
@@ -2095,43 +1520,6 @@
         "doi": "10.1109/BigData47090.2019.9006596"
     },
     {
-        "title": "IEEE Computer Graphics and Applications",
-        "authors": [
-            {
-                "lastName": "Posada"
-            },
-            {
-                "lastName": "Toro"
-            },
-            {
-                "lastName": "Barandiaran"
-            },
-            {
-                "lastName": "Oyarzun"
-            },
-            {
-                "lastName": "Stricker"
-            },
-            {
-                "lastName": "de Amicis"
-            },
-            {
-                "lastName": "Pinto"
-            },
-            {
-                "lastName": "Eisert"
-            },
-            {
-                "lastName": "Dollner"
-            },
-            {
-                "lastName": "Vallarino"
-            }
-        ],
-        "publicationYear": "2015",
-        "doi": "10.1109/MCG.2015.45"
-    },
-    {
         "title": "2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
         "authors": [
             {
@@ -2152,37 +1540,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/TrustCom56396.2022.00152"
-    },
-    {
-        "title": "2022 IEEE International Conference on Smart Internet of Things (SmartIoT)",
-        "authors": [],
-        "publicationYear": "2022",
-        "doi": "10.1109/SmartIoT55134.2022.00009"
-    },
-    {
-        "title": "IEEE Security & Privacy",
-        "authors": [
-            {
-                "lastName": "Sarieddine"
-            },
-            {
-                "lastName": "Sayed"
-            },
-            {
-                "lastName": "Jafarigiv"
-            },
-            {
-                "lastName": "Atallah"
-            },
-            {
-                "lastName": "Debbabi"
-            },
-            {
-                "lastName": "Assi"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/MSEC.2023.3247374"
     },
     {
         "title": "2021 IEEE International Conference on Web Services (ICWS)",
@@ -2323,16 +1680,6 @@
         "doi": "10.1109/RE.2019.00042"
     },
     {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Paulsen"
-            }
-        ],
-        "publicationYear": "2020",
-        "doi": "10.1109/MC.2019.2951979"
-    },
-    {
         "title": "2021 2nd International Conference on Electronics, Communications and Information Technology (CECIT)",
         "authors": [
             {
@@ -2379,50 +1726,6 @@
         ],
         "publicationYear": "2021",
         "doi": "10.1109/IUCC-CIT-DSCI-SmartCNS55181.2021.00019"
-    },
-    {
-        "title": "IT Professional",
-        "authors": [
-            {
-                "lastName": "Reisman"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MITP.2022.3193046"
-    },
-    {
-        "title": "IEEE Computer Graphics and Applications",
-        "authors": [
-            {
-                "lastName": "Posada"
-            },
-            {
-                "lastName": "Zorrilla"
-            },
-            {
-                "lastName": "Dominguez"
-            },
-            {
-                "lastName": "Simoes"
-            },
-            {
-                "lastName": "Eisert"
-            },
-            {
-                "lastName": "Stricker"
-            },
-            {
-                "lastName": "Rambach"
-            },
-            {
-                "lastName": "Döllner"
-            },
-            {
-                "lastName": "Guevara"
-            }
-        ],
-        "publicationYear": "2018",
-        "doi": "10.1109/MCG.2018.053491736"
     },
     {
         "title": "2022 International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)",
@@ -2507,22 +1810,6 @@
         "doi": "10.1109/EnCyCriS52570.2021.00005"
     },
     {
-        "title": "2019 Sixth International Conference on eDemocracy & eGovernment (ICEDEG)",
-        "authors": [
-            {
-                "lastName": "Velásquez"
-            },
-            {
-                "lastName": "Estevez"
-            },
-            {
-                "lastName": "Pesado"
-            }
-        ],
-        "publicationYear": "2019",
-        "doi": "10.1109/ICEDEG.2019.8734282"
-    },
-    {
         "title": "2021 12th International Conference on Information, Intelligence, Systems & Applications (IISA)",
         "authors": [
             {
@@ -2570,28 +1857,6 @@
         "doi": "10.1109/SEAMS51251.2021.00034"
     },
     {
-        "title": "IEEE Transactions on Services Computing",
-        "authors": [
-            {
-                "lastName": "Leng"
-            },
-            {
-                "lastName": "Zhou"
-            },
-            {
-                "lastName": "Zhao"
-            },
-            {
-                "lastName": "Huang"
-            },
-            {
-                "lastName": "Bian"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/TSC.2020.3038641"
-    },
-    {
         "title": "2021 IEEE Sixth International Conference on Data Science in Cyberspace (DSC)",
         "authors": [
             {
@@ -2609,139 +1874,6 @@
         ],
         "publicationYear": "2021",
         "doi": "10.1109/DSC53577.2021.00085"
-    },
-    {
-        "title": "2022 IEEE Future Networks World Forum (FNWF)",
-        "authors": [
-            {
-                "lastName": "Kataria"
-            },
-            {
-                "lastName": "Walid"
-            },
-            {
-                "lastName": "Daneshmand"
-            },
-            {
-                "lastName": "Dutta"
-            },
-            {
-                "lastName": "Enright"
-            },
-            {
-                "lastName": "Gu"
-            },
-            {
-                "lastName": "Lackpour"
-            },
-            {
-                "lastName": "Ramachandran"
-            },
-            {
-                "lastName": "Wang"
-            },
-            {
-                "lastName": "Chen"
-            },
-            {
-                "lastName": "Chng"
-            },
-            {
-                "lastName": "Darema"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/FNWF55208.2022.00133"
-    },
-    {
-        "title": "2022 IEEE Symposium on Computers and Communications (ISCC)",
-        "authors": [
-            {
-                "lastName": "Yuan"
-            },
-            {
-                "lastName": "Han"
-            },
-            {
-                "lastName": "Krummacker"
-            },
-            {
-                "lastName": "Schotten"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/ISCC55528.2022.9912797"
-    },
-    {
-        "title": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
-        "authors": [
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Ye"
-            },
-            {
-                "lastName": "Wu"
-            },
-            {
-                "lastName": "Luo"
-            },
-            {
-                "lastName": "Chen"
-            },
-            {
-                "lastName": "Du"
-            },
-            {
-                "lastName": "Wen"
-            },
-            {
-                "lastName": "Song"
-            },
-            {
-                "lastName": "Liu"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Wang"
-            }
-        ],
-        "publicationYear": "5555",
-        "doi": "10.1109/TCBB.2023.3234100"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Arlitt"
-            },
-            {
-                "lastName": "Coughlin"
-            },
-            {
-                "lastName": "Faraboschi"
-            },
-            {
-                "lastName": "Frachtenberg"
-            },
-            {
-                "lastName": "Laplante"
-            },
-            {
-                "lastName": "Milojicic"
-            },
-            {
-                "lastName": "Patel"
-            },
-            {
-                "lastName": "Saracco"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/MC.2022.3203505"
     },
     {
         "title": "2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)",
@@ -2829,69 +1961,6 @@
         "doi": "10.1109/ICCD50377.2020.00022"
     },
     {
-        "title": "IEEE Transactions on Mobile Computing",
-        "authors": [
-            {
-                "lastName": "Sun"
-            },
-            {
-                "lastName": "Zhao"
-            },
-            {
-                "lastName": "Ma"
-            },
-            {
-                "lastName": "Guo"
-            },
-            {
-                "lastName": "Xu"
-            },
-            {
-                "lastName": "Duong"
-            }
-        ],
-        "publicationYear": "2024",
-        "doi": "10.1109/TMC.2023.3241770"
-    },
-    {
-        "title": "2022 IEEE Symposium on Computers and Communications (ISCC)",
-        "authors": [],
-        "publicationYear": "2022",
-        "doi": "10.1109/ISCC55528.2022.9912794"
-    },
-    {
-        "title": "IEEE Software",
-        "authors": [
-            {
-                "lastName": "Mani"
-            },
-            {
-                "lastName": "Ebert"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MS.2021.3119505"
-    },
-    {
-        "title": "2022 IEEE 21st International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
-        "authors": [
-            {
-                "lastName": "My Van"
-            },
-            {
-                "lastName": "Dreiser"
-            },
-            {
-                "lastName": "da Silva"
-            },
-            {
-                "lastName": "Weiss"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/ICCICC57084.2022.10101573"
-    },
-    {
         "title": "2021 8th International Conference on Future Internet of Things and Cloud (FiCloud)",
         "authors": [
             {
@@ -2911,47 +1980,6 @@
         "doi": "10.1109/FiCloud49777.2021.00019"
     },
     {
-        "title": "IEEE Transactions on Dependable and Secure Computing",
-        "authors": [
-            {
-                "lastName": "Krishnamurthy"
-            },
-            {
-                "lastName": "Surabhi"
-            },
-            {
-                "lastName": "Pearce"
-            },
-            {
-                "lastName": "Karri"
-            },
-            {
-                "lastName": "Khorrami"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TDSC.2022.3231632"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Laplante"
-            },
-            {
-                "lastName": "Milojicic"
-            },
-            {
-                "lastName": "Serebryakov"
-            },
-            {
-                "lastName": "Bennett"
-            }
-        ],
-        "publicationYear": "2020",
-        "doi": "10.1109/MC.2020.3006177"
-    },
-    {
         "title": "2022 IEEE/ACM 4th International Workshop on Bots in Software Engineering (BotSE)",
         "authors": [
             {
@@ -2963,25 +1991,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1145/3528228.3528405"
-    },
-    {
-        "title": "IEEE Internet Computing",
-        "authors": [
-            {
-                "lastName": "Jaimini"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Brikis"
-            },
-            {
-                "lastName": "Sheth"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MIC.2022.3212085"
     },
     {
         "title": "2021 IEEE 20th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
@@ -3021,28 +2030,6 @@
         "doi": "10.1109/ICCICC53683.2021.9811336"
     },
     {
-        "title": "IEEE Transactions on Mobile Computing",
-        "authors": [
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Guo"
-            },
-            {
-                "lastName": "Sun"
-            },
-            {
-                "lastName": "Liu"
-            },
-            {
-                "lastName": "Yu"
-            }
-        ],
-        "publicationYear": "2024",
-        "doi": "10.1109/TMC.2022.3223944"
-    },
-    {
         "title": "2022 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)",
         "authors": [
             {
@@ -3054,31 +2041,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/AIPR57179.2022.10092230"
-    },
-    {
-        "title": "Computer",
-        "authors": [],
-        "publicationYear": "2022",
-        "doi": "10.1109/MC.2022.3201211"
-    },
-    {
-        "title": "IEEE Transactions on Dependable and Secure Computing",
-        "authors": [
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Huang"
-            },
-            {
-                "lastName": "Ning"
-            },
-            {
-                "lastName": "He"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/TDSC.2022.3228236"
     },
     {
         "title": "2020 7th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2020 6th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)",
@@ -3103,83 +2065,6 @@
         "doi": "10.1109/CSCloud-EdgeCom49738.2020.00044"
     },
     {
-        "title": "IEEE Software",
-        "authors": [
-            {
-                "lastName": "Ebert"
-            },
-            {
-                "lastName": "Montenbruck"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MS.2022.3148928"
-    },
-    {
-        "title": "2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)",
-        "authors": [
-            {
-                "lastName": "Pu"
-            },
-            {
-                "lastName": "Wang"
-            },
-            {
-                "lastName": "Kanemasa"
-            },
-            {
-                "lastName": "Alves Lima"
-            },
-            {
-                "lastName": "Kimball"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Liu"
-            },
-            {
-                "lastName": "Gu"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/TPSISA52974.2021.00023"
-    },
-    {
-        "title": "IT Professional",
-        "authors": [
-            {
-                "lastName": "Bojanova"
-            },
-            {
-                "lastName": "Hurlburt"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MITP.2022.3141846"
-    },
-    {
-        "title": "IT Professional",
-        "authors": [
-            {
-                "lastName": "Murugesan"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/MITP.2022.3163616"
-    },
-    {
-        "title": "2022 IEEE International Conference on Big Data (Big Data)",
-        "authors": [
-            {
-                "lastName": "Makhlouf"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/BigData55660.2022.10020244"
-    },
-    {
         "title": "IEEE Transactions on Sustainable Computing",
         "authors": [
             {
@@ -3200,56 +2085,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/TSUSC.2021.3132927"
-    },
-    {
-        "title": "2021 IEEE 20th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)",
-        "authors": [
-            {
-                "lastName": "Wang"
-            },
-            {
-                "lastName": "Widrow"
-            },
-            {
-                "lastName": "Pedrycz"
-            },
-            {
-                "lastName": "Berwick"
-            },
-            {
-                "lastName": "Soda"
-            },
-            {
-                "lastName": "Kwong"
-            },
-            {
-                "lastName": "Kaynak"
-            },
-            {
-                "lastName": "Regazzoni"
-            },
-            {
-                "lastName": "Chan"
-            },
-            {
-                "lastName": "Gavrilova"
-            },
-            {
-                "lastName": "Wang"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/ICCICC53683.2021.9811324"
-    },
-    {
-        "title": "Computer",
-        "authors": [
-            {
-                "lastName": "Milojicic"
-            }
-        ],
-        "publicationYear": "2020",
-        "doi": "10.1109/MC.2020.3007297"
     },
     {
         "title": "2022 IEEE/ACM 1st International Conference on AI Engineering – Software Engineering for AI (CAIN)",
@@ -3288,101 +2123,6 @@
         ],
         "publicationYear": "2022",
         "doi": "10.1109/ICSME55016.2022.00040"
-    },
-    {
-        "title": "2022 7th International Conference on Cyber Security and Information Engineering (ICCSIE)",
-        "authors": [
-            {
-                "lastName": "Geng"
-            },
-            {
-                "lastName": "Hao"
-            },
-            {
-                "lastName": "Liu"
-            },
-            {
-                "lastName": "Gao"
-            },
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Sun"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/ICCSIE56462.2022.00018"
-    },
-    {
-        "title": "IT Professional",
-        "authors": [
-            {
-                "lastName": "Bojanova"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/MITP.2020.3048454"
-    },
-    {
-        "title": "2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)",
-        "authors": [
-            {
-                "lastName": "Orbinato"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/ISSREW53611.2021.00094"
-    },
-    {
-        "title": "Computer",
-        "authors": [],
-        "publicationYear": "2021",
-        "doi": "10.1109/MC.2021.3055700"
-    },
-    {
-        "title": "IEEE Open Journal of the Computer Society",
-        "authors": [
-            {
-                "lastName": "Chen"
-            },
-            {
-                "lastName": "Zhang"
-            },
-            {
-                "lastName": "Li"
-            },
-            {
-                "lastName": "Liao"
-            },
-            {
-                "lastName": "Zhao"
-            },
-            {
-                "lastName": "Zheng"
-            },
-            {
-                "lastName": "Huang"
-            },
-            {
-                "lastName": "Wu"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": "10.1109/OJCS.2022.3217565"
-    },
-    {
-        "title": "IEEE Software",
-        "authors": [
-            {
-                "lastName": "Ebert"
-            },
-            {
-                "lastName": "Kirschke-Biller"
-            }
-        ],
-        "publicationYear": "2021",
-        "doi": "10.1109/MS.2021.3071806"
     },
     {
         "title": "2022 Asia Conference on Algorithms, Computing and Machine Learning (CACML)",
@@ -3463,31 +2203,6 @@
         ],
         "publicationYear": "2023",
         "doi": "10.1109/TAI.2022.3187678"
-    },
-    {
-        "title": "IEEE Open Journal of the Computer Society",
-        "authors": [
-            {
-                "lastName": "Wu"
-            },
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Lin"
-            },
-            {
-                "lastName": "Zheng"
-            },
-            {
-                "lastName": "Huang"
-            },
-            {
-                "lastName": "Zheng"
-            }
-        ],
-        "publicationYear": "2023",
-        "doi": "10.1109/OJCS.2023.3245801"
     },
     {
         "title": "2020 IEEE 22nd Conference on Business Informatics (CBI)",

@@ -9,13 +9,17 @@ def normalisation_ieee_xplore():
     for elem in file_input["records"]:
         counter += 1
         authors = []
+        doi = ""
         if elem["authors"]:
             for author in elem["authors"]:
                 authors.append({"lastName": author["lastName"]})
+        if "doi" in elem:
+            doi = elem["doi"]
         json_content_output.append({
             "title": elem["articleTitle"],
             "authors": authors,
             "publicationYear": elem["publicationYear"],
+            "doi": doi,
         })
     print("ieeexplore has " + str(counter) + " articles")
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
@@ -29,13 +33,17 @@ def normalisation_computer():
     for elem in file_input["results"]:
         counter += 1
         authors = []
+        doi = ""
         if elem["authors"]:
             for author in elem["authors"]:
                 authors.append({"lastName": author["surname"]})
+        if "doi" in elem:
+            doi = elem["doi"]
         json_content_output.append({
             "title": elem["pubTitle"],
             "authors": authors,
             "publicationYear": elem["year"],
+            "doi": doi,
         })
     print("computer has " + str(counter) + " articles")
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
@@ -49,13 +57,17 @@ def normalisation_scopus():
     for elem in file_input["items"]:
         counter += 1
         authors = []
+        doi = ""
         if elem["authors"]:
             for author in elem["authors"]:
                 authors.append({"lastName": author["preferredName"]["last"]})
+        if "doi" in elem:
+            doi = elem["doi"]
         json_content_output.append({
             "title": elem["title"],
             "authors": authors,
             "publicationYear": elem["pubYear"],
+            "doi": doi,
         })
     print("scopus has " + str(counter) + " articles")
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
@@ -69,13 +81,17 @@ def normalisation_semantic_scholar():
     for elem in file_input["results"]:
         counter += 1
         authors = []
+        doi = ""
         if elem["authors"]:
             for author in elem["authors"]:
                 authors.append({"lastName": author[0]["structuredName"]["lastName"]})
+        if "doi" in elem:
+            doi = elem["infoDoi"]["doi"]
         json_content_output.append({
             "title": elem["title"]["text"],
             "authors": authors,
             "publicationYear": elem["year"]["text"],
+            "doi": doi,
         })
     print("sematic_scholar has " + str(counter) + " articles")
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
