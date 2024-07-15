@@ -400,16 +400,6 @@
         "doi": ""
     },
     {
-        "title": "Blockchain, Internet of Things and Digital Twins in Trustless Security of Critical National Infrastructure",
-        "authors": [
-            {
-                "lastName": "Hammoudeh"
-            }
-        ],
-        "publicationYear": "2020",
-        "doi": ""
-    },
-    {
         "title": "Digital Twin perspective of Fourth Industrial and Healthcare Revolution",
         "authors": [
             {
@@ -420,22 +410,6 @@
             },
             {
                 "lastName": "Ratnarajah"
-            }
-        ],
-        "publicationYear": "2022",
-        "doi": ""
-    },
-    {
-        "title": "Digital Twin Virtualization with Machine Learning for IoT and Beyond 5G Networks: Research Directions for Security and Optimal Control",
-        "authors": [
-            {
-                "lastName": "Jagannath"
-            },
-            {
-                "lastName": "Ramezanpour"
-            },
-            {
-                "lastName": "Jagannath"
             }
         ],
         "publicationYear": "2022",

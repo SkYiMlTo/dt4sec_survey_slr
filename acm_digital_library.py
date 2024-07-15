@@ -1,4 +1,5 @@
 import time
+import json
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -8,10 +9,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options
 
 options = Options()
-# options.add_argument('--headless')
-# options.add_argument('--no-sandbox')
-# options.add_argument('--disable-dev-shm-usage')
-# options.add_argument('--disable-gpu')
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+options.add_argument('--disable-gpu')
 
 driver = webdriver.Chrome(options=options)
 
@@ -25,10 +26,15 @@ close_popup.click()
 # search_bar.send_keys(Keys.ENTER)
 # time.sleep(3)
 is_last_page = False
+file_output = open("1_initial_request_articles/acm_digital_library.json", "w", encoding="utf-8")
+json_content_output = []
+counter = 0
 while not is_last_page:
     time.sleep(3)
     articles_html = driver.find_elements(By.XPATH, ".//li[@class ='search__item issue-item-container']")
     for article in articles_html:
+        counter += 1
+
         title = article.find_element(By.TAG_NAME, "h5").text
 
         year = article.find_element(By.XPATH, ".//div[@class ='bookPubDate simple-tooltip__block--b']").text.split(' ')[1]
@@ -37,7 +43,7 @@ while not is_last_page:
         try:
             authors_list = article.find_elements(By.XPATH, ".//span[@class ='hlFld-ContribAuthor']")
             for author in authors_list:
-                authors.append(author.text)
+                authors.append({"lastName": author.text.split(' ')[-1]})
         except:
             pass
 
@@ -46,9 +52,17 @@ while not is_last_page:
             doi = article.find_element(By.XPATH, ".//a[@class ='issue-item__doi dot-separator']").text
         except:
             pass
-        print(title + " - " + year + " - " + ','.join(authors) + " - " + doi)
+        # print(title + " - " + year + " - " + ','.join(authors) + " - " + doi)
+        json_content_output.append({
+            "title": title,
+            "authors": authors,
+            "publicationYear": year,
+            "doi": doi,
+        })
     try:
         next_page = driver.find_element(By.CSS_SELECTOR, "ul + span")
         next_page.click()
     except:
         is_last_page = True
+json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
+print(str(counter) + ", DONE")

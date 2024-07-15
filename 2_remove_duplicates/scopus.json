@@ -287,19 +287,6 @@
         "doi": ""
     },
     {
-        "title": "Trustworthy and Efficient Digital Twins in Post-Quantum Era with Hybrid Hardware-Assisted Signatures",
-        "authors": [
-            {
-                "lastName": "Nouma"
-            },
-            {
-                "lastName": "Yavuz"
-            }
-        ],
-        "publicationYear": 2024,
-        "doi": "10.1145/3638250"
-    },
-    {
         "title": "Securing IIoT applications in 6G and beyond using adaptive ensemble learning and zero-touch multi-resource provisioning",
         "authors": [
             {
@@ -900,22 +887,6 @@
         ],
         "publicationYear": 2023,
         "doi": "10.1016/j.prime.2023.100186"
-    },
-    {
-        "title": "Digital Twin-Enhanced Incident Response for Cyber-Physical Systems",
-        "authors": [
-            {
-                "lastName": "Allison"
-            },
-            {
-                "lastName": "Smith"
-            },
-            {
-                "lastName": "McLaughlin"
-            }
-        ],
-        "publicationYear": 2023,
-        "doi": "10.1145/3600160.3600195"
     },
     {
         "title": "Systems and methods for authenticating manufacturing Machines through an unobservable fingerprinting system",
@@ -1715,25 +1686,6 @@
         "doi": "10.3390/drones6090245"
     },
     {
-        "title": "SOAR4IoT: Securing IoT Assets with Digital Twins",
-        "authors": [
-            {
-                "lastName": "Empl"
-            },
-            {
-                "lastName": "Schlette"
-            },
-            {
-                "lastName": "Zupfer"
-            },
-            {
-                "lastName": "Pernul"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1145/3538969.3538975"
-    },
-    {
         "title": "Computational Intelligence in Security of Digital Twins Big Graphic Data in Cyber-physical Systems of Smart Cities",
         "authors": [
             {
@@ -1887,22 +1839,6 @@
         ],
         "publicationYear": 2022,
         "doi": "10.1016/j.compind.2022.103611"
-    },
-    {
-        "title": "Study Cybersecurity of Cyber Physical System in the Virtual Environment: A Survey and New Direction",
-        "authors": [
-            {
-                "lastName": "Shi"
-            },
-            {
-                "lastName": "Krishnan"
-            },
-            {
-                "lastName": "Wen"
-            }
-        ],
-        "publicationYear": 2022,
-        "doi": "10.1145/3511616.3513098"
     },
     {
         "title": "Digital Twin—Cyber Replica of Physical Things: Architecture, Applications and Future Research Directions",
@@ -2761,25 +2697,6 @@
         "doi": ""
     },
     {
-        "title": "Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments",
-        "authors": [
-            {
-                "lastName": "Murillo"
-            },
-            {
-                "lastName": "Taormina"
-            },
-            {
-                "lastName": "Tippenhauer"
-            },
-            {
-                "lastName": "Galelli"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1145/3442144.3442147"
-    },
-    {
         "title": "Cyber physical systems: From information society to super smart society",
         "authors": [
             {
@@ -2807,22 +2724,6 @@
         ],
         "publicationYear": 2020,
         "doi": "10.1109/TSG.2020.3000958"
-    },
-    {
-        "title": "Digital Twin for Cybersecurity Incident Prediction: A Multivocal Literature Review",
-        "authors": [
-            {
-                "lastName": "Pokhrel"
-            },
-            {
-                "lastName": "Katta"
-            },
-            {
-                "lastName": "Colomo-Palacios"
-            }
-        ],
-        "publicationYear": 2020,
-        "doi": "10.1145/3387940.3392199"
     },
     {
         "title": "Exploring the interrelationship between additive manufacturing and industry 4.0",
