@@ -2,9 +2,9 @@ from os import walk
 import json
 
 
-def remove_duplicates_main():
+def main_remove_duplicates():
     articles_known = []
-    input_filenames = next(walk("1_initial_request_articles"), (None, None, []))[2]
+    input_filenames = next(walk("../../../old/1_initial_request_articles"), (None, None, []))[2]
     for input_filename in input_filenames:
         counter = 0
         output_without_duplicates = []

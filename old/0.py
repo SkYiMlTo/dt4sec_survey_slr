@@ -1,6 +1,4 @@
 import json
-from math import ceil
-import requests
 from computer import Computer
 from ieee_xplore import IeeeXplore
 from scopus import Scopus

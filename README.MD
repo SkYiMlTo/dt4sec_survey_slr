@@ -17,10 +17,10 @@ Here is the structure of the repository:
 │   │   ├── Step 1 - Scrapping
 │   │   ├── Step 2 - Duplicate removal
 │   │   └── Step 3 - CSV generation
-│   └── Data Visualisation
+│   └── Data Visualization
 │       ├── Articles per country
 │       └── Year repartition
-├── Automated output
+├── output
 │   ├── YY/MM/DD
 │   │   ├── Step 1 - JSONs
 │   │   │   ├── Database 1
@@ -33,7 +33,7 @@ Here is the structure of the repository:
 │   │   │   ├── Database 3
 │   │   │   └── ...
 │   │   ├── CSV file
-│   │   └── Data visualisation
+│   │   └── Data visualization
 │   └── YY/MM/DD
 │       └── ...
 └── requirements.txt
