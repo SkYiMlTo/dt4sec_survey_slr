@@ -16,7 +16,7 @@ jobs:
           python-version: 3.12 #install the python needed
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           sudo apt-get update
           sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
           sudo apt-get install default-jdk 
