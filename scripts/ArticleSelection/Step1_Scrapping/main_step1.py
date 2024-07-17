@@ -2,8 +2,8 @@ import logging
 import os
 import threading
 import time
-from scripts.ArticleSelection.Step1_Scrapping.acm_digital_library import scrap_acm_digital_library
-from scripts.ArticleSelection.Step1_Scrapping.computer import scrap_computer
+from acm_digital_library import scrap_acm_digital_library
+from computer import scrap_computer
 
 
 def thread_function():
