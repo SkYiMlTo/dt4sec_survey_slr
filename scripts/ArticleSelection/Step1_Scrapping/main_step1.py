@@ -17,9 +17,9 @@ def main_scrap_databases(request, path):
     if not os.path.exists(path):
         os.mkdir(path)
     x = threading.Thread(target=scrap_acm_digital_library, args=(request, path), daemon=False)
-    y = threading.Thread(target=scrap_computer, args=(request, path), daemon=False)
+    # y = threading.Thread(target=scrap_computer, args=(request, path), daemon=False)
     x.start()
-    y.start()
+    # y.start()
     x.join()
-    y.join()
+    # y.join()
     print("All Scrapping Completed")
