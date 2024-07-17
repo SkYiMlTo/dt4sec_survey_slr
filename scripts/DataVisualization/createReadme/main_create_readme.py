@@ -1,6 +1,6 @@
 def main_create_readme(path):
-    plot_filename_years = "DataVisualization/plt_years_repartition.png"
-    plot_filename_authors = "DataVisualization/plt_top_10_authors.png"
+    plot_filename_years = "./dataVisualization/plt_years_repartition.png"
+    plot_filename_authors = "./dataVisualization/plt_top_10_authors.png"
     readme_content = \
         f"""
 # Publication Data Analysis
