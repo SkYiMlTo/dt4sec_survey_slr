@@ -1,18 +1,24 @@
 import time
 import json
+import re
 
 from selenium import webdriver
 from selenium.webdriver import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 
-def scrap_computer():
+def scrap_computer(request, path):
+    print("COMPUTER STRATING SCRAPING")
     options = Options()
-    # options.add_argument('--headless')
-    # options.add_argument('--no-sandbox')
-    # options.add_argument('--disable-dev-shm-usage')
-    # options.add_argument('--disable-gpu')
+    options.add_argument("--window-size=1280,720")
+    options.add_argument("--start-maximized")
+    options.add_argument('--headless=new')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
 
     driver = webdriver.Chrome(options=options)
 
@@ -21,7 +27,6 @@ def scrap_computer():
     time.sleep(2)
     close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
     close_popup.click()
-    time.sleep(2)
     # display100 = driver.find_element(By.ID, "limitDropdown")
     # toto = driver.find_element(By.XPATH, "//*[contains(text(), '100')]")
     # display100.click()
@@ -37,53 +42,77 @@ def scrap_computer():
     # search_bar = driver.find_element(By.XPATH, "//input[@id ='basic-search-mobile-input']")
     time.sleep(1)
     search_bar.click()
-    search_bar.send_keys('("Digital Twin" OR "Digital Twins") AND ("cyber attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR "cyber-physical systems" OR "cyber-physical systems")')
+    search_bar.send_keys(request)
     search_bar.send_keys(Keys.ENTER)
-    time.sleep(3)
+    time.sleep(1)
 
     is_last_page = False
-    file_output = open("../../../old/1_initial_request_articles/acm_digital_library.json", "w", encoding="utf-8")
+    file_output = open(path + "computer.json", "w", encoding="utf-8")
     json_content_output = []
     counter = 0
     while not is_last_page:
         time.sleep(3)
-        articles_html = driver.find_elements(By.XPATH, ".//li[@class ='search__item issue-item-container']")
+        articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
         for article in articles_html:
+            WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.XPATH, ".//a[@class ='article-title']"))
+            )
             counter += 1
-
-            title = article.find_element(By.TAG_NAME, "h5").text
-
-            year = \
-            article.find_element(By.XPATH, ".//div[@class ='bookPubDate simple-tooltip__block--b']").text.split(' ')[1]
-
-            authors = []
+            not_good = True
+            title = ""
+            # while not_good:
+            #     try:
+            title = article.find_element(By.XPATH, ".//a[@class ='article-title']").text
+            not_good = False
+                # except:
+                #     pass
+            not_good = True
+            year = ""
+            # while not_good:
             try:
-                authors_list = article.find_elements(By.XPATH, ".//span[@class ='hlFld-ContribAuthor']")
+                # top = article.find_element(By.XPATH, ".//div[@class ='metadata']")
+                year = re.search(r'\d{4}|$', article.find_element(By.XPATH, ".//div[@class ='metadata']").text).group()
+                not_good = False
+            except:
+                print("EXCEPTION " + str(counter))
+            not_good = True
+            authors = []
+            # while not_good:
+            try:
+                authors_list = article.find_elements(By.XPATH, ".//button[@class ='article-author']")
                 for author in authors_list:
                     authors.append({"lastName": author.text.split(' ')[-1]})
+                not_good = False
             except:
                 pass
-
+            not_good = True
             doi = ""
+            # while not_good:
             try:
-                doi = article.find_element(By.XPATH, ".//a[@class ='issue-item__doi dot-separator']").text
+                article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
+                )
+                doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
+                # not_good = False
+                driver.back()
             except:
-                pass
-            # print(title + " - " + year + " - " + ','.join(authors) + " - " + doi)
+                driver.back()
             json_content_output.append({
                 "title": title,
                 "authors": authors,
                 "publicationYear": year,
                 "doi": doi,
             })
+            print(counter)
         try:
-            next_page = driver.find_element(By.CSS_SELECTOR, "ul + span")
+            next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
+            # next_page = next_page.find_element(By.XPATH, './..')
             next_page.click()
+            print("NEXT")
         except:
             is_last_page = True
+    driver.quit()
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
 
-    time.sleep(200)
-
-
-scrap_computer()
+    print("COMPUTER FINISHED SCRAPING")

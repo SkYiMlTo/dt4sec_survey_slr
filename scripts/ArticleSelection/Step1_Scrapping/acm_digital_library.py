@@ -6,7 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 
-def scrap_acm_digital_library():
+def scrap_acm_digital_library(request, path):
+    print("ACMDL STARTING SCRAPING")
     options = Options()
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
@@ -25,7 +26,7 @@ def scrap_acm_digital_library():
     # search_bar.send_keys(Keys.ENTER)
     # time.sleep(3)
     is_last_page = False
-    file_output = open("../../../old/1_initial_request_articles/acm_digital_library.json", "w", encoding="utf-8")
+    file_output = open(path + "acm_digital_library.json", "w", encoding="utf-8")
     json_content_output = []
     counter = 0
     while not is_last_page:
@@ -63,4 +64,6 @@ def scrap_acm_digital_library():
             next_page.click()
         except:
             is_last_page = True
+    driver.quit()
     json.dump(json_content_output, file_output, ensure_ascii=False, indent=4)
+    print("ACMDL FINISHED SCRAPING")
