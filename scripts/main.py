@@ -1,5 +1,5 @@
-from scripts.ArticleSelection.main_article_selection import main_article_selection
-from scripts.DataVisualization.main_data_visualization import main_data_visualization
+from ArticleSelection.main_article_selection import main_article_selection
+from DataVisualization.main_data_visualization import main_data_visualization
 
 import datetime
 import os
