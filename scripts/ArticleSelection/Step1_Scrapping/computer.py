@@ -24,9 +24,12 @@ def scrap_computer(request, path):
 
     driver.get(
         "https://www.computer.org/csdl/search/default?queryState=%7B%22basicSearchTextSubmitted%22:%5B%22%22,null%5D,%22searchResultLimit%22:%5B10,100%5D%7D")
-    time.sleep(2)
-    close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
-    close_popup.click()
+    time.sleep(5)
+    try:
+        close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
+        close_popup.click()
+    except:
+        pass
     # display100 = driver.find_element(By.ID, "limitDropdown")
     # toto = driver.find_element(By.XPATH, "//*[contains(text(), '100')]")
     # display100.click()
