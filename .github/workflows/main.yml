@@ -1,0 +1,31 @@
+name: generate text file
+
+on: [workflow_dispatch]
+#  schedule:
+#    - cron: "*/10 * * * *"    #runs at 11:30 UTC everyday
+
+jobs:
+  generatedatefile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.12 #install the python needed
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          sudo apt-get update
+          sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
+          sudo apt-get install default-jdk 
+          sudo apt-get install -y google-chrome-stable
+      - name: execute py script
+        run: |
+          python scripts/main.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "weouuwwwwww"
+          git push
