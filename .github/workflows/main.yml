@@ -17,14 +17,20 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          sudo apt-get update
-          sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
-          sudo apt-get install default-jdk 
-          sudo apt-get install -y google-chrome-stable
-      - name: execute py script
-        working-directory: ./scripts
+          # sudo apt-get update
+          # sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
+          # sudo apt-get install default-jdk 
+          # sudo apt-get install -y google-chrome-stable
+      - name: Create annotation for build error
         run: |
-          python main.py
+          echo ${GITHUB_WORKSPACE}
+          cd ${GITHUB_WORKSPACE}
+          ls
+      - name: execute py script
+        working-directory: .
+        run: |
+          ls
+          python3 run.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
