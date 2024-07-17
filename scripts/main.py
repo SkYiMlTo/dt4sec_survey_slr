@@ -11,8 +11,8 @@ ROOT_STORAGE = "../output/"
 
 
 def destination_folder():
-    return str("2024-07-17 15-34-28.004814")
-    # return str(datetime.datetime.now()).replace(':', '-')
+    # return str("2024-07-17_15-34-28.004814")
+    return str(datetime.datetime.now()).replace(':', '-').replace(' ', '_')
 
 
 def main():

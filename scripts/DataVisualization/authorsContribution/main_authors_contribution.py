@@ -53,4 +53,4 @@ def main_authors_contribution(path):
     authors_contribution(input_path, output_path)
 
 
-# main_years_repartition("../../../output/2024-07-17 15-34-28.004814/")
+# main_years_repartition("../../../output/2024-07-17_15-34-28.004814/")
