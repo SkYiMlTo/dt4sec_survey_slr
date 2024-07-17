@@ -4,7 +4,7 @@ from collections import Counter
 import os
 
 
-def years_repartition(input_path, output_path):
+def authors_contribution(input_path, output_path):
     # List to hold authors
     authors_list = []
 
@@ -45,12 +45,12 @@ def years_repartition(input_path, output_path):
     plt.savefig(output_path + plot_filename)
 
 
-def main_years_repartition(path):
+def main_authors_contribution(path):
     input_path = path + "articleSelection/step3/articles.csv"
     output_path = path + "dataVisualization/"
     if not os.path.exists(output_path):
         os.mkdir(output_path)
-    years_repartition(input_path, output_path)
+    authors_contribution(input_path, output_path)
 
 
-main_years_repartition("../../../output/2024-07-17 15-34-28.004814/")
+# main_years_repartition("../../../output/2024-07-17 15-34-28.004814/")

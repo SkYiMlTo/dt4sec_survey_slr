@@ -11,13 +11,15 @@ ROOT_STORAGE = "../output/"
 
 
 def destination_folder():
-    return str(datetime.datetime.now()).replace(':', '-')
+    return str("2024-07-17 15-34-28.004814")
+    # return str(datetime.datetime.now()).replace(':', '-')
 
 
 def main():
     # Define where the results of execution will be stored #
     dest_folder = destination_folder()
-    os.mkdir(ROOT_STORAGE + dest_folder)
+    if not os.path.exists(ROOT_STORAGE + dest_folder):
+        os.mkdir(ROOT_STORAGE + dest_folder)
     path = ROOT_STORAGE + dest_folder + "/"
     main_article_selection(REQUEST, path)
     main_data_visualization(path)
