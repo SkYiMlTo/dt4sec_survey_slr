@@ -1,5 +1,5 @@
 from ArticleSelection.main_article_selection import main_article_selection
-from DataVisualization.main_data_visualization import main_data_visualization
+# from DataVisualization.main_data_visualization import main_data_visualization
 
 import datetime
 import os
@@ -23,7 +23,7 @@ def main():
     path = ROOT_STORAGE + dest_folder + "/"
 
     main_article_selection(REQUEST, path)
-    main_data_visualization(path)
+    # main_data_visualization(path)
 
 
 if __name__ == '__main__':
