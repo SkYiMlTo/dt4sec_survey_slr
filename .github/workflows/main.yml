@@ -27,10 +27,10 @@ jobs:
           cd ${GITHUB_WORKSPACE}
           ls
       - name: execute py script
-        working-directory: ./scripts
+        working-directory: .
         run: |
           ls
-          python3 main.py
+          python3 run.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
