@@ -13,12 +13,8 @@ from selenium.webdriver.chrome.options import Options
 def scrap_computer(request, path):
     print("COMPUTER STRATING SCRAPING")
     options = Options()
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument("--start-maximized")
-    options.add_argument('--headless=new')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-extensions')
-    options.add_argument('--ignore-certificate-errors')
+    # options.add_argument('--headless')
+    # options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
 
@@ -60,7 +56,7 @@ def scrap_computer(request, path):
         articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
         for article in articles_html:
             WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.XPATH, ".//a[@class ='article-title']"))
+                EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
             )
             counter += 1
             not_good = True
