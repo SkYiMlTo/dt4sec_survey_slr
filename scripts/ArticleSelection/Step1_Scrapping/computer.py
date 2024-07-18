@@ -64,11 +64,6 @@ def scrap_computer(request, path):
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
             )
-            try:
-                close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
-                close_popup.click()
-            except:
-                pass
             counter += 1
             not_good = True
             title = ""
@@ -104,7 +99,11 @@ def scrap_computer(request, path):
             not_good = True
             doi = ""
             # while not_good:
-
+            try:
+                close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
+                close_popup.click()
+            except:
+                pass
             article.find_element(By.CLASS_NAME, "article-title").click()
             WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
