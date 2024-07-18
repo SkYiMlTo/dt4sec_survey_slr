@@ -141,6 +141,11 @@ def scrap_computer(request, path):
             # print(counter)
             # # time.sleep(2)
         # try:
+        try:
+            close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
+            close_popup.click()
+        except:
+            pass
         next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
         # next_page = next_page.find_element(By.XPATH, './..')
         next_page.click()
