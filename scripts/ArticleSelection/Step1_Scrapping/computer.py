@@ -155,9 +155,9 @@ def scrap_computer(request, path):
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.XPATH, "//a[@aria-label='Next']"))
             )
-            next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[0]
+            next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
             # next_page = next_page.find_element(By.XPATH, './..')
-            next_page.click()
+            next_page.send_keys(Keys.ENTER)
             print("NEXT")
         except:
             is_last_page = True
