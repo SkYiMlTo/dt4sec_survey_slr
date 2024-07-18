@@ -73,8 +73,10 @@ def scrap_computer(request, path):
                     title = article.find_element(By.CLASS_NAME, "article-title").text
                     not_good = False
                 except:
+                    print("Title not found")
                     print(article.get_attribute("innerHTML"))
-                    raise Exception("EXCEPTION " + str(counter))
+                    not_good = False
+                    # raise Exception("EXCEPTION " + str(counter))
             not_good = True
             year = ""
             # while not_good:
