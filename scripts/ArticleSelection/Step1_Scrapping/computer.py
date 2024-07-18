@@ -56,10 +56,6 @@ def scrap_computer(request, path):
     counter = 0
     while not is_last_page:
         time.sleep(3)
-        articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
-        print(len(articles_html))
-        # for article in articles_html:
-        #     print(article.get_attribute("innerHTML"))
         for article in articles_html:
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
@@ -74,7 +70,7 @@ def scrap_computer(request, path):
                     not_good = False
                 except:
                     print("Title not found")
-                    print(article.get_attribute("innerHTML"))
+                    print(article)
                     not_good = False
                     # raise Exception("EXCEPTION " + str(counter))
             not_good = True
@@ -99,16 +95,20 @@ def scrap_computer(request, path):
             not_good = True
             doi = ""
             # while not_good:
+            article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
+            )
             try:
-                article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
-                )
                 doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
-                # not_good = False
-                driver.back()
             except:
-                driver.back()
+                pass
+            # not_good = False
+            driver.back()
+        articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
+        print(len(articles_html))
+        # for article in articles_html:
+        #     print(article.get_attribute("innerHTML"))
             json_content_output.append({
                 "title": title,
                 "authors": authors,
