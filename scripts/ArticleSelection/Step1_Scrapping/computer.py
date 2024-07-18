@@ -57,6 +57,9 @@ def scrap_computer(request, path):
     while not is_last_page:
         time.sleep(3)
         articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
+        print(len(articles_html))
+        for article in articles_html:
+            print(article.get_attribute("innerHTML"))
         for article in articles_html:
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
@@ -66,7 +69,7 @@ def scrap_computer(request, path):
             title = ""
             # while not_good:
             #     try:
-            print(article.get_attribute("innerHTML"))
+            # print(article.get_attribute("innerHTML"))
             title = article.find_element(By.CLASS_NAME, "article-title").text
             not_good = False
                 # except:
