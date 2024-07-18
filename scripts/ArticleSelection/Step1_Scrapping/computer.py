@@ -149,7 +149,8 @@ def scrap_computer(request, path):
         #     close_popup.click()
         # except:
         #     pass
-        print(driver.find_element(By.XPATH, "/*").get_attribute("innerHTML"))
+        for elem in driver.find_elements(By.XPATH, "//a[@aria-label='Next']"):
+            print(elem.get_attribute("innerHTML"))
         try:
             WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located((By.XPATH, "//a[@aria-label='Next']"))
