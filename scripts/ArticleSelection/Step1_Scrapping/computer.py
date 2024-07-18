@@ -38,6 +38,7 @@ def scrap_nested_page(link):
         doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
     except:
         pass
+    driver.quit()
 
     return doi
 
@@ -136,8 +137,8 @@ def scrap_computer(request, path):
                 "publicationYear": year,
                 "doi": doi,
             })
-            print(json_content_output)
-            time.sleep(2)
+            print(counter)
+            # time.sleep(2)
         try:
             next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
             # next_page = next_page.find_element(By.XPATH, './..')
