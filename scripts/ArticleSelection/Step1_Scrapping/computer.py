@@ -71,10 +71,10 @@ def scrap_computer(request, path):
                 try:
                     # print(article.get_attribute("innerHTML"))
                     title = article.find_element(By.CLASS_NAME, "article-title").text
-                    time.sleep(0.5)
                     not_good = False
                 except:
-                    print("Failure getting title")
+                    print(article.get_attribute("innerHTML"))
+                    raise Exception("EXCEPTION " + str(counter))
             not_good = True
             year = ""
             # while not_good:
