@@ -112,7 +112,7 @@ def scrap_computer(request, path):
                 "publicationYear": year,
                 "doi": doi,
             })
-            print(counter)
+            print(json_content_output)
         try:
             next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
             # next_page = next_page.find_element(By.XPATH, './..')
