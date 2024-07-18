@@ -67,13 +67,14 @@ def scrap_computer(request, path):
             counter += 1
             not_good = True
             title = ""
-            # while not_good:
-            #     try:
-            # print(article.get_attribute("innerHTML"))
-            title = article.find_element(By.CLASS_NAME, "article-title").text
-            not_good = False
-                # except:
-                #     pass
+            while not_good:
+                try:
+                    # print(article.get_attribute("innerHTML"))
+                    title = article.find_element(By.CLASS_NAME, "article-title").text
+                    time.sleep(0.5)
+                    not_good = False
+                except:
+                    pass
             not_good = True
             year = ""
             # while not_good:
