@@ -36,9 +36,9 @@ def scrap_nested_page(link):
     )
     try:
         doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
+        driver.quit()
     except:
         pass
-    driver.quit()
 
     return doi
 
