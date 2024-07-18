@@ -142,6 +142,9 @@ def scrap_computer(request, path):
             # # time.sleep(2)
         # try:
         try:
+            WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "osano-cm-denyAll"))
+            )
             close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
             close_popup.click()
         except:
