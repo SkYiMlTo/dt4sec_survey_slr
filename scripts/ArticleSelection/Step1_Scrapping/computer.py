@@ -66,6 +66,7 @@ def scrap_computer(request, path):
             title = ""
             # while not_good:
             #     try:
+            print(article.get_attribute("innerHTML"))
             title = article.find_element(By.CLASS_NAME, "article-title").text
             not_good = False
                 # except:
