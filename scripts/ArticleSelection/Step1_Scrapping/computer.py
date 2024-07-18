@@ -46,13 +46,13 @@ def scrap_nested_page(link):
 def scrap_computer(request, path):
     print("COMPUTER STRATING SCRAPING")
     options = Options()
-    # options.add_argument('--headless=new')
-    # options.add_argument('--window-size=1920,1200')
-    # options.add_argument('--disable-extensions')
-    # options.add_argument('--ignore-certificate-errors')
-    # options.add_argument('--no-sandbox')
-    # options.add_argument('--disable-dev-shm-usage')
-    # options.add_argument('--disable-gpu')
+    options.add_argument('--headless=new')
+    options.add_argument('--window-size=1920,1200')
+    options.add_argument('--disable-extensions')
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
 
     driver = webdriver.Chrome(options=options)
 
