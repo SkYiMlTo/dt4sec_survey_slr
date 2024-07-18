@@ -66,7 +66,7 @@ def scrap_computer(request, path):
             title = ""
             # while not_good:
             #     try:
-            title = article.find_element(By.XPATH, ".//a[@class ='article-title']").text
+            title = article.find_element(By.CLASS_NAME, "article-title").text
             not_good = False
                 # except:
                 #     pass
