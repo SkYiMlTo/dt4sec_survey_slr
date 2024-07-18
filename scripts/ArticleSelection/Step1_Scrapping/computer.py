@@ -10,6 +10,38 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 
+def scrap_nested_page(link):
+    options = Options()
+    options.add_argument('--headless=new')
+    options.add_argument('--window-size=1920,1200')
+    options.add_argument('--disable-extensions')
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
+
+    driver = webdriver.Chrome(options=options)
+
+    driver.get(link)
+    try:
+        close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
+        close_popup.click()
+    except:
+        pass
+
+    doi = ""
+
+    WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
+    )
+    try:
+        doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
+    except:
+        pass
+
+    return doi
+
+
 def scrap_computer(request, path):
     print("COMPUTER STRATING SCRAPING")
     options = Options()
@@ -97,23 +129,7 @@ def scrap_computer(request, path):
             except:
                 pass
             not_good = True
-            doi = ""
-            # while not_good:
-            try:
-                close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
-                close_popup.click()
-            except:
-                pass
-            article.find_element(By.CLASS_NAME, "article-title").click()
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
-            )
-            try:
-                doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
-                # not_good = False
-            except:
-                pass
-            driver.back()
+            doi = scrap_nested_page(article.find_element(By.CLASS_NAME, "article-title").get_attribute("href"))
             json_content_output.append({
                 "title": title,
                 "authors": authors,
