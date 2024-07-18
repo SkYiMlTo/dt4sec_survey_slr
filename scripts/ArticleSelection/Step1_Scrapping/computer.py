@@ -74,7 +74,7 @@ def scrap_computer(request, path):
                     time.sleep(0.5)
                     not_good = False
                 except:
-                    pass
+                    print("Failure getting title")
             not_good = True
             year = ""
             # while not_good:
