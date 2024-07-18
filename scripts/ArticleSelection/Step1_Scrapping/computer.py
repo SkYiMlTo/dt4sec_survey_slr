@@ -46,13 +46,13 @@ def scrap_nested_page(link):
 def scrap_computer(request, path):
     print("COMPUTER STRATING SCRAPING")
     options = Options()
-    options.add_argument('--headless=new')
-    options.add_argument('--window-size=1920,1200')
-    options.add_argument('--disable-extensions')
-    options.add_argument('--ignore-certificate-errors')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--disable-gpu')
+    # options.add_argument('--headless=new')
+    # options.add_argument('--window-size=1920,1200')
+    # options.add_argument('--disable-extensions')
+    # options.add_argument('--ignore-certificate-errors')
+    # options.add_argument('--no-sandbox')
+    # options.add_argument('--disable-dev-shm-usage')
+    # options.add_argument('--disable-gpu')
 
     driver = webdriver.Chrome(options=options)
 
@@ -141,18 +141,25 @@ def scrap_computer(request, path):
             # print(counter)
             # # time.sleep(2)
         # try:
+        # try:
+        #     WebDriverWait(driver, 30).until(
+        #         EC.presence_of_element_located((By.CLASS_NAME, "osano-cm-denyAll"))
+        #     )
+        #     close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
+        #     close_popup.click()
+        # except:
+        #     pass
         try:
             WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "osano-cm-denyAll"))
+                EC.presence_of_element_located((By.XPATH, "//a[@aria-label='Next']"))
             )
-            close_popup = driver.find_element(By.CLASS_NAME, "osano-cm-denyAll")
-            close_popup.click()
+            next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
+            # next_page = next_page.find_element(By.XPATH, './..')
+            next_page.click()
+            print("NEXT")
         except:
-            pass
-        next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
-        # next_page = next_page.find_element(By.XPATH, './..')
-        next_page.click()
-        print("NEXT")
+            is_last_page = True
+            print("fuck")
         # except:
         #     is_last_page = True
     driver.quit()
