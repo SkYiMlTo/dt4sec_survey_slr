@@ -90,56 +90,48 @@ def scrap_computer(request, path):
     while not is_last_page:
         time.sleep(3)
         articles_html = driver.find_elements(By.XPATH, ".//div[@class ='search-result']")
-        print(len(articles_html))
+        # print(len(articles_html))
         # for article in articles_html:
         #     print(article.get_attribute("innerHTML"))
         for article in articles_html:
             pass
-            # WebDriverWait(driver, 30).until(
-            #     EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
-            # )
-            # counter += 1
-            # not_good = True
-            # title = ""
-            # while not_good:
-            #     try:
-            #         # print(article.get_attribute("innerHTML"))
-            #         title = article.find_element(By.CLASS_NAME, "article-title").text
-            #         not_good = False
-            #     except:
-            #         print("Title not found")
-            #         print(article)
-            #         not_good = False
-            #         # raise Exception("EXCEPTION " + str(counter))
-            # not_good = True
-            # year = ""
-            # # while not_good:
-            # try:
-            #     # top = article.find_element(By.XPATH, ".//div[@class ='metadata']")
-            #     year = re.search(r'\d{4}|$', article.find_element(By.XPATH, ".//div[@class ='metadata']").text).group()
-            #     not_good = False
-            # except:
-            #     print("EXCEPTION " + str(counter))
-            # not_good = True
-            # authors = []
-            # # while not_good:
-            # try:
-            #     authors_list = article.find_elements(By.XPATH, ".//button[@class ='article-author']")
-            #     for author in authors_list:
-            #         authors.append({"lastName": author.text.split(' ')[-1]})
-            #     not_good = False
-            # except:
-            #     pass
-            # not_good = True
-            # doi = scrap_nested_page(article.find_element(By.CLASS_NAME, "article-title").get_attribute("href"))
-            # json_content_output.append({
-            #     "title": title,
-            #     "authors": authors,
-            #     "publicationYear": year,
-            #     "doi": doi,
-            # })
-            # print(counter)
-            # # time.sleep(2)
+            WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "article-title"))
+            )
+            counter += 1
+            not_good = True
+            title = ""
+            while not_good:
+                try:
+                    # print(article.get_attribute("innerHTML"))
+                    title = article.find_element(By.CLASS_NAME, "article-title").text
+                    not_good = False
+                except:
+                    print("Title not found")
+                    print(article)
+                    not_good = False
+                    # raise Exception("EXCEPTION " + str(counter))
+            year = ""
+            try:
+                year = re.search(r'\d{4}|$', article.find_element(By.XPATH, ".//div[@class ='metadata']").text).group()
+            except:
+                print("EXCEPTION " + str(counter))
+            authors = []
+            try:
+                authors_list = article.find_elements(By.XPATH, ".//button[@class ='article-author']")
+                for author in authors_list:
+                    authors.append({"lastName": author.text.split(' ')[-1]})
+            except:
+                pass
+            doi = scrap_nested_page(article.find_element(By.CLASS_NAME, "article-title").get_attribute("href"))
+            json_content_output.append({
+                "title": title,
+                "authors": authors,
+                "publicationYear": year,
+                "doi": doi,
+            })
+            print(counter)
+            # time.sleep(2)
         # try:
         # try:
         #     WebDriverWait(driver, 30).until(
@@ -156,17 +148,18 @@ def scrap_computer(request, path):
                 is_last_page = True
         except:
             pass
-        try:
-            WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.XPATH, "//a[@aria-label='Next']"))
-            )
-            next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
-            # next_page = next_page.find_element(By.XPATH, './..')
-            next_page.send_keys(Keys.ENTER)
-            print("NEXT")
-        except:
-            is_last_page = True
-            print("fuck")
+        if not is_last_page:
+            try:
+                WebDriverWait(driver, 30).until(
+                    EC.presence_of_element_located((By.XPATH, "//a[@aria-label='Next']"))
+                )
+                next_page = driver.find_elements(By.XPATH, "//a[@aria-label='Next']")[1]
+                # next_page = next_page.find_element(By.XPATH, './..')
+                next_page.send_keys(Keys.ENTER)
+                print("NEXT")
+            except:
+                # is_last_page = True
+                print("fuck")
         # except:
         #     is_last_page = True
     driver.quit()

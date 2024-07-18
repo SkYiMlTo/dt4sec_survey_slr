@@ -22,4 +22,4 @@ def main():
         os.mkdir(ROOT_STORAGE + dest_folder)
     path = ROOT_STORAGE + dest_folder + "/"
     main_article_selection(REQUEST, path)
-    # main_data_visualization(path)
+    main_data_visualization(path)
