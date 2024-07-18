@@ -97,16 +97,16 @@ def scrap_computer(request, path):
             not_good = True
             doi = ""
             # while not_good:
-            try:
-                article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
-                )
-                doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
-                # not_good = False
-                driver.back()
-            except:
-                driver.back()
+            # try:
+            #     article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
+            #     WebDriverWait(driver, 10).until(
+            #         EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
+            #     )
+            #     doi = driver.find_element(By.XPATH, "//div[@class='article-metadata']/div/a").text
+            #     # not_good = False
+            #     driver.back()
+            # except:
+            #     driver.back()
             json_content_output.append({
                 "title": title,
                 "authors": authors,
