@@ -100,7 +100,7 @@ def scrap_computer(request, path):
             doi = ""
             # while not_good:
 
-            article.find_element(By.XPATH, ".//a[@class ='article-title']").click()
+            article.find_element(By.CLASS_NAME, "article-title").click()
             WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, "//div[@class='article-metadata']/div/a"))
             )
