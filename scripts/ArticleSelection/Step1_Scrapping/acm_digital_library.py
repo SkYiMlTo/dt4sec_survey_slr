@@ -19,12 +19,14 @@ def scrap_acm_digital_library(request, path):
     driver.get(
         "https://dl.acm.org/action/doSearch?AllField=%28%22Digital+Twin%22+OR+%22Digital+Twins%22%29+AND+%28%22cyber+attacks%22+OR+%22cybersecurity%22+OR+%22cyber-security%22%29+AND+%28%22internet+of+things%22+OR+%22IoT%22+OR+%22CPS%22+OR+%22cyber-physical+systems%22+OR+%22cyber-physical+systems%22%29&startPage=0&pageSize=50")
     time.sleep(2)
-    close_popup = driver.find_element(By.ID, "CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll")
-    close_popup.click()
-    # search_bar = driver.find_element(By.NAME, "AllField")
-    # search_bar.send_keys('("Digital Twin" OR "Digital Twins") AND ("cyber attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR "cyber-physical systems" OR "cyber-physical systems")')
-    # search_bar.send_keys(Keys.ENTER)
-    # time.sleep(3)
+    try:
+        close_popup = driver.find_element(By.ID, "CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll")
+        close_popup.click()
+    except:
+        pass
+    # search_bar = driver.find_element(By.NAME, "AllField") search_bar.send_keys('("Digital Twin" OR "Digital Twins")
+    # AND ("cyber attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR
+    # "cyber-physical systems" OR "cyber-physical systems")') search_bar.send_keys(Keys.ENTER) time.sleep(3)
     is_last_page = False
     file_output = open(path + "acm_digital_library.json", "w", encoding="utf-8")
     json_content_output = []
