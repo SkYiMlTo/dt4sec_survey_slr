@@ -5,8 +5,9 @@ import datetime
 import os
 
 
-REQUEST = ('("Digital Twin" OR "Digital Twins") AND ("cyber attacks" OR "cybersecurity" OR "cyber-security") AND ('
-           '"internet of things" OR "IoT" OR "CPS" OR "cyber-physical systems" OR "cyber-physical systems")')
+REQUEST = ('("Digital Twin" OR "Digital Twins") AND ("cyberattack" OR "cyberattacks" OR "cyber attack" OR "cyber '
+           'attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR '
+           '"cyber-physical systems" OR "cyber-physical systems")')
 ROOT_STORAGE = "./output/"
 
 
