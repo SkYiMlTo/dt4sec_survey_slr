@@ -1,9 +1,9 @@
 name: generate text file
 
-on: [workflow_dispatch]
-#  schedule:
-#    - cron: "*/10 * * * *"    #runs at 11:30 UTC everyday
-
+on:
+ schedule:
+  - cron: "0 8 * * 1"    #runs at 8:00am UTC every monday
+# [workflow_dispatch]
 jobs:
   generatedatefile:
     runs-on: ubuntu-latest
