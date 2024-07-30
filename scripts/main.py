@@ -12,7 +12,7 @@ ROOT_STORAGE = "./output/"
 
 
 def destination_folder():
-    # return str("2024-07-17_15-34-28.004814")
+    # return str("2024-07-30_14-04-36.652031")
     return str(datetime.datetime.now()).replace(':', '-').replace(' ', '_')
 
 
@@ -23,4 +23,4 @@ def main():
         os.mkdir(ROOT_STORAGE + dest_folder)
     path = ROOT_STORAGE + dest_folder + "/"
     main_article_selection(REQUEST, path)
-    main_data_visualization(path)
+    # main_data_visualization(path)
