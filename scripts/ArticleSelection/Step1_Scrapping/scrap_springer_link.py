@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 import json
-
+import re
 
 def scrap_springler(request, path):
 
@@ -43,11 +43,11 @@ def scrap_springler(request, path):
     driver.quit()
 
     # Save the data to a JSON file
-    with open(path + 'scraped_data.json', 'w', encoding='utf-8') as f:
+    with open(path + 'springler_link.json', 'w', encoding='utf-8') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
 
     # Print confirmation
-    print("Data has been saved to scraped_data.json")
+    print("Data has been saved to springler_link.json")
 
 
 # Function to extract data from a single result
@@ -64,7 +64,7 @@ def extract_data(result):
     except:
         authors = []
     try:
-        year = result.find_element(By.XPATH, '//span[@data-test="published"]').text
+        year = re.search(r'\d{4}|$', result.find_element(By.XPATH, '//span[@data-test="published"]').text)
     except:
         year = "N/A"
     try:
