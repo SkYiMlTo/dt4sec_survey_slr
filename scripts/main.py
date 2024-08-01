@@ -12,7 +12,7 @@ ROOT_STORAGE = "./output/"
 
 
 def destination_folder():
-    # return str("2024-07-30_14-04-36.652031")
+    # return str("2024-08-01_12-29-29.841112")
     return str(datetime.datetime.now()).replace(':', '-').replace(' ', '_')
 
 

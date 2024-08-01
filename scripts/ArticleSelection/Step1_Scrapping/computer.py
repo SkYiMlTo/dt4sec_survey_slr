@@ -40,7 +40,7 @@ def scrap_nested_page(link):
         pass
     driver.quit()
 
-    return doi
+    return "https://doi.org/" + doi
 
 
 def scrap_computer(request, path):
