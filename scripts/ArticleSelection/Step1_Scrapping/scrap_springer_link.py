@@ -64,7 +64,7 @@ def extract_data(result):
     except:
         authors = []
     try:
-        year = re.search(r'\d{4}|$', result.find_element(By.XPATH, '//span[@data-test="published"]').text)
+        year = re.search(r'\d{4}|$', result.find_element(By.XPATH, '//span[@data-test="published"]').text).group()
     except:
         year = "N/A"
     try:
