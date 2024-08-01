@@ -1,0 +1,911 @@
+[
+    {
+        "title": "CyberDefender: an integrated intelligent defense framework for digital-twin-based industrial cyber-physical systems",
+        "authors": [
+            {
+                "lastName": "S. Krishnaveni"
+            },
+            {
+                "lastName": "Thomas M. Chen"
+            },
+            {
+                "lastName": "... B. Amutha"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber-physical systems: a bibliometric analysis of literature",
+        "authors": [
+            {
+                "lastName": "Nitin Singh"
+            },
+            {
+                "lastName": "Prabin Kumar Panigrahi"
+            },
+            {
+                "lastName": "... Sajjad M. Jasimuddin"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "An Integration of Digital Twin and 6G Edge Computing Approach to Secure Cyber Physical Systems",
+        "authors": [
+            {
+                "lastName": "R. Suganya"
+            },
+            {
+                "lastName": "Ajmeera Kiran"
+            },
+            {
+                "lastName": "... A. Nageswaran"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Secure Software Development Life Cycle: An Approach to Reduce the Risks of Cyber Attacks in Cyber Physical Systems and Digital Twins",
+        "authors": [
+            {
+                "lastName": "Radha Seelaboyina"
+            },
+            {
+                "lastName": "Sai Prakash Chary Vadla"
+            },
+            {
+                "lastName": "... Veena Vani Pedduri"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Enhancing attack resilience of cyber-physical systems through state dependency graph models",
+        "authors": [
+            {
+                "lastName": "Konstantinos Adamos"
+            },
+            {
+                "lastName": "George Stergiopoulos"
+            },
+            {
+                "lastName": "... Dimitris Gritzalis"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Exploratory Project of Digital Twin Technology in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Irony Nunes de Oliveira"
+            },
+            {
+                "lastName": "Hanameel Carlos Vieira Gomes"
+            },
+            {
+                "lastName": "... Cícero Roberto Garcez"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "ViSE: Digital Twin Exploration for Automotive Functional Safety and Cybersecurity",
+        "authors": [
+            {
+                "lastName": "Md Rafiul Kabir"
+            },
+            {
+                "lastName": "Sandip Ray"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber Resilience of Cyber-Physical Systems and Machine Learning, a Scoping Review",
+        "authors": [
+            {
+                "lastName": "João Pavão"
+            },
+            {
+                "lastName": "Rute Bastardo"
+            },
+            {
+                "lastName": "Nelson Pacheco Rocha"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "A review of digital twins and their application in cybersecurity based on artificial intelligence",
+        "authors": [
+            {
+                "lastName": "Mohammadhossein Homaei"
+            },
+            {
+                "lastName": "Óscar Mogollón-Gutiérrez"
+            },
+            {
+                "lastName": "... Andrés Caro"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "MSOA: A modular service-oriented architecture to integrate mobile manipulators as cyber-physical systems",
+        "authors": [
+            {
+                "lastName": "Nooshin Ghodsian"
+            },
+            {
+                "lastName": "Khaled Benfriha"
+            },
+            {
+                "lastName": "... Aurélien Arnou"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "A Survey of Cyber-physical Systems Applications (2017–2022)",
+        "authors": [
+            {
+                "lastName": "Nastaran Jadidi"
+            },
+            {
+                "lastName": "Mohsen Varmazyar"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber-Physical System Converged Digital Twin for Secure Patient Monitoring and Attack Detection",
+        "authors": [
+            {
+                "lastName": "Jiang Xing"
+            },
+            {
+                "lastName": "Dandan Wang"
+            },
+            {
+                "lastName": "... Lijie Li"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Analysis of Cross-Domain Security and Privacy Aspects of Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Kamal Prasat"
+            },
+            {
+                "lastName": "S. Sanjay"
+            },
+            {
+                "lastName": "... Ramani Selvanambi"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "An Analysis Study of Security Threats, Vulnerabilities Challenges of Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Javaid Ahmad Wani"
+            },
+            {
+                "lastName": "Samayveer Sing"
+            },
+            {
+                "lastName": "... Pradeep Kumar Singh"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Digital twins: artificial intelligence and the IoT cyber-physical systems in Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Petar Radanliev"
+            },
+            {
+                "lastName": "David De Roure"
+            },
+            {
+                "lastName": "... Omar Santos"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "A new enhanced cyber security framework for medical cyber physical systems",
+        "authors": [
+            {
+                "lastName": "Ishaani Priyadarshini"
+            },
+            {
+                "lastName": "Raghvendra Kumar"
+            },
+            {
+                "lastName": "... Sakshi Rai"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Integration of Cyber Physical Systems and Data Science into the Built Environment Lifecycle",
+        "authors": [
+            {
+                "lastName": "Luke Desmond"
+            },
+            {
+                "lastName": "Mohamed Salama"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber Physical Integrated Digital Twin Network Model for Enterprise Producing High-Performing Logistics",
+        "authors": [
+            {
+                "lastName": "Yang Pu"
+            },
+            {
+                "lastName": "Xingchen Pan"
+            },
+            {
+                "lastName": "... Mengtian Zhang"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Fault Tolerance in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Federica Pascucci"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber-Physical Systems in Decarbonisation",
+        "authors": [
+            {
+                "lastName": "Oliver Inderwildi"
+            },
+            {
+                "lastName": "Chuan Zhang"
+            },
+            {
+                "lastName": "Markus Kraft"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/s10586-024-04320-x"
+    },
+    {
+        "title": "Cyber-Physical Systems in Decarbonisation",
+        "authors": [
+            {
+                "lastName": "Oliver Inderwildi"
+            },
+            {
+                "lastName": "Chuan Zhang"
+            },
+            {
+                "lastName": "Markus Kraft"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Lessons Learned and Future Directions for Security, Resilience and Artificial Intelligence in Cyber Physical Systems",
+        "authors": [
+            {
+                "lastName": "J. Sukarno Mertoguno"
+            },
+            {
+                "lastName": "Gregory Briskin"
+            },
+            {
+                "lastName": "... Kyung Kwak"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "A Survey of Cyber-Physical Systems Applications (2017–2022)",
+        "authors": [
+            {
+                "lastName": "Nastaran Jadidi"
+            },
+            {
+                "lastName": "Mohsen Varmazyar"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "A Hybrid Dynamic Risk Analysis Methodology for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Christos Lyvas"
+            },
+            {
+                "lastName": "Konstantinos Maliatsos"
+            },
+            {
+                "lastName": "... Athanasios Kanatas"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Toward the Adoption of Secure Cyber Digital Twins to Enhance Cyber-Physical Systems Security",
+        "authors": [
+            {
+                "lastName": "Alessandra De Benedictis"
+            },
+            {
+                "lastName": "Christiancarmine Esposito"
+            },
+            {
+                "lastName": "Alessandra Somma"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "TEA-EKHO-IDS: An intrusion detection system for industrial CPS with trustworthy explainable AI and enhanced krill herd optimization",
+        "authors": [
+            {
+                "lastName": "S. Sivamohan"
+            },
+            {
+                "lastName": "S. S. Sridhar"
+            },
+            {
+                "lastName": "S. Krishnaveni"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "A Review of the Concept, Applications, Risks and Control Strategies for Digital Twin",
+        "authors": [
+            {
+                "lastName": "Farnaz Farid"
+            },
+            {
+                "lastName": "Abubakar Bello"
+            },
+            {
+                "lastName": "... Razia Sultana"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Robotics and Artificial Intelligence in the Nuclear Industry: From Teleoperation to Cyber Physical Systems",
+        "authors": [
+            {
+                "lastName": "Declan Shanahan"
+            },
+            {
+                "lastName": "Ziwei Wang"
+            },
+            {
+                "lastName": "Allahyar Montazeri"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Examining the nexus of blockchain technology and digital twins: Bibliometric evidence and research trends",
+        "authors": [
+            {
+                "lastName": "Xiaozhi Ma"
+            },
+            {
+                "lastName": "Wenbo Du"
+            },
+            {
+                "lastName": "... Hongping Yuan"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Human Factors and Security in Digital Twins: Challenges and Future Prospects",
+        "authors": [
+            {
+                "lastName": "Sanjay Misra"
+            },
+            {
+                "lastName": "Kousik Barik"
+            },
+            {
+                "lastName": "... Sabarathinam Chockalingam"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Study I: Industrial Cyber-Physical Systems in a Systemic Perspective",
+        "authors": [
+            {
+                "lastName": "Sascha Julian Oks"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Cyber Manufacturing",
+        "authors": [
+            {
+                "lastName": "Matthew N. O. Sadiku"
+            },
+            {
+                "lastName": "Abayomi J. Ajayi-Majebi"
+            },
+            {
+                "lastName": "Philip O. Adebo"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Data Protection and Security Enhancement in Cyber-Physical Systems Using AI and Blockchain",
+        "authors": [
+            {
+                "lastName": "K. Vignesh Saravanan"
+            },
+            {
+                "lastName": "P. Jothi Thilaga"
+            },
+            {
+                "lastName": "... K. Vijayalakshmi"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Dataset Generation Methodology: Towards Application of Machine Learning in Industrial Water Treatment Security",
+        "authors": [
+            {
+                "lastName": "Evgenia Novikova"
+            },
+            {
+                "lastName": "Elena Fedorchenko"
+            },
+            {
+                "lastName": "... Igor Saenko"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Cognitive Digital Twins for Improving Security in IT-OT Enabled Healthcare Applications",
+        "authors": [
+            {
+                "lastName": "Sandeep Pirbhulal"
+            },
+            {
+                "lastName": "Sabarathinam Chockalingam"
+            },
+            {
+                "lastName": "... Nathan Lau"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Digital Twins Technologies",
+        "authors": [
+            {
+                "lastName": "Wenjuan Wang"
+            },
+            {
+                "lastName": "Qasim Zaheer"
+            },
+            {
+                "lastName": "... Wenbo Hu"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook",
+        "authors": [
+            {
+                "lastName": "Sascha Julian Oks"
+            },
+            {
+                "lastName": "Max Jalowski"
+            },
+            {
+                "lastName": "... Kathrin M. Möslein"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Securing critical infrastructures with a cybersecurity digital twin",
+        "authors": [
+            {
+                "lastName": "Massimiliano Masi"
+            },
+            {
+                "lastName": "Giovanni Paolo Sellitto"
+            },
+            {
+                "lastName": "... Tanja Pavleska"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Study III: Industrial Cyber-Physical Systems in an Organizational Perspective",
+        "authors": [
+            {
+                "lastName": "Sascha Julian Oks"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "Experiential Learning Through Immersive XR: Cybersecurity Education for Critical Infrastructures",
+        "authors": [
+            {
+                "lastName": "Anthony Lee"
+            },
+            {
+                "lastName": "Kenneth King"
+            },
+            {
+                "lastName": "... Mohamed Azab"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1007/s12083-023-01507-8"
+    },
+    {
+        "title": "A Low-Cost Environment for Teaching Fundamental Cybersecurity Concepts in CPS",
+        "authors": [
+            {
+                "lastName": "Kanthanet Tharot"
+            },
+            {
+                "lastName": "Quoc Bao Duong"
+            },
+            {
+                "lastName": "... Jean-Marc Thiriet"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "A Runtime Verification Framework for Cyber-Physical Systems Based on Data Analytics and LTL Formula Learning",
+        "authors": [
+            {
+                "lastName": "Ayodeji James Akande"
+            },
+            {
+                "lastName": "Zhe Hou"
+            },
+            {
+                "lastName": "... Qinyi Li"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Cyber Physical Systems in Manufacturing Engineers Education",
+        "authors": [
+            {
+                "lastName": "Zivana Jakovljevic"
+            },
+            {
+                "lastName": "Dusan Nedeljkovic"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "An Assessment of the Cyber Security Challenges and Issues Associated with Cyber-Physical Power Systems",
+        "authors": [
+            {
+                "lastName": "Abubakar Bello"
+            },
+            {
+                "lastName": "Farnaz Farid"
+            },
+            {
+                "lastName": "Fahima Hossain"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Integration of Digital Twins & Internet of Things",
+        "authors": [
+            {
+                "lastName": "Giancarlo Fortino"
+            },
+            {
+                "lastName": "Claudio Savaglio"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Revolutionizing sheet metal stamping through industry 5.0 digital twins: a comprehensive review",
+        "authors": [
+            {
+                "lastName": "Ossama Abou Ali Modad"
+            },
+            {
+                "lastName": "Jason Ryska"
+            },
+            {
+                "lastName": "... Georges Ayoub"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "The Adaptive Strategies Improving Digital Twin Using the Internet of Things",
+        "authors": [
+            {
+                "lastName": "N. Venkateswarulu"
+            },
+            {
+                "lastName": "P. Sunil Kumar Reddy"
+            },
+            {
+                "lastName": "... K. Suresh"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Cybersecurity and Dependability for Digital Twins and the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Vartan Piroumian"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Integrating Digital Twins with IoT-Based Blockchain: Concept, Architecture, Challenges, and Future Scope",
+        "authors": [
+            {
+                "lastName": "Ezz El-Din Hemdan"
+            },
+            {
+                "lastName": "Walid El-Shafai"
+            },
+            {
+                "lastName": "Amged Sayed"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Digital Twin in Industry 4.0 and Beyond Applications",
+        "authors": [
+            {
+                "lastName": "Vukica Jovanovic"
+            },
+            {
+                "lastName": "Murat Kuzlu"
+            },
+            {
+                "lastName": "... Nasibeh Zohrabi"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Blockchain for Cyber-Physical Systems: Challenges and Applications",
+        "authors": [
+            {
+                "lastName": "Yassine Maleh"
+            },
+            {
+                "lastName": "Swathi Lakkineni"
+            },
+            {
+                "lastName": "... Ahmed A. AbdEl-Latif"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Internet of Things",
+        "authors": [
+            {
+                "lastName": "Amy Van Looy"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Deep learning applications in the Internet of Things: a review, tools, and future directions",
+        "authors": [
+            {
+                "lastName": "Parisa Raoufi"
+            },
+            {
+                "lastName": "Atefeh Hemmati"
+            },
+            {
+                "lastName": "Amir Masoud Rahmani"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "A study on building awareness in cyber security for educational system in India using interpretive structural modellings",
+        "authors": [
+            {
+                "lastName": "Sachi Nandan Mohanty"
+            },
+            {
+                "lastName": "Tilottama Singh"
+            },
+            {
+                "lastName": "... Rakesh Kumar"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Special Issue on Cybersecurity Management in the Era of AI",
+        "authors": [
+            {
+                "lastName": "Moayad Aloqaily"
+            },
+            {
+                "lastName": "Salil Kanhere"
+            },
+            {
+                "lastName": "... Michele Nogueira"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "A Survey of Digital Twin for Industry 4.0: Benefits, Challenges and Opportunities",
+        "authors": [
+            {
+                "lastName": "Tejaswini R. Murgod"
+            },
+            {
+                "lastName": "S. Meenakshi Sundaram"
+            },
+            {
+                "lastName": "... Pandiyanathan Murugesan"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "A Cognitive Digital Twin Architecture for Cybersecurity in IoT-Based Smart Homes",
+        "authors": [
+            {
+                "lastName": "Sandeep Pirbhulal"
+            },
+            {
+                "lastName": "Habtamu Abie"
+            },
+            {
+                "lastName": "... Basel Katt"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Integration of Cyber-Physical Systems in the Advancement of Society 5.0 Healthcare Management",
+        "authors": [
+            {
+                "lastName": "Botle Precious Damane"
+            },
+            {
+                "lastName": "Mahlatse Cordelia Kgokolo"
+            },
+            {
+                "lastName": "... Zodwa Dlamini"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Comparative analysis of dimensionality reduction techniques for cybersecurity in the SWaT dataset",
+        "authors": [
+            {
+                "lastName": "Mehmet Bozdal"
+            },
+            {
+                "lastName": "Kadir Ileri"
+            },
+            {
+                "lastName": "Ali Ozkahraman"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    },
+    {
+        "title": "Cybersecurity Challenges in Microgrids: Inverter-Based Resources and Electric Vehicles",
+        "authors": [
+            {
+                "lastName": "Tambiara Tabassum"
+            },
+            {
+                "lastName": "Mohammad Reza Khalghani"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1007/s10845-024-02453-9"
+    }
+]
