@@ -41,7 +41,7 @@ def years_repartition(input_path, output_path):
 
 
 def main_years_repartition(path):
-    input_path = path + "articleSelection/step3/articles.csv"
+    input_path = path + "articleSelection/step4/articles.csv"
     output_path = path + "dataVisualization/"
     if not os.path.exists(output_path):
         os.mkdir(output_path)

@@ -46,7 +46,7 @@ def authors_contribution(input_path, output_path):
 
 
 def main_authors_contribution(path):
-    input_path = path + "articleSelection/step3/articles.csv"
+    input_path = path + "articleSelection/step4/articles.csv"
     output_path = path + "dataVisualization/"
     if not os.path.exists(output_path):
         os.mkdir(output_path)
