@@ -1,0 +1,3768 @@
+[
+    {
+        "title": "Digital Twin-Enhanced Incident Response for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Allison"
+            },
+            {
+                "lastName": "Smith"
+            },
+            {
+                "lastName": "Mclaughlin"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3600195"
+    },
+    {
+        "title": "CPS-IoT Week '23: Proceedings of Cyber-Physical Systems and Internet of Things Week 2023",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "A New Layer Structure of Cyber-Physical Systems under the Era of Digital Twin",
+        "authors": [
+            {
+                "lastName": "Qian"
+            },
+            {
+                "lastName": "Guo"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3674974"
+    },
+    {
+        "title": "Experimentation and Implementation of the BFT++ Cyber-Attack Resilience Mechanism for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Keppler"
+            },
+            {
+                "lastName": "Karim"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3639570"
+    },
+    {
+        "title": "SaT-CPS '24: Proceedings of the 2024 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Gupta"
+            },
+            {
+                "lastName": "Abdelsalam"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "A References Architecture for Human Cyber Physical Systems, Part II: Fundamental Design Principles for Human-CPS Interaction",
+        "authors": [
+            {
+                "lastName": "Bengler"
+            },
+            {
+                "lastName": "Damm"
+            },
+            {
+                "lastName": "Luedtke"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3622880"
+    },
+    {
+        "title": "A Survey on Cyber-Resilience Approaches for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Segovia-Ferreira"
+            },
+            {
+                "lastName": "Rubio-Hernan"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3652953"
+    },
+    {
+        "title": "Resilience and Complexity in Socio-Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Szabo"
+            },
+            {
+                "lastName": "Castro"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "SEA4DQ 2023: Proceedings of the 3rd International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things",
+        "authors": [
+            {
+                "lastName": "Khomh"
+            },
+            {
+                "lastName": "Chatterjee"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Edge Computing for Cyber-physical Systems: A Systematic Mapping Study Emphasizing Trustworthiness",
+        "authors": [
+            {
+                "lastName": "Sánchez"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3539662"
+    },
+    {
+        "title": "Trust-but-Verify in Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Perumalla"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3445969.3450434"
+    },
+    {
+        "title": "SEA4DQ 2022: Proceedings of the 2nd International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things",
+        "authors": [
+            {
+                "lastName": "Nguyen"
+            },
+            {
+                "lastName": "Sen"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "A Security Cost Modelling Framework for Cyber-Physical Systems",
+        "authors": [
+            {
+                "lastName": "Ivkić"
+            },
+            {
+                "lastName": "Sailer"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3450752"
+    },
+    {
+        "title": "ICCPS '23: Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2023)",
+        "authors": [
+            {
+                "lastName": "Mitra"
+            },
+            {
+                "lastName": "Venkatasubramanian"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Vulnerability management digital twin for energy systems",
+        "authors": [
+            {
+                "lastName": "Heluany"
+            },
+            {
+                "lastName": "Goetzfried"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3664476.3671013"
+    },
+    {
+        "title": "Analyzing Cyber-Physical Systems from the Perspective of Artificial Intelligence",
+        "authors": [
+            {
+                "lastName": "Veith"
+            },
+            {
+                "lastName": "Fischer"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3388218.3388222"
+    },
+    {
+        "title": "Blockchain, Internet of Things and Digital Twins in Trustless Security of Critical National Infrastructure",
+        "authors": [
+            {
+                "lastName": "Hammoudeh"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3440749.3442650"
+    },
+    {
+        "title": "Industrial Internet of Things Security Modelling using Ontological Methods",
+        "authors": [
+            {
+                "lastName": "Jarwar"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3567445.3571103"
+    },
+    {
+        "title": "Survey on Digital Twins: from concepts to applications",
+        "authors": [
+            {
+                "lastName": "Heluany"
+            },
+            {
+                "lastName": "Gkioulos"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3605070"
+    },
+    {
+        "title": "Employing Digital Twins for Security-by-Design System Testing",
+        "authors": [
+            {
+                "lastName": "Dietz"
+            },
+            {
+                "lastName": "Hageman"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3510547.3517929"
+    },
+    {
+        "title": "Software Engineering and AI for Data Quality in Cyber- Physical Systems - SEA4DQ'21 Workshop Report",
+        "authors": [
+            {
+                "lastName": "Nguyen"
+            },
+            {
+                "lastName": "Sen"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3502771.3502781"
+    },
+    {
+        "title": "SOAR4IoT: Securing IoT Assets with Digital Twins",
+        "authors": [
+            {
+                "lastName": "Empl"
+            },
+            {
+                "lastName": "Schlette"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3538969.3538975"
+    },
+    {
+        "title": "Blockchain-Based Digital Twins: Research Trends, Issues, and Future Challenges",
+        "authors": [
+            {
+                "lastName": "Suhail"
+            },
+            {
+                "lastName": "Hussain"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3517189"
+    },
+    {
+        "title": "A Systematic Review of Digital Twin Technology for Home Care",
+        "authors": [
+            {
+                "lastName": "Zafar"
+            },
+            {
+                "lastName": "Rybarczyk"
+            },
+            {
+                "lastName": "Borg"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3681797"
+    },
+    {
+        "title": "Trustworthy and Efficient Digital Twins in Post-Quantum Era with Hybrid Hardware-Assisted Signatures",
+        "authors": [
+            {
+                "lastName": "Nouma"
+            },
+            {
+                "lastName": "Yavuz"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3638250"
+    },
+    {
+        "title": "Understanding Stakeholder Requirements for Digital Twins in Manufacturing Maintenance",
+        "authors": [
+            {
+                "lastName": "Chen"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Towards Concepts for Climate and Energy-Oriented Digital Twins for Buildings",
+        "authors": [
+            {
+                "lastName": "Doellner"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3611314.3616066"
+    },
+    {
+        "title": "IoT '23: Proceedings of the 13th International Conference on the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Kawaguchi"
+            },
+            {
+                "lastName": "Yasumoto"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "A Practitioners Perspective on Addressing Cyber Security and Variability Challenges in Modern Automotive Systems",
+        "authors": [
+            {
+                "lastName": "Zellmer"
+            },
+            {
+                "lastName": "Holsten"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3634713.3634727"
+    },
+    {
+        "title": "Integration of Extended Reality with a Cyber-Physical Factory Environment and its Digital Twins",
+        "authors": [
+            {
+                "lastName": "Emporio"
+            },
+            {
+                "lastName": "Caputo"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3660246"
+    },
+    {
+        "title": "The Digital Twins Incident Response To Improve the Security of Power System Critical Infrastructure",
+        "authors": [
+            {
+                "lastName": "Akerele"
+            },
+            {
+                "lastName": "Leppert"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Detection And Mitigation Of Cyber attacks that exploit human vuLnerabilitiES (DAMOCLES 2024)",
+        "authors": [
+            {
+                "lastName": "Breve"
+            },
+            {
+                "lastName": "Desolda"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3656650.3660540"
+    },
+    {
+        "title": "An Introduction to Digital Twin Standards",
+        "authors": [
+            {
+                "lastName": "Sun"
+            },
+            {
+                "lastName": "Ma"
+            },
+            {
+                "lastName": "Zhou"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3568113.3568119"
+    },
+    {
+        "title": "BIOTC '23: Proceedings of the 2023 5th Blockchain and Internet of Things Conference",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids",
+        "authors": [
+            {
+                "lastName": "Coppolino"
+            },
+            {
+                "lastName": "Nardone"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3605043"
+    },
+    {
+        "title": "Emerging Cybersecurity Capability Gaps in the Industrial Internet of Things: Overview and Research Agenda",
+        "authors": [
+            {
+                "lastName": "Axon"
+            },
+            {
+                "lastName": "Fletcher"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3503920"
+    },
+    {
+        "title": "IoTAAI '23: Proceedings of the 2023 5th International Conference on Internet of Things, Automation and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "IoT '22: Proceedings of the 12th International Conference on the Internet of Things",
+        "authors": [
+            {
+                "lastName": "Niforatos"
+            },
+            {
+                "lastName": "Kortuem"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "A Digital Twin Environment for 5G Vehicle-to-Everything: Architecture and Open Issues",
+        "authors": [
+            {
+                "lastName": "Adarbah"
+            },
+            {
+                "lastName": "Sookhak"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3616394.3618266"
+    },
+    {
+        "title": "Digital Twin for Cybersecurity Incident Prediction: A Multivocal Literature Review",
+        "authors": [
+            {
+                "lastName": "Pokhrel"
+            },
+            {
+                "lastName": "Katta"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3387940.3392199"
+    },
+    {
+        "title": "Digital Twin Technology: Opportunities and Challenges for Smart Era's Applications",
+        "authors": [
+            {
+                "lastName": "Tyagi"
+            },
+            {
+                "lastName": "Richa"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3607947.3608015"
+    },
+    {
+        "title": "The Perils of Leveraging Evil Digital Twins as Security-Enhancing Enablers",
+        "authors": [
+            {
+                "lastName": "Suhail"
+            },
+            {
+                "lastName": "Iqbal"
+            },
+            {
+                "lastName": "Jurdak"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3631539"
+    },
+    {
+        "title": "Digital Twin Virtualization with Machine Learning for IoT and Beyond 5G Networks: Research Directions for Security and Optimal Control",
+        "authors": [
+            {
+                "lastName": "Jagannath"
+            },
+            {
+                "lastName": "Ramezanpour"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3522783.3529519"
+    },
+    {
+        "title": "AIIOT '22: Proceedings of the 1st Workshop on Digital Twin & Edge AI for Industrial IoT",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "IoTDI '23: Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Integrating digital twin security simulations in the security operations center",
+        "authors": [
+            {
+                "lastName": "Dietz"
+            },
+            {
+                "lastName": "Vielberth"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3407023.3407039"
+    },
+    {
+        "title": "CNIOT '23: Proceedings of the 2023 4th International Conference on Computing, Networks and Internet of Things",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Digital Shadows for Remote Automotive SW Verification",
+        "authors": [
+            {
+                "lastName": "Kaster"
+            },
+            {
+                "lastName": "Ma"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3576914.3587488"
+    },
+    {
+        "title": "Digital Twin Based Learning Framework for Adaptive Fault Diagnosis in Microgrids with Autonomous Reconfiguration Capabilities",
+        "authors": [
+            {
+                "lastName": "Runsewe"
+            },
+            {
+                "lastName": "Yavuz"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CSAIDE '24: Proceedings of the 2024 3rd International Conference on Cyber Security, Artificial Intelligence and Digital Economy",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "COVID-19: Secure Healthcare Internet of Things Networks, Current Trends and Challenges with Future Research Directions",
+        "authors": [
+            {
+                "lastName": "Adil"
+            },
+            {
+                "lastName": "Ali"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3558519"
+    },
+    {
+        "title": "Techniques for Enhancing Security in Industrial Control Systems",
+        "authors": [
+            {
+                "lastName": "Varadharajan"
+            },
+            {
+                "lastName": "Tupakula"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3630103"
+    },
+    {
+        "title": "How to regulate a Digital Twin City? Insights from a Proactive Law approach: How “human in the loop” and “precautionary principles” can serve policymakers in their attempt to incorporate respect of rights and solidarity in the smart city.",
+        "authors": [
+            {
+                "lastName": "Suffia"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3598469.3598482"
+    },
+    {
+        "title": "Towards the adoption of automated cyber threat intelligence information sharing with integrated risk assessment",
+        "authors": [
+            {
+                "lastName": "Ríos"
+            },
+            {
+                "lastName": "Zaidi"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3664476.3670444"
+    },
+    {
+        "title": "An internet of things service roadmap",
+        "authors": [
+            {
+                "lastName": "Bouguettaya"
+            },
+            {
+                "lastName": "Sheng"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3464960"
+    },
+    {
+        "title": "Space spider: a hyper large scientific infrastructure based on digital twin for the space internet",
+        "authors": [
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Zhang"
+            },
+            {
+                "lastName": "Hong"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3566099.3569007"
+    },
+    {
+        "title": "Digital twin modeling, co-simulation and cyber use-case inclusion methodology for IoT systems",
+        "authors": [
+            {
+                "lastName": "Mittal"
+            },
+            {
+                "lastName": "Tolk"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": ""
+    },
+    {
+        "title": "Co-Simulating Physical Processes and Network Data for High-Fidelity Cyber-Security Experiments",
+        "authors": [
+            {
+                "lastName": "Murillo"
+            },
+            {
+                "lastName": "Taormina"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3442144.3442147"
+    },
+    {
+        "title": "Internet of Things for Human and Industry Application: ALIOT Project and R&D Issues.",
+        "authors": [
+            {
+                "lastName": "Illiashenko"
+            },
+            {
+                "lastName": "Kharchenko"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3437120.3437338"
+    },
+    {
+        "title": "Challenges for Predictive Quality in Multi-stage Manufacturing: Insights from Literature Review",
+        "authors": [
+            {
+                "lastName": "Cassoli"
+            },
+            {
+                "lastName": "Metternich"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3617573.3618030"
+    },
+    {
+        "title": "A Data-Centric Approach to Generate Invariants for a Smart Grid Using Machine Learning",
+        "authors": [
+            {
+                "lastName": "Hudani"
+            },
+            {
+                "lastName": "Haseeb"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3510547.3517927"
+    },
+    {
+        "title": "IoT System Trustworthiness Assurance",
+        "authors": [
+            {
+                "lastName": "Beuran"
+            },
+            {
+                "lastName": "Ooi"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3488932.3527287"
+    },
+    {
+        "title": "CPSS '22: 8th ACM Cyber-Physical System Security Workshop",
+        "authors": [
+            {
+                "lastName": "Cardenas"
+            },
+            {
+                "lastName": "Mashima"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3488932.3517202"
+    },
+    {
+        "title": "A Systematic Review of Data Quality in CPS and IoT for Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Goknil"
+            },
+            {
+                "lastName": "Nguyen"
+            },
+            {
+                "lastName": "Sen"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3593043"
+    },
+    {
+        "title": "The internet of things in undergraduate computer and information science education: exploring curricula and pedagogy",
+        "authors": [
+            {
+                "lastName": "Burd"
+            },
+            {
+                "lastName": "Barker"
+            }
+        ],
+        "publicationYear": "2018",
+        "doi": "https://doi.org/10.1145/3293881.3295784"
+    },
+    {
+        "title": "Model-based Trustworthiness Evaluation of Autonomous Cyber-Physical Production Systems: A Systematic Mapping Study",
+        "authors": [
+            {
+                "lastName": "Zahid"
+            },
+            {
+                "lastName": "Bucaioni"
+            },
+            {
+                "lastName": "Flammini"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3640314"
+    },
+    {
+        "title": "Ontology driven AI and Access Control Systems for Smart Fisheries",
+        "authors": [
+            {
+                "lastName": "Chukkapalli"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3445969.3450429"
+    },
+    {
+        "title": "Study Cybersecurity of Cyber Physical System in the Virtual Environment: A Survey and New Direction",
+        "authors": [
+            {
+                "lastName": "Shi"
+            },
+            {
+                "lastName": "Krishnan"
+            },
+            {
+                "lastName": "Wen"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3511616.3513098"
+    },
+    {
+        "title": "The DYNABIC approach to resilience of critical infrastructures",
+        "authors": [
+            {
+                "lastName": "Rios"
+            },
+            {
+                "lastName": "Iturbe"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3605055"
+    },
+    {
+        "title": "A Flexible Security Analytics Service for the Industrial IoT",
+        "authors": [
+            {
+                "lastName": "Empl"
+            },
+            {
+                "lastName": "Pernul"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3445969.3450427"
+    },
+    {
+        "title": "CODES/ISSS '23 Companion: Proceedings of the 2023 International Conference on Hardware/Software Codesign and System Synthesis",
+        "authors": [
+            {
+                "lastName": "Hu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Unsupervised Dynamic Sensor Selection for IoT-Based Predictive Maintenance of a Fleet of Public Transport Buses",
+        "authors": [
+            {
+                "lastName": "Killeen"
+            },
+            {
+                "lastName": "Kiringa"
+            },
+            {
+                "lastName": "Yeap"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3530991"
+    },
+    {
+        "title": "A Testing Based Approach for Security Analysis of Smart Semiconductor Systems",
+        "authors": [
+            {
+                "lastName": "Dodge"
+            },
+            {
+                "lastName": "Pedrielli"
+            },
+            {
+                "lastName": "Jevtić"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "A review of computing offloading and caching in edge computing based on reinforcement learning",
+        "authors": [
+            {
+                "lastName": "Guo"
+            },
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3603781.3603839"
+    },
+    {
+        "title": "Building Students' Digital Footprints with Blockchain in PBL Activities",
+        "authors": [
+            {
+                "lastName": "Borovskaya"
+            },
+            {
+                "lastName": "Veselov"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3625078.3625087"
+    },
+    {
+        "title": "Dataflow-based Control Process Identification for ICS Dataset Development",
+        "authors": [
+            {
+                "lastName": "Choi"
+            },
+            {
+                "lastName": "Shin"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3546096.3546113"
+    },
+    {
+        "title": "Combined Safety and Cybersecurity Testing Methodology for Autonomous Driving Algorithms",
+        "authors": [
+            {
+                "lastName": "Malayjerdi"
+            },
+            {
+                "lastName": "Roberts"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3568160.3570235"
+    },
+    {
+        "title": "Evaluating Cascading Impact of Attacks on Resilience of Industrial Control Systems: A Design-Centric Modeling Approach",
+        "authors": [
+            {
+                "lastName": "Hau"
+            },
+            {
+                "lastName": "Castellanos"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3384941.3409587"
+    },
+    {
+        "title": "A Comprehensive Survey on Interoperability for IIoT: Taxonomy, Standards, and Future Directions",
+        "authors": [
+            {
+                "lastName": "Hazra"
+            },
+            {
+                "lastName": "Adhikari"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3485130"
+    },
+    {
+        "title": "AIAS: AI-ASsisted cybersecurity platform to defend against adversarial AI attacks",
+        "authors": [
+            {
+                "lastName": "Petihakis"
+            },
+            {
+                "lastName": "Farao"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3664476.3669920"
+    },
+    {
+        "title": "Trend Analysis in the Development of Factories of the Future, Taking into Account Digital Transformation of Active Systems",
+        "authors": [
+            {
+                "lastName": "Vlasov"
+            },
+            {
+                "lastName": "Kurnosenko"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3487757.3490881"
+    },
+    {
+        "title": "Industry Focused in Data Collection: How Industry 4.0 is Handled by Big Data",
+        "authors": [
+            {
+                "lastName": "Oliveira"
+            },
+            {
+                "lastName": "Afonso"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": "https://doi.org/10.1145/3352411.3352414"
+    },
+    {
+        "title": "Building a hardware-in-the-loop (HiL) digital energy station infrastructure for cyber operation resiliency testing",
+        "authors": [
+            {
+                "lastName": "Jørgensen"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3524489.3527299"
+    },
+    {
+        "title": "NEWSROOM: Towards Automating Cyber Situational Awareness Processes and Tools for Cyber Defence",
+        "authors": [
+            {
+                "lastName": "Wurzenberger"
+            },
+            {
+                "lastName": "Krenn"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3664476.3670914"
+    },
+    {
+        "title": "Attacking Power Grid Substations: An Experiment Demonstrating How to Attack the SCADA Protocol IEC 60870-5-104",
+        "authors": [
+            {
+                "lastName": "Erdődi"
+            },
+            {
+                "lastName": "Kaliyar"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3538969.3544475"
+    },
+    {
+        "title": "Intelligent Wearable Systems: Opportunities and Challenges in Health and Sports",
+        "authors": [
+            {
+                "lastName": "Yang"
+            },
+            {
+                "lastName": "Amin"
+            },
+            {
+                "lastName": "Shihada"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3648469"
+    },
+    {
+        "title": "Service Computing for Industry 4.0: State of the Art, Challenges, and Research Opportunities",
+        "authors": [
+            {
+                "lastName": "Siqueira"
+            },
+            {
+                "lastName": "Davis"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3478680"
+    },
+    {
+        "title": "Will the metaverse be out of control? Addressing the ethical and governance implications of a developing virtual society",
+        "authors": [
+            {
+                "lastName": "Effing"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3674148"
+    },
+    {
+        "title": "Machine Learning in Metaverse Security: Current Solutions and Future Challenges",
+        "authors": [
+            {
+                "lastName": "Otoum"
+            },
+            {
+                "lastName": "Gottimukkala"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3654663"
+    },
+    {
+        "title": "Stealthy Rootkit Attacks on Cyber-Physical Microgrids: Poster",
+        "authors": [
+            {
+                "lastName": "Rath"
+            },
+            {
+                "lastName": "Zografopoulos"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3447555.3466576"
+    },
+    {
+        "title": "PRAETORIAN: A Framework for the Protection of Critical Infrastructures from advanced Combined Cyber and Physical Threats",
+        "authors": [
+            {
+                "lastName": "Papadopoulos"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3605030"
+    },
+    {
+        "title": "Supporting vPLC Networking over TSN with Kubernetes in Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Rosa"
+            },
+            {
+                "lastName": "Garbugli"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3609389.3610566"
+    },
+    {
+        "title": "Simulation in Digital Enterprises",
+        "authors": [
+            {
+                "lastName": "Kuehn"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": "https://doi.org/10.1145/3307363.3307370"
+    },
+    {
+        "title": "Simulating Energy and Security Interactions in Semiconductor Manufacturing: Insights from the Intel Minifab Model",
+        "authors": [
+            {
+                "lastName": "Weaver"
+            },
+            {
+                "lastName": "Shusko"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Smart Services Implementation in Smart Cities: A Comprehensive Review of State-of-the-art Technologies",
+        "authors": [
+            {
+                "lastName": "Arin"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3603955.3603971"
+    },
+    {
+        "title": "(Do not) trust in ecosystems",
+        "authors": [
+            {
+                "lastName": "Cioroaica"
+            },
+            {
+                "lastName": "Kuhn"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": "https://doi.org/10.1109/ICSE-NIER.2019.00011"
+    },
+    {
+        "title": "EnCyCriS '22: Proceedings of the 3rd International Workshop on Engineering and Cybersecurity of Critical Systems",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "The PRECINCT Ecosystem Platform for Critical Infrastructure Protection: Architecture, Deployment and Transferability",
+        "authors": [
+            {
+                "lastName": "Kountche"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3664476.3670437"
+    },
+    {
+        "title": "Empowering People in Human-Robot Collaboration: Why, How, When, and for Whom",
+        "authors": [
+            {
+                "lastName": "Johansen"
+            },
+            {
+                "lastName": "Senaratne"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3638380.3638442"
+    },
+    {
+        "title": "TAS '23: Proceedings of the First International Symposium on Trustworthy Autonomous Systems",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "A Survey on Collaborative Learning for Intelligent Autonomous Systems",
+        "authors": [
+            {
+                "lastName": "Anjos"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3625544"
+    },
+    {
+        "title": "Trustworthy Swarms",
+        "authors": [
+            {
+                "lastName": "Wilson"
+            },
+            {
+                "lastName": "Chance"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3597512.3599705"
+    },
+    {
+        "title": "Empowering People in Human-Robot Collaboration: Bringing Together and Synthesising Perspectives",
+        "authors": [
+            {
+                "lastName": "Johansen"
+            },
+            {
+                "lastName": "Senaratne"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3572921.3572955"
+    },
+    {
+        "title": "HRI '24: Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+        "authors": [
+            {
+                "lastName": "Grollman"
+            },
+            {
+                "lastName": "Broadbent"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Special Session: Digital Technologies for Sustainability: Research Challenges and Opportunities",
+        "authors": [
+            {
+                "lastName": "Pop"
+            },
+            {
+                "lastName": "Graulund"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3607888.3608960"
+    },
+    {
+        "title": "NEMO: Building the Next Generation Meta Operating System",
+        "authors": [
+            {
+                "lastName": "Chochliouros"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3624486.3624504"
+    },
+    {
+        "title": "Patterns for the Industrial Internet / Industrie 4.0",
+        "authors": [
+            {
+                "lastName": "Bienhaus"
+            }
+        ],
+        "publicationYear": "2017",
+        "doi": "https://doi.org/10.1145/3147704.3147723"
+    },
+    {
+        "title": "HRI '24: Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+        "authors": [
+            {
+                "lastName": "Grollman"
+            },
+            {
+                "lastName": "Broadbent"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Security Threats, Countermeasures, and Challenges of Digital Supply Chains",
+        "authors": [
+            {
+                "lastName": "Hammi"
+            },
+            {
+                "lastName": "Zeadally"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3588999"
+    },
+    {
+        "title": "AMULET: a Mutation Language Enabling Automatic Enrichment of SysML Models",
+        "authors": [
+            {
+                "lastName": "Sultan"
+            },
+            {
+                "lastName": "Frénot"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3624583"
+    },
+    {
+        "title": "SEAMS '24: Proceedings of the 19th International Symposium on Software Engineering for Adaptive and Self-Managing Systems",
+        "authors": [
+            {
+                "lastName": "Baresi"
+            },
+            {
+                "lastName": "Ma"
+            },
+            {
+                "lastName": "Pasquale"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Distributed Approaches to Supply Chain Simulation: A Review",
+        "authors": [
+            {
+                "lastName": "Mustafee"
+            },
+            {
+                "lastName": "Katsaliaki"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3466170"
+    },
+    {
+        "title": "IIoT-NETs '23: Proceedings of the 1st Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Cyber Efficiency and Cyber Resilience",
+        "authors": [
+            {
+                "lastName": "Linkov"
+            },
+            {
+                "lastName": "Ligo"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3549073"
+    },
+    {
+        "title": "CPSS '23: Proceedings of the 9th ACM Cyber-Physical System Security Workshop",
+        "authors": [
+            {
+                "lastName": "Roman"
+            },
+            {
+                "lastName": "Ahmed"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "A Systematic Literature Review of Blockchain Technology: Applications Fields, Platforms, and Consensus Protocols",
+        "authors": [
+            {
+                "lastName": "Estrada"
+            },
+            {
+                "lastName": "Naranjo"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3638584.3638632"
+    },
+    {
+        "title": "SenSys '22: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems",
+        "authors": [
+            {
+                "lastName": "Gummeson"
+            },
+            {
+                "lastName": "Lee"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ISEC '24: Proceedings of the 17th Innovations in Software Engineering Conference",
+        "authors": [
+            {
+                "lastName": "Chakrabarti"
+            },
+            {
+                "lastName": "Rastogi"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Detecting a Complex Attack Scenario in an Airport: The PRAETORIAN Framework",
+        "authors": [
+            {
+                "lastName": "Schauer"
+            },
+            {
+                "lastName": "Hadjina"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3600160.3605095"
+    },
+    {
+        "title": "ICAAI '23: Proceedings of the 2023 7th International Conference on Advances in Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "icWCSN '23: Proceedings of the 2023 10th International Conference on Wireless Communication and Sensor Networks",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "WSC '23: Proceedings of the Winter Simulation Conference",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ARES '24: Proceedings of the 19th International Conference on Availability, Reliability and Security",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Improving Visual Search Tasks by Bending the Virtual City Twins: A Preliminary Study in Virtual Reality",
+        "authors": [
+            {
+                "lastName": "Zhang"
+            },
+            {
+                "lastName": "Xi"
+            },
+            {
+                "lastName": "Adcock"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3520495.3520528"
+    },
+    {
+        "title": "Web3D '23: Proceedings of the 28th International ACM Conference on 3D Web Technology",
+        "authors": [
+            {
+                "lastName": "Moreno"
+            },
+            {
+                "lastName": "Jaspe-Villanueva"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ARIC 2021 Workshop Report: The 4th ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities: Virtual, Online, USA - November 2, 2021",
+        "authors": [
+            {
+                "lastName": "Kar"
+            },
+            {
+                "lastName": "Mohebbi"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3578484.3578489"
+    },
+    {
+        "title": "Open challenges for Machine Learning based Early Decision-Making research",
+        "authors": [
+            {
+                "lastName": "Bondu"
+            },
+            {
+                "lastName": "Achenchabe"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3575637.3575643"
+    },
+    {
+        "title": "BSCI '23: Proceedings of the 5th ACM International Symposium on Blockchain and Secure Critical Infrastructure",
+        "authors": [
+            {
+                "lastName": "Gai"
+            },
+            {
+                "lastName": "Choo"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Towards systematic honeytoken fingerprinting",
+        "authors": [
+            {
+                "lastName": "Srinivasa"
+            },
+            {
+                "lastName": "Pedersen"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3433174.3433599"
+    },
+    {
+        "title": "ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Artificial Intelligence for Web 3.0: A Comprehensive Survey",
+        "authors": [
+            {
+                "lastName": "Shen"
+            },
+            {
+                "lastName": "Tan"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3657284"
+    },
+    {
+        "title": "IC3-2023: Proceedings of the 2023 Fifteenth International Conference on Contemporary Computing",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "AIMSCM '23: Proceedings of the 2023 International Conference on AI and Metaverse in Supply Chain Management",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "DAIS Project - Distributed Artificial Intelligence Systems: Objectives and Challenges",
+        "authors": [
+            {
+                "lastName": "Balador"
+            },
+            {
+                "lastName": "Sinaei"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3591335.3591348"
+    },
+    {
+        "title": "VaMoS '24: Proceedings of the 18th International Working Conference on Variability Modelling of Software-Intensive Systems",
+        "authors": [
+            {
+                "lastName": "Kehrer"
+            },
+            {
+                "lastName": "Huchard"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Addressing Data Challenges to Drive the Transformation of Smart Cities",
+        "authors": [
+            {
+                "lastName": "Gilman"
+            },
+            {
+                "lastName": "Bugiotti"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3663482"
+    },
+    {
+        "title": "BuildSys '23: Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "STAFFER: Skill Training Alliance for the Future European Rail System✱",
+        "authors": [
+            {
+                "lastName": "Mouelhi"
+            },
+            {
+                "lastName": "Consilvio"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3578837.3578886"
+    },
+    {
+        "title": "ARES '22: Proceedings of the 17th International Conference on Availability, Reliability and Security",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "GNNet '23: Proceedings of the 2nd on Graph Neural Networking Workshop 2023",
+        "authors": [
+            {
+                "lastName": "Barlet-Ros"
+            },
+            {
+                "lastName": "Casas"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICIT '22: Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICDSP '23: Proceedings of the 2023 7th International Conference on Digital Signal Processing",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "SIGSIM-PADS '24: Proceedings of the 38th ACM SIGSIM Conference on Principles of Advanced Discrete Simulation",
+        "authors": [
+            {
+                "lastName": "Loper"
+            },
+            {
+                "lastName": "Pellegrini"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ISEC '23: Proceedings of the 16th Innovations in Software Engineering Conference",
+        "authors": [
+            {
+                "lastName": "Agarwal"
+            },
+            {
+                "lastName": "Roychoudhury"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "BDCAT '23: Proceedings of the IEEE/ACM 10th International Conference on Big Data Computing, Applications and Technologies",
+        "authors": [
+            {
+                "lastName": "Rana"
+            },
+            {
+                "lastName": "Villari"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AISNS '23: Proceedings of the 2023 International Conference on Artificial Intelligence, Systems and Network Security",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed Systems",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Digital platforms for industrial clusters and enterprises: essence and structure",
+        "authors": [
+            {
+                "lastName": "Babkin"
+            },
+            {
+                "lastName": "Tashenova"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3444465.3444486"
+    },
+    {
+        "title": "Conference Reports",
+        "authors": [
+            {
+                "lastName": "Dennis"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3655032.3655034"
+    },
+    {
+        "title": "No Pie in the (Digital) Sky: Co-Imagining the Food Metaverse",
+        "authors": [
+            {
+                "lastName": "Covaci"
+            },
+            {
+                "lastName": "Alhasan"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3544548.3581305"
+    },
+    {
+        "title": "Survey of automation practices in model-driven development and operations",
+        "authors": [
+            {
+                "lastName": "Ponsard"
+            },
+            {
+                "lastName": "Ramon"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3528228.3528405"
+    },
+    {
+        "title": "Tutorial on means of hybrid simulation",
+        "authors": [
+            {
+                "lastName": "Eldabi"
+            },
+            {
+                "lastName": "Tako"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": ""
+    },
+    {
+        "title": "HOTMOBILE '24: Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications",
+        "authors": [
+            {
+                "lastName": "Davies"
+            },
+            {
+                "lastName": "Xu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "FRAME '24: Proceedings of the 4th Workshop on Flexible Resource and Application Management on the Edge",
+        "authors": [
+            {
+                "lastName": "Coppola"
+            },
+            {
+                "lastName": "Kavalionak"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ARCH: Automatic Roaming-contract Handler for Seamless 6G System to Provide Trusted and Highly Available Network Access",
+        "authors": [
+            {
+                "lastName": "Tēnn"
+            },
+            {
+                "lastName": "Ho"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3570361.3615728"
+    },
+    {
+        "title": "ICSE-Companion '24: Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings",
+        "authors": [
+            {
+                "lastName": "Paiva"
+            },
+            {
+                "lastName": "Abreu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CSCS '22: Proceedings of the 6th ACM Computer Science in Cars Symposium",
+        "authors": [
+            {
+                "lastName": "Brücher"
+            },
+            {
+                "lastName": "Krauß"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "Building a Resilient and Sustainable Grid: A Study of Challenges and Opportunities in AI for Smart Virtual Power Plants",
+        "authors": [
+            {
+                "lastName": "Islam"
+            },
+            {
+                "lastName": "Vu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3603287.3651202"
+    },
+    {
+        "title": "dg.o '23: Proceedings of the 24th Annual International Conference on Digital Government Research",
+        "authors": [
+            {
+                "lastName": "Cid"
+            },
+            {
+                "lastName": "Sabatini"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "PETRA '23: Proceedings of the 16th International Conference on PErvasive Technologies Related to Assistive Environments",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "A data processing pipeline for cyber-physical risk assessments of municipal supply chains",
+        "authors": [
+            {
+                "lastName": "Weaver"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "Expressive and Systematic Risk Assessments with Instance-Centric Threat Models",
+        "authors": [
+            {
+                "lastName": "Verreydt"
+            },
+            {
+                "lastName": "Landuyt"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3555776.3577668"
+    },
+    {
+        "title": "Ten regulatory principles to scaffold the design, manufacture, and use of trustworthy autonomous systems, illustrated in a maritime context",
+        "authors": [
+            {
+                "lastName": "Horne"
+            },
+            {
+                "lastName": "Law-Walsh"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3597512.3599701"
+    },
+    {
+        "title": "Distributed Ledger Technologies for Car Industry 4.0",
+        "authors": [
+            {
+                "lastName": "Zivic"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3418994.3418998"
+    },
+    {
+        "title": "ISMSI '23: Proceedings of the 2023 7th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Answers Begin to Surface to Deep Earth Puzzles",
+        "authors": [
+            {
+                "lastName": "Edwards"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3640478"
+    },
+    {
+        "title": "Variability of safety risks in production environments",
+        "authors": [
+            {
+                "lastName": "Dhungana"
+            },
+            {
+                "lastName": "Haselböck"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3546932.3547074"
+    },
+    {
+        "title": "ASENS '24: Proceedings of the International Conference on Algorithms, Software Engineering, and Network Security",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ESAAM '23: Proceedings of the 3rd Eclipse Security, AI, Architecture and Modelling Conference on Cloud to Edge Continuum",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Conceptual Modeling: Topics, Themes, and Technology Trends",
+        "authors": [
+            {
+                "lastName": "Storey"
+            },
+            {
+                "lastName": "Lukyanenko"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3589338"
+    },
+    {
+        "title": "Piloting Smart City Solutions in Very Small, Small and Medium-sized Municipalities. The Estonian case study.",
+        "authors": [
+            {
+                "lastName": "Sarv"
+            },
+            {
+                "lastName": "Soe"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3560107.3560179"
+    },
+    {
+        "title": "Accelerating Digital Transformation of the Russian Industry and Trade",
+        "authors": [
+            {
+                "lastName": "Komissarova"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3446434.3446472"
+    },
+    {
+        "title": "PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Deep Clustering Algorithm for Load Profile Business Intelligence Dashboard for Consumer and Utility Management",
+        "authors": [
+            {
+                "lastName": "Veloso"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3658321.3658368"
+    },
+    {
+        "title": "ICBAR '23: Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "PCI '22: Proceedings of the 26th Pan-Hellenic Conference on Informatics",
+        "authors": [
+            {
+                "lastName": "Karanikolas"
+            },
+            {
+                "lastName": "Troussas"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "How Metaverse is Affecting Smart Cities Economy",
+        "authors": [
+            {
+                "lastName": "Chatzopoulou"
+            },
+            {
+                "lastName": "Tsoutsa"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3635059.3635099"
+    },
+    {
+        "title": "SPBPU IDE '21: Proceedings of the 3rd International Scientific Conference on Innovations in Digital Economy",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "CNCIT '24: Proceedings of the 2024 3rd International Conference on Networks, Communications and Information Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AIBDF '23: Proceedings of the 2023 3rd Guangdong-Hong Kong-Macao Greater Bay Area Artificial Intelligence and Big Data Forum",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CEEeGov '23: Proceedings of the Central and Eastern European eDem and eGov Days 2023",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Transforming a large medical organization towards speed and flow",
+        "authors": [
+            {
+                "lastName": "Jachmann"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": "https://doi.org/10.1109/SEH.2019.00010"
+    },
+    {
+        "title": "IMMS '23: Proceedings of the 2023 6th International Conference on Information Management and Management Science",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Research on the innovative integration application of metaverse and education",
+        "authors": [
+            {
+                "lastName": "Weng"
+            },
+            {
+                "lastName": "Wei"
+            },
+            {
+                "lastName": "Li"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3599640.3599660"
+    },
+    {
+        "title": "RACS '23: Proceedings of the 2023 International Conference on Research in Adaptive and Convergent Systems",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "APIT '23: Proceedings of the 2023 5th Asia Pacific Information Technology Conference",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+        "authors": [
+            {
+                "lastName": "Ortiz"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "CSSE '22: Proceedings of the 5th International Conference on Computer Science and Software Engineering",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "EuroSec '24: Proceedings of the 17th European Workshop on Systems Security",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AVI '24: Proceedings of the 2024 International Conference on Advanced Visual Interfaces",
+        "authors": [
+            {
+                "lastName": "Conati"
+            },
+            {
+                "lastName": "Torre"
+            },
+            {
+                "lastName": "Volpe"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ACM SIGCOMM Posters and Demos '24: Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos",
+        "authors": [
+            {
+                "lastName": "Seneviratne"
+            },
+            {
+                "lastName": "Veitch"
+            },
+            {
+                "lastName": "Sekar"
+            },
+            {
+                "lastName": "Yu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "An algorithmic method for business process reengineering and service automation in the public sector",
+        "authors": [
+            {
+                "lastName": "Charalabidis"
+            },
+            {
+                "lastName": "Lachana"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3614321.3614336"
+    },
+    {
+        "title": "ARTMAN '23: First Workshop on Recent Advances in Resilient and Trustworthy ML Systems in Autonomous Networks",
+        "authors": [
+            {
+                "lastName": "Blanc"
+            },
+            {
+                "lastName": "Takahashi"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3576915.3624027"
+    },
+    {
+        "title": "CNSCT '24: Proceedings of the 2024 3rd International Conference on Cryptography, Network Security and Communication Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CNML '23: Proceedings of the 2023 International Conference on Communication Network and Machine Learning",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "SIGSIM-PADS '23: Proceedings of the 2023 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation",
+        "authors": [
+            {
+                "lastName": "Loper"
+            },
+            {
+                "lastName": "Jin"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Hybrid conceptual modeling for simulation: an ontology approach during covid-19",
+        "authors": [
+            {
+                "lastName": "Saleh"
+            },
+            {
+                "lastName": "Bell"
+            },
+            {
+                "lastName": "Sulaiman"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "CSAI '23: Proceedings of the 2023 7th International Conference on Computer Science and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICCDA '23: Proceedings of the 2023 7th International Conference on Computing and Data Analysis",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ACM SE '24: Proceedings of the 2024 ACM Southeast Conference",
+        "authors": [
+            {
+                "lastName": "Lo"
+            },
+            {
+                "lastName": "Gamess"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Dependability in edge computing",
+        "authors": [
+            {
+                "lastName": "Bagchi"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": "https://doi.org/10.1145/3362068"
+    },
+    {
+        "title": "Trust Issues: Discrepancies in Trustworthy AI Keywords Use in Policy and Research",
+        "authors": [
+            {
+                "lastName": "Toney"
+            },
+            {
+                "lastName": "Curlee"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1145/3630106.3659035"
+    },
+    {
+        "title": "ICICM '22: Proceedings of the 12th International Conference on Information Communication and Management",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "BDEIM '23: Proceedings of the 2023 4th International Conference on Big Data Economy and Information Management",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Increasing efficiency of management responses in industrial enterprises with implementation of digital monitoring systems",
+        "authors": [
+            {
+                "lastName": "Nekrasova"
+            },
+            {
+                "lastName": "Alekseeva"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3527049.3527120"
+    },
+    {
+        "title": "ICEMC '22: Proceedings of the 2022 International Conference on E-business and Mobile Commerce",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management & Machine Intelligence",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Digitalization tools in ensuring the efficiency of the enterprise activity",
+        "authors": [
+            {
+                "lastName": "Lazarevna"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3388984.3390641"
+    },
+    {
+        "title": "A Framework for User-Centric Visualisation of Blockchain Transactions in Critical Infrastructure",
+        "authors": [
+            {
+                "lastName": "Jeyakumar"
+            },
+            {
+                "lastName": "Ko"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3594556.3594624"
+    },
+    {
+        "title": "ICSE '23: Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings",
+        "authors": [
+            {
+                "lastName": "Grundy"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICIMMI '23: Proceedings of the 5th International Conference on Information Management & Machine Intelligence",
+        "authors": [
+            {
+                "lastName": "Goyal"
+            },
+            {
+                "lastName": "Kumar"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "PCI '23: Proceedings of the 27th Pan-Hellenic Conference on Progress in Computing and Informatics",
+        "authors": [
+            {
+                "lastName": "Karanikolas"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "GoodIT '23: Proceedings of the 2023 ACM Conference on Information Technology for Social Good",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "IDEAS '23: Proceedings of the 27th International Database Engineered Applications Symposium",
+        "authors": [
+            {
+                "lastName": "Chbeir"
+            },
+            {
+                "lastName": "Ivanovic"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "FAIML '23: Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICRSA '22: Proceedings of the 2022 5th International Conference on Robot Systems and Applications",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "DEBS '24: Proceedings of the 18th ACM International Conference on Distributed and Event-based Systems",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "PCCNT '23: Proceedings of the 2023 International Conference on Power, Communication, Computing and Networking Technologies",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "DEAI '24: Proceedings of the 2024 Guangdong-Hong Kong-Macao Greater Bay Area International Conference on Digital Economy and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "IMX '24: Proceedings of the 2024 ACM International Conference on Interactive Media Experiences",
+        "authors": [
+            {
+                "lastName": "Rostami"
+            },
+            {
+                "lastName": "McMillan"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing",
+        "authors": [
+            {
+                "lastName": "Hong"
+            },
+            {
+                "lastName": "Lanperne"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "PEAI '24: Proceedings of the 2024 International Conference on Power Electronics and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "UbiComp/ISWC '22 Adjunct: Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "FSE 2024: Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering",
+        "authors": [
+            {
+                "lastName": "d'Amorim"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic Governance",
+        "authors": [
+            {
+                "lastName": "Getschko"
+            },
+            {
+                "lastName": "Lindgren"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MuC '23: Proceedings of Mensch und Computer 2023",
+        "authors": [
+            {
+                "lastName": "Stolze"
+            },
+            {
+                "lastName": "Loch"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MobiHoc '23: Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing",
+        "authors": [
+            {
+                "lastName": "Wu"
+            },
+            {
+                "lastName": "Subramaniam"
+            },
+            {
+                "lastName": "Ji"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MUM '23: Proceedings of the 22nd International Conference on Mobile and Ubiquitous Multimedia",
+        "authors": [
+            {
+                "lastName": "Michahelles"
+            },
+            {
+                "lastName": "Knierim"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "UbiComp/ISWC '23 Adjunct: Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing",
+        "authors": [
+            {
+                "lastName": "Tentori"
+            },
+            {
+                "lastName": "Weibel"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Digital Space Economic Transformation Design: An Innovation Ecosystem Approach",
+        "authors": [
+            {
+                "lastName": "Suksa-Ngiam"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3628454.3630589"
+    },
+    {
+        "title": "The long road ahead to transition to post-quantum cryptography",
+        "authors": [
+            {
+                "lastName": "LaMacchia"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": "https://doi.org/10.1145/3498706"
+    },
+    {
+        "title": "Academic Mindtrek '22: Proceedings of the 25th International Academic Mindtrek Conference",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "HP3C '24: Proceedings of the 2024 8th International Conference on High Performance Compilation, Computing and Communications",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CIBDA '24: Proceedings of the 5th International Conference on Computer Information and Big Data Applications",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICFET '23: Proceedings of the 2023 9th International Conference on Frontiers of Educational Technologies",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MSIE '23: Proceedings of the 2023 5th International Conference on Management Science and Industrial Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "EITCE '22: Proceedings of the 2022 6th International Conference on Electronic Information Technology and Computer Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICCMT '24: Proceedings of the 2024 International Conference on Computer and Multimedia Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "APNet '22: Proceedings of the 6th Asia-Pacific Workshop on Networking",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "UCC '23: Proceedings of the IEEE/ACM 16th International Conference on Utility and Cloud Computing",
+        "authors": [
+            {
+                "lastName": "Rana"
+            },
+            {
+                "lastName": "Villari"
+            },
+            {
+                "lastName": "Fu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICETC '22: Proceedings of the 14th International Conference on Education Technology and Computers",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICMLC '23: Proceedings of the 2023 15th International Conference on Machine Learning and Computing",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "AICCC '23: Proceedings of the 2023 6th Artificial Intelligence and Cloud Computing Conference",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "GNNet '22: Proceedings of the 1st International Workshop on Graph Neural Networking",
+        "authors": [
+            {
+                "lastName": "Barlet-Ros"
+            },
+            {
+                "lastName": "Casas"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "DRAGON: Deep Reinforcement Learning for Autonomous Grid Operation and Attack Detection",
+        "authors": [
+            {
+                "lastName": "Landen"
+            },
+            {
+                "lastName": "Chung"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/10.1145/3564625.3567969"
+    },
+    {
+        "title": "Do You Need a Distributed Ledger Technology Interoperability Solution?",
+        "authors": [
+            {
+                "lastName": "Belchior"
+            },
+            {
+                "lastName": "Riley"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": "https://doi.org/10.1145/3564532"
+    },
+    {
+        "title": "ICEGOV '22: Proceedings of the 15th International Conference on Theory and Practice of Electronic Governance",
+        "authors": [
+            {
+                "lastName": "Amaral"
+            },
+            {
+                "lastName": "Soares"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "e-Energy '24: Proceedings of the 15th ACM International Conference on Future and Sustainable Energy Systems",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "MobiSys '23: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services",
+        "authors": [
+            {
+                "lastName": "Nurmi"
+            },
+            {
+                "lastName": "Hui"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "EASE '24: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Cloud Computing Curriculum: Developing Exemplar Modules for General Course Inclusion",
+        "authors": [
+            {
+                "lastName": "Adams"
+            },
+            {
+                "lastName": "Hainey"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": "https://doi.org/10.1145/3437800.3439206"
+    },
+    {
+        "title": "ICITEE '22: Proceedings of the 5th International Conference on Information Technologies and Electrical Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ACM TURC '23: Proceedings of the ACM Turing Award Celebration Conference - China 2023",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Modeling & simulation in systems engineering: a survey course",
+        "authors": [
+            {
+                "lastName": "Loper"
+            },
+            {
+                "lastName": "Bronston"
+            }
+        ],
+        "publicationYear": "2020",
+        "doi": ""
+    },
+    {
+        "title": "CNSM '22: Proceedings of the 18th International Conference on Network and Service Management",
+        "authors": [
+            {
+                "lastName": "Charalambides"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MIDA '24: Proceedings of the 2024 International Conference on Machine Intelligence and Digital Applications",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AISS '22: Proceedings of the 4th International Conference on Advanced Information Science and System",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "IDC '24: Proceedings of the 23rd Annual ACM Interaction Design and Children Conference",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICCMS '23: Proceedings of the 2023 15th International Conference on Computer Modeling and Simulation",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CSAE '23: Proceedings of the 7th International Conference on Computer Science and Application Engineering",
+        "authors": [
+            {
+                "lastName": "Emrouznejad"
+            },
+            {
+                "lastName": "Yue"
+            },
+            {
+                "lastName": "Jiang"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICIEAI '23: Proceedings of the 2023 International Conference on Information Education and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICMLCA '23: Proceedings of the 2023 4th International Conference on Machine Learning and Computer Application",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICDCN '23: Proceedings of the 24th International Conference on Distributed Computing and Networking",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ASIA CCS '23: Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security",
+        "authors": [
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Xiang"
+            },
+            {
+                "lastName": "Nepal"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MISNC '22: Proceedings of the 9th Multidisciplinary International Social Networks Conference",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "AAIA '23: Proceedings of the 2023 International Conference on Advances in Artificial Intelligence and Applications",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AHs '23: Proceedings of the Augmented Humans International Conference 2023",
+        "authors": [
+            {
+                "lastName": "Ward"
+            },
+            {
+                "lastName": "McGill"
+            },
+            {
+                "lastName": "Marky"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICETT '23: Proceedings of the 9th International Conference on Education and Training Technologies",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ACAI '23: Proceedings of the 2023 6th International Conference on Algorithms, Computing and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICISE '23: Proceedings of the 2023 8th International Conference on Information Systems Engineering",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "EITCE '23: Proceedings of the 2023 7th International Conference on Electronic Information Technology and Computer Engineering",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "MISNC '23: Proceedings of the 10th Multidisciplinary International Social Networks Conference",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "GoodIT '22: Proceedings of the 2022 ACM Conference on Information Technology for Social Good",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "dg.o '24: Proceedings of the 25th Annual International Conference on Digital Government Research",
+        "authors": [
+            {
+                "lastName": "Liao"
+            },
+            {
+                "lastName": "Cid"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CECCT '23: Proceedings of the 2023 International Conference on Electronics, Computers and Communication Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICITEE '23: Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICIBE '23: Proceedings of the 2023 9th International Conference on Industrial and Business Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICMHI '23: Proceedings of the 2023 7th International Conference on Medical and Health Informatics",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICCIR '22: Proceedings of the 2022 2nd International Conference on Control and Intelligent Robotics",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ACSAC '22: Proceedings of the 38th Annual Computer Security Applications Conference",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ICAICE '23: Proceedings of the 4th International Conference on Artificial Intelligence and Computer Engineering",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "AutomotiveUI '23 Adjunct: Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "WSSE '23: Proceedings of the 2023 5th World Symposium on Software Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "WebMedia '22: Proceedings of the Brazilian Symposium on Multimedia and the Web",
+        "authors": [
+            {
+                "lastName": "Silva"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "SOICT '23: Proceedings of the 12th International Symposium on Information and Communication Technology",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "DIS '24 Companion: Companion Publication of the 2024 ACM Designing Interactive Systems Conference",
+        "authors": [
+            {
+                "lastName": "Vallgårda"
+            },
+            {
+                "lastName": "Jönsson"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICCSMT '23: Proceedings of the 2023 4th International Conference on Computer Science and Management Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "RICAI '22: Proceedings of the 2022 4th International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ASPDAC '22: Proceedings of the 27th Asia and South Pacific Design Automation Conference",
+        "authors": [
+            {
+                "lastName": "Wang"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "IC4E '23: Proceedings of the 2023 14th International Conference on E-Education, E-Business, E-Management and E-Learning",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICBCT '23: Proceedings of the 2023 5th International Conference on Blockchain Technology",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Do we need a national research agenda for modeling and simulation?",
+        "authors": [
+            {
+                "lastName": "Tolk"
+            },
+            {
+                "lastName": "Balci"
+            },
+            {
+                "lastName": "Combs"
+            }
+        ],
+        "publicationYear": "2015",
+        "doi": ""
+    },
+    {
+        "title": "ICBDE '23: Proceedings of the 2023 6th International Conference on Big Data and Education",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "AST '24: Proceedings of the 5th ACM/IEEE International Conference on Automation of Software Test (AST 2024)",
+        "authors": [
+            {
+                "lastName": "Lonetti"
+            },
+            {
+                "lastName": "Guerriero"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "SIGSPATIAL '22: Proceedings of the 30th International Conference on Advances in Geographic Information Systems",
+        "authors": [
+            {
+                "lastName": "Renz"
+            },
+            {
+                "lastName": "Sarwat"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ICSE-SEIP '23: Proceedings of the 45th International Conference on Software Engineering: Software Engineering in Practice",
+        "authors": [
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "Muccini"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "Mindtrek '23: Proceedings of the 26th International Academic Mindtrek Conference",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "MMAsia '23: Proceedings of the 5th ACM International Conference on Multimedia in Asia",
+        "authors": [
+            {
+                "lastName": "Cheng"
+            },
+            {
+                "lastName": "Chu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "OzCHI '21: Proceedings of the 33rd Australian Conference on Human-Computer Interaction",
+        "authors": [
+            {
+                "lastName": "Buchanan"
+            },
+            {
+                "lastName": "Davis"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "authors": [
+            {
+                "lastName": "Chandra"
+            },
+            {
+                "lastName": "Blincoe"
+            },
+            {
+                "lastName": "Tonella"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ESSE '22: Proceedings of the 2022 European Symposium on Software Engineering",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICEMT '23: Proceedings of the 7th International Conference on Education and Multimedia Technology",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "IAIT '23: Proceedings of the 13th International Conference on Advances in Information Technology",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ESEC/FSE 2022: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "authors": [
+            {
+                "lastName": "Roychoudhury"
+            },
+            {
+                "lastName": "Cadar"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "AIMLSystems '23: Proceedings of the Third International Conference on AI-ML Systems",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICETM '22: Proceedings of the 2022 5th International Conference on Education Technology Management",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICSE-SEIP '24: Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice",
+        "authors": [
+            {
+                "lastName": "Paiva"
+            },
+            {
+                "lastName": "Abreu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "APNet '24: Proceedings of the 8th Asia-Pacific Workshop on Networking",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "SoICT '22: Proceedings of the 11th International Symposium on Information and Communication Technology",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ACM MobiCom '23: Proceedings of the 29th Annual International Conference on Mobile Computing and Networking",
+        "authors": [
+            {
+                "lastName": "Costa"
+            },
+            {
+                "lastName": "Widmer"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICCVIT '23: Proceedings of the 2023 International Conference on Computer, Vision and Intelligent Technology",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering",
+        "authors": [
+            {
+                "lastName": "Paiva"
+            },
+            {
+                "lastName": "Abreu"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICMI '22: Proceedings of the 2022 International Conference on Multimodal Interaction",
+        "authors": [
+            {
+                "lastName": "Tumuluri"
+            },
+            {
+                "lastName": "Sebe"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "ISPD '24: Proceedings of the 2024 International Symposium on Physical Design",
+        "authors": [
+            {
+                "lastName": "Jiang"
+            },
+            {
+                "lastName": "Posser"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICEME '23: Proceedings of the 2023 14th International Conference on E-business, Management and Economics",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "UMAP Adjunct '24: Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization",
+        "authors": [
+            {
+                "lastName": "Boratto"
+            },
+            {
+                "lastName": "Gena"
+            },
+            {
+                "lastName": "Marras"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICEEL '22: Proceedings of the 2022 6th International Conference on Education and E-Learning",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "SUI '23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction",
+        "authors": [
+            {
+                "lastName": "Huang"
+            },
+            {
+                "lastName": "Sra"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICISS '22: Proceedings of the 5th International Conference on Information Science and Systems",
+        "authors": [],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "APCORISE '21: Proceedings of the 4th Asia Pacific Conference on Research in Industrial and Systems Engineering",
+        "authors": [
+            {
+                "lastName": "Ardi"
+            },
+            {
+                "lastName": "Moeis"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": ""
+    },
+    {
+        "title": "IUI '24 Companion: Companion Proceedings of the 29th International Conference on Intelligent User Interfaces",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "e-Energy '23: Proceedings of the 14th ACM International Conference on Future Energy Systems",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CHItaly '23: Proceedings of the 15th Biannual Conference of the Italian SIGCHI Chapter",
+        "authors": [
+            {
+                "lastName": "Gena"
+            },
+            {
+                "lastName": "Russis"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "GECCO '24: Proceedings of the Genetic and Evolutionary Computation Conference",
+        "authors": [
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Handl"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICMLC '24: Proceedings of the 2024 16th International Conference on Machine Learning and Computing",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "Internetware '23: Proceedings of the 14th Asia-Pacific Symposium on Internetware",
+        "authors": [
+            {
+                "lastName": "Mei"
+            },
+            {
+                "lastName": "Lv"
+            },
+            {
+                "lastName": "Jin"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "OzCHI '23: Proceedings of the 35th Australian Computer-Human Interaction Conference",
+        "authors": [
+            {
+                "lastName": "Bowen"
+            },
+            {
+                "lastName": "Pantidi"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Schmidt"
+            },
+            {
+                "lastName": "Väänänen"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "GECCO '24 Companion: Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+        "authors": [
+            {
+                "lastName": "Li"
+            },
+            {
+                "lastName": "Handl"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "CHI EA '24: Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Mueller"
+            },
+            {
+                "lastName": "Kyburz"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "DSAI '22: Proceedings of the 10th International Conference on Software Development and Technologies for Enhancing Accessibility and Fighting Info-exclusion",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CHI '24: Proceedings of the CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Mueller"
+            },
+            {
+                "lastName": "Kyburz"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "IVA '23: Proceedings of the 23rd ACM International Conference on Intelligent Virtual Agents",
+        "authors": [
+            {
+                "lastName": "Lugrin"
+            },
+            {
+                "lastName": "Latoschik"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Schmidt"
+            },
+            {
+                "lastName": "Väänänen"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Kitamura"
+            },
+            {
+                "lastName": "Quigley"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": ""
+    },
+    {
+        "title": "ICPP Workshops '23: Proceedings of the 52nd International Conference on Parallel Processing Workshops",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "UMAP '23 Adjunct: Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "AAMAS '24: Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems",
+        "authors": [
+            {
+                "lastName": "Dastani"
+            },
+            {
+                "lastName": "Sichman"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ICEEL '23: Proceedings of the 2023 7th International Conference on Education and E-Learning",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ETRA '23: Proceedings of the 2023 Symposium on Eye Tracking Research and Applications",
+        "authors": [
+            {
+                "lastName": "Kasneci"
+            },
+            {
+                "lastName": "Shic"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "WWW '19: Companion Proceedings of The 2019 World Wide Web Conference",
+        "authors": [
+            {
+                "lastName": "Liu"
+            },
+            {
+                "lastName": "White"
+            }
+        ],
+        "publicationYear": "2019",
+        "doi": ""
+    },
+    {
+        "title": "C&T '23: Proceedings of the 11th International Conference on Communities and Technologies",
+        "authors": [
+            {
+                "lastName": "Wolff"
+            },
+            {
+                "lastName": "Siemon"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "ICMI '23 Companion: Companion Publication of the 25th International Conference on Multimodal Interaction",
+        "authors": [
+            {
+                "lastName": "André"
+            },
+            {
+                "lastName": "Chetouani"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "SC-W '23: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "PEARC '23: Practice and Experience in Advanced Research Computing 2023: Computing for the Common Good",
+        "authors": [
+            {
+                "lastName": "Sinkovits"
+            },
+            {
+                "lastName": "Romanella"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CODS-COMAD '23: Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD)",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "SOSP '23: Proceedings of the 29th Symposium on Operating Systems Principles",
+        "authors": [
+            {
+                "lastName": "Flinn"
+            },
+            {
+                "lastName": "Seltzer"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+        "authors": [
+            {
+                "lastName": "Kitamura"
+            },
+            {
+                "lastName": "Quigley"
+            }
+        ],
+        "publicationYear": "2021",
+        "doi": ""
+    },
+    {
+        "title": "OzCHI '22: Proceedings of the 34th Australian Conference on Human-Computer Interaction",
+        "authors": [
+            {
+                "lastName": "Sweetser"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "GECCO '23 Companion: Proceedings of the Companion Conference on Genetic and Evolutionary Computation",
+        "authors": [
+            {
+                "lastName": "Silva"
+            },
+            {
+                "lastName": "Paquete"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": ""
+    },
+    {
+        "title": "ACM SIGCOMM '23: Proceedings of the ACM SIGCOMM 2023 Conference",
+        "authors": [
+            {
+                "lastName": "Schulzrinne"
+            },
+            {
+                "lastName": "Misra"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CUI '23: Proceedings of the 5th International Conference on Conversational User Interfaces",
+        "authors": [
+            {
+                "lastName": "Lee"
+            },
+            {
+                "lastName": "Munteanu"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+        "authors": [
+            {
+                "lastName": "Follmer"
+            },
+            {
+                "lastName": "Han"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "SC '23: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "authors": [
+            {
+                "lastName": "Arnold"
+            },
+            {
+                "lastName": "Badia"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "IUI '23: Proceedings of the 28th International Conference on Intelligent User Interfaces",
+        "authors": [],
+        "publicationYear": "2023",
+        "doi": ""
+    },
+    {
+        "title": "CSCW '23 Companion: Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing",
+        "authors": [
+            {
+                "lastName": "Fiesler"
+            },
+            {
+                "lastName": "Terveen"
+            }
+        ],
+        "publicationYear": "2023",
+        "doi": ""
+    }
+]
