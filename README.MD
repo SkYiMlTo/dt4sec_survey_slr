@@ -155,4 +155,4 @@ If you have any suggestion, question, or whatever you want to talk about, feel f
 I speak French and English :)
 
 ## LICENSE
-This project is under MIT license, more [here](./LICENSE.MD)
+This project is under MIT license, more [here](./LICENSE.MD).
