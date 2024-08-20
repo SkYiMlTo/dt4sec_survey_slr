@@ -4,7 +4,7 @@ import json
 
 
 def csv_generation(input_path, output_path):
-    fields = ['Title', 'Authors', 'Year of Publication', 'DOI']
+    fields = ['Title', 'Authors', 'Year of Publication', 'DOI', "Source"]
 
     input_filenames = next(os.walk(input_path), (None, None, []))[2]
 
@@ -19,8 +19,8 @@ def csv_generation(input_path, output_path):
                     'authors'] else 'No authors'
                 publication_year = item['publicationYear']
                 doi = item['doi']
-
-                csvwriter.writerow([title, authors, publication_year, doi])
+                source = item['source']
+                csvwriter.writerow([title, authors, publication_year, doi, source])
 
 
 def main_csv_generation(path):

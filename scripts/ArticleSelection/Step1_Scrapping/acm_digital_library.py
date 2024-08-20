@@ -60,6 +60,7 @@ def scrap_acm_digital_library(request, path):
                 "authors": authors,
                 "publicationYear": year,
                 "doi": doi,
+                "source": "https://dl.acm.org/",
             })
         try:
             next_page = driver.find_element(By.CSS_SELECTOR, "ul + span")

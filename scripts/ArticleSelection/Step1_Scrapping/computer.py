@@ -129,6 +129,7 @@ def scrap_computer(request, path):
                 "authors": authors,
                 "publicationYear": year,
                 "doi": doi,
+                "source": "https://www.computer.org/csdl",
             })
             print(counter)
             # time.sleep(2)

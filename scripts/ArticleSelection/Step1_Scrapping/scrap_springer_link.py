@@ -6,6 +6,7 @@ import time
 import json
 import re
 
+
 def scrap_springler(request, path):
 
     # Set up the WebDriver (Chrome)
@@ -76,7 +77,8 @@ def extract_data(result):
         "title": title,
         "authors": authors,
         "publicationYear": year,
-        "doi": doi
+        "doi": doi,
+        "source": "https://link.springer.com/",
     }
 
 
