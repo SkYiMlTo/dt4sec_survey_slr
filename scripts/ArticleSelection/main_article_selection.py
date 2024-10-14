@@ -1,7 +1,7 @@
 from scripts.ArticleSelection.Step1_Scrapping.main_step1 import main_scrap_databases
 from scripts.ArticleSelection.Step2_DuplicateRemoval.main_step2 import main_remove_duplicates
-from scripts.ArticleSelection.Step3_CSVGeneration.main_step3 import main_csv_generation
-from scripts.ArticleSelection.Step4_RemoveNoDOI.main_step4 import remove_empty_doi
+from scripts.ArticleSelection.Step4_CSVGeneration.main_step4 import main_csv_generation
+from scripts.ArticleSelection.Step3_RemoveNoDOI.main_step3 import remove_empty_doi
 import os
 
 
