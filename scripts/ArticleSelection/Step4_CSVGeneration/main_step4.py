@@ -42,7 +42,7 @@ def excel_generation(input_path, output_path):
     workbook.save(output_path + "articles.xlsx")
 
 
-def main_csv_generation(path):
+def main_excel_generation(path):
     input_path = path + "step3/"
     output_path = path + "step4/"
     if not os.path.exists(output_path):
