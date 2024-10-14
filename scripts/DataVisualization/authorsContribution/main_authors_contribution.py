@@ -1,4 +1,4 @@
-import csv
+import openpyxl
 import matplotlib.pyplot as plt
 from collections import Counter
 import os
@@ -8,19 +8,21 @@ def authors_contribution(input_path, output_path):
     # List to hold authors
     authors_list = []
 
-    # Read the CSV file with specified encoding
-    with open(input_path, 'r', encoding='utf-8') as csvfile:
-        csvreader = csv.reader(csvfile)
+    # Load the Excel file
+    workbook = openpyxl.load_workbook(input_path)
 
-        # Skip the header
-        next(csvreader)
+    # Loop through all sheets to extract authors
+    for sheet_name in workbook.sheetnames:
+        sheet = workbook[sheet_name]
 
-        # Extract authors
-        for row in csvreader:
-            authors = row[1].split(', ')
-            if "No authors" in authors:
-                authors.remove("No authors")
-            authors_list.extend(authors)
+        # Skip the header row
+        for row in sheet.iter_rows(min_row=2, values_only=True):
+            authors = row[1]  # Assuming the authors are in the second column
+            if authors:
+                authors = authors.split(', ')  # Split the authors by comma
+                if "No authors" in authors:
+                    authors.remove("No authors")
+                authors_list.extend(authors)
 
     # Count the frequency of each author
     author_counts = Counter(authors_list)
@@ -46,11 +48,11 @@ def authors_contribution(input_path, output_path):
 
 
 def main_authors_contribution(path):
-    input_path = path + "articleSelection/step4/articles.csv"
+    input_path = path + "articleSelection/step4/articles.xlsx"
     output_path = path + "dataVisualization/"
     if not os.path.exists(output_path):
         os.mkdir(output_path)
     authors_contribution(input_path, output_path)
 
 
-# main_years_repartition("../../../output/2024-07-17_15-34-28.004814/")
+# main_authors_contribution("../../../output/2024-10-14_15-23-10.567515/")

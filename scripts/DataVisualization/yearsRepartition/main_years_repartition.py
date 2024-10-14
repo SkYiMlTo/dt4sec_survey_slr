@@ -1,22 +1,22 @@
-import csv
 import matplotlib.pyplot as plt
 import os
-
+import openpyxl
 
 def years_repartition(input_path, output_path):
     publication_years = []
 
-    # Read the CSV file
-    with open(input_path, 'r', encoding="utf-8") as csvfile:
-        csvreader = csv.reader(csvfile)
+    # Load the Excel file
+    workbook = openpyxl.load_workbook(input_path)
 
-        # Skip the header
-        next(csvreader)
+    # Loop through all sheets and collect publication years
+    for sheet_name in workbook.sheetnames:
+        sheet = workbook[sheet_name]
 
-        # Extract publication years
-        for row in csvreader:
-            publication_year = row[2]
-            publication_years.append(publication_year)
+        # Skip the header row
+        for row in sheet.iter_rows(min_row=2, values_only=True):
+            publication_year = row[2]  # Assuming the publication year is in the 3rd column
+            if publication_year:  # Check if the year exists
+                publication_years.append(str(publication_year))  # Convert to string for consistency
 
     # Count the frequency of each year
     year_counts = {}
@@ -36,16 +36,17 @@ def years_repartition(input_path, output_path):
     plt.xlabel('Publication Year')
     plt.ylabel('Number of Publications')
     plt.title('Distribution of Publications by Year')
+    plt.tight_layout()
     plt.savefig(output_path + "plt_years_repartition.png")
     plt.show()
 
 
 def main_years_repartition(path):
-    input_path = path + "articleSelection/step4/articles.csv"
+    input_path = path + "articleSelection/step4/articles.xlsx"
     output_path = path + "dataVisualization/"
     if not os.path.exists(output_path):
         os.mkdir(output_path)
     years_repartition(input_path, output_path)
 
 
-# main_years_repartition("../../../output/2024-07-17 14-38-25.820397/")
+# main_years_repartition("../../../output/2024-10-14_15-23-10.567515/")
