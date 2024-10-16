@@ -11,13 +11,13 @@ def scrap_springler(request, path):
 
     # Set up the WebDriver (Chrome)
     options = Options()
-    options.add_argument('--headless=new')
+    # options.add_argument('--headless=new')
     options.add_argument('--window-size=1920,1200')
     options.add_argument('--disable-extensions')
     options.add_argument('--ignore-certificate-errors')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
-    options.add_argument('--disable-gpu')
+    # options.add_argument('--no-sandbox')
+    # options.add_argument('--disable-dev-shm-usage')
+    # options.add_argument('--disable-gpu')
 
     driver = webdriver.Chrome(options=options)
 
@@ -53,6 +53,7 @@ def scrap_springler(request, path):
 
 # Function to extract data from a single result
 def extract_data(result):
+    print(result.get_attribute('innerHTML'))
     try:
         title = result.text.split('\n')[0]
         # title = result.find_element(By.XPATH, '//h3[@data-test="title"]').text
@@ -69,8 +70,10 @@ def extract_data(result):
     except:
         year = "N/A"
     try:
-        doi = result.find_element(By.XPATH, '//a[@data-track-action="view Article"]').get_attribute('href')
-        doi = doi.replace('link.springer.com/article', 'doi.org')
+        # doi = result.find_element(By.XPATH, '//a[@data-track-action="view Article"]').get_attribute('href')
+        doi = re.search(r'href="([^"]+)"', result.get_attribute('innerHTML')).group()
+        doi = doi.replace('href="/article', 'https://doi.org')
+        doi = doi.replace('"', '')
     except:
         doi = "N/A"
     return {
@@ -102,3 +105,7 @@ def scrape_all_pages(driver):
             break  # No more pages to scrape
     return data
 
+REQUEST = ('("Digital Twin" OR "Digital Twins") AND ("cyberattack" OR "cyberattacks" OR "cyber attack" OR "cyber '
+           'attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR '
+           '"cyber-physical systems" OR "cyber-physical systems")')
+scrap_springler(REQUEST, 'springer_link.json')
