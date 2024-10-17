@@ -53,7 +53,7 @@ def scrap_springler(request, path):
 
 # Function to extract data from a single result
 def extract_data(result):
-    print(result.get_attribute('innerHTML'))
+    # print(result.get_attribute('innerHTML'))
     try:
         title = result.text.split('\n')[0]
         # title = result.find_element(By.XPATH, '//h3[@data-test="title"]').text
@@ -105,7 +105,7 @@ def scrape_all_pages(driver):
             break  # No more pages to scrape
     return data
 
-REQUEST = ('("Digital Twin" OR "Digital Twins") AND ("cyberattack" OR "cyberattacks" OR "cyber attack" OR "cyber '
-           'attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR '
-           '"cyber-physical systems" OR "cyber-physical systems")')
-scrap_springler(REQUEST, 'springer_link.json')
+# REQUEST = ('("Digital Twin" OR "Digital Twins") AND ("cyberattack" OR "cyberattacks" OR "cyber attack" OR "cyber '
+#            'attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR '
+#            '"cyber-physical systems" OR "cyber-physical systems")')
+# scrap_springler(REQUEST, 'springer_link.json')
