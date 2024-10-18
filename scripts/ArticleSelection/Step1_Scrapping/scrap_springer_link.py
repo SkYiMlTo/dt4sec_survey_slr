@@ -73,7 +73,7 @@ def extract_data(result):
         # doi = result.find_element(By.XPATH, '//a[@data-track-action="view Article"]').get_attribute('href')
         doi = re.search(r'href="([^"]+)"', result.get_attribute('innerHTML')).group()
 
-        doi = "https://doi.org" + (lambda doi: doi[doi.find('10'):] if '10' in doi else doi)(doi)
+        doi = "https://doi.org/" + (lambda doi: doi[doi.find('10'):] if '10' in doi else doi)(doi)
 
         # doi = doi.replace('href="/article', 'https://doi.org')
         doi = doi.replace('"', '')
