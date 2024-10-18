@@ -76,7 +76,7 @@ def extract_data(result):
         doi = "https://doi.org" + (lambda doi: doi[doi.find('10'):] if '10' in doi else doi)(doi)
 
         # doi = doi.replace('href="/article', 'https://doi.org')
-        # doi = doi.replace('"', '')
+        doi = doi.replace('"', '')
     except:
         doi = "N/A"
     return {
