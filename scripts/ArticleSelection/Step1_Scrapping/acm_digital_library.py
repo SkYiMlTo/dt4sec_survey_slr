@@ -16,8 +16,9 @@ def scrap_acm_digital_library(request, path):
 
     driver = webdriver.Chrome(options=options)
 
-    driver.get(
-        "https://dl.acm.org/action/doSearch?AllField=%28%22Digital+Twin%22+OR+%22Digital+Twins%22%29+AND+%28%22cyber+attacks%22+OR+%22cybersecurity%22+OR+%22cyber-security%22%29+AND+%28%22internet+of+things%22+OR+%22IoT%22+OR+%22CPS%22+OR+%22cyber-physical+systems%22+OR+%22cyber-physical+systems%22%29&startPage=0&pageSize=50")
+    # driver.get("https://dl.acm.org/action/doSearch?AllField=%28%22Digital+Twin%22+OR+%22Digital+Twins%22%29+AND+%28%22cyber+attacks%22+OR+%22cybersecurity%22+OR+%22cyber-security%22%29+AND+%28%22internet+of+things%22+OR+%22IoT%22+OR+%22CPS%22+OR+%22cyber-physical+systems%22+OR+%22cyber-physical+systems%22%29&startPage=0&pageSize=50")
+    driver.get("https://dl.acm.org/action/doSearch?AllField=" + request + "&startPage=0&pageSize=50")
+
     time.sleep(2)
     try:
         close_popup = driver.find_element(By.ID, "CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll")
