@@ -26,13 +26,13 @@ This tool gather data from a request and summarize the results following these s
     Then duplicates are removed from the data collected.
     All the JSONs are parsed, and we only keep one instance of every item gathered.<br /><br />
 
-3. Aggregate data
-
-    Since all data is ready to be merged, it is gathered in a [CSV file](#structure-of-files-generated).<br /><br />
-    
-4. Remove item without DOIs
+3. Remove item without DOIs
 
     To ensure the quality of the data gathered we then remove items without a [DOI](https://www.doi.org/).<br /><br />
+
+4. Aggregate data
+
+    Since all data is ready to be merged, it is gathered in a [CSV file](#structure-of-files-generated).<br /><br />
 
 5. Generate graphs
 
@@ -139,7 +139,7 @@ Here is the architecture of each article in the JSON files :
 Here is the architecture of each article in the CSV files :
 
 ```csv
-title, publicationYear, doi, authors, source
+title, authors, publicationYear, doi, source
 ```
 
 All the names are self-explanatory, except source.
