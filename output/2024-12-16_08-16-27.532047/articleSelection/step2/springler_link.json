@@ -1,0 +1,106 @@
+[
+    {
+        "title": "Article",
+        "authors": [
+            {
+                "lastName": "Maloth Sagar"
+            },
+            {
+                "lastName": "C. Vanmathi"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=#icon-eds-i-limited-access",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Chapter",
+        "authors": [
+            {
+                "lastName": "Peter Gorm Larsen"
+            },
+            {
+                "lastName": "John Fitzgerald"
+            },
+            {
+                "lastName": "Cláudio Gomes"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=#icon-eds-i-limited-access",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Conference paper",
+        "authors": [
+            {
+                "lastName": "Radha Seelaboyina"
+            },
+            {
+                "lastName": "Sai Prakash Chary Vadla"
+            },
+            {
+                "lastName": "... Veena Vani Pedduri"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=#icon-eds-i-limited-access",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Reference work entry",
+        "authors": [
+            {
+                "lastName": "Nastaran Jadidi"
+            },
+            {
+                "lastName": "Mohsen Varmazyar"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=#icon-eds-i-limited-access",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Living reference work entry",
+        "authors": [
+            {
+                "lastName": "Federica Pascucci"
+            }
+        ],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/10.1007/978-3-642-27739-9_1724-2",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Reinforcing Cyber Security of Critical Infrastructures through Digital Twins",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=/collections/jeddaggegb",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Book",
+        "authors": [
+            {
+                "lastName": "Samuel D. Okegbile"
+            },
+            {
+                "lastName": "Jun Cai"
+            },
+            {
+                "lastName": "Changyan Yi"
+            }
+        ],
+        "publicationYear": "2022",
+        "doi": "https://doi.org/href=#icon-eds-i-limited-access",
+        "source": "https://link.springer.com/"
+    },
+    {
+        "title": "Data Science and Advanced Analytics in Cyber Security",
+        "authors": [],
+        "publicationYear": "2024",
+        "doi": "https://doi.org/href=/collections/cibcjfcjfd",
+        "source": "https://link.springer.com/"
+    }
+]
