@@ -1,0 +1,252 @@
+name: "SLR — Weekly Academic Database Scraper"
+
+# ── Triggers ────────────────────────────────────────────────────────────────
+on:
+  schedule:
+    # Every Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+  # Manual trigger from the Actions UI
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run in dry-run mode (mock data, no live scraping)"
+        required: false
+        default: "false"
+        type: boolean
+      log_level:
+        description: "Log verbosity"
+        required: false
+        default: "INFO"
+        type: choice
+        options: ["DEBUG", "INFO", "WARNING"]
+
+# ── Permissions ──────────────────────────────────────────────────────────────
+permissions:
+  contents: write  # needed to commit & push output back to the repo
+
+# ── Concurrency ──────────────────────────────────────────────────────────────
+# Prevent overlapping runs (e.g. manual + scheduled fire at the same time)
+concurrency:
+  group: slr-pipeline
+  cancel-in-progress: false
+
+# ── Environment ──────────────────────────────────────────────────────────────
+env:
+  PYTHON_VERSION: "3.12"
+  OUTPUT_DIR: "./output"
+
+jobs:
+  scrape:
+    name: "Run SLR Pipeline"
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # abort if pipeline hangs
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: "Set up Python ${{ env.PYTHON_VERSION }}"
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      # ── 3. Dependency cache ──────────────────────────────────────────────
+      - name: "Cache pip dependencies"
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # ── 4. Install Python dependencies ───────────────────────────────────
+      - name: "Install Python dependencies"
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 5. Install Chrome + ChromeDriver + Xvfb ─────────────────────────
+      - name: "Set up Chrome browser"
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: "Install Xvfb for headless display"
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y xvfb
+
+      - name: "Verify Chrome installation"
+        run: |
+          google-chrome --version
+          chromedriver --version
+
+      # ── 6. Run unit tests before scraping ────────────────────────────────
+      - name: "Run unit tests"
+        run: |
+          pip install pytest pytest-cov
+          pytest tests/ -v --tb=short --cov=slr --cov=utils \
+            --cov-report=term-missing \
+            --cov-report=xml:coverage.xml
+        continue-on-error: false
+
+      # ── 7. Upload test coverage ───────────────────────────────────────────
+      - name: "Upload test coverage report"
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: "test-coverage-${{ github.run_id }}"
+          path: coverage.xml
+          retention-days: 30
+
+      # ── 8. Execute the SLR pipeline ──────────────────────────────────────
+      - name: "Execute SLR pipeline"
+        env:
+          # API keys from GitHub repository secrets
+          # Set these in: Settings → Secrets and variables → Actions
+          IEEE_API_KEY: ${{ secrets.IEEE_API_KEY }}
+          SPRINGER_API_KEY: ${{ secrets.SPRINGER_API_KEY }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          # Virtual display for Selenium
+          DISPLAY: ":99"
+        run: |
+          # Start virtual display for Selenium
+          Xvfb :99 -screen 0 1920x1080x24 &
+          sleep 2
+
+          # Build the pipeline command
+          DRY_RUN_FLAG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN_FLAG="--dry-run"
+          fi
+
+          LOG_LEVEL="${{ github.event.inputs.log_level }}"
+          if [ -z "$LOG_LEVEL" ]; then
+            LOG_LEVEL="INFO"
+          fi
+
+          python run.py \
+            $DRY_RUN_FLAG \
+            --output-dir "${{ env.OUTPUT_DIR }}" \
+            --log-level "$LOG_LEVEL"
+
+      # ── 9. Find the latest output directory ──────────────────────────────
+      - name: "Locate output artifacts"
+        id: locate_output
+        run: |
+          LATEST_RUN=$(ls -td ${{ env.OUTPUT_DIR }}/*/ | head -1)
+          echo "latest_run=$LATEST_RUN" >> $GITHUB_OUTPUT
+          echo "Latest run directory: $LATEST_RUN"
+          echo ""
+          echo "=== Output files ==="
+          find "$LATEST_RUN" -type f | sort
+          echo ""
+          echo "=== Step 1 Raw article counts ==="
+          for f in "$LATEST_RUN"/articleSelection/step1_raw/*.json; do
+            COUNT=$(python -c "import json; print(len(json.load(open('$f'))))")
+            echo "  $(basename $f): $COUNT articles"
+          done
+
+      # ── 10. Upload raw data artifact ────────────────────────────────────
+      - name: "Upload raw JSON data"
+        uses: actions/upload-artifact@v4
+        with:
+          name: "slr-raw-data-${{ github.run_id }}"
+          path: |
+            ${{ steps.locate_output.outputs.latest_run }}/articleSelection/step1_raw/*.json
+          retention-days: 90
+
+      # ── 11. Upload dataset artifact ─────────────────────────────────────
+      - name: "Upload dataset (CSV + Excel)"
+        uses: actions/upload-artifact@v4
+        with:
+          name: "slr-dataset-${{ github.run_id }}"
+          path: |
+            ${{ steps.locate_output.outputs.latest_run }}/**/*.csv
+            ${{ steps.locate_output.outputs.latest_run }}/**/*.xlsx
+          retention-days: 90
+
+      # ── 12. Upload charts artifact ──────────────────────────────────────
+      - name: "Upload visualisation charts"
+        uses: actions/upload-artifact@v4
+        with:
+          name: "slr-charts-${{ github.run_id }}"
+          path: |
+            ${{ steps.locate_output.outputs.latest_run }}/**/*.png
+          retention-days: 90
+
+      # ── 13. Upload full log ─────────────────────────────────────────────
+      - name: "Upload pipeline log"
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: "slr-logs-${{ github.run_id }}"
+          path: |
+            ${{ steps.locate_output.outputs.latest_run }}/slr_pipeline.log
+            ${{ steps.locate_output.outputs.latest_run }}/slr_pipeline.jsonl
+          retention-days: 30
+
+      # ── 14. Commit & push results back to the repo ─────────────────────
+      - name: "Commit and push output"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the output directory
+          git add ./output
+
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            ARTICLE_COUNT=""
+            CSV_FILE=$(find "${{ env.OUTPUT_DIR }}" -name "articles_final.csv" 2>/dev/null | head -1)
+            if [ -f "$CSV_FILE" ]; then
+              ARTICLE_COUNT=$(tail -n +2 "$CSV_FILE" | wc -l)
+            fi
+
+            git commit -m "Weekly SLR update — $ARTICLE_COUNT articles [skip ci]"
+            git push
+            echo "Results committed and pushed."
+          fi
+
+      # ── 15. Print summary to the Actions job summary ────────────────────
+      - name: "Write job summary"
+        if: always()
+        run: |
+          echo "## SLR Pipeline Run Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Run ID**: \`${{ github.run_id }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Trigger**: \`${{ github.event_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Dry-run**: \`${{ github.event.inputs.dry_run || 'false' }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # Per-source article counts
+          LATEST_RUN="${{ steps.locate_output.outputs.latest_run }}"
+          if [ -d "$LATEST_RUN/articleSelection/step1_raw" ]; then
+            echo "### Step 1 — Raw Articles per Source" >> $GITHUB_STEP_SUMMARY
+            echo "| Source | Articles |" >> $GITHUB_STEP_SUMMARY
+            echo "|--------|----------|" >> $GITHUB_STEP_SUMMARY
+            for f in "$LATEST_RUN"/articleSelection/step1_raw/*.json; do
+              NAME=$(basename "$f" .json)
+              COUNT=$(python -c "import json; print(len(json.load(open('$f'))))")
+              echo "| $NAME | $COUNT |" >> $GITHUB_STEP_SUMMARY
+            done
+            echo "" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          # Final article count from CSV
+          CSV_FILE=$(find "${{ env.OUTPUT_DIR }}" -name "articles_final.csv" 2>/dev/null | head -1)
+          if [ -f "$CSV_FILE" ]; then
+            COUNT=$(tail -n +2 "$CSV_FILE" | wc -l)
+            echo "**Articles in final dataset**: \`$COUNT\`" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Output Files" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            find "${{ env.OUTPUT_DIR }}" -type f | sort >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "> ⚠️ No CSV output found — check pipeline logs." >> $GITHUB_STEP_SUMMARY
+          fi

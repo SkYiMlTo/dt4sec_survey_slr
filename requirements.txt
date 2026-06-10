@@ -1,4 +1,28 @@
+# SLR Pipeline — Required Dependencies
+# =====================================
+# Pin major versions; allow patch updates for security fixes.
+
+# HTTP client with retry / backoff
 requests~=2.32.3
+
+# Selenium for browser-based extractors
 selenium~=4.22.0
-matplotlib~=3.9.0
+
+# Excel I/O
 openpyxl~=3.1.5
+
+# Data visualisation (headless / Agg backend)
+matplotlib~=3.9.0
+
+# Fuzzy string matching for deduplication
+rapidfuzz~=3.9.0
+
+# Structured / coloured logging (optional but recommended)
+rich~=13.7.0
+
+# ── Optional / CI tooling ────────────────────────────────────────────────────
+# Load .env files automatically for local development
+python-dotenv~=1.0.0
+
+# ── Test dependencies (install with: pip install -r requirements-dev.txt) ────
+# See requirements-dev.txt

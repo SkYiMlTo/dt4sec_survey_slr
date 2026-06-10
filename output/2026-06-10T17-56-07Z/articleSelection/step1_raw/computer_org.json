@@ -1,0 +1,5246 @@
+[
+  {
+    "title": "Cyber-Physical Systems and Digital Twins in the Industrial Internet of Things [Cyber-Physical Systems]",
+    "authors": [
+      {
+        "lastName": "Koulamas",
+        "fullName": "Christos Koulamas"
+      },
+      {
+        "lastName": "Kalogeras",
+        "fullName": "Athanasios Kalogeras"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1016/j.iotcps.2021.12.003",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin-based Anomaly Detection in Cyber-physical Systems",
+    "authors": [
+      {
+        "lastName": "Xu",
+        "fullName": "Qinghua Xu"
+      },
+      {
+        "lastName": "Ali",
+        "fullName": "Shaukat Ali"
+      },
+      {
+        "lastName": "Yue",
+        "fullName": "Tao Yue"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3450267.3450533",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards Cybersecurity of the Smart Grid Using Digital Twins",
+    "authors": [
+      {
+        "lastName": "Olivares-Rojas",
+        "fullName": "Juan C. Olivares-Rojas"
+      },
+      {
+        "lastName": "Reyes-Archundia",
+        "fullName": "Enrique Reyes-Archundia"
+      },
+      {
+        "lastName": "Gutiérrez-Gnecchi",
+        "fullName": "José A. Gutiérrez-Gnecchi"
+      },
+      {
+        "lastName": "Molina-Moreno",
+        "fullName": "Ismael Molina-Moreno"
+      },
+      {
+        "lastName": "Cerda-Jacobo",
+        "fullName": "Jaime Cerda-Jacobo"
+      },
+      {
+        "lastName": "Méndez-Patiño",
+        "fullName": "Arturo Méndez-Patiño"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mic.2021.3063674",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Taxonomy of Security and Defense Mechanisms in Digital Twins-based Cyber-Physical Systems",
+    "authors": [
+      {
+        "lastName": "Hussaini",
+        "fullName": "Adamu Hussaini"
+      },
+      {
+        "lastName": "Qian",
+        "fullName": "Cheng Qian"
+      },
+      {
+        "lastName": "Liao",
+        "fullName": "Weixian Liao"
+      },
+      {
+        "lastName": "Yu",
+        "fullName": "Wei Yu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ithings-greencom-cpscom-smartdata-cybermatics55523.2022.00112",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Building Digital Twins of Cyber Physical Systems With Metaverse for Industry 5.0 and Beyond",
+    "authors": [
+      {
+        "lastName": "Jagatheesaperumal",
+        "fullName": "Senthil Kumar Jagatheesaperumal"
+      },
+      {
+        "lastName": "Rahouti",
+        "fullName": "Mohamed Rahouti"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mitp.2022.3225064",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Digital Twin Runtime Verification Framework for Protecting Satellites Systems from Cyber Attacks",
+    "authors": [
+      {
+        "lastName": "Hóu",
+        "fullName": "Zhé Hóu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Qinyi Li"
+      },
+      {
+        "lastName": "Foo",
+        "fullName": "Ernest Foo"
+      },
+      {
+        "lastName": "Dong",
+        "fullName": "Jin Song Dong"
+      },
+      {
+        "lastName": "Souza",
+        "fullName": "Paulo de Souza"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iceccs54210.2022.00022",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Resilient Digital Twin Framework for Integrated Anomaly Detection, Classification, and Forensic Analysis in Dynamic Cyber-Physical Systems Under Adversarial Attacks",
+    "authors": [
+      {
+        "lastName": "Rana",
+        "fullName": "MD Masud Rana"
+      },
+      {
+        "lastName": "Lou",
+        "fullName": "Helen H. Lou"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/smartiot66867.2025.00048",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Security-Enhancing Digital Twins: Characteristics, Indicators, and Future Perspectives",
+    "authors": [
+      {
+        "lastName": "Eckhart",
+        "fullName": "Matthias Eckhart"
+      },
+      {
+        "lastName": "Ekelhart",
+        "fullName": "Andreas Ekelhart"
+      },
+      {
+        "lastName": "Allison",
+        "fullName": "David Allison"
+      },
+      {
+        "lastName": "Almgren",
+        "fullName": "Magnus Almgren"
+      },
+      {
+        "lastName": "Ceesay-Seitz",
+        "fullName": "Katharina Ceesay-Seitz"
+      },
+      {
+        "lastName": "Janicke",
+        "fullName": "Helge Janicke"
+      },
+      {
+        "lastName": "Nadjm-Tehrani",
+        "fullName": "Simin Nadjm-Tehrani"
+      },
+      {
+        "lastName": "Rashid",
+        "fullName": "Awais Rashid"
+      },
+      {
+        "lastName": "Yampolskiy",
+        "fullName": "Mark Yampolskiy"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/msec.2023.3271225",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Digital Twin Prototype for Product Lifecycle Data Management",
+    "authors": [
+      {
+        "lastName": "Schranz",
+        "fullName": "Christoph Schranz"
+      },
+      {
+        "lastName": "Strohmeier",
+        "fullName": "Felix Strohmeier"
+      },
+      {
+        "lastName": "Damjanovic-Behrendt",
+        "fullName": "Violeta Damjanovic-Behrendt"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/aiccsa50499.2020.9316506",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Digital Twin for the 5G Era: the SPIDER Cyber Range",
+    "authors": [
+      {
+        "lastName": "Rebecchi",
+        "fullName": "Filippo Rebecchi"
+      },
+      {
+        "lastName": "Pastor",
+        "fullName": "Antonio Pastor"
+      },
+      {
+        "lastName": "Mozo",
+        "fullName": "Alberto Mozo"
+      },
+      {
+        "lastName": "Lombardo",
+        "fullName": "Chiara Lombardo"
+      },
+      {
+        "lastName": "Bruschi",
+        "fullName": "Roberto Bruschi"
+      },
+      {
+        "lastName": "Aliferis",
+        "fullName": "Ilias Aliferis"
+      },
+      {
+        "lastName": "Doriguzzi-Corin",
+        "fullName": "Roberto Doriguzzi-Corin"
+      },
+      {
+        "lastName": "Gouvas",
+        "fullName": "Panagiotis Gouvas"
+      },
+      {
+        "lastName": "Romero",
+        "fullName": "Antonio Alvarez Romero"
+      },
+      {
+        "lastName": "Angelogianni",
+        "fullName": "Anna Angelogianni"
+      },
+      {
+        "lastName": "Politis",
+        "fullName": "Ilias Politis"
+      },
+      {
+        "lastName": "Xenakis",
+        "fullName": "Christos Xenakis"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/wowmom54355.2022.00088",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Literature Review on Blockchain-enabled Security and Operation of Cyber-Physical Systems",
+    "authors": [
+      {
+        "lastName": "Khalil",
+        "fullName": "Alvi Ataur Khalil"
+      },
+      {
+        "lastName": "Franco",
+        "fullName": "Javier Franco"
+      },
+      {
+        "lastName": "Parvez",
+        "fullName": "Imtiaz Parvez"
+      },
+      {
+        "lastName": "Uluagac",
+        "fullName": "Selcuk Uluagac"
+      },
+      {
+        "lastName": "Shahriar",
+        "fullName": "Hossain Shahriar"
+      },
+      {
+        "lastName": "Rahman",
+        "fullName": "Mohammad Ashiqur Rahman"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/compsac54236.2022.00282",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Attacks detection in Cyber-Physical Systems with Neural Networks: a case study",
+    "authors": [
+      {
+        "lastName": "Bernardeschi",
+        "fullName": "Cinzia Bernardeschi"
+      },
+      {
+        "lastName": "Dini",
+        "fullName": "Gianluca Dini"
+      },
+      {
+        "lastName": "Palmieri",
+        "fullName": "Maurizio Palmieri"
+      },
+      {
+        "lastName": "Vivani",
+        "fullName": "Alessio Vivani"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/iscc61673.2024.10733607",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Using Cyber Digital Twins for Automated Automotive Cybersecurity Testing",
+    "authors": [
+      {
+        "lastName": "Marksteiner",
+        "fullName": "Stefan Marksteiner"
+      },
+      {
+        "lastName": "Bronfman",
+        "fullName": "Slava Bronfman"
+      },
+      {
+        "lastName": "Wolf",
+        "fullName": "Markus Wolf"
+      },
+      {
+        "lastName": "Lazebnik",
+        "fullName": "Eddie Lazebnik"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/eurospw54576.2021.00020",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Anomaly Localization in Industrial Cyber-Physical Systems Via a Digital Twin-Driven Multi-Task Network",
+    "authors": [
+      {
+        "lastName": "Du",
+        "fullName": "Xin Du"
+      },
+      {
+        "lastName": "Zhou",
+        "fullName": "Chunjie Zhou"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Kunkun Wang"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/hpcc64274.2024.00152",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Special Issue on Digital Twins - Part 1",
+    "authors": [
+      {
+        "lastName": "Saracco",
+        "fullName": "Roberto Saracco"
+      },
+      {
+        "lastName": "Henz",
+        "fullName": "Patrick Henz"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mic.2021.3088318",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Survey of Digital Twin Healthcare Cybersecurity Implementation Methods",
+    "authors": [
+      {
+        "lastName": "Fogus",
+        "fullName": "William Fogus"
+      },
+      {
+        "lastName": "Song",
+        "fullName": "Yeong-Tae Song"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/sera65747.2025.11154549",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Artificial Intelligence Enabled Middleware for Distributed Cyberattacks Detection in IoT-based Smart Environments",
+    "authors": [
+      {
+        "lastName": "Bhandari",
+        "fullName": "Guru Prasad Bhandari"
+      },
+      {
+        "lastName": "Lyth",
+        "fullName": "Andreas Lyth"
+      },
+      {
+        "lastName": "Shalaginov",
+        "fullName": "Andrii Shalaginov"
+      },
+      {
+        "lastName": "Grønli",
+        "fullName": "Tor-Morten Grønli"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/bigdata55660.2022.10020531",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Service-Oriented Digital Twins Framework for Smart Grid Management",
+    "authors": [
+      {
+        "lastName": "Atalay",
+        "fullName": "Manolya Atalay"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/srmc57347.2022.00006",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Graph Learning for Cognitive Digital Twins in Manufacturing Systems",
+    "authors": [
+      {
+        "lastName": "Mortlock",
+        "fullName": "Trier Mortlock"
+      },
+      {
+        "lastName": "Muthirayan",
+        "fullName": "Deepan Muthirayan"
+      },
+      {
+        "lastName": "Yu",
+        "fullName": "Shih-Yuan Yu"
+      },
+      {
+        "lastName": "Khargonekar",
+        "fullName": "Pramod P. Khargonekar"
+      },
+      {
+        "lastName": "Faruque",
+        "fullName": "Mohammad Abdullah Al Faruque"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.3030/870130",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twins and the Future of Their Use Enabling Shift Left and Shift Right Cybersecurity Operations",
+    "authors": [
+      {
+        "lastName": "Mohsin",
+        "fullName": "Ahmad Mohsin"
+      },
+      {
+        "lastName": "Janicke",
+        "fullName": "Helge Janicke"
+      },
+      {
+        "lastName": "Nepal",
+        "fullName": "Surya Nepal"
+      },
+      {
+        "lastName": "Holmes",
+        "fullName": "David Holmes"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tps-isa58951.2023.00042",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Introduction to Digital Twin Engineering",
+    "authors": [
+      {
+        "lastName": "Feng",
+        "fullName": "Hao Feng"
+      },
+      {
+        "lastName": "Gomes",
+        "fullName": "Cláudio Gomes"
+      },
+      {
+        "lastName": "Thule",
+        "fullName": "Casper Thule"
+      },
+      {
+        "lastName": "Lausdahl",
+        "fullName": "Kenneth Lausdahl"
+      },
+      {
+        "lastName": "Iosifidis",
+        "fullName": "Alexandros Iosifidis"
+      },
+      {
+        "lastName": "Larsen",
+        "fullName": "Peter Gorm Larsen"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Developing the Factory of the Future Cybersecurity and Resilience",
+    "authors": [
+      {
+        "lastName": "Kotelba",
+        "fullName": "Adrian Kotelba"
+      },
+      {
+        "lastName": "Salonen",
+        "fullName": "Jarno Salonen"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/cncit56797.2022.00018",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Designing Secure and Resilient Cyber-Physical Systems: A Model-Based Moving Target Defense Approach",
+    "authors": [
+      {
+        "lastName": "Casola",
+        "fullName": "Valentina Casola"
+      },
+      {
+        "lastName": "Benedictis",
+        "fullName": "Alessandra De Benedictis"
+      },
+      {
+        "lastName": "Mazzocca",
+        "fullName": "Carlo Mazzocca"
+      },
+      {
+        "lastName": "Montanari",
+        "fullName": "Rebecca Montanari"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tetc.2022.3197464",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Privacy and Security Issues for Human Digital Twins",
+    "authors": [
+      {
+        "lastName": "Sirigu",
+        "fullName": "Giorgia Sirigu"
+      },
+      {
+        "lastName": "Carminati",
+        "fullName": "Barbara Carminati"
+      },
+      {
+        "lastName": "Ferrari",
+        "fullName": "Elena Ferrari"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/tps-isa56441.2022.00011",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Edge Centric Secure Data Sharing with Digital Twins in Smart Ecosystems",
+    "authors": [
+      {
+        "lastName": "Cathey",
+        "fullName": "Glen Cathey"
+      },
+      {
+        "lastName": "Benson",
+        "fullName": "James Benson"
+      },
+      {
+        "lastName": "Gupta",
+        "fullName": "Maanak Gupta"
+      },
+      {
+        "lastName": "Sandhu",
+        "fullName": "Ravi Sandhu"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/tpsisa52974.2021.00008",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin-based Intrusion Detection for Industrial Control Systems",
+    "authors": [
+      {
+        "lastName": "Varghese",
+        "fullName": "Seba Anna Varghese"
+      },
+      {
+        "lastName": "Ghadim",
+        "fullName": "Alireza Dehlaghi Ghadim"
+      },
+      {
+        "lastName": "Balador",
+        "fullName": "Ali Balador"
+      },
+      {
+        "lastName": "Alimadadi",
+        "fullName": "Zahra Alimadadi"
+      },
+      {
+        "lastName": "Papadimitratos",
+        "fullName": "Panos Papadimitratos"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.70675/214596c5ze697z40d6zaaecz9ef6f6eb3cee",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twins for Industrial Control Systems Security",
+    "authors": [
+      {
+        "lastName": "Francia",
+        "fullName": "Guillermo Francia"
+      },
+      {
+        "lastName": "Hall",
+        "fullName": "Gregory Hall"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/csci54926.2021.00029",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "On the Effectiveness of Recurrent Neural Networks for Live Modeling of Cyber-Physical Systems",
+    "authors": [
+      {
+        "lastName": "Yoginath",
+        "fullName": "Srikanth Yoginath"
+      },
+      {
+        "lastName": "Tansakul",
+        "fullName": "Varisara Tansakul"
+      },
+      {
+        "lastName": "Chinthavali",
+        "fullName": "Supriya Chinthavali"
+      },
+      {
+        "lastName": "Taylor",
+        "fullName": "Curtis Taylor"
+      },
+      {
+        "lastName": "Hambrick",
+        "fullName": "Joshua Hambrick"
+      },
+      {
+        "lastName": "Irminger",
+        "fullName": "Philip Irminger"
+      },
+      {
+        "lastName": "Perumalla",
+        "fullName": "Kalyan Perumalla"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/icii.2019.00062",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "RIPOSTE: A Collaborative Cyber Attack Response Framework for Automotive Systems",
+    "authors": [
+      {
+        "lastName": "Jolak",
+        "fullName": "Rodi Jolak"
+      },
+      {
+        "lastName": "Rosenstatter",
+        "fullName": "Thomas Rosenstatter"
+      },
+      {
+        "lastName": "Aldaghistani",
+        "fullName": "Saif Aldaghistani"
+      },
+      {
+        "lastName": "Scandariato",
+        "fullName": "Riccardo Scandariato"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/seaa56994.2022.00062",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "LiDiTE: A Full-Fledged and Featherweight Digital Twin Framework",
+    "authors": [
+      {
+        "lastName": "Russo",
+        "fullName": "Enrico Russo"
+      },
+      {
+        "lastName": "Costa",
+        "fullName": "Gabriele Costa"
+      },
+      {
+        "lastName": "Longo",
+        "fullName": "Giacomo Longo"
+      },
+      {
+        "lastName": "Armando",
+        "fullName": "Alessandro Armando"
+      },
+      {
+        "lastName": "Merlo",
+        "fullName": "Alessio Merlo"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tdsc.2023.3236798",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Game-Theoretic Approach to Secure Estimation and Control for Cyber-Physical Systems with a Digital Twin",
+    "authors": [
+      {
+        "lastName": "Xu",
+        "fullName": "Zhiheng Xu"
+      },
+      {
+        "lastName": "Easwaran",
+        "fullName": "Arvind Easwaran"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/iccps48487.2020.00010",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Harnessing Digital Twin Security Simulations for systematic Cyber Threat Intelligence",
+    "authors": [
+      {
+        "lastName": "Dietz",
+        "fullName": "Marietheres Dietz"
+      },
+      {
+        "lastName": "Schlette",
+        "fullName": "Daniel Schlette"
+      },
+      {
+        "lastName": "Pernul",
+        "fullName": "Günther Pernul"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/compsac54236.2022.00129",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Process Prediction with Digital Twins",
+    "authors": [
+      {
+        "lastName": "Brockhoff",
+        "fullName": "Tobias Brockhoff"
+      },
+      {
+        "lastName": "Heithoff",
+        "fullName": "Malte Heithoff"
+      },
+      {
+        "lastName": "Koren",
+        "fullName": "István Koren"
+      },
+      {
+        "lastName": "Michael",
+        "fullName": "Judith Michael"
+      },
+      {
+        "lastName": "Pfeiffer",
+        "fullName": "Jérôme Pfeiffer"
+      },
+      {
+        "lastName": "Rumpe",
+        "fullName": "Bernhard Rumpe"
+      },
+      {
+        "lastName": "Uysal",
+        "fullName": "Merih Seran Uysal"
+      },
+      {
+        "lastName": "Aalst",
+        "fullName": "Wil M. P. Van Der Aalst"
+      },
+      {
+        "lastName": "Wortmann",
+        "fullName": "Andreas Wortmann"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin Based Asynchronous Federated Learning Enabled IDS for False Data Injection Attacks in Vehicular CPS",
+    "authors": [
+      {
+        "lastName": "Safavat",
+        "fullName": "Sunitha Safavat"
+      },
+      {
+        "lastName": "Rawat",
+        "fullName": "Danda B. Rawat"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/iccsm63823.2024.00012",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Zero Trust Architecture and Digital Twin to Improve the Cybersecurity Posture of Distributed Smart Factory Environments",
+    "authors": [
+      {
+        "lastName": "Fogli",
+        "fullName": "Mattia Fogli"
+      },
+      {
+        "lastName": "Giannelli",
+        "fullName": "Carlo Giannelli"
+      },
+      {
+        "lastName": "Mari",
+        "fullName": "Elena Mari"
+      },
+      {
+        "lastName": "Stefanelli",
+        "fullName": "Cesare Stefanelli"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/dcoss-iot65416.2025.00115",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Trusting Digital Twins",
+    "authors": [
+      {
+        "lastName": "Laplante",
+        "fullName": "Phil Laplante"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mc.2022.3149448",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin in the Military Field",
+    "authors": [
+      {
+        "lastName": "Mendi",
+        "fullName": "Arif Furkan Mendi"
+      },
+      {
+        "lastName": "Erol",
+        "fullName": "Tolga Erol"
+      },
+      {
+        "lastName": "Doğan",
+        "fullName": "Dilara Doğan"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin in Safety-Critical Robotics Applications: Opportunities and Challenges",
+    "authors": [
+      {
+        "lastName": "Baidya",
+        "fullName": "Sabur Baidya"
+      },
+      {
+        "lastName": "Das",
+        "fullName": "Sumit K. Das"
+      },
+      {
+        "lastName": "Uddin",
+        "fullName": "Mohammad Helal Uddin"
+      },
+      {
+        "lastName": "Kosek",
+        "fullName": "Chase Kosek"
+      },
+      {
+        "lastName": "Summers",
+        "fullName": "Chris Summers"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ipccc55026.2022.9894313",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Empowering Citizens With Digital Twins: A Blueprint",
+    "authors": [
+      {
+        "lastName": "Kopponen",
+        "fullName": "Aleksi Kopponen"
+      },
+      {
+        "lastName": "Hahto",
+        "fullName": "Antti Hahto"
+      },
+      {
+        "lastName": "Kettunen",
+        "fullName": "Petri Kettunen"
+      },
+      {
+        "lastName": "Mikkonen",
+        "fullName": "Tommi Mikkonen"
+      },
+      {
+        "lastName": "Makitalo",
+        "fullName": "Niko Makitalo"
+      },
+      {
+        "lastName": "Nurmi",
+        "fullName": "Jarkko Nurmi"
+      },
+      {
+        "lastName": "Rossi",
+        "fullName": "Matti Rossi"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mic.2022.3159683",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Security Compliance for Smart Manufacturing Using Knowledgegraph Based Digital Twin",
+    "authors": [
+      {
+        "lastName": "Tamboli",
+        "fullName": "Javed Tamboli"
+      },
+      {
+        "lastName": "Joshi",
+        "fullName": "Karuna Pande Joshi"
+      },
+      {
+        "lastName": "Clark",
+        "fullName": "Ommo Clark"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/bigdata66926.2025.11402304",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber-Physical Cloud Manufacturing Systems With Digital Twins",
+    "authors": [
+      {
+        "lastName": "Nguyen",
+        "fullName": "Tu N. Nguyen"
+      },
+      {
+        "lastName": "Zeadally",
+        "fullName": "Sherali Zeadally"
+      },
+      {
+        "lastName": "Vuduthala",
+        "fullName": "Abhijith B. Vuduthala"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mic.2021.3058921",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Holistic Technologies for Managing Internet of Things Services",
+    "authors": [
+      {
+        "lastName": "Ranjan",
+        "fullName": "Rajiv Ranjan"
+      },
+      {
+        "lastName": "Hsu",
+        "fullName": "Ching-Hsien Hsu"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Lydia Y. Chen"
+      },
+      {
+        "lastName": "Georgakopoulos",
+        "fullName": "Dimitrios Georgakopoulos"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/tsc.2020.3000844",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Leveraging Digital Twins for ON/OFF-LINE Blockchain Networks: A Resilient Framework for Drone and IoT Communication",
+    "authors": [
+      {
+        "lastName": "Park",
+        "fullName": "SeongSu Park"
+      },
+      {
+        "lastName": "Kim",
+        "fullName": "Ki-Hyung Kim"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/icoin63865.2025.10992851",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Keynote Speaker: The Metaverse: AI-Powered Universe of Persistent Digital Twins",
+    "authors": [
+      {
+        "lastName": "Saddik",
+        "fullName": "Abdulmotaleb El Saddik"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/mipr59079.2023.00013",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Design of Electrical Safety Monitoring System for University Laboratories Based on Digital Twins",
+    "authors": [
+      {
+        "lastName": "Xu",
+        "fullName": "Yong Xu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Liangwang Li"
+      },
+      {
+        "lastName": "Tang",
+        "fullName": "Yuna Tang"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Zhiling Chen"
+      },
+      {
+        "lastName": "Chan",
+        "fullName": "Choon Kit Chan"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00100",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IoT Platform Based on Digital Twin Modeling and Multi-Source Information Fusion",
+    "authors": [
+      {
+        "lastName": "Gu",
+        "fullName": "Jiting Gu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iccsie56462.2022.00021",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IoTwins: Design and Implementation of a Platform for the Management of Digital Twins in Industrial Scenarios",
+    "authors": [
+      {
+        "lastName": "Borghesi",
+        "fullName": "Andrea Borghesi"
+      },
+      {
+        "lastName": "Modica",
+        "fullName": "Giuseppe Di Modica"
+      },
+      {
+        "lastName": "Bellavista",
+        "fullName": "Paolo Bellavista"
+      },
+      {
+        "lastName": "Gowtham",
+        "fullName": "Varun Gowtham"
+      },
+      {
+        "lastName": "Willner",
+        "fullName": "Alexander Willner"
+      },
+      {
+        "lastName": "Nehls",
+        "fullName": "Daniel Nehls"
+      },
+      {
+        "lastName": "Kintzler",
+        "fullName": "Florian Kintzler"
+      },
+      {
+        "lastName": "Cejka",
+        "fullName": "Stephan Cejka"
+      },
+      {
+        "lastName": "Tisbeni",
+        "fullName": "Simone Rossi Tisbeni"
+      },
+      {
+        "lastName": "Costantini",
+        "fullName": "Alessandro Costantini"
+      },
+      {
+        "lastName": "Galletti",
+        "fullName": "Matteo Galletti"
+      },
+      {
+        "lastName": "Antonacci",
+        "fullName": "Marica Antonacci"
+      },
+      {
+        "lastName": "Ahouangonou",
+        "fullName": "Jean Christian Ahouangonou"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.3030/857191",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Attributes Based Bayesian Unknown Hazards Assessment for Digital Twin Empowered Autonomous Driving",
+    "authors": [
+      {
+        "lastName": "Hou",
+        "fullName": "Zhonglin Hou"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Hong Liu"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Yan Zhang"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/hpcc-dss-smartcity-dependsys53884.2021.00137",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "The Convergence of Digital Twin Technology and Personal Healthcare",
+    "authors": [
+      {
+        "lastName": "Song",
+        "fullName": "Yeong-Tae Song"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/snpd-winter57765.2023.10223866",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "MTComm Based Virtualization and Integration of Physical Machine Operations with Digital-Twins in Cyber-Physical Manufacturing Cloud",
+    "authors": [
+      {
+        "lastName": "Shahriar",
+        "fullName": "Md Rakib Shahriar"
+      },
+      {
+        "lastName": "Sunny",
+        "fullName": "S M Nahian Al Sunny"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Xiaoqing Liu"
+      },
+      {
+        "lastName": "Leu",
+        "fullName": "Ming C. Leu"
+      },
+      {
+        "lastName": "Hu",
+        "fullName": "Liwen Hu"
+      },
+      {
+        "lastName": "Nguyen",
+        "fullName": "Ngoc-Tu Nguyen"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1109/cscloud/edgecom.2018.00018",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Skilled Agricultural Task Delivery by a Digital Twin",
+    "authors": [
+      {
+        "lastName": "Kaburlasos",
+        "fullName": "Vassilis G. Kaburlasos"
+      },
+      {
+        "lastName": "Lytridis",
+        "fullName": "Chris Lytridis"
+      },
+      {
+        "lastName": "Siavalas",
+        "fullName": "George Siavalas"
+      },
+      {
+        "lastName": "Tsakalidou",
+        "fullName": "Viktoria Nikoleta Tsakalidou"
+      },
+      {
+        "lastName": "Tsakmakis",
+        "fullName": "Christos Tsakmakis"
+      },
+      {
+        "lastName": "Kalathas",
+        "fullName": "Ioannis Kalathas"
+      },
+      {
+        "lastName": "Pachidis",
+        "fullName": "Theodore Pachidis"
+      },
+      {
+        "lastName": "Rantos",
+        "fullName": "Konstantinos Rantos"
+      },
+      {
+        "lastName": "Kalaboukas",
+        "fullName": "Kostas Kalaboukas"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/cai54212.2023.00159",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "OpenDT: A Reference Framework for Service Publication and Discovery using Remote Programmable Digital Twins",
+    "authors": [
+      {
+        "lastName": "Shahriar",
+        "fullName": "Md Rakib Shahriar"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Xiaoqing Frank Liu"
+      },
+      {
+        "lastName": "Rahman",
+        "fullName": "Md Mahfuzer Rahman"
+      },
+      {
+        "lastName": "Sunny",
+        "fullName": "S M Nahian Al Sunny"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/scc49832.2020.00024",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twins: From Conceptual Views to Industrial Applications in the Electrical Domain",
+    "authors": [
+      {
+        "lastName": "Serugendo",
+        "fullName": "Giovanna Di Marzo Serugendo"
+      },
+      {
+        "lastName": "Cutting-Decelle",
+        "fullName": "Anne-Françoise Cutting-Decelle"
+      },
+      {
+        "lastName": "Guise",
+        "fullName": "Laurent Guise"
+      },
+      {
+        "lastName": "Cormenier",
+        "fullName": "Thierry Cormenier"
+      },
+      {
+        "lastName": "Khan",
+        "fullName": "Imran Khan"
+      },
+      {
+        "lastName": "Hossenlopp",
+        "fullName": "Luc Hossenlopp"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mc.2022.3156847",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Research on Multi-Level 3D Visualization Monitoring Technology Based on Digital Twins",
+    "authors": [
+      {
+        "lastName": "Yong",
+        "fullName": "Chenchen Yong"
+      },
+      {
+        "lastName": "Gu",
+        "fullName": "Zhen Gu"
+      },
+      {
+        "lastName": "Zhou",
+        "fullName": "Lei Zhou"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Jingyue Zhang"
+      },
+      {
+        "lastName": "He",
+        "fullName": "Qing He"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Dawei Zhang"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00071",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Design of Farmland Meteorological Visualization Management System Based on Digital Twins",
+    "authors": [
+      {
+        "lastName": "Xu",
+        "fullName": "Yong Xu"
+      },
+      {
+        "lastName": "Lv",
+        "fullName": "Zhenqiang Lv"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Zhiling Chen"
+      },
+      {
+        "lastName": "Chan",
+        "fullName": "Choon Kit Chan"
+      },
+      {
+        "lastName": "Luo",
+        "fullName": "Kun Luo"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00135",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Visual Cybersecurity Collaboration and Incident Exchange in Multi-Stakeholder IoT Environments",
+    "authors": [
+      {
+        "lastName": "Zhao",
+        "fullName": "Hanning Zhao"
+      },
+      {
+        "lastName": "Silverajan",
+        "fullName": "Bilhanan Silverajan"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ithings-greencom-cpscom-smartdata-cybermatics55523.2022.00051",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Blockchain-Enabled Service Optimizations in Supply Chain Digital Twin",
+    "authors": [
+      {
+        "lastName": "Gai",
+        "fullName": "Keke Gai"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Yue Zhang"
+      },
+      {
+        "lastName": "Qiu",
+        "fullName": "Meikang Qiu"
+      },
+      {
+        "lastName": "Thuraisingham",
+        "fullName": "Bhavani Thuraisingham"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tsc.2022.3192166",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Co-simulated Digital Twin on the Network Edge: the case of platooning",
+    "authors": [
+      {
+        "lastName": "Palmieri",
+        "fullName": "Maurizio Palmieri"
+      },
+      {
+        "lastName": "Quadri",
+        "fullName": "Christian Quadri"
+      },
+      {
+        "lastName": "Fagiolini",
+        "fullName": "Adriano Fagiolini"
+      },
+      {
+        "lastName": "Rossi",
+        "fullName": "Gian Paolo Rossi"
+      },
+      {
+        "lastName": "Bernardeschi",
+        "fullName": "Cinzia Bernardeschi"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/wowmom54355.2022.00096",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Going to the Edge - Bringing Internet of Things and Artificial Intelligence Together",
+    "authors": [
+      {
+        "lastName": "Karner",
+        "fullName": "Michael Karner"
+      },
+      {
+        "lastName": "Hillebrand",
+        "fullName": "Joachim Hillebrand"
+      },
+      {
+        "lastName": "Klocker",
+        "fullName": "Manuela Klocker"
+      },
+      {
+        "lastName": "Sámano-Robles",
+        "fullName": "Ramiro Sámano-Robles"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1007/978-3-031-54049-3_1",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin Operational Platform for Connectivity and Accessibility using Flask Python",
+    "authors": [
+      {
+        "lastName": "Bonney",
+        "fullName": "Matthew S. Bonney"
+      },
+      {
+        "lastName": "Angelis",
+        "fullName": "Marco de Angelis"
+      },
+      {
+        "lastName": "Wagg",
+        "fullName": "David Wagg"
+      },
+      {
+        "lastName": "Borgo",
+        "fullName": "Mattia Dal Borgo"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/models-c53483.2021.00042",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Immersive Virtual Reality for Virtual and Digital Twins: A Literature Review to Identify State Of The Art and Perspectives",
+    "authors": [
+      {
+        "lastName": "Pirker",
+        "fullName": "Johanna Pirker"
+      },
+      {
+        "lastName": "Loria",
+        "fullName": "Enrica Loria"
+      },
+      {
+        "lastName": "Safikhani",
+        "fullName": "Saeed Safikhani"
+      },
+      {
+        "lastName": "Künz",
+        "fullName": "Andreas Künz"
+      },
+      {
+        "lastName": "Rosmann",
+        "fullName": "Sabrina Rosmann"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/vrw55335.2022.00035",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Using a Cyber Digital Twin for Continuous Automotive Security Requirements Verification",
+    "authors": [
+      {
+        "lastName": "Silva",
+        "fullName": "Ana Cristina Franco da Silva"
+      },
+      {
+        "lastName": "Wagner",
+        "fullName": "Stefan Wagner"
+      },
+      {
+        "lastName": "Lazebnik",
+        "fullName": "Eddie Lazebnik"
+      },
+      {
+        "lastName": "Traitel",
+        "fullName": "Eyal Traitel"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/ms.2022.3171305",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Attacks Opportunities in the Cyber Physical Space and the Role of Cybersecurity",
+    "authors": [
+      {
+        "lastName": "Aggarwal",
+        "fullName": "Navansh Aggarwal"
+      },
+      {
+        "lastName": "Tripathi",
+        "fullName": "Bhawana Tripathi"
+      },
+      {
+        "lastName": "Chottani",
+        "fullName": "Diksha Chottani"
+      },
+      {
+        "lastName": "Tiwana",
+        "fullName": "Pardeep Singh Tiwana"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/iccmst54943.2021.00064",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Wireless Fire Safety Monitoring System Based on Digital Twin",
+    "authors": [
+      {
+        "lastName": "Qiang",
+        "fullName": "Jiaxuan Qiang"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00172",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin Based Trajectory Prediction for Platoons of Connected Intelligent Vehicles",
+    "authors": [
+      {
+        "lastName": "Du",
+        "fullName": "Hao Du"
+      },
+      {
+        "lastName": "Leng",
+        "fullName": "Supeng Leng"
+      },
+      {
+        "lastName": "He",
+        "fullName": "Jianhua He"
+      },
+      {
+        "lastName": "Zhou",
+        "fullName": "Longyu Zhou"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/icnp52444.2021.9651970",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Deep Learning Approach to Protecting Cultural Heritage Buildings Through IoT-Based Systems",
+    "authors": [
+      {
+        "lastName": "Casillo",
+        "fullName": "Mario Casillo"
+      },
+      {
+        "lastName": "Colace",
+        "fullName": "Francesco Colace"
+      },
+      {
+        "lastName": "Gupta",
+        "fullName": "Brij B. Gupta"
+      },
+      {
+        "lastName": "Lorusso",
+        "fullName": "Angelo Lorusso"
+      },
+      {
+        "lastName": "Marongiu",
+        "fullName": "Francesco Marongiu"
+      },
+      {
+        "lastName": "Santaniello",
+        "fullName": "Domenico Santaniello"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/smartcomp55677.2022.00063",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Deep Learning-Empowered Clinical Big Data Analytics in Healthcare Digital Twins",
+    "authors": [
+      {
+        "lastName": "Lv",
+        "fullName": "Zhihan Lv"
+      },
+      {
+        "lastName": "Guo",
+        "fullName": "Jinkang Guo"
+      },
+      {
+        "lastName": "Lv",
+        "fullName": "Haibin Lv"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tcbb.2023.3252668",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Blockchain-Based Cross-Domain and Autonomous Access Control Scheme for Internet of Things",
+    "authors": [
+      {
+        "lastName": "Hao",
+        "fullName": "Xiaohan Hao"
+      },
+      {
+        "lastName": "Ren",
+        "fullName": "Wei Ren"
+      },
+      {
+        "lastName": "Fei",
+        "fullName": "Yangyang Fei"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Tianqing Zhu"
+      },
+      {
+        "lastName": "Choo",
+        "fullName": "Kim-Kwang Raymond Choo"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/jiot.2024.3492279",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Smart-Farming Ontology for Attribute Based Access Control",
+    "authors": [
+      {
+        "lastName": "Chukkapalli",
+        "fullName": "Sai Sree Laya Chukkapalli"
+      },
+      {
+        "lastName": "Piplai",
+        "fullName": "Aritran Piplai"
+      },
+      {
+        "lastName": "Mittal",
+        "fullName": "Sudip Mittal"
+      },
+      {
+        "lastName": "Gupta",
+        "fullName": "Maanak Gupta"
+      },
+      {
+        "lastName": "Joshi",
+        "fullName": "Anupam Joshi"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/bigdatasecurity-hpsc-ids49724.2020.00017",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "An Industrial Control System Physical Testbed for Naval Defense Cybersecurity Research",
+    "authors": [
+      {
+        "lastName": "Sicard",
+        "fullName": "Franck Sicard"
+      },
+      {
+        "lastName": "Hotellier",
+        "fullName": "Estelle Hotellier"
+      },
+      {
+        "lastName": "Francq",
+        "fullName": "Julien Francq"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/eurospw55150.2022.00049",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Enabling Cybersecurity Incident Reporting and Coordinated Handling for Maritime Sector",
+    "authors": [
+      {
+        "lastName": "Silverajan",
+        "fullName": "Bilhanan Silverajan"
+      },
+      {
+        "lastName": "Vistiaho",
+        "fullName": "Petteri Vistiaho"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/asiajcis.2019.000-1",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber Digital Twin Simulator for Automatic Gathering and Prioritization of Security Controls’ Requirements",
+    "authors": [
+      {
+        "lastName": "Hadar",
+        "fullName": "Ethan Hadar"
+      },
+      {
+        "lastName": "Kravchenko",
+        "fullName": "Dmitry Kravchenko"
+      },
+      {
+        "lastName": "Basovskiy",
+        "fullName": "Alexander Basovskiy"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/re48521.2020.00035",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Big Data Analytics on Cyber Attack Graphs for Prioritizing Agile Security Requirements",
+    "authors": [
+      {
+        "lastName": "Hadar",
+        "fullName": "Ethan Hadar"
+      },
+      {
+        "lastName": "Hassanzadeh",
+        "fullName": "Amin Hassanzadeh"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/re.2019.00042",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Research on Fault Diagnosis of Electromechanical Equipment Based on Digital Twin Technology",
+    "authors": [
+      {
+        "lastName": "Yan",
+        "fullName": "Shan Yan"
+      },
+      {
+        "lastName": "Xiaomeng",
+        "fullName": "Zhang Xiaomeng"
+      },
+      {
+        "lastName": "Hongmin",
+        "fullName": "Han Hongmin"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00164",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin Networks: Learning Dynamic Network Behaviors from Network Flows",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Guozhi Lin"
+      },
+      {
+        "lastName": "Gel",
+        "fullName": "Jingguo Gel"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Yulei Wu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Hui Li"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Liangxiong Li"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iscc55528.2022.9912864",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Simulation and Digital Twin Support for Managed Drone Applications",
+    "authors": [
+      {
+        "lastName": "Grigoropoulos",
+        "fullName": "Nasos Grigoropoulos"
+      },
+      {
+        "lastName": "Lalis",
+        "fullName": "Spyros Lalis"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/ds-rt50469.2020.9213676",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Changing the Paradigm of Control System Cybersecurity",
+    "authors": [
+      {
+        "lastName": "Stephens",
+        "fullName": "Rob Stephens"
+      },
+      {
+        "lastName": "Miller",
+        "fullName": "Nadine Miller"
+      },
+      {
+        "lastName": "Weiss",
+        "fullName": "Joseph Weiss"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mc.2021.3138231",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Secure Asset Tracking in Manufacturing through Employing IOTA Distributed Ledger Technology",
+    "authors": [
+      {
+        "lastName": "Leivadaros",
+        "fullName": "Svoronos Leivadaros"
+      },
+      {
+        "lastName": "Kornaros",
+        "fullName": "George Kornaros"
+      },
+      {
+        "lastName": "Coppola",
+        "fullName": "Marcello Coppola"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/ccgrid51090.2021.00091",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Security Automation for Cloud-Based IoT Platforms",
+    "authors": [
+      {
+        "lastName": "Merzouki",
+        "fullName": "Mheni Merzouki"
+      },
+      {
+        "lastName": "Mahmoudi",
+        "fullName": "Charif Mahmoudi"
+      },
+      {
+        "lastName": "Bohn",
+        "fullName": "Robert Bohn"
+      },
+      {
+        "lastName": "Tunc",
+        "fullName": "Cihan Tunc"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1002/9781394377763.ch08",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Stochastic Digital-Twin Service Demand With Edge Response: An Incentive-Based Congestion Control Approach",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Xi Lin"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Jun Wu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Jianhua Li"
+      },
+      {
+        "lastName": "Yang",
+        "fullName": "Wu Yang"
+      },
+      {
+        "lastName": "Guizani",
+        "fullName": "Mohsen Guizani"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tmc.2021.3122013",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Threat Modelling of IoT Systems Using Distributed Ledger Technologies and IOTA",
+    "authors": [
+      {
+        "lastName": "Damianou",
+        "fullName": "Amalia Damianou"
+      },
+      {
+        "lastName": "Khan",
+        "fullName": "M. Amir Khan"
+      },
+      {
+        "lastName": "Angelopoulos",
+        "fullName": "Constantinos Marios Angelopoulos"
+      },
+      {
+        "lastName": "Katos",
+        "fullName": "Vasilios Katos"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/dcoss52077.2021.00070",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "The Scheme and System Architecture of Product Quality Inspection based on Software-Defined Edge Intelligent Controller (SD-EIC) in Industrial Internet of Things",
+    "authors": [
+      {
+        "lastName": "Hu",
+        "fullName": "Pengfei Hu"
+      },
+      {
+        "lastName": "He",
+        "fullName": "Chunming He"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Yiming Zhu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/smartiot55134.2022.00019",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Reference Architectures and Standards for the Internet of Things and Big Data in Smart Manufacturing",
+    "authors": [
+      {
+        "lastName": "Ünal",
+        "fullName": "Perin Ünal"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/ficloud.2019.00041",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Gotham Testbed: A Reproducible IoT Testbed for Security Experiments and Dataset Generation",
+    "authors": [
+      {
+        "lastName": "Sáez-de-Cámara",
+        "fullName": "Xabier Sáez-de-Cámara"
+      },
+      {
+        "lastName": "Flores",
+        "fullName": "Jose Luis Flores"
+      },
+      {
+        "lastName": "Arellano",
+        "fullName": "Cristóbal Arellano"
+      },
+      {
+        "lastName": "Urbieta",
+        "fullName": "Aitor Urbieta"
+      },
+      {
+        "lastName": "Zurutuza",
+        "fullName": "Urko Zurutuza"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tdsc.2023.3247166",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Side-Channel Analysis-Based Model Extraction on Intelligent CPS: An Information Theory Perspective",
+    "authors": [
+      {
+        "lastName": "Pan",
+        "fullName": "Qianqian Pan"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Jun Wu"
+      },
+      {
+        "lastName": "Lin",
+        "fullName": "Xi Lin"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Jianhua Li"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/ithings-greencom-cpscom-smartdata-cybermatics53846.2021.00050",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Building a Hardware-in-the-Loop (HiL) Digital Energy Station Infrastructure for Cyber Operation Resiliency Testing",
+    "authors": [
+      {
+        "lastName": "Jϕrgensen",
+        "fullName": "Per-Arne Jϕrgensen"
+      },
+      {
+        "lastName": "Waltoft-Olsen",
+        "fullName": "André Waltoft-Olsen"
+      },
+      {
+        "lastName": "Houmb",
+        "fullName": "Siv Hilde Houmb"
+      },
+      {
+        "lastName": "Toppe",
+        "fullName": "Aleksander Lygren Toppe"
+      },
+      {
+        "lastName": "Soltvedt",
+        "fullName": "Tore Geir Soltvedt"
+      },
+      {
+        "lastName": "Muggerud",
+        "fullName": "Hans Kristian Muggerud"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3524489.3527299",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "DRIVE: A Digital Network Oracle for Cooperative Intelligent Transportation Systems",
+    "authors": [
+      {
+        "lastName": "Mavromatis",
+        "fullName": "Ioannis Mavromatis"
+      },
+      {
+        "lastName": "Piechocki",
+        "fullName": "Robert J. Piechocki"
+      },
+      {
+        "lastName": "Sooriyabandara",
+        "fullName": "Mahesh Sooriyabandara"
+      },
+      {
+        "lastName": "Parekh",
+        "fullName": "Arjun Parekh"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/iscc50000.2020.9219683",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "SIRDAM4.0: A Support Infrastructure for Reliable Data Acquisition and Management in Industry 4.0",
+    "authors": [
+      {
+        "lastName": "Corradi",
+        "fullName": "Antonio Corradi"
+      },
+      {
+        "lastName": "Modica",
+        "fullName": "Giuseppe Di Modica"
+      },
+      {
+        "lastName": "Foschini",
+        "fullName": "Luca Foschini"
+      },
+      {
+        "lastName": "Patera",
+        "fullName": "Lorenzo Patera"
+      },
+      {
+        "lastName": "Solimando",
+        "fullName": "Michele Solimando"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/tetc.2021.3111974",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Grand Challenge: Applying Artificial Intelligence and Machine Learning to Cybersecurity",
+    "authors": [
+      {
+        "lastName": "Bresniker",
+        "fullName": "Kirk Bresniker"
+      },
+      {
+        "lastName": "Gavrilovska",
+        "fullName": "Ada Gavrilovska"
+      },
+      {
+        "lastName": "Holt",
+        "fullName": "James Holt"
+      },
+      {
+        "lastName": "Milojicic",
+        "fullName": "Dejan Milojicic"
+      },
+      {
+        "lastName": "Tran",
+        "fullName": "Trung Tran"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/mc.2019.2942584",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Metaverse in Education: Vision, Opportunities, and Challenges",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Hong Lin"
+      },
+      {
+        "lastName": "Wan",
+        "fullName": "Shicheng Wan"
+      },
+      {
+        "lastName": "Gan",
+        "fullName": "Wensheng Gan"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Jiahui Chen"
+      },
+      {
+        "lastName": "Chao",
+        "fullName": "Han-Chieh Chao"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.56294/mr202460",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "ELITE: An Intelligent Digital Twin-Based Hierarchical Routing Scheme for Softwarized Vehicular Networks",
+    "authors": [
+      {
+        "lastName": "Zhao",
+        "fullName": "Liang Zhao"
+      },
+      {
+        "lastName": "Bi",
+        "fullName": "Zhenguo Bi"
+      },
+      {
+        "lastName": "Hawbani",
+        "fullName": "Ammar Hawbani"
+      },
+      {
+        "lastName": "Yu",
+        "fullName": "Keping Yu"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Yan Zhang"
+      },
+      {
+        "lastName": "Guizani",
+        "fullName": "Mohsen Guizani"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tmc.2022.3179254",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Next Generation Financial Services: Role of Blockchain enabled Federated Learning and Metaverse",
+    "authors": [
+      {
+        "lastName": "Chatterjee",
+        "fullName": "Pushpita Chatterjee"
+      },
+      {
+        "lastName": "Das",
+        "fullName": "Debashis Das"
+      },
+      {
+        "lastName": "Rawat",
+        "fullName": "Danda B Rawat"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/ccgridw59191.2023.00025",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Digital-twin based Power Supply System Modeling and Analysis for Urban Rail Transportation",
+    "authors": [
+      {
+        "lastName": "Guo",
+        "fullName": "Jian Guo"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Xiaobo Wu"
+      },
+      {
+        "lastName": "Liang",
+        "fullName": "Hong Liang"
+      },
+      {
+        "lastName": "Hu",
+        "fullName": "Junfeng Hu"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Baoming Liu"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/icei49372.2020.00022",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber Resilience for the Internet of Things: Implementations With Resilience Engines and Attack Classifications",
+    "authors": [
+      {
+        "lastName": "Alvarenga",
+        "fullName": "Eduardo Alvarenga"
+      },
+      {
+        "lastName": "Brands",
+        "fullName": "Jan R. Brands"
+      },
+      {
+        "lastName": "Doliwa",
+        "fullName": "Peter Doliwa"
+      },
+      {
+        "lastName": "Hartog",
+        "fullName": "Jerry den Hartog"
+      },
+      {
+        "lastName": "Kraft",
+        "fullName": "Erik Kraft"
+      },
+      {
+        "lastName": "Medwed",
+        "fullName": "Marcel Medwed"
+      },
+      {
+        "lastName": "Nikov",
+        "fullName": "Ventzislav Nikov"
+      },
+      {
+        "lastName": "Renes",
+        "fullName": "Joost Renes"
+      },
+      {
+        "lastName": "Rosso",
+        "fullName": "Martin Rosso"
+      },
+      {
+        "lastName": "Schneider",
+        "fullName": "Tobias Schneider"
+      },
+      {
+        "lastName": "Veshchikov",
+        "fullName": "Nikita Veshchikov"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tetc.2022.3231692",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Assessment of a Method for Detecting Process Anomalies Using Digital-Twinning",
+    "authors": [
+      {
+        "lastName": "Sugumar",
+        "fullName": "Gayathri Sugumar"
+      },
+      {
+        "lastName": "Mathur",
+        "fullName": "Aditya Mathur"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/edcc.2019.00031",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Middleware for Digital Twin-Enabled Flying Network Simulations Using UBSim and UB-ANC",
+    "authors": [
+      {
+        "lastName": "Moorthy",
+        "fullName": "Sabarish Krishna Moorthy"
+      },
+      {
+        "lastName": "Harindranath",
+        "fullName": "Ankush Harindranath"
+      },
+      {
+        "lastName": "McManus",
+        "fullName": "Maxwell McManus"
+      },
+      {
+        "lastName": "Guan",
+        "fullName": "Zhangyu Guan"
+      },
+      {
+        "lastName": "Mastronarde",
+        "fullName": "Nicholas Mastronarde"
+      },
+      {
+        "lastName": "Bentley",
+        "fullName": "Elizabeth Serena Bentley"
+      },
+      {
+        "lastName": "Medley",
+        "fullName": "Michael Medley"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/dcoss54816.2022.00059",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Convergent Access Control to Enable Secure Smart Communities",
+    "authors": [
+      {
+        "lastName": "Bhatt",
+        "fullName": "Smriti Bhatt"
+      },
+      {
+        "lastName": "Sandhu",
+        "fullName": "Ravi Sandhu"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/tps-isa50397.2020.00029",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Dynamic Probabilistic Model Checking for Sensor Validation in Industry 4.0 Applications",
+    "authors": [
+      {
+        "lastName": "Xin",
+        "fullName": "Xin Xin"
+      },
+      {
+        "lastName": "Keoh",
+        "fullName": "Sye Loong Keoh"
+      },
+      {
+        "lastName": "Sevegnani",
+        "fullName": "Michele Sevegnani"
+      },
+      {
+        "lastName": "Saerbeck",
+        "fullName": "Martin Saerbeck"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/smartiot49966.2020.00016",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards Trustworthy Autonomous Systems: Taxonomies and Future Perspectives",
+    "authors": [
+      {
+        "lastName": "Flammini",
+        "fullName": "Francesco Flammini"
+      },
+      {
+        "lastName": "Alcaraz",
+        "fullName": "Cristina Alcaraz"
+      },
+      {
+        "lastName": "Bellini",
+        "fullName": "Emanuele Bellini"
+      },
+      {
+        "lastName": "Marrone",
+        "fullName": "Stefano Marrone"
+      },
+      {
+        "lastName": "Lopez",
+        "fullName": "Javier Lopez"
+      },
+      {
+        "lastName": "Bondavalli",
+        "fullName": "Andrea Bondavalli"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tetc.2022.3227113",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Real-Time Cosimulation Testbed for Electric Vehicle Charging and Smart Grid Security",
+    "authors": [
+      {
+        "lastName": "Sarieddine",
+        "fullName": "Khaled Sarieddine"
+      },
+      {
+        "lastName": "Sayed",
+        "fullName": "Mohammad Ali Sayed"
+      },
+      {
+        "lastName": "Jafarigiv",
+        "fullName": "Danial Jafarigiv"
+      },
+      {
+        "lastName": "Atallah",
+        "fullName": "Ribal Atallah"
+      },
+      {
+        "lastName": "Debbabi",
+        "fullName": "Mourad Debbabi"
+      },
+      {
+        "lastName": "Assi",
+        "fullName": "Chadi Assi"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/msec.2023.3247374",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "(Do Not) Trust in Ecosystems",
+    "authors": [
+      {
+        "lastName": "Cioroaica",
+        "fullName": "Emilia Cioroaica"
+      },
+      {
+        "lastName": "Kuhn",
+        "fullName": "Thomas Kuhn"
+      },
+      {
+        "lastName": "Buhnova",
+        "fullName": "Barbora Buhnova"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Industrial IoT and Advanced Analytics Framework: An Approach for the Mining Industry",
+    "authors": [
+      {
+        "lastName": "Moura",
+        "fullName": "Ralf Luis de Moura"
+      },
+      {
+        "lastName": "Ceotto",
+        "fullName": "Luciana de L. Farias Ceotto"
+      },
+      {
+        "lastName": "Gonzalez",
+        "fullName": "Alexandre Gonzalez"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1109/csci.2017.228",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "HCFL: A High Compression Approach for Communication-Efficient Federated Learning in Very Large Scale IoT Networks",
+    "authors": [
+      {
+        "lastName": "Nguyen",
+        "fullName": "Minh-Duong Nguyen"
+      },
+      {
+        "lastName": "Lee",
+        "fullName": "Sang-Min Lee"
+      },
+      {
+        "lastName": "Pham",
+        "fullName": "Quoc-Viet Pham"
+      },
+      {
+        "lastName": "Hoang",
+        "fullName": "Dinh Thai Hoang"
+      },
+      {
+        "lastName": "Nguyen",
+        "fullName": "Diep N. Nguyen"
+      },
+      {
+        "lastName": "Hwang",
+        "fullName": "Won-Joo Hwang"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tmc.2022.3190510",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Moonshot for Trustworthy Medical Software Updates Using Automated Insulin Delivery Systems as a Proving Ground",
+    "authors": [
+      {
+        "lastName": "Dykstra",
+        "fullName": "Josiah Dykstra"
+      },
+      {
+        "lastName": "Lantzy",
+        "fullName": "Shannon Lantzy"
+      },
+      {
+        "lastName": "Vasserman",
+        "fullName": "Eugene Y. Vasserman"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/acsacw69556.2025.00023",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Intrusion Detection in Binary Process Data: Introducing the Hamming-distance to Matrix Profiles",
+    "authors": [
+      {
+        "lastName": "Anton",
+        "fullName": "Simon D. Duque Anton"
+      },
+      {
+        "lastName": "Schotten",
+        "fullName": "Hans D. Schotten"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/wowmom49955.2020.00065",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Unleashing the Digital Twin's Potential for ICS Security",
+    "authors": [
+      {
+        "lastName": "Dietz",
+        "fullName": "Marietheres Dietz"
+      },
+      {
+        "lastName": "Pernul",
+        "fullName": "Gunther Pernul"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/msec.2019.2961650",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "SDCWorks: A Formal Framework for Software Defined Control of Smart Manufacturing Systems",
+    "authors": [
+      {
+        "lastName": "Potok",
+        "fullName": "Matthew Potok"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Chien-Ying Chen"
+      },
+      {
+        "lastName": "Mitra",
+        "fullName": "Sayan Mitra"
+      },
+      {
+        "lastName": "Mohan",
+        "fullName": "Sibin Mohan"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1109/iccps.2018.00017",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "DAOs & ADSs",
+    "authors": [
+      {
+        "lastName": "Wright",
+        "fullName": "Steven A. Wright"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/isads56919.2023.10091973",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "MIRAGE: Multi-Binary Image Risk Assessment With Attack Graph Employment",
+    "authors": [
+      {
+        "lastName": "Tayouri",
+        "fullName": "David Tayouri"
+      },
+      {
+        "lastName": "Nachum",
+        "fullName": "Telem Nachum"
+      },
+      {
+        "lastName": "Shabtai",
+        "fullName": "Asaf Shabtai"
+      }
+    ],
+    "publicationYear": "2026",
+    "doi": "10.1109/tdsc.2025.3626996",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Modelling Virtual Sensors for Indoor Environments with Machine Learning",
+    "authors": [
+      {
+        "lastName": "Polanski",
+        "fullName": "Dawid Marek Polanski"
+      },
+      {
+        "lastName": "Angelopoulos",
+        "fullName": "Constantinos Marios Angelopoulos"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/dcoss54816.2022.00046",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Technology Predictions",
+    "authors": [
+      {
+        "lastName": "Milojicic",
+        "fullName": "Dejan Milojicic"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Current Perspectives on Securing Critical Infrastructures’ Supply Chains",
+    "authors": [
+      {
+        "lastName": "Roman",
+        "fullName": "Rodrigo Roman"
+      },
+      {
+        "lastName": "Alcaraz",
+        "fullName": "Cristina Alcaraz"
+      },
+      {
+        "lastName": "Lopez",
+        "fullName": "Javier Lopez"
+      },
+      {
+        "lastName": "Sakurai",
+        "fullName": "Kouichi Sakurai"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/msec.2023.3247946",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Metaverse Security and Privacy: An Overview",
+    "authors": [
+      {
+        "lastName": "Chen",
+        "fullName": "Zefeng Chen"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Jiayang Wu"
+      },
+      {
+        "lastName": "Gan",
+        "fullName": "Wensheng Gan"
+      },
+      {
+        "lastName": "Qi",
+        "fullName": "Zhenlian Qi"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/icca66035.2025.11430790",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "INSpIRA: INtegrating Security Into Risk Assessment",
+    "authors": [
+      {
+        "lastName": "Dobaj",
+        "fullName": "Jürgen Dobaj"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1145/3194133.3194159",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Understanding and Fixing Complex Faults in Embedded Cyberphysical Systems",
+    "authors": [
+      {
+        "lastName": "Weiss",
+        "fullName": "Alexander Weiss"
+      },
+      {
+        "lastName": "Gautham",
+        "fullName": "Smitha Gautham"
+      },
+      {
+        "lastName": "Jayakumar",
+        "fullName": "Athira Varma Jayakumar"
+      },
+      {
+        "lastName": "Elks",
+        "fullName": "Carl R. Elks"
+      },
+      {
+        "lastName": "Kuhn",
+        "fullName": "D. Richard Kuhn"
+      },
+      {
+        "lastName": "Kacker",
+        "fullName": "Raghu N. Kacker"
+      },
+      {
+        "lastName": "Preusser",
+        "fullName": "Thomas B. Preusser"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/mc.2020.3029975",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Fusion of Building Information Modeling and Blockchain for Metaverse: A Survey",
+    "authors": [
+      {
+        "lastName": "Huang",
+        "fullName": "Huakun Huang"
+      },
+      {
+        "lastName": "Zeng",
+        "fullName": "Xiangbin Zeng"
+      },
+      {
+        "lastName": "Zhao",
+        "fullName": "Lingjun Zhao"
+      },
+      {
+        "lastName": "Qiu",
+        "fullName": "Chen Qiu"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Huijun Wu"
+      },
+      {
+        "lastName": "Fan",
+        "fullName": "Lisheng Fan"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ojcs.2022.3206494",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Keynotes",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Fully Decentralized Infrastructure for Subscription-based IoT Data Trading",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Ching-Hua Vivian Lin"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Ching-Chun Jim Huang"
+      },
+      {
+        "lastName": "Yuan",
+        "fullName": "Yang-Hao Yuan"
+      },
+      {
+        "lastName": "Yuan",
+        "fullName": "Zih-shiuan Spin Yuan"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/blockchain50366.2020.00027",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Detecting and Preventing Faked Mixed Reality",
+    "authors": [
+      {
+        "lastName": "Kilger",
+        "fullName": "Fabian Kilger"
+      },
+      {
+        "lastName": "Kabil",
+        "fullName": "Alexandre Kabil"
+      },
+      {
+        "lastName": "Tippmann",
+        "fullName": "Volker Tippmann"
+      },
+      {
+        "lastName": "Klinker",
+        "fullName": "Gudrun Klinker"
+      },
+      {
+        "lastName": "Pahl",
+        "fullName": "Marc-Oliver Pahl"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/mipr51284.2021.00074",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Privacy Preserving Anomaly Detection Framework for Cooperative Smart Farming Ecosystem",
+    "authors": [
+      {
+        "lastName": "Chukkapalli",
+        "fullName": "Sai Sree Laya Chukkapalli"
+      },
+      {
+        "lastName": "Ranade",
+        "fullName": "Priyanka Ranade"
+      },
+      {
+        "lastName": "Mittal",
+        "fullName": "Sudip Mittal"
+      },
+      {
+        "lastName": "Joshi",
+        "fullName": "Anupam Joshi"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/tpsisa52974.2021.00037",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Standardization: A Key Factor of Industry 4.0",
+    "authors": [
+      {
+        "lastName": "Villagrán",
+        "fullName": "Nancy Velásquez Villagrán"
+      },
+      {
+        "lastName": "Estevez",
+        "fullName": "Elsa Estevez"
+      },
+      {
+        "lastName": "Pesado",
+        "fullName": "Patricia Pesado"
+      },
+      {
+        "lastName": "Marquez",
+        "fullName": "Juan De Juanes Marquez"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Recent Advances in Cognitive Informatics and Cognitive Computing towards Autonomous Systems (Plenary Panel Report-II of IEEE ICCI*CC'22)",
+    "authors": [
+      {
+        "lastName": "Kinsner",
+        "fullName": "Witold Kinsner"
+      },
+      {
+        "lastName": "Kaynak",
+        "fullName": "Okyay Kaynak"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Haibin Zhu"
+      },
+      {
+        "lastName": "Hou",
+        "fullName": "Ming Hou"
+      },
+      {
+        "lastName": "Rayz",
+        "fullName": "Julia Rayz"
+      },
+      {
+        "lastName": "Gavrilova",
+        "fullName": "Marina Gavrilova"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Guoyin Wang"
+      },
+      {
+        "lastName": "Baciu",
+        "fullName": "George Baciu"
+      },
+      {
+        "lastName": "Peng",
+        "fullName": "Jun Peng"
+      },
+      {
+        "lastName": "Chan",
+        "fullName": "Christine W. Chan"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Runhe Huang"
+      },
+      {
+        "lastName": "Du",
+        "fullName": "Bowen Du"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iccicc57084.2022.10101660",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Establish a scientific concept of network security and build a strong defense line of network security",
+    "authors": [
+      {
+        "lastName": "Changxiang",
+        "fullName": "Shen Changxiang"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Lei Zhang"
+      },
+      {
+        "lastName": "Perry",
+        "fullName": "David M. Perry"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Guangyi Liu"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/cyberc49757.2020.00010",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Toward Smart Manufacturing: Key Technologies and Trends Driving Standardization",
+    "authors": [
+      {
+        "lastName": "Wei",
+        "fullName": "Sha Wei"
+      },
+      {
+        "lastName": "Ma",
+        "fullName": "Yuanye Ma"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Ruiqi Li"
+      },
+      {
+        "lastName": "Hu",
+        "fullName": "Lin Hu"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/mc.2020.2970821",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "FaultFlow: a tool supporting an MDE approach for Timed Failure Logic Analysis",
+    "authors": [
+      {
+        "lastName": "Parri",
+        "fullName": "Jacopo Parri"
+      },
+      {
+        "lastName": "Sampietro",
+        "fullName": "Samuele Sampietro"
+      },
+      {
+        "lastName": "Vicario",
+        "fullName": "Enrico Vicario"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/edcc53658.2021.00011",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Trusted, Verifiable and Differential Cyber Threat Intelligence Sharing Framework using Blockchain",
+    "authors": [
+      {
+        "lastName": "Dunnett",
+        "fullName": "Kealan Dunnett"
+      },
+      {
+        "lastName": "Pal",
+        "fullName": "Shantanu Pal"
+      },
+      {
+        "lastName": "Putra",
+        "fullName": "Guntur Dharma Putra"
+      },
+      {
+        "lastName": "Jadidi",
+        "fullName": "Zahra Jadidi"
+      },
+      {
+        "lastName": "Jurdak",
+        "fullName": "Raja Jurdak"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/trustcom56396.2022.00152",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards Model Co-evolution Across Self-Adaptation Steps for Combined Safety and Security Analysis",
+    "authors": [
+      {
+        "lastName": "Witte",
+        "fullName": "Thomas Witte"
+      },
+      {
+        "lastName": "Groner",
+        "fullName": "Raffaela Groner"
+      },
+      {
+        "lastName": "Raschke",
+        "fullName": "Alexander Raschke"
+      },
+      {
+        "lastName": "Tichy",
+        "fullName": "Matthias Tichy"
+      },
+      {
+        "lastName": "Pekaric",
+        "fullName": "Irdin Pekaric"
+      },
+      {
+        "lastName": "Felderer",
+        "fullName": "Michael Felderer"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3524844.3528062",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Cybercrime Investigations in the Era of Smart Applications: Way Forward Through Big Data",
+    "authors": [
+      {
+        "lastName": "Shalaginov",
+        "fullName": "Andrii Shalaginov"
+      },
+      {
+        "lastName": "Kotsiuba",
+        "fullName": "Igor Kotsiuba"
+      },
+      {
+        "lastName": "Iqbal",
+        "fullName": "Asif Iqbal"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/bigdata47090.2019.9006596",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Message from the Workshop Committee",
+    "authors": [],
+    "publicationYear": "2021",
+    "doi": "10.1109/austrochip.2016.007",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Special Session: Physics- Informed Neural Networks for Securing Water Distribution Systems",
+    "authors": [
+      {
+        "lastName": "Falas",
+        "fullName": "Solon Falas"
+      },
+      {
+        "lastName": "Konstantinou",
+        "fullName": "Charalambos Konstantinou"
+      },
+      {
+        "lastName": "Michael",
+        "fullName": "Maria K. Michael"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/iccd50377.2020.00022",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Software Services Engineering Manifesto - A Cross-Cutting Declaration",
+    "authors": [
+      {
+        "lastName": "Chang",
+        "fullName": "Carl K. Chang"
+      },
+      {
+        "lastName": "Ceravolo",
+        "fullName": "Paolo Ceravolo"
+      },
+      {
+        "lastName": "Chang",
+        "fullName": "Rong N. Chang"
+      },
+      {
+        "lastName": "Helal",
+        "fullName": "Sumi Helal"
+      },
+      {
+        "lastName": "Jin",
+        "fullName": "Zhi Jin"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Xuanzhe Liu"
+      },
+      {
+        "lastName": "Ming",
+        "fullName": "Hua Ming"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/icws53863.2021.00014",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards Extreme and Sustainable Graph Processing for Urgent Societal Challenges in Europe",
+    "authors": [
+      {
+        "lastName": "Prodan",
+        "fullName": "Radu Prodan"
+      },
+      {
+        "lastName": "Kimovski",
+        "fullName": "Dragi Kimovski"
+      },
+      {
+        "lastName": "Bartolini",
+        "fullName": "Andrea Bartolini"
+      },
+      {
+        "lastName": "Cochez",
+        "fullName": "Michael Cochez"
+      },
+      {
+        "lastName": "Iosup",
+        "fullName": "Alexandru Iosup"
+      },
+      {
+        "lastName": "Kharlamov",
+        "fullName": "Evgeny Kharlamov"
+      },
+      {
+        "lastName": "Rožanec",
+        "fullName": "Jože Rožanec"
+      },
+      {
+        "lastName": "Vasiliu",
+        "fullName": "Laurenţiu Vasiliu"
+      },
+      {
+        "lastName": "Vărbănescu",
+        "fullName": "Ana Lucia Vărbănescu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.3030/101093202",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Systems and Architectures",
+    "authors": [
+      {
+        "lastName": "Dukes",
+        "fullName": "Stephen Dukes"
+      },
+      {
+        "lastName": "Bresniker",
+        "fullName": "Kirk Bresniker"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A virtualization-based security architecture for industrial control systems",
+    "authors": [
+      {
+        "lastName": "Zhang",
+        "fullName": "Yuqiang Zhang"
+      },
+      {
+        "lastName": "Hao",
+        "fullName": "Zhiqiang Hao"
+      },
+      {
+        "lastName": "Hu",
+        "fullName": "Ning Hu"
+      },
+      {
+        "lastName": "Luo",
+        "fullName": "Jiawei Luo"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Chonghua Wang"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/dsc55868.2022.00020",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Visual Computing as a Key Enabling Technology for Industrie 4.0 and Industrial Internet",
+    "authors": [
+      {
+        "lastName": "Posada",
+        "fullName": "Jorge Posada"
+      },
+      {
+        "lastName": "Toro",
+        "fullName": "Carlos Toro"
+      },
+      {
+        "lastName": "Barandiaran",
+        "fullName": "Inigo Barandiaran"
+      },
+      {
+        "lastName": "Oyarzun",
+        "fullName": "David Oyarzun"
+      },
+      {
+        "lastName": "Stricker",
+        "fullName": "Didier Stricker"
+      },
+      {
+        "lastName": "Amicis",
+        "fullName": "Raffaele de Amicis"
+      },
+      {
+        "lastName": "Pinto",
+        "fullName": "Eduardo B. Pinto"
+      },
+      {
+        "lastName": "Eisert",
+        "fullName": "Peter Eisert"
+      },
+      {
+        "lastName": "Dollner",
+        "fullName": "Jurgen Dollner"
+      },
+      {
+        "lastName": "Vallarino",
+        "fullName": "Ivan Vallarino"
+      }
+    ],
+    "publicationYear": "2015",
+    "doi": "10.1109/mcg.2015.45",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Blockchain-Empowered Privacy-Preserving Digital Object Trading in the Metaverse",
+    "authors": [
+      {
+        "lastName": "Xiao",
+        "fullName": "Yao Xiao"
+      },
+      {
+        "lastName": "Xu",
+        "fullName": "Lei Xu"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Can Zhang"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Liehuang Zhu"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Yan Zhang"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/mmul.2023.3246528",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Study on the Synergistic Construction of Air-Ground Cooperative System and Unmanned Inspection System in the Energy Field",
+    "authors": [
+      {
+        "lastName": "Mu",
+        "fullName": "Bingxun Mu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Yunze Li"
+      },
+      {
+        "lastName": "Jiao",
+        "fullName": "Haojin Jiao"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1109/citsc64390.2025.00077",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Sensitive information protection in blockchain-based supply-chain management for aerospace",
+    "authors": [
+      {
+        "lastName": "Martintoni",
+        "fullName": "Davide Martintoni"
+      },
+      {
+        "lastName": "Senni",
+        "fullName": "Valerio Senni"
+      },
+      {
+        "lastName": "Marin",
+        "fullName": "Ernesto Gomez Marin"
+      },
+      {
+        "lastName": "Gutierrez",
+        "fullName": "Antonio Javier Cabrera Gutierrez"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/coins54846.2022.9854974",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Keynote Speakers",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1136/bmjstel-2019-heeconf.ks",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "The Future of IT Operational Technology Supply Chains",
+    "authors": [
+      {
+        "lastName": "Paulsen",
+        "fullName": "Celia Paulsen"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/mc.2019.2951979",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Research on Metaverse: Concept, development and standard system",
+    "authors": [
+      {
+        "lastName": "Wang",
+        "fullName": "Dianwei Wang"
+      },
+      {
+        "lastName": "Yan",
+        "fullName": "Xiaoge Yan"
+      },
+      {
+        "lastName": "Zhou",
+        "fullName": "Yang Zhou"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/cecit53797.2021.00176",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Shapley value-enhanced evaluation technique for effective aggregation in Federated Learning",
+    "authors": [
+      {
+        "lastName": "Salarbashishahri",
+        "fullName": "Mohammadreza Salarbashishahri"
+      },
+      {
+        "lastName": "Okegbile",
+        "fullName": "Samuel D. Okegbile"
+      },
+      {
+        "lastName": "Cai",
+        "fullName": "Jun Cai"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/fnwf55208.2022.00024",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Securing Critical Infrastructure Through Innovative Use Of Merged Hierarchical Deep Neural Networks",
+    "authors": [
+      {
+        "lastName": "Gupta",
+        "fullName": "Lav Gupta"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/pst52912.2021.9647771",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Reflections on Visualization Research Projects in the Manufacturing Industry",
+    "authors": [
+      {
+        "lastName": "Cibulski",
+        "fullName": "Lena Cibulski"
+      },
+      {
+        "lastName": "Schmidt",
+        "fullName": "Johanna Schmidt"
+      },
+      {
+        "lastName": "Aigner",
+        "fullName": "Wolfgang Aigner"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mcg.2022.3156846",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Secure Federated Learning Mechanism for Data Privacy Protection",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Hui Lin"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Wenxin Liu"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Xiaoding Wang"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/iucc-cit-dsci-smartcns55181.2021.00019",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Thorough Analysis and Comparison of Data Communication Protocols Used in Industry 4.0: the Case of Smart-CNC",
+    "authors": [
+      {
+        "lastName": "Deveci",
+        "fullName": "Bilgin Umut Deveci"
+      },
+      {
+        "lastName": "Bas",
+        "fullName": "Hilal Bas"
+      },
+      {
+        "lastName": "Ummak",
+        "fullName": "Emre Ummak"
+      },
+      {
+        "lastName": "Albayrak",
+        "fullName": "Ozlem Albayrak"
+      },
+      {
+        "lastName": "Unal",
+        "fullName": "Perin Unal"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ficloud57274.2022.00034",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Enhancing Continuous Service of Information Systems Based on Cyber Resilience",
+    "authors": [
+      {
+        "lastName": "Zuo",
+        "fullName": "Jinxin Zuo"
+      },
+      {
+        "lastName": "Guo",
+        "fullName": "Ziyu Guo"
+      },
+      {
+        "lastName": "Gan",
+        "fullName": "Jiefu Gan"
+      },
+      {
+        "lastName": "Lu",
+        "fullName": "Yueming Lu"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/dsc53577.2021.00085",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "COSCO: Container Orchestration Using Co-Simulation and Gradient Based Optimization for Fog Computing Environments",
+    "authors": [
+      {
+        "lastName": "Tuli",
+        "fullName": "Shreshth Tuli"
+      },
+      {
+        "lastName": "Poojara",
+        "fullName": "Shivananda R. Poojara"
+      },
+      {
+        "lastName": "Srirama",
+        "fullName": "Satish N. Srirama"
+      },
+      {
+        "lastName": "Casale",
+        "fullName": "Giuliano Casale"
+      },
+      {
+        "lastName": "Jennings",
+        "fullName": "Nicholas R. Jennings"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/tpds.2021.3087349",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "ICICOS: Industrial Cyber Intelligent Control Operating System for Cloud and Edge Computing",
+    "authors": [
+      {
+        "lastName": "Su",
+        "fullName": "Weibin Su"
+      },
+      {
+        "lastName": "Kong",
+        "fullName": "Yanchun Kong"
+      },
+      {
+        "lastName": "He",
+        "fullName": "Zhengfang He"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/smartiot52359.2021.00056",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Aspern smart ICT: Data analytics and privacy challenges in a smart city",
+    "authors": [
+      {
+        "lastName": "Dhungana",
+        "fullName": "Deepak Dhungana"
+      },
+      {
+        "lastName": "Engelbrecht",
+        "fullName": "Gerhard Engelbrecht"
+      },
+      {
+        "lastName": "Parreira",
+        "fullName": "Josiane Xavier Parreira"
+      },
+      {
+        "lastName": "Schuster",
+        "fullName": "Andreas Schuster"
+      },
+      {
+        "lastName": "Valerio",
+        "fullName": "Danilo Valerio"
+      }
+    ],
+    "publicationYear": "2015",
+    "doi": "10.1109/wf-iot.2015.7389096",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Short Survey of Artificial Intelligent Technologies for Defect Detection in Manufacturing",
+    "authors": [
+      {
+        "lastName": "Papageorgiou",
+        "fullName": "Elpiniki I. Papageorgiou"
+      },
+      {
+        "lastName": "Theodosiou",
+        "fullName": "Theodosis Theodosiou"
+      },
+      {
+        "lastName": "Margetis",
+        "fullName": "George Margetis"
+      },
+      {
+        "lastName": "Dimitriou",
+        "fullName": "Nikolaos Dimitriou"
+      },
+      {
+        "lastName": "Charalampous",
+        "fullName": "Paschalis Charalampous"
+      },
+      {
+        "lastName": "Tzovaras",
+        "fullName": "Dimitrios Tzovaras"
+      },
+      {
+        "lastName": "Samakovlis",
+        "fullName": "Ioannis Samakovlis"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/iisa52424.2021.9555499",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Graphics and Media Technologies for Operators in Industry 4.0",
+    "authors": [
+      {
+        "lastName": "Posada",
+        "fullName": "Jorge Posada"
+      },
+      {
+        "lastName": "Zorrilla",
+        "fullName": "Mikel Zorrilla"
+      },
+      {
+        "lastName": "Dominguez",
+        "fullName": "Ana Dominguez"
+      },
+      {
+        "lastName": "Simoes",
+        "fullName": "Bruno Simoes"
+      },
+      {
+        "lastName": "Eisert",
+        "fullName": "Peter Eisert"
+      },
+      {
+        "lastName": "Stricker",
+        "fullName": "Didier Stricker"
+      },
+      {
+        "lastName": "Rambach",
+        "fullName": "Jason Rambach"
+      },
+      {
+        "lastName": "Döllner",
+        "fullName": "Jürgen Döllner"
+      },
+      {
+        "lastName": "Guevara",
+        "fullName": "Miguel Guevara"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "COMPSAC 2022: A Retrospective",
+    "authors": [
+      {
+        "lastName": "Reisman",
+        "fullName": "Sorel Reisman"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Computer Highlights Society Magazines",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1109/mc.2009.11",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Blockchain Security: A Survey of Techniques and Research Directions",
+    "authors": [
+      {
+        "lastName": "Leng",
+        "fullName": "Jiewu Leng"
+      },
+      {
+        "lastName": "Zhou",
+        "fullName": "Man Zhou"
+      },
+      {
+        "lastName": "Zhao",
+        "fullName": "J. Leon Zhao"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Yongfeng Huang"
+      },
+      {
+        "lastName": "Bian",
+        "fullName": "Yiyang Bian"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.36227/techrxiv.22821692",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "INGR Roadmap Artificial Intelligence And Machine Learning Chapter",
+    "authors": [
+      {
+        "lastName": "Kataria",
+        "fullName": "Deepak Kataria"
+      },
+      {
+        "lastName": "Walid",
+        "fullName": "Anwar Walid"
+      },
+      {
+        "lastName": "Daneshmand",
+        "fullName": "Mahmoud Daneshmand"
+      },
+      {
+        "lastName": "Dutta",
+        "fullName": "Ashutosh Dutta"
+      },
+      {
+        "lastName": "Enright",
+        "fullName": "Michael A. Enright"
+      },
+      {
+        "lastName": "Gu",
+        "fullName": "Rentao Gu"
+      },
+      {
+        "lastName": "Lackpour",
+        "fullName": "Alex Lackpour"
+      },
+      {
+        "lastName": "Ramachandran",
+        "fullName": "Prakash Ramachandran"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Honggang Wang"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Chi-Ming Chen"
+      },
+      {
+        "lastName": "Chng",
+        "fullName": "Baw Chng"
+      },
+      {
+        "lastName": "Darema",
+        "fullName": "Frederica Darema"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/fnwf55208.2022.00133",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Massive Twinning to Enhance Emergent Intelligence",
+    "authors": [
+      {
+        "lastName": "Yuan",
+        "fullName": "Siyu Yuan"
+      },
+      {
+        "lastName": "Han",
+        "fullName": "Bin Han"
+      },
+      {
+        "lastName": "Krummacker",
+        "fullName": "Dennis Krummacker"
+      },
+      {
+        "lastName": "Schotten",
+        "fullName": "Hans D. Schotten"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iscc55528.2022.9912797",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Paradigm for Safe Adaptation of Collaborating Robots",
+    "authors": [
+      {
+        "lastName": "Cioroaica",
+        "fullName": "Emilia Cioroaica"
+      },
+      {
+        "lastName": "Buhnova",
+        "fullName": "Barbora Buhnova"
+      },
+      {
+        "lastName": "Tomur",
+        "fullName": "Emrah Tomur"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3524844.3528061",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Future of the Workforce",
+    "authors": [
+      {
+        "lastName": "Arlitt",
+        "fullName": "Martin Arlitt"
+      },
+      {
+        "lastName": "Coughlin",
+        "fullName": "Thomas Coughlin"
+      },
+      {
+        "lastName": "Faraboschi",
+        "fullName": "Paolo Faraboschi"
+      },
+      {
+        "lastName": "Frachtenberg",
+        "fullName": "Eitan Frachtenberg"
+      },
+      {
+        "lastName": "Laplante",
+        "fullName": "Phil Laplante"
+      },
+      {
+        "lastName": "Milojicic",
+        "fullName": "Dejan Milojicic"
+      },
+      {
+        "lastName": "Patel",
+        "fullName": "Nita Patel"
+      },
+      {
+        "lastName": "Saracco",
+        "fullName": "Roberto Saracco"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Keynote Speakers",
+    "authors": [],
+    "publicationYear": "2018",
+    "doi": "10.1136/bmjstel-2019-heeconf.ks",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Periscopic IT Outlook",
+    "authors": [
+      {
+        "lastName": "Murugesan",
+        "fullName": "San Murugesan"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Blockchain-based Framework for Information Management in Internet of Vehicles",
+    "authors": [
+      {
+        "lastName": "Wen",
+        "fullName": "Xiaoqing Wen"
+      },
+      {
+        "lastName": "Guan",
+        "fullName": "Zhenyu Guan"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Dawei Li"
+      },
+      {
+        "lastName": "Lyu",
+        "fullName": "Hanzheng Lyu"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Huimin Li"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/ucet.2019.8881874",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Threat modeling at run time: the case for reflective and adaptive threat management (NIER track)",
+    "authors": [
+      {
+        "lastName": "Landuyt",
+        "fullName": "Dimitri van Landuyt"
+      },
+      {
+        "lastName": "Pasquale",
+        "fullName": "Liliana Pasquale"
+      },
+      {
+        "lastName": "Sion",
+        "fullName": "Laurens Sion"
+      },
+      {
+        "lastName": "Joosen",
+        "fullName": "Wouter Joosen"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/seams51251.2021.00034",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Author Index",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Accelerating Convergence of Federated Learning in MEC With Dynamic Community",
+    "authors": [
+      {
+        "lastName": "Sun",
+        "fullName": "Wen Sun"
+      },
+      {
+        "lastName": "Zhao",
+        "fullName": "Yong Zhao"
+      },
+      {
+        "lastName": "Ma",
+        "fullName": "Wenqiang Ma"
+      },
+      {
+        "lastName": "Guo",
+        "fullName": "Bin Guo"
+      },
+      {
+        "lastName": "Xu",
+        "fullName": "Lexi Xu"
+      },
+      {
+        "lastName": "Duong",
+        "fullName": "Trung Q. Duong"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tmc.2023.3241770",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Medical Software",
+    "authors": [
+      {
+        "lastName": "Mani",
+        "fullName": "V.S. Mani"
+      },
+      {
+        "lastName": "Ebert",
+        "fullName": "Christof Ebert"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Methodological Framework Based on Digital Technologies for the Implementation of Industry 4.0 in SMEs",
+    "authors": [
+      {
+        "lastName": "Velásquez",
+        "fullName": "Nancy Velásquez"
+      },
+      {
+        "lastName": "Estevez",
+        "fullName": "Elsa Estevez"
+      },
+      {
+        "lastName": "Pesado",
+        "fullName": "Patricia Pesado"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1109/icedeg.2019.8734282",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Comparison of State-of-the-Art Machine Learning Algorithms on Fault Indication and Remaining Useful Life Determination by Telemetry Data",
+    "authors": [
+      {
+        "lastName": "Ünal",
+        "fullName": "Aras Firat Ünal"
+      },
+      {
+        "lastName": "Kaleli",
+        "fullName": "Ali Yüce Kaleli"
+      },
+      {
+        "lastName": "Ummak",
+        "fullName": "Emre Ummak"
+      },
+      {
+        "lastName": "Albayrak",
+        "fullName": "Özlem Albayrak"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/ficloud49777.2021.00019",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Artificial Intelligence and Critical Systems: From Hype to Reality",
+    "authors": [
+      {
+        "lastName": "Laplante",
+        "fullName": "Phil Laplante"
+      },
+      {
+        "lastName": "Milojicic",
+        "fullName": "Dejan Milojicic"
+      },
+      {
+        "lastName": "Serebryakov",
+        "fullName": "Sergey Serebryakov"
+      },
+      {
+        "lastName": "Bennett",
+        "fullName": "Daniel Bennett"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/mc.2020.3006177",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "iMetaverseKG: Industrial Metaverse Knowledge Graph to Promote Interoperability in Design and Engineering Applications",
+    "authors": [
+      {
+        "lastName": "Jaimini",
+        "fullName": "Utkarshani Jaimini"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Tongtao Zhang"
+      },
+      {
+        "lastName": "Brikis",
+        "fullName": "Georgia Olympia Brikis"
+      },
+      {
+        "lastName": "Sheth",
+        "fullName": "Amit Sheth"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mic.2022.3212085",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Cross-FCL: Toward a Cross-Edge Federated Continual Learning Framework in Mobile Edge Computing Systems",
+    "authors": [
+      {
+        "lastName": "Zhang",
+        "fullName": "Zhouyangzi Zhang"
+      },
+      {
+        "lastName": "Guo",
+        "fullName": "Bin Guo"
+      },
+      {
+        "lastName": "Sun",
+        "fullName": "Wen Sun"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Yan Liu"
+      },
+      {
+        "lastName": "Yu",
+        "fullName": "Zhiwen Yu"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tmc.2022.3223944",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Service Placement for Real-Time Applications: Rate-Adaptation and Load-Balancing at the Network Edge",
+    "authors": [
+      {
+        "lastName": "Kassir",
+        "fullName": "Saadallah Kassir"
+      },
+      {
+        "lastName": "Veciana",
+        "fullName": "Gustavo de Veciana"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Nannan Wang"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Xi Wang"
+      },
+      {
+        "lastName": "Palacharla",
+        "fullName": "Paparao Palacharla"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/cscloud-edgecom49738.2020.00044",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "ACA: Anonymous, Confidential and Auditable Transaction Systems for Blockchain",
+    "authors": [
+      {
+        "lastName": "Lin",
+        "fullName": "Chao Lin"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Xinyi Huang"
+      },
+      {
+        "lastName": "Ning",
+        "fullName": "Jianting Ning"
+      },
+      {
+        "lastName": "He",
+        "fullName": "Debiao He"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tdsc.2022.3228236",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Functional Model and Analysis of Next Generation Malware Attacks and Defenses",
+    "authors": [
+      {
+        "lastName": "Pu",
+        "fullName": "Calton Pu"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Qingyang Wang"
+      },
+      {
+        "lastName": "Kanemasa",
+        "fullName": "Yasuhiko Kanemasa"
+      },
+      {
+        "lastName": "Lima",
+        "fullName": "Rodrigo Alves Lima"
+      },
+      {
+        "lastName": "Kimball",
+        "fullName": "Joshua Kimball"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Shungeng Zhang"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Jianshu Liu"
+      },
+      {
+        "lastName": "Gu",
+        "fullName": "Xuhang Gu"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/tpsisa52974.2021.00023",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "System-specific risk rating of software vulnerabilities in industrial automation & control systems",
+    "authors": [
+      {
+        "lastName": "Maidl",
+        "fullName": "Monika Maidl"
+      },
+      {
+        "lastName": "Kröselberg",
+        "fullName": "Dirk Kröselberg"
+      },
+      {
+        "lastName": "Zhao",
+        "fullName": "Tiange Zhao"
+      },
+      {
+        "lastName": "Limmer",
+        "fullName": "Tobias Limmer"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/issrew53611.2021.00097",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Multi-Modal Side Channel Data Driven Golden-Free Detection of Software and Firmware Trojans",
+    "authors": [
+      {
+        "lastName": "Krishnamurthy",
+        "fullName": "Prashanth Krishnamurthy"
+      },
+      {
+        "lastName": "Surabhi",
+        "fullName": "Virinchi Roy Surabhi"
+      },
+      {
+        "lastName": "Pearce",
+        "fullName": "Hammond Pearce"
+      },
+      {
+        "lastName": "Karri",
+        "fullName": "Ramesh Karri"
+      },
+      {
+        "lastName": "Khorrami",
+        "fullName": "Farshad Khorrami"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tdsc.2022.3231632",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Industry Survey: The Magic Triangle of the New Normal",
+    "authors": [
+      {
+        "lastName": "Ebert",
+        "fullName": "Christof Ebert"
+      },
+      {
+        "lastName": "Montenbruck",
+        "fullName": "Jan Maximilian Montenbruck"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/ms.2022.3148928",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Message from the General Chairs",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1109/cyberscitech68397.2025.00005",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Message from the General Chairs",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1109/cyberscitech68397.2025.00005",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IT Professional—Retrospectives and Perspectives",
+    "authors": [
+      {
+        "lastName": "Bojanova",
+        "fullName": "Irena Bojanova"
+      },
+      {
+        "lastName": "Hurlburt",
+        "fullName": "George F. Hurlburt"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/mitp.2022.3141846",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "BIG: Big Data Intelligence Governance Framework",
+    "authors": [
+      {
+        "lastName": "Makhlouf",
+        "fullName": "Mohamed Makhlouf"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/bigdata55660.2022.10020244",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Reopen Offline Business during a Pandemic? Characterization of Health Certificate Exchange for Human Movement Management",
+    "authors": [
+      {
+        "lastName": "Shen",
+        "fullName": "Bingqing Shen"
+      },
+      {
+        "lastName": "Tan",
+        "fullName": "Weiming Tan"
+      },
+      {
+        "lastName": "Cai",
+        "fullName": "Hongming Cai"
+      },
+      {
+        "lastName": "Guo",
+        "fullName": "Jingzhi Guo"
+      },
+      {
+        "lastName": "Jiang",
+        "fullName": "Lihong Jiang"
+      },
+      {
+        "lastName": "Qin",
+        "fullName": "Peng Qin"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/icebe52470.2021.00034",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Enabling Cognitive Manufacturing in Heterogeneous Industrial Automation Systems",
+    "authors": [
+      {
+        "lastName": "Van",
+        "fullName": "Hoai My Van"
+      },
+      {
+        "lastName": "Dreiser",
+        "fullName": "Marc Dreiser"
+      },
+      {
+        "lastName": "Silva",
+        "fullName": "Alexandre Sawczuk da Silva"
+      },
+      {
+        "lastName": "Weiss",
+        "fullName": "Gereon Weiss"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iccicc57084.2022.10101573",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IEEE ICCI*CC Series in Year 20: Latest Advances in Cognitive Computing (Plenary Panel Report-II)",
+    "authors": [
+      {
+        "lastName": "Kinsner",
+        "fullName": "Witold Kinsner"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Haibin Zhu"
+      },
+      {
+        "lastName": "Baciu",
+        "fullName": "George Baciu"
+      },
+      {
+        "lastName": "Luo",
+        "fullName": "Guiming Luo"
+      },
+      {
+        "lastName": "Rubio",
+        "fullName": "Fernando Rubio"
+      },
+      {
+        "lastName": "Sui",
+        "fullName": "Jie Sui"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Runhe Huang"
+      },
+      {
+        "lastName": "Hiraishi",
+        "fullName": "Hironori Hiraishi"
+      },
+      {
+        "lastName": "Peng",
+        "fullName": "Jun Peng"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Liang Chen"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/iccicc53683.2021.9811336",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IEEE ICCI*CC Series in Year 20: Latest Advances in Cognitive Informatics and Cognitive Computing towards General AI (Plenary Panel Report-I)",
+    "authors": [
+      {
+        "lastName": "Wang",
+        "fullName": "Yingxu Wang"
+      },
+      {
+        "lastName": "Widrow",
+        "fullName": "Bernard Widrow"
+      },
+      {
+        "lastName": "Pedrycz",
+        "fullName": "Witold Pedrycz"
+      },
+      {
+        "lastName": "Berwick",
+        "fullName": "Robert C. Berwick"
+      },
+      {
+        "lastName": "Soda",
+        "fullName": "Paolo Soda"
+      },
+      {
+        "lastName": "Kwong",
+        "fullName": "Sam Kwong"
+      },
+      {
+        "lastName": "Kaynak",
+        "fullName": "Okyay Kaynak"
+      },
+      {
+        "lastName": "Regazzoni",
+        "fullName": "Carlo S. Regazzoni"
+      },
+      {
+        "lastName": "Chan",
+        "fullName": "Christine Chan"
+      },
+      {
+        "lastName": "Gavrilova",
+        "fullName": "Marina Gavrilova"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Guoyin Wang"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/iccicc53683.2021.9811324",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "The Edge-to-Cloud Continuum",
+    "authors": [
+      {
+        "lastName": "Milojicic",
+        "fullName": "Dejan Milojicic"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1109/cloudcontinuum57429.2022.00001",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Survey of Automation Practices in Model-Driven Development and Operations",
+    "authors": [
+      {
+        "lastName": "Ponsard",
+        "fullName": "Christophe Ponsard"
+      },
+      {
+        "lastName": "Ramon",
+        "fullName": "Valery Ramon"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3528228.3528405",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Is the Next Winter Coming for AI? Elements of Making Secure and Robust AI",
+    "authors": [
+      {
+        "lastName": "Harguess",
+        "fullName": "Josh Harguess"
+      },
+      {
+        "lastName": "Ward",
+        "fullName": "Chris M. Ward"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/aipr57179.2022.10092230",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A Conceptual Antifragile Microservice Framework for Reshaping Critical Infrastructures",
+    "authors": [
+      {
+        "lastName": "Bangui",
+        "fullName": "Hind Bangui"
+      },
+      {
+        "lastName": "Rossi",
+        "fullName": "Bruno Rossi"
+      },
+      {
+        "lastName": "Buhnova",
+        "fullName": "Barbora Buhnova"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/icsme55016.2022.00040",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Morphological Rule-Constrained Object Detection of Key Structures in Infant Fundus Image",
+    "authors": [
+      {
+        "lastName": "Zhang",
+        "fullName": "Yinsheng Zhang"
+      },
+      {
+        "lastName": "Ye",
+        "fullName": "Xin Ye"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Wenhua Wu"
+      },
+      {
+        "lastName": "Luo",
+        "fullName": "Yingqun Luo"
+      },
+      {
+        "lastName": "Chen",
+        "fullName": "Miaohong Chen"
+      },
+      {
+        "lastName": "Du",
+        "fullName": "Yueshanyi Du"
+      },
+      {
+        "lastName": "Wen",
+        "fullName": "Yu Wen"
+      },
+      {
+        "lastName": "Song",
+        "fullName": "Houbing Song"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Yaling Liu"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Guoming Zhang"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Li Wang"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tcbb.2023.3234100",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Design of Power Communication Panoramic Interactive Anti-Accident Exercise System",
+    "authors": [
+      {
+        "lastName": "Geng",
+        "fullName": "Lizhuo Geng"
+      },
+      {
+        "lastName": "Hao",
+        "fullName": "Xue Hao"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Lu Liu"
+      },
+      {
+        "lastName": "Gao",
+        "fullName": "Feng Gao"
+      },
+      {
+        "lastName": "Lin",
+        "fullName": "Chunzhe Lin"
+      },
+      {
+        "lastName": "Sun",
+        "fullName": "Xun Sun"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/iccsie56462.2022.00018",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "IT Professional—Accomplishments, Recognitions, and Plans",
+    "authors": [
+      {
+        "lastName": "Bojanova",
+        "fullName": "Irena Bojanova"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/mitp.2020.3048454",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "A next-generation platform for Cyber Range-as-a-Service",
+    "authors": [
+      {
+        "lastName": "Orbinato",
+        "fullName": "Vittorio Orbinato"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/issrew53611.2021.00094",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Computer Highlights Society Magazines",
+    "authors": [],
+    "publicationYear": "2021",
+    "doi": "10.1109/mc.2009.11",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "When Digital Economy Meets Web3.0: Applications and Challenges",
+    "authors": [
+      {
+        "lastName": "Chen",
+        "fullName": "Chuan Chen"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Lei Zhang"
+      },
+      {
+        "lastName": "Li",
+        "fullName": "Yihao Li"
+      },
+      {
+        "lastName": "Liao",
+        "fullName": "Tianchi Liao"
+      },
+      {
+        "lastName": "Zhao",
+        "fullName": "Siran Zhao"
+      },
+      {
+        "lastName": "Zheng",
+        "fullName": "Zibin Zheng"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Huawei Huang"
+      },
+      {
+        "lastName": "Wu",
+        "fullName": "Jiajing Wu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1007/978-981-99-3648-9_6",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Agile Systems Engineering",
+    "authors": [
+      {
+        "lastName": "Ebert",
+        "fullName": "Christof Ebert"
+      },
+      {
+        "lastName": "Kirschke-Biller",
+        "fullName": "Frank Kirschke-Biller"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Research on The Development of Commercial Digital Economy Based on Information Driven",
+    "authors": [
+      {
+        "lastName": "Zhang",
+        "fullName": "Rong Zhang"
+      },
+      {
+        "lastName": "Zhang",
+        "fullName": "Fan Zhang"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/cacml55074.2022.00123",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Everything You Always Wanted to Know About Embedded Trace",
+    "authors": [
+      {
+        "lastName": "Preußer",
+        "fullName": "Thomas B. Preußer"
+      },
+      {
+        "lastName": "Gautham",
+        "fullName": "Smitha Gautham"
+      },
+      {
+        "lastName": "Rajagopala",
+        "fullName": "Abhi D. Rajagopala"
+      },
+      {
+        "lastName": "Elks",
+        "fullName": "Carl R. Elks"
+      },
+      {
+        "lastName": "Weiss",
+        "fullName": "Alexander Weiss"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.36227/techrxiv.14595960.v1",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Game-theory strategies for open-source Infrastructure-as-Code",
+    "authors": [
+      {
+        "lastName": "Ruiz",
+        "fullName": "Alfonso E. de la Fuente Ruiz"
+      },
+      {
+        "lastName": "Nedeltcheva",
+        "fullName": "Galia Novakova Nedeltcheva"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/icsa-c57050.2023.00075",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Air Free-Cooled Tropical Data Center: Design, Evaluation, and Learned Lessons",
+    "authors": [
+      {
+        "lastName": "Le",
+        "fullName": "Duc Van Le"
+      },
+      {
+        "lastName": "Liu",
+        "fullName": "Yingbo Liu"
+      },
+      {
+        "lastName": "Wang",
+        "fullName": "Rongrong Wang"
+      },
+      {
+        "lastName": "Tan",
+        "fullName": "Rui Tan"
+      },
+      {
+        "lastName": "Ngoh",
+        "fullName": "Lek Heng Ngoh"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/tsusc.2021.3132927",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Quantum Deductive Simulation for Logic Functions",
+    "authors": [
+      {
+        "lastName": "Hahanov",
+        "fullName": "Vladimir Hahanov"
+      },
+      {
+        "lastName": "Hacimahmud",
+        "fullName": "Abdullayev Vugar Hacimahmud"
+      },
+      {
+        "lastName": "Litvinova",
+        "fullName": "Eugenia Litvinova"
+      },
+      {
+        "lastName": "Chumachenko",
+        "fullName": "Svetlana Chumachenko"
+      },
+      {
+        "lastName": "Hahanova",
+        "fullName": "Irina Hahanova"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1109/ewdts.2018.8524619",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Simulation System of Digital Media 3D Art Design Based on Artificial Intelligence",
+    "authors": [
+      {
+        "lastName": "Zhao",
+        "fullName": "Yanquan Zhao"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1109/aiotcs58181.2022.00091",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards a Roadmap on Software Engineering for Responsible AI",
+    "authors": [
+      {
+        "lastName": "Lu",
+        "fullName": "Qinghua Lu"
+      },
+      {
+        "lastName": "Zhu",
+        "fullName": "Liming Zhu"
+      },
+      {
+        "lastName": "Xu",
+        "fullName": "Xiwei Xu"
+      },
+      {
+        "lastName": "Whittle",
+        "fullName": "Jon Whittle"
+      },
+      {
+        "lastName": "Xing",
+        "fullName": "Zhenchang Xing"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3522664.3528607",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "FastSlowMo: Federated Learning With Combined Worker and Aggregator Momenta",
+    "authors": [
+      {
+        "lastName": "Yang",
+        "fullName": "Zhengjie Yang"
+      },
+      {
+        "lastName": "Fu",
+        "fullName": "Sen Fu"
+      },
+      {
+        "lastName": "Bao",
+        "fullName": "Wei Bao"
+      },
+      {
+        "lastName": "Yuan",
+        "fullName": "Dong Yuan"
+      },
+      {
+        "lastName": "Zomaya",
+        "fullName": "Albert Y. Zomaya"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tai.2022.3187678",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Financial Crimes in Web3-Empowered Metaverse: Taxonomy, Countermeasures, and Opportunities",
+    "authors": [
+      {
+        "lastName": "Wu",
+        "fullName": "Jiajing Wu"
+      },
+      {
+        "lastName": "Lin",
+        "fullName": "Kaixin Lin"
+      },
+      {
+        "lastName": "Lin",
+        "fullName": "Dan Lin"
+      },
+      {
+        "lastName": "Zheng",
+        "fullName": "Ziye Zheng"
+      },
+      {
+        "lastName": "Huang",
+        "fullName": "Huawei Huang"
+      },
+      {
+        "lastName": "Zheng",
+        "fullName": "Zibin Zheng"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/ojcs.2023.3245801",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Scientific Data Management for Interconnected Critical Infrastructure Systems",
+    "authors": [
+      {
+        "lastName": "Weaver",
+        "fullName": "Gabriel A. Weaver"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1109/jcdl52503.2021.00031",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Towards Sustainable Digital Transformation",
+    "authors": [
+      {
+        "lastName": "Gils",
+        "fullName": "Bas van Gils"
+      },
+      {
+        "lastName": "Weigand",
+        "fullName": "Hans Weigand"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Welcome Message from the General Chairs",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1109/percom.2014.6813932",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Blockchain and Federated Reinforcement Learning for Vehicle-to-Everything Energy Trading in Smart Grids",
+    "authors": [
+      {
+        "lastName": "Moniruzzaman",
+        "fullName": "Md Moniruzzaman"
+      },
+      {
+        "lastName": "Yassine",
+        "fullName": "Abdulsalam Yassine"
+      },
+      {
+        "lastName": "Benlamri",
+        "fullName": "Rachid Benlamri"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1109/tai.2023.3262597",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  },
+  {
+    "title": "Southbound Message Delivery With Virtual Network Topology Awareness in Clouds",
+    "authors": [
+      {
+        "lastName": "Zhao",
+        "fullName": "Gongming Zhao"
+      },
+      {
+        "lastName": "Luo",
+        "fullName": "Luyao Luo"
+      },
+      {
+        "lastName": "Xu",
+        "fullName": "Hongli Xu"
+      },
+      {
+        "lastName": "Chung",
+        "fullName": "Chun-Jen Chung"
+      },
+      {
+        "lastName": "Xie",
+        "fullName": "Liguang Xie"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1109/tnet.2022.3190730",
+    "source": "https://www.computer.org/csdl",
+    "abstract": ""
+  }
+]

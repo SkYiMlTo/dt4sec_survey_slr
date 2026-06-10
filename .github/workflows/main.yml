@@ -1,38 +1,12 @@
-name: generate text file
-
-on:
- schedule:
-  - cron: "0 8 * * 1"    #runs at 8:00am UTC every monday
- workflow_dispatch:
-jobs:
-  generatedatefile:
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content to github runner.
-      - name: setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.12 #install the python needed
-      - name: Install dependencies
-        run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          sudo apt-get update
-          sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
-          sudo apt-get install default-jdk 
-          sudo apt-get install -y google-chrome-stable
-      - name: Create annotation for build error
-        run: |
-          echo ${GITHUB_WORKSPACE}
-          cd ${GITHUB_WORKSPACE}
-          ls
-      - name: execute py script
-        working-directory: .
-        run: |
-          ls
-          python3 run.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add ./output
-          git commit -m "Update state of the art"
-          git push
+# =============================================================================
+# DEPRECATED — this workflow has been superseded by weekly_slr_scraper.yml
+# =============================================================================
+# Kept for reference only. The new workflow includes:
+#   - Chrome/Selenium setup for Computer.org scraping
+#   - API key secrets injection
+#   - Artifact uploads (datasets, charts, logs)
+#   - Job summaries with per-source article counts
+#   - Concurrency guard to prevent overlapping runs
+#
+# To re-enable, change the filename back to main.yml and update the triggers.
+# =============================================================================
