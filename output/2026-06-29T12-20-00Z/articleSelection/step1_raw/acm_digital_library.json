@@ -1,0 +1,2230 @@
+[
+  {
+    "title": "Digital-twin Co-evolution using Continuous Validation",
+    "authors": [
+      {
+        "fullName": "Joost Mertens",
+        "lastName": "Mertens"
+      },
+      {
+        "fullName": "Joachim Denil",
+        "lastName": "Denil"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3589628",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Demo: Smart Grid Cyber Twin for Cybersecurity Exercise",
+    "authors": [
+      {
+        "fullName": "Daisuke Mashima",
+        "lastName": "Mashima"
+      },
+      {
+        "fullName": "Jit Biswas",
+        "lastName": "Biswas"
+      },
+      {
+        "fullName": "Revati Godse",
+        "lastName": "Godse"
+      },
+      {
+        "fullName": "Muhammad M. Roomi",
+        "lastName": "Roomi"
+      },
+      {
+        "fullName": "Bennet Ng",
+        "lastName": "Ng"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3733801.3764198",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "An anomaly detection framework for digital twin driven cyber-physical systems",
+    "authors": [
+      {
+        "fullName": "Chuanchao Gao",
+        "lastName": "Gao"
+      },
+      {
+        "fullName": "Heejong Park",
+        "lastName": "Park"
+      },
+      {
+        "fullName": "Arvind Easwaran",
+        "lastName": "Easwaran"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3450267.3450533",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital-Twin-Based Patient Evaluation during Stroke Rehabilitation",
+    "authors": [
+      {
+        "fullName": "Yilun Chen",
+        "lastName": "Chen"
+      },
+      {
+        "fullName": "Wentao Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Junyu Diao",
+        "lastName": "Diao"
+      },
+      {
+        "fullName": "Daoyu Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Zhuo Jian",
+        "lastName": "Jian"
+      },
+      {
+        "fullName": "Yixi Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Zhihao Jiang",
+        "lastName": "Jiang"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3585923",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Towards a Digital Twin Framework for Secure and Efficient Cyber-Physical Transportation Systems",
+    "authors": [
+      {
+        "fullName": "Luca Brodo",
+        "lastName": "Brodo"
+      },
+      {
+        "fullName": "Giuseppe Scalora",
+        "lastName": "Scalora"
+      },
+      {
+        "fullName": "Stefan Henkler",
+        "lastName": "Henkler"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3735948.3736156",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber-physical Hardening of the Digital Water Infrastructure",
+    "authors": [
+      {
+        "fullName": "Ümit Cali",
+        "lastName": "Cali"
+      },
+      {
+        "fullName": "F. Özgur Catak",
+        "lastName": "Catak"
+      },
+      {
+        "fullName": "Zsolt György Balogh",
+        "lastName": "Balogh"
+      },
+      {
+        "fullName": "Rita Ugarelli",
+        "lastName": "Ugarelli"
+      },
+      {
+        "fullName": "Martin Gilje Jaatun",
+        "lastName": "Jaatun"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3590777.3591408",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin-Enhanced Incident Response for Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "David Allison",
+        "lastName": "Allison"
+      },
+      {
+        "fullName": "Paul Smith",
+        "lastName": "Smith"
+      },
+      {
+        "fullName": "Kieran Mclaughlin",
+        "lastName": "Mclaughlin"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3600160.3600195",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Capturing Autonomy in its Multiple Facets: A Digital Twin Approach",
+    "authors": [
+      {
+        "fullName": "Richard Heininger",
+        "lastName": "Heininger"
+      },
+      {
+        "fullName": "Chris Stary",
+        "lastName": "Stary"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3445969.3450422",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Efforts Towards a Digital Twin-based Testbed for Public Safety",
+    "authors": [
+      {
+        "fullName": "Nicole Hatch",
+        "lastName": "Hatch"
+      },
+      {
+        "fullName": "Walt Magnussen",
+        "lastName": "Magnussen"
+      },
+      {
+        "fullName": "Jian Tao",
+        "lastName": "Tao"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576914.3588017",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cybersecurity in Cyber-Physical Systems: An Introduction",
+    "authors": [],
+    "publicationYear": "2025",
+    "doi": "10.1145/3731217.3731232",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Securing big data and IoT networks in smart cyber-physical environments",
+    "authors": [
+      {
+        "fullName": "Sajal K. Das",
+        "lastName": "Das"
+      },
+      {
+        "fullName": "Hayato Yamana",
+        "lastName": "Yamana"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3128128.3128157",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Proceedings of the 1st Workshop on Digital Twin &amp; Edge AI for Industrial IoT",
+    "authors": [],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin as a Proxy for Industrial Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Abdullah Aziz",
+        "lastName": "Aziz"
+      },
+      {
+        "fullName": "Olov Schelén",
+        "lastName": "Schelén"
+      },
+      {
+        "fullName": "Ulf Bodin",
+        "lastName": "Bodin"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3585967.3585982",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Hierarchical Digital Twin Model Framework for Dynamic Cyber-Physical System Design",
+    "authors": [
+      {
+        "fullName": "Duansen Shangguan",
+        "lastName": "Shangguan"
+      },
+      {
+        "fullName": "Liping Chen",
+        "lastName": "Chen"
+      },
+      {
+        "fullName": "Jianwan Ding",
+        "lastName": "Ding"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3314493.3314504",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cybersecurity in Cyber-Physical Systems: Wireless Jamming Attack Detection in Noisy LoRaWAN Environment",
+    "authors": [
+      {
+        "fullName": "Xiaoyi Su",
+        "lastName": "Su"
+      },
+      {
+        "fullName": "Chao Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Zhixin Zhou",
+        "lastName": "Zhou"
+      },
+      {
+        "fullName": "Rui Luo",
+        "lastName": "Luo"
+      }
+    ],
+    "publicationYear": "2026",
+    "doi": "10.1145/3777454",
+    "source": "https://dl.acm.org/",
+    "abstract": "Cybersecurity in safety-critical data communication infrastructures presents a significant and open challenge for cyber-physical systems (CPS). While extensive research exists on wireless jamming, effectively detecting attacks in noisy wireless environments remains difficult. This article introduces a novel framework for detecting mobile jamming attacks in LoRaWAN-based CPS, designed to operate robustly in the presence of communication faults. Unlike traditional methods that rely on physical-layer metrics like RSSI from end devices, our strategy uses only data upload statistics available at the backend network server. We propose a multi-stage filtering approach that first identifies anomalous upload failures and then distinguishes jamming attacks from communication faults by analyzing their distinct spatio-temporal signatures. Furthermore, the framework can reconstruct the attacker’s trajectory from the identified attack events. We evaluate the proposed strategy via extensive discrete-time simulations under various network densities and attacker speeds. Results demonstrate high efficacy, achieving an F1-score of up to 1.00 for event detection and a trajectory reconstruction mean absolute error (MAE) as low as 7.07 meters in dense networks, even in the presence of faults. This work’s primary contribution is a backend-centric, fault-tolerant detection methodology that enhances situational awareness without imposing additional overhead on resource-constrained end devices."
+  },
+  {
+    "title": "Learning Models of Cyber-Physical Systems with Discrete and Continuous Behaviour for Digital Twin Synthesis",
+    "authors": [
+      {
+        "fullName": "Felix Wallner",
+        "lastName": "Wallner"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1145/3639478.3639793",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Applying Cybersecurity Challenges to Medical and Vehicular Cyber Physical Systems",
+    "authors": [
+      {
+        "fullName": "Daniel Massey",
+        "lastName": "Massey"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3140368.3140379",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Conformance-Driven Anomaly Detection for Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Xin Qin",
+        "lastName": "Qin"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725168",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cybersecurity Challenges in the Offshore Oil and Gas Industry: An Industrial Cyber-Physical Systems (ICPS) Perspective",
+    "authors": [
+      {
+        "fullName": "Abubakar Sadiq Mohammed",
+        "lastName": "Mohammed"
+      },
+      {
+        "fullName": "Philipp Reinecke",
+        "lastName": "Reinecke"
+      },
+      {
+        "fullName": "Pete Burnap",
+        "lastName": "Burnap"
+      },
+      {
+        "fullName": "Omer Rana",
+        "lastName": "Rana"
+      },
+      {
+        "fullName": "Eirini Anthi",
+        "lastName": "Anthi"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3548691",
+    "source": "https://dl.acm.org/",
+    "abstract": "There has been significant interest within the offshore oil and gas industry to utilise\n            Industrial Internet of Things (IIoT)\n            and\n            Industrial Cyber-Physical Systems (ICPS)\n            . There has also been a corresponding increase in cyberattacks targeted at oil and gas companies. Offshore oil production requires remote access to and control of large and complex hardware resources. This is achieved by integrating ICPS,\n            Supervisory, Control and Data Acquisition (SCADA)\n            systems, and IIoT technologies. A successful cyberattack against an\n            oil and gas (O&amp;G)\n            offshore asset could have a major impact on the environment, marine ecosystem and safety of personnel. Any disruption to the world’s supply of O&amp;G can also have an effect on oil prices and the global economy. We describe the cyberattack surface within the oil and gas industry, discussing emerging trends in the offshore sub-sector and provide a historical perspective of known cyberattacks. We also present a case study of a subsea control system architecture typically used in offshore O&amp;G operations and highlight potential vulnerabilities affecting the components of the system. This study is the first to provide a detailed analysis of attack vectors in a subsea control system. The analysis provided can be used to understand key vulnerabilities in such systems and may be used to implement efficient mitigation methods."
+  },
+  {
+    "title": "Space spider",
+    "authors": [
+      {
+        "fullName": "Jiaqi Li",
+        "lastName": "Li"
+      },
+      {
+        "fullName": "Lvyang Zhang",
+        "lastName": "Zhang"
+      },
+      {
+        "fullName": "Quan Hong",
+        "lastName": "Hong"
+      },
+      {
+        "fullName": "Yang Yu",
+        "lastName": "Yu"
+      },
+      {
+        "fullName": "Lidong Zhai",
+        "lastName": "Zhai"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099.3569007",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Optimal graph partitioning for time-sensitive flow scheduling towards digital twin networks",
+    "authors": [
+      {
+        "fullName": "Shuo Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Jonathan Kua",
+        "lastName": "Kua"
+      },
+      {
+        "fullName": "Jiong Jin",
+        "lastName": "Jin"
+      },
+      {
+        "fullName": "Ambarish Kulkarni",
+        "lastName": "Kulkarni"
+      },
+      {
+        "fullName": "Prem Prakash Jayaraman",
+        "lastName": "Jayaraman"
+      },
+      {
+        "fullName": "Xianghui Cao",
+        "lastName": "Cao"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099.3569003",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A New Layer Structure of Cyber-Physical Systems under the Era of Digital Twin",
+    "authors": [
+      {
+        "fullName": "Cheng Qian",
+        "lastName": "Qian"
+      },
+      {
+        "fullName": "Yifan Guo",
+        "lastName": "Guo"
+      },
+      {
+        "fullName": "Adamu Hussaini",
+        "lastName": "Hussaini"
+      },
+      {
+        "fullName": "Abubakar Musa",
+        "lastName": "Musa"
+      },
+      {
+        "fullName": "Akshita Sai",
+        "lastName": "Sai"
+      },
+      {
+        "fullName": "Wei Yu",
+        "lastName": "Yu"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1145/3674974",
+    "source": "https://dl.acm.org/",
+    "abstract": "Cyber-Physical Systems (CPS) are new systems designed to support and synthesize sensing, communication, and computing components that interact with physical objects so that the system can sense, monitor, control, and respond to changes occurring in their operating environments. With developing Internet of Things (IoT), edge/cloud computing, and Artificial Intelligence (AI), another new paradigm - Digital Twin (DT), as an enabler for realizing the Metaverse of CPS has emerged recently. The DT provides a virtual replica of the physical world, allowing for real-time monitoring, control, and analysis of safety-critical systems like the CPS. Even though many CPS-related problems can be addressed using DT concepts, it is critical to define DT’s integration clearly to leverage its features to the best possible extent. This paper introduces a new layer called the data layer in the CPS layer architecture to support different DT functionalities. Like the layer and abstract design paradigm of modern operation systems and computer networks, the data layer serves as an abstraction layer, providing immense flexibility and interchangeability of various data sources, supporting applications, and adapting to other components and environments. This also accelerates the growth of smart-world systems and their integration in different application domains (smart grid, smart transportation, smart manufacturing, smart cities, smart healthcare, etc.). To this end, this paper presents a new data layer structure to support CPS applications and the integration of multiple CPS. We propose a hierarchical architecture to synthesize DT techniques as an independent layer in our architecture, deeply integrated into existing CPS. We discuss key issues: leveraging the data layer to support applications in various CPS, incorporating the data layer and physical layer, and building a data layer using distributed computing, naming services, etc. Finally, the paper outlines future research directions based on the presented new data layer architecture for CPS."
+  },
+  {
+    "title": "Digital Twin-based Anomaly Detection with Curriculum Learning in Cyber-physical Systems",
+    "authors": [
+      {
+        "fullName": "Qinghua Xu",
+        "lastName": "Xu"
+      },
+      {
+        "fullName": "Shaukat Ali",
+        "lastName": "Ali"
+      },
+      {
+        "fullName": "Tao Yue",
+        "lastName": "Yue"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3582571",
+    "source": "https://dl.acm.org/",
+    "abstract": "Anomaly detection is critical to ensure the security of\n            cyber-physical systems (CPS)\n            . However, due to the increasing complexity of attacks and CPS themselves, anomaly detection in CPS is becoming more and more challenging. In our previous work, we proposed a digital twin-based anomaly detection method, called ATTAIN, which takes advantage of both historical and real-time data of CPS. However, such data vary significantly in terms of difficulty. Therefore, similar to human learning processes, deep learning models (e.g., ATTAIN) can benefit from an easy-to-difficult curriculum. To this end, in this paper, we present a novel approach, named\n            digitaL twin-based Anomaly deTecTion wIth Curriculum lEarning (\n            \n              LATTICE\n            \n            )\n            , which extends ATTAIN by introducing curriculum learning to optimize its learning paradigm.\n            LATTICE\n            attributes each sample with a difficulty score, before being fed into a training scheduler. The training scheduler samples batches of training data based on these difficulty scores such that learning from easy to difficult data can be performed. To evaluate LATTICE, we use five publicly available datasets collected from five real-world CPS testbeds. We compare\n            LATTICE\n            with ATTAIN and two other state-of-the-art anomaly detectors. Evaluation results show that\n            LATTICE\n            outperforms the three baselines and ATTAIN by 0.906%-2.367% in terms of the F1 score.\n            LATTICE\n            also, on average, reduces the training time of ATTAIN by 4.2% on the five datasets and is on par with the baselines in terms of detection delay time."
+  },
+  {
+    "title": "An Investigation on Available Technologies and Approaches for Integration of Control Systems with the Digital twin in Cyber-Physical Production Systems",
+    "authors": [
+      {
+        "fullName": "Shiva Abdoli",
+        "lastName": "Abdoli"
+      },
+      {
+        "fullName": "Diwen Ye",
+        "lastName": "Ye"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3587889.3587909",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A multilevel cybersecurity and safety monitor for embedded cyber-physical systems",
+    "authors": [
+      {
+        "fullName": "Smitha Gautham",
+        "lastName": "Gautham"
+      },
+      {
+        "fullName": "Georgios Bakirtzis",
+        "lastName": "Bakirtzis"
+      },
+      {
+        "fullName": "Matthew T. Leccadito",
+        "lastName": "Leccadito"
+      },
+      {
+        "fullName": "Robert H. Klenke",
+        "lastName": "Klenke"
+      },
+      {
+        "fullName": "Carl R. Elks",
+        "lastName": "Elks"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3302509.3313321",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "POSTER: A Cyber Physical Aquaponics System (CyPhA) Testbed",
+    "authors": [
+      {
+        "fullName": "Anand Agrawal",
+        "lastName": "Agrawal"
+      },
+      {
+        "fullName": "Praneeta Maganti",
+        "lastName": "Maganti"
+      },
+      {
+        "fullName": "Rajib Ranjan Maiti",
+        "lastName": "Maiti"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3589634",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Monitoring Signal Temporal Logic in Distributed Cyber-physical Systems",
+    "authors": [
+      {
+        "fullName": "Anik Momtaz",
+        "lastName": "Momtaz"
+      },
+      {
+        "fullName": "Houssam Abbas",
+        "lastName": "Abbas"
+      },
+      {
+        "fullName": "Borzoo Bonakdarpour",
+        "lastName": "Bonakdarpour"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3585937",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Proceedings of the ACM/IEEE 14th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2023)",
+    "authors": [],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2025)",
+    "authors": [],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Secure, Trustworthy and Scalable Digital Manufacturing Cyber-Physical System",
+    "authors": [
+      {
+        "fullName": "Nikhil Gupta",
+        "lastName": "Gupta"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3510547.3517928",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "CPSA\n            <sub>ML</sub>",
+    "authors": [
+      {
+        "fullName": "Andreas Fend",
+        "lastName": "Fend"
+      },
+      {
+        "fullName": "Dominik Bork",
+        "lastName": "Bork"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3550356.3563134",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Testing uncertainty of cyber-physical systems in IoT cloud infrastructures: combining model-driven engineering and elastic execution",
+    "authors": [
+      {
+        "fullName": "Hong-Linh Truong",
+        "lastName": "Truong"
+      },
+      {
+        "fullName": "Luca Berardinelli",
+        "lastName": "Berardinelli"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3107091.3107093",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Session details: Session 2: IoT and Smart Manufacturing",
+    "authors": [
+      {
+        "fullName": "Katsunari Yoshioka",
+        "lastName": "Yoshioka"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3538481",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Monitor and Recover: A Paradigm for Future Research on Distribution Shift in Learning-Enabled Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Vivian Lin",
+        "lastName": "Lin"
+      },
+      {
+        "fullName": "Insup Lee",
+        "lastName": "Lee"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725160",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Self-Stabilizing Publish/Subscribe Middleware for IoT Applications",
+    "authors": [
+      {
+        "fullName": "Gerry Siegemund",
+        "lastName": "Siegemund"
+      },
+      {
+        "fullName": "Volker Turau",
+        "lastName": "Turau"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1145/3185509",
+    "source": "https://dl.acm.org/",
+    "abstract": "This article presents a middleware that provides a communication and data dissemination infrastructure suitable for the operation environment of the Internet of Things (IoT). The middleware realizes the channel-based publish/subscribe paradigm that has been identified as a valid means to asynchronously disseminate data in IoT applications. The novelty lies in the routing algorithm PSVR that greatly reduces the path lengths to deliver publications and its suitability for scenarios with a high subfluctuation rate. The middleware is self-stabilizing and eventually provides safety and liveness properties such as the guaranteed delivery of all published messages to all subscribers and the correct handling of subscriptions and unsubscriptions, while no error occurs. The evaluation of the middleware, based on simulations and a real deployment, shows that it has a low memory footprint and scales well with the number of nodes."
+  },
+  {
+    "title": "NOTHORG; A digital twin for ECU security testing",
+    "authors": [
+      {
+        "fullName": "Marek Wehmer",
+        "lastName": "Wehmer"
+      },
+      {
+        "fullName": "Jean Diestl",
+        "lastName": "Diestl"
+      },
+      {
+        "fullName": "Dominik Waibel",
+        "lastName": "Waibel"
+      },
+      {
+        "fullName": "Ingmar Baumgart",
+        "lastName": "Baumgart"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3736130.3764512",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Detecting Stealthy False Data Injections on Cyber-Physical Systems using Temporal Distance Metrics",
+    "authors": [
+      {
+        "fullName": "Akash Bhattacharya",
+        "lastName": "Bhattacharya"
+      },
+      {
+        "fullName": "Suraj Singh",
+        "lastName": "Singh"
+      },
+      {
+        "fullName": "Sunandan Adhikary",
+        "lastName": "Adhikary"
+      },
+      {
+        "fullName": "Soumyajit Dey",
+        "lastName": "Dey"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725166",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Twin for Cybersecurity Incident Prediction",
+    "authors": [
+      {
+        "fullName": "Abhishek Pokhrel",
+        "lastName": "Pokhrel"
+      },
+      {
+        "fullName": "Vikash Katta",
+        "lastName": "Katta"
+      },
+      {
+        "fullName": "Ricardo Colomo-Palacios",
+        "lastName": "Colomo-Palacios"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1145/3387940.3392199",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Model-driven digital twin construction",
+    "authors": [
+      {
+        "fullName": "Jörg Christian Kirchhof",
+        "lastName": "Kirchhof"
+      },
+      {
+        "fullName": "Judith Michael",
+        "lastName": "Michael"
+      },
+      {
+        "fullName": "Bernhard Rumpe",
+        "lastName": "Rumpe"
+      },
+      {
+        "fullName": "Simon Varga",
+        "lastName": "Varga"
+      },
+      {
+        "fullName": "Andreas Wortmann",
+        "lastName": "Wortmann"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1145/3365438.3410941",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Soteria: A Formal Digital-Twin-Enabled Framework for Safety-Assurance of Latency-Aware Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Kurt Wilson",
+        "lastName": "Wilson"
+      },
+      {
+        "fullName": "Abdullah Al Arafat",
+        "lastName": "Arafat"
+      },
+      {
+        "fullName": "John Baugh",
+        "lastName": "Baugh"
+      },
+      {
+        "fullName": "Ruozhou Yu",
+        "lastName": "Yu"
+      },
+      {
+        "fullName": "Xue Liu",
+        "lastName": "Liu"
+      },
+      {
+        "fullName": "Zhishan Guo",
+        "lastName": "Guo"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716863.3718028",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Dynamic Simplex: Balancing Safety and Performance in Autonomous Cyber Physical Systems",
+    "authors": [
+      {
+        "fullName": "Baiting Luo",
+        "lastName": "Luo"
+      },
+      {
+        "fullName": "Shreyas Ramakrishna",
+        "lastName": "Ramakrishna"
+      },
+      {
+        "fullName": "Ava Pettet",
+        "lastName": "Pettet"
+      },
+      {
+        "fullName": "Christopher Kuhn",
+        "lastName": "Kuhn"
+      },
+      {
+        "fullName": "Gabor Karsai",
+        "lastName": "Karsai"
+      },
+      {
+        "fullName": "Ayan Mukhopadhyay",
+        "lastName": "Mukhopadhyay"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3585934",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Comprehensive Review on the Applications of Artificial Intelligence in Cybersecurity",
+    "authors": [
+      {
+        "fullName": "Qinghao Zeng",
+        "lastName": "Zeng"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3729706.3729732",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Adaptive CUSUM-Based Residue Analysis for Stealthy Attack Detection in Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Akash Bhattacharya",
+        "lastName": "Bhattacharya"
+      },
+      {
+        "fullName": "Sunandan Adhikary",
+        "lastName": "Adhikary"
+      },
+      {
+        "fullName": "Ipsita Koley",
+        "lastName": "Koley"
+      },
+      {
+        "fullName": "Anirban Majumder",
+        "lastName": "Majumder"
+      },
+      {
+        "fullName": "Soumyajit Dey",
+        "lastName": "Dey"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3589631",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Study Cybersecurity of Cyber Physical System in the Virtual Environment: A Survey and New Direction",
+    "authors": [
+      {
+        "fullName": "Lei Shi",
+        "lastName": "Shi"
+      },
+      {
+        "fullName": "Shanti Krishnan",
+        "lastName": "Krishnan"
+      },
+      {
+        "fullName": "Sheng Wen",
+        "lastName": "Wen"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3511616.3513098",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Perception-based Quantitative Runtime Verification for Learning-enabled Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Ryan Brown",
+        "lastName": "Brown"
+      },
+      {
+        "fullName": "Luan Viet Nguyen",
+        "lastName": "Nguyen"
+      },
+      {
+        "fullName": "Weiming Xiang",
+        "lastName": "Xiang"
+      },
+      {
+        "fullName": "Marilyn Wolf",
+        "lastName": "Wolf"
+      },
+      {
+        "fullName": "Hoang-Dung Tran",
+        "lastName": "Tran"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3722031",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Videos to accompany the paper “A Compiler for Cyber-Physical Digital Microfluidic Biochips”",
+    "authors": [
+      {
+        "fullName": "Christopher Curtis",
+        "lastName": "Curtis"
+      },
+      {
+        "fullName": "Daniel Grissom",
+        "lastName": "Grissom"
+      },
+      {
+        "fullName": "Philip Brisk",
+        "lastName": "Brisk"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1145/3190497",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Data Security &amp; Privacy Protection in IoT MGC Systems",
+    "authors": [
+      {
+        "fullName": "Robert Deng",
+        "lastName": "Deng"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3592538.3607805",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Dependable Time Series Analytic Framework for Cyber-Physical Systems of IoT-based Smart Grid",
+    "authors": [
+      {
+        "fullName": "Chang Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Yongxin Zhu",
+        "lastName": "Zhu"
+      },
+      {
+        "fullName": "Weiwei Shi",
+        "lastName": "Shi"
+      },
+      {
+        "fullName": "Victor Chang",
+        "lastName": "Chang"
+      },
+      {
+        "fullName": "P. Vijayakumar",
+        "lastName": "Vijayakumar"
+      },
+      {
+        "fullName": "Bin Liu",
+        "lastName": "Liu"
+      },
+      {
+        "fullName": "Yishu Mao",
+        "lastName": "Mao"
+      },
+      {
+        "fullName": "Jiabao Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Yiping Fan",
+        "lastName": "Fan"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3145623",
+    "source": "https://dl.acm.org/",
+    "abstract": "With the emergence of cyber-physical systems (CPS), we are now at the brink of next computing revolution. The Smart Grid (SG) built on top of IoT (Internet of Things) is one of the foundations of this CPS revolution, which involves a large number of smart objects connected by networks. The volume of time series of SG equipment is tremendous and the raw time series are very likely to contain missing values because of undependable network transferring. The problem of storing a tremendous volume of raw time series thereby providing a solid support for precise time series analytics now becomes tricky. In this article, we propose a dependable time series analytics (DTSA) framework for IoT-based SG. Our proposed DTSA framework is capable of providing a dependable data transforming from CPS to the target database with an extraction engine to preliminary refining raw data and further cleansing the data with a correction engine built on top of a sensor-network-regularization-based matrix factorization method. The experimental results reveal that our proposed DTSA framework is capable of effectively increasing the dependability of raw time series transforming between CPS and the target database system through the online lightweight extraction engine and the offline correction engine. Our proposed DTSA framework would be useful for other industrial big data practices."
+  },
+  {
+    "title": "MicroInfer",
+    "authors": [
+      {
+        "fullName": "Ziye Liu",
+        "lastName": "Liu"
+      },
+      {
+        "fullName": "Chen Chen",
+        "lastName": "Chen"
+      },
+      {
+        "fullName": "Keji Deng",
+        "lastName": "Deng"
+      },
+      {
+        "fullName": "Lei Liu",
+        "lastName": "Liu"
+      },
+      {
+        "fullName": "Ci He",
+        "lastName": "He"
+      },
+      {
+        "fullName": "Ming Xiao",
+        "lastName": "Xiao"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099.3569004",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "From IoT to Ephemeral Computing",
+    "authors": [
+      {
+        "fullName": "Julie A. McCann",
+        "lastName": "McCann"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3102304.3102306",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids",
+    "authors": [
+      {
+        "fullName": "Luigi Coppolino",
+        "lastName": "Coppolino"
+      },
+      {
+        "fullName": "Roberto Nardone",
+        "lastName": "Nardone"
+      },
+      {
+        "fullName": "Alfredo Petruolo",
+        "lastName": "Petruolo"
+      },
+      {
+        "fullName": "Luigi Romano",
+        "lastName": "Romano"
+      },
+      {
+        "fullName": "Andrej Souvent",
+        "lastName": "Souvent"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3600160.3605043",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Pishgu: Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems",
+    "authors": [
+      {
+        "fullName": "Ghazal Alinezhad Noghre",
+        "lastName": "Alinezhad Noghre"
+      },
+      {
+        "fullName": "Vinit Katariya",
+        "lastName": "Katariya"
+      },
+      {
+        "fullName": "Armin Danesh Pazho",
+        "lastName": "Danesh Pazho"
+      },
+      {
+        "fullName": "Christopher Neff",
+        "lastName": "Neff"
+      },
+      {
+        "fullName": "Hamed Tabkhi",
+        "lastName": "Tabkhi"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3585933",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "VIoLET",
+    "authors": [
+      {
+        "fullName": "Shrey Baheti",
+        "lastName": "Baheti"
+      },
+      {
+        "fullName": "Shreyas Badiger",
+        "lastName": "Badiger"
+      },
+      {
+        "fullName": "Yogesh Simmhan",
+        "lastName": "Simmhan"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3446346",
+    "source": "https://dl.acm.org/",
+    "abstract": "Internet of Things (IoT) deployments have been growing manifold, encompassing sensors, networks, edge, fog, and cloud resources. Despite the intense interest from researchers and practitioners, most do not have access to large-scale IoT testbeds for validation. Simulation environments that allow analytical modeling are a poor substitute for evaluating software platforms or application workloads in realistic computing environments. Here, we propose a virtual environment for validating Internet of Things at large scales (VIoLET), an\n            emulator\n            for defining and launching large-scale IoT deployments within cloud VMs. It allows users to declaratively specify container-based compute resources that match the performance of native IoT compute devices using Docker. These can be inter-connected by complex topologies on which bandwidth and latency rules are enforced. Users can configure synthetic sensors for data generation as well. We also incorporate models for CPU resource dynamism, and for failure and recovery of the underlying devices. We offer a detailed comparison of VIoLET’s compute and network performance between the virtual and physical deployments, evaluate its scaling with deployments with up to 1, 000 devices and 4, 000 device-cores, and validate its ability to model resource dynamism. Our extensive experiments show that the performance of the virtual IoT environment\n            accurately\n            matches the expected behavior, with deviations levels within what is seen in actual physical devices. It also\n            scales\n            to 1, 000s of devices and at a modest cloud computing costs of under 0.15% of the actual hardware cost, per hour of use, with minimal management effort. This IoT emulation environment fills an essential gap between IoT simulators and real deployments."
+  },
+  {
+    "title": "Towards a digital twin for cyber-physical production systems",
+    "authors": [
+      {
+        "fullName": "Asmaa Niati",
+        "lastName": "Niati"
+      },
+      {
+        "fullName": "Cyrine Selma",
+        "lastName": "Selma"
+      },
+      {
+        "fullName": "Dalila Tamzalit",
+        "lastName": "Tamzalit"
+      },
+      {
+        "fullName": "Hugo Bruneliere",
+        "lastName": "Bruneliere"
+      },
+      {
+        "fullName": "Nasser Mebarki",
+        "lastName": "Mebarki"
+      },
+      {
+        "fullName": "Olivier Cardin",
+        "lastName": "Cardin"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1145/3417990.3421438",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Cyber-Twin Based Honeypot for Gathering Threat Intelligence of Critical Infrastructure",
+    "authors": [
+      {
+        "fullName": "Muhammad Azmi Umer",
+        "lastName": "Umer"
+      },
+      {
+        "fullName": "Xuna Zhan",
+        "lastName": "Zhan"
+      },
+      {
+        "fullName": "Yan Lin Aung",
+        "lastName": "Aung"
+      },
+      {
+        "fullName": "Aditya P. Mathur",
+        "lastName": "Mathur"
+      },
+      {
+        "fullName": "Jianying Zhou",
+        "lastName": "Zhou"
+      }
+    ],
+    "publicationYear": "2026",
+    "doi": "10.1145/3806008.3811698",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Fighting IoT Cyberattacks",
+    "authors": [
+      {
+        "fullName": "Katsunari Yoshioka",
+        "lastName": "Yoshioka"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3494107.3522781",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Optimization techniques for time-critical cyber-physical systems",
+    "authors": [
+      {
+        "fullName": "Yecheng Zhao",
+        "lastName": "Zhao"
+      },
+      {
+        "fullName": "Haibo Zeng",
+        "lastName": "Zeng"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3313151.3313168",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "FACSAT: Conception as a cyber-physical system for satellite observation of the Earth: Automated mission planning and scheduling",
+    "authors": [
+      {
+        "fullName": "Javier E. Méndez G.",
+        "lastName": "Méndez G."
+      },
+      {
+        "fullName": "Albert M. K. Cheng",
+        "lastName": "Cheng"
+      },
+      {
+        "fullName": "Santiago Muñoz",
+        "lastName": "Muñoz"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3589616",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Keynote: Efficient Security and Privacy Protocols for IoT Networks and Applications",
+    "authors": [
+      {
+        "fullName": "Robert Deng",
+        "lastName": "Deng"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3709017.3747225",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Application of Nuclear magnetic resonance Ultra-short-term load forecasting model based on digital twin",
+    "authors": [
+      {
+        "fullName": "Yingdong Huo",
+        "lastName": "Huo"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3558819.3565178",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Demonstration of Pishgu: Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems",
+    "authors": [
+      {
+        "fullName": "Ghazal Alinezhad Noghre",
+        "lastName": "Noghre"
+      },
+      {
+        "fullName": "Vinit Katariya",
+        "lastName": "Katariya"
+      },
+      {
+        "fullName": "Armin Danesh Pazho",
+        "lastName": "Pazho"
+      },
+      {
+        "fullName": "Christopher Neff",
+        "lastName": "Neff"
+      },
+      {
+        "fullName": "Hamed Tabkhi",
+        "lastName": "Tabkhi"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3589619",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "IoT-Enabled Digital Twin for Whole-Lifecycle Management in Architectural Decoration Engineering",
+    "authors": [
+      {
+        "fullName": "Shenghuan Jiang",
+        "lastName": "Jiang"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3800000.3800026",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Atlas: Ensuring Accuracy for Privacy-Preserving Federated IoT Applications",
+    "authors": [
+      {
+        "fullName": "Jiechao Gao",
+        "lastName": "Gao"
+      },
+      {
+        "fullName": "Mingyue Tang",
+        "lastName": "Tang"
+      },
+      {
+        "fullName": "Wenpeng Wang",
+        "lastName": "Wang"
+      },
+      {
+        "fullName": "Tushar Routh",
+        "lastName": "Routh"
+      },
+      {
+        "fullName": "Bradford Campbell",
+        "lastName": "Campbell"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3722017",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "CODiT: Conformal Out-of-Distribution Detection in Time-Series Data for Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Ramneet Kaur",
+        "lastName": "Kaur"
+      },
+      {
+        "fullName": "Kaustubh Sridhar",
+        "lastName": "Sridhar"
+      },
+      {
+        "fullName": "Sangdon Park",
+        "lastName": "Park"
+      },
+      {
+        "fullName": "Yahan Yang",
+        "lastName": "Yang"
+      },
+      {
+        "fullName": "Susmit Jha",
+        "lastName": "Jha"
+      },
+      {
+        "fullName": "Anirban Roy",
+        "lastName": "Roy"
+      },
+      {
+        "fullName": "Oleg Sokolsky",
+        "lastName": "Sokolsky"
+      },
+      {
+        "fullName": "Insup Lee",
+        "lastName": "Lee"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576841.3585931",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cybersecurity of Industrial Cyber-Physical Systems: A Review",
+    "authors": [
+      {
+        "fullName": "Hakan Kayan",
+        "lastName": "Kayan"
+      },
+      {
+        "fullName": "Matthew Nunes",
+        "lastName": "Nunes"
+      },
+      {
+        "fullName": "Omer Rana",
+        "lastName": "Rana"
+      },
+      {
+        "fullName": "Pete Burnap",
+        "lastName": "Burnap"
+      },
+      {
+        "fullName": "Charith Perera",
+        "lastName": "Perera"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3510410",
+    "source": "https://dl.acm.org/",
+    "abstract": "Industrial cyber-physical systems\n            (\n            ICPSs\n            ) manage critical infrastructures by controlling the processes based on the “physics” data gathered by edge sensor networks. Recent innovations in ubiquitous computing and communication technologies have prompted the rapid integration of highly interconnected systems to ICPSs. Hence, the “security by obscurity” principle provided by air-gapping is no longer followed. As the interconnectivity in ICPSs increases, so does the attack surface. Industrial vulnerability assessment reports have shown that a variety of new vulnerabilities have occurred due to this transition. Although there are existing surveys in this context, very little is mentioned regarding the outputs of these reports. While these reports show that the most exploited vulnerabilities occur due to weak boundary protection, these vulnerabilities also occur due to limited or ill-defined security policies. However, current literature focuses on\n            intrusion detection systems\n            (\n            IDSs\n            ),\n            network traffic analysis\n            (\n            NTA\n            ) methods, or anomaly detection techniques. Hence, finding a solution for the problems mentioned in these reports is relatively hard. We bridge this gap by defining and reviewing ICPSs from a cybersecurity perspective. In particular, multi-dimensional adaptive attack taxonomy is presented and utilized for evaluating real-life ICPS cyber incidents. Finally, we identify the general shortcomings and highlight the points that cause a gap in existing literature while defining future research directions."
+  },
+  {
+    "title": "Finding Unknown Unknowns using Cyber-Physical System Simulators",
+    "authors": [
+      {
+        "fullName": "Semaan Douglas Wehbe",
+        "lastName": "Wehbe"
+      },
+      {
+        "fullName": "Stanley Bak",
+        "lastName": "Bak"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3722573.3727829",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Intrusion Detection of IoT Traffic Payload Based on Parallel Neural Networks",
+    "authors": [
+      {
+        "fullName": "Yuhang Zhang",
+        "lastName": "Zhang"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1145/3672919.3672923",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Research Status and Progress of Digital Twin Models for Electric Power System Equipment",
+    "authors": [
+      {
+        "fullName": "Ning Xu",
+        "lastName": "Xu"
+      },
+      {
+        "fullName": "Lina Hu",
+        "lastName": "Hu"
+      },
+      {
+        "fullName": "Xiaomeng Di",
+        "lastName": "Di"
+      },
+      {
+        "fullName": "Yi Tang",
+        "lastName": "Tang"
+      },
+      {
+        "fullName": "Liang Dong",
+        "lastName": "Dong"
+      },
+      {
+        "fullName": "Ximin Sun",
+        "lastName": "Sun"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3729706.3729778",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Distributed Trade-Based Edge Device Management in Multi-Gateway IoT",
+    "authors": [
+      {
+        "fullName": "Farzad Samie",
+        "lastName": "Samie"
+      },
+      {
+        "fullName": "Vasileios Tsoutsouras",
+        "lastName": "Tsoutsouras"
+      },
+      {
+        "fullName": "Lars Bauer",
+        "lastName": "Bauer"
+      },
+      {
+        "fullName": "Sotirios Xydis",
+        "lastName": "Xydis"
+      },
+      {
+        "fullName": "Dimitrios Soudris",
+        "lastName": "Soudris"
+      },
+      {
+        "fullName": "Jörg Henkel",
+        "lastName": "Henkel"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1145/3134842",
+    "source": "https://dl.acm.org/",
+    "abstract": "The Internet-of-Things (IoT) envisions an infrastructure of ubiquitous networked smart devices offering advanced monitoring and control services. The current art in IoT architectures utilizes gateways to enable application-specific connectivity to IoT devices. In typical configurations, IoT gateways are shared among several IoT edge devices. Given the limited available bandwidth and processing capabilities of an IoT gateway, the service quality (SQ) of connected IoT edge devices must be adjusted over time not only to fulfill the needs of individual IoT device users but also to tolerate the SQ needs of the other IoT edge devices sharing the same gateway. However, having multiple gateways introduces an interdependent problem, the binding, i.e., which IoT device shall connect to which gateway.\n          In this article, we jointly address the binding and allocation problems of IoT edge devices in a multigateway system under the constraints of available bandwidth, processing power, and battery lifetime. We propose a distributed trade-based mechanism in which after an initial setup, gateways negotiate and trade the IoT edge devices to increase the overall SQ. We evaluate the efficiency of the proposed approach with a case study and through extensive experimentation over different IoT system configurations regarding the number and type of the employed IoT edge devices. Experiments show that our solution improves the overall SQ by up to 56% compared to an unsupervised system. Our solution also achieves up to 24.6% improvement on overall SQ compared to the state-of-the-art SQ management scheme, while they both meet the battery lifetime constraints of the IoT devices."
+  },
+  {
+    "title": "SoftGrid",
+    "authors": [
+      {
+        "fullName": "Prageeth Gunathilaka",
+        "lastName": "Gunathilaka"
+      },
+      {
+        "fullName": "Daisuke Mashima",
+        "lastName": "Mashima"
+      },
+      {
+        "fullName": "Binbin Chen",
+        "lastName": "Chen"
+      }
+    ],
+    "publicationYear": "2016",
+    "doi": "10.1145/2994487.2994494",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber-physical innovations:",
+    "authors": [
+      {
+        "fullName": "Michael Ahn",
+        "lastName": "Ahn"
+      },
+      {
+        "fullName": "Chenyu Huang",
+        "lastName": "Huang"
+      },
+      {
+        "fullName": "Pei-Chi Huang",
+        "lastName": "Huang"
+      },
+      {
+        "fullName": "Xin Zhong",
+        "lastName": "Zhong"
+      },
+      {
+        "fullName": "Johannes Himmelreich",
+        "lastName": "Himmelreich"
+      },
+      {
+        "fullName": "Kevin Desouza",
+        "lastName": "Desouza"
+      },
+      {
+        "fullName": "Richard Knepper",
+        "lastName": "Knepper"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3463677.3463721",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Transformer-driven multi-agent deep reinforcement learning based point cloud video transmissions",
+    "authors": [
+      {
+        "fullName": "Hai Lin",
+        "lastName": "Lin"
+      },
+      {
+        "fullName": "Xianfu Chen",
+        "lastName": "Chen"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099.3569006",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital Transformation and emerging ICS/OT cyber attacks - Imminent Threats to Our Society",
+    "authors": [
+      {
+        "fullName": "Sanjay Chhillar",
+        "lastName": "Chhillar"
+      },
+      {
+        "fullName": "Dale Geach",
+        "lastName": "Geach"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3462633.3484690",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "The concept of preventive cybersecurity management of the IoT device market in the digital economy",
+    "authors": [
+      {
+        "fullName": "Irina Avdeeva",
+        "lastName": "Avdeeva"
+      },
+      {
+        "fullName": "Tatyana Golovina",
+        "lastName": "Golovina"
+      },
+      {
+        "fullName": "Galina Guzhina",
+        "lastName": "Guzhina"
+      },
+      {
+        "fullName": "Evgeniy Sulima",
+        "lastName": "Sulima"
+      },
+      {
+        "fullName": "Dmitry Suhanov",
+        "lastName": "Suhanov"
+      },
+      {
+        "fullName": "Evgeniy Tihanov",
+        "lastName": "Tihanov"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3487757.3490859",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Safety Monitoring for Learning-Enabled Cyber-Physical Systems in Out-of-Distribution Scenarios",
+    "authors": [
+      {
+        "fullName": "Vivian Lin",
+        "lastName": "Lin"
+      },
+      {
+        "fullName": "Ramneet Kaur",
+        "lastName": "Kaur"
+      },
+      {
+        "fullName": "Yahan Yang",
+        "lastName": "Yang"
+      },
+      {
+        "fullName": "Souradeep Dutta",
+        "lastName": "Dutta"
+      },
+      {
+        "fullName": "Yiannis Kantaros",
+        "lastName": "Kantaros"
+      },
+      {
+        "fullName": "Anirban Roy",
+        "lastName": "Roy"
+      },
+      {
+        "fullName": "Susmit Jha",
+        "lastName": "Jha"
+      },
+      {
+        "fullName": "Oleg Sokolsky",
+        "lastName": "Sokolsky"
+      },
+      {
+        "fullName": "Insup Lee",
+        "lastName": "Lee"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3722022",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A Flexible Security Analytics Service for the Industrial IoT",
+    "authors": [
+      {
+        "fullName": "Philip Empl",
+        "lastName": "Empl"
+      },
+      {
+        "fullName": "Günther Pernul",
+        "lastName": "Pernul"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3445969.3450427",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "City Services Management Methodology Based on Socio-Cyber-Physical Approach",
+    "authors": [
+      {
+        "fullName": "Serge Volkov",
+        "lastName": "Volkov"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3377170.3377261",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Secure Robotics: Navigating Challenges at the Nexus of Safety, Trust, and Cybersecurity in Cyber-Physical Systems",
+    "authors": [
+      {
+        "fullName": "Adam Haskard",
+        "lastName": "Haskard"
+      },
+      {
+        "fullName": "Damith Herath",
+        "lastName": "Herath"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3723050",
+    "source": "https://dl.acm.org/",
+    "abstract": "The growing pervasiveness of robotic and embodied artificial intelligence systems in daily life and within cyber-physical environments highlights a complex web of challenges at the intersection of robotic safety, human-to-robot trust, and cybersecurity. This article explores these challenges by emphasising the crucial role of security in establishing and maintaining trust between humans and robots, which is integral to successfully adopting and operating these systems in human environments. Safety considerations include mitigating the risks of physical harm and environmental damage due to robotic malfunctions or cyberattacks, particularly in autonomous robots requiring high built-in safety measures. From a cybersecurity perspective, these systems face unique challenges due to their complex, interconnected software and hardware components that necessitate robust protection against data breaches to ensure secure data communication. Additionally, the dynamic interaction of these systems with the physical environment adds a layer of complexity, which makes the safety, security, and reliability of these interactions a vital component of the overall security strategy. This article reviews these areas within the cyber-physical systems paradigm by focusing on engineering fail-safe mechanisms, the importance of trust and ethical responsibility in human-robot interactions, and the need for resilient cybersecurity measures. At this nexus, a table of crossover challenges illustrates the intricacy of integrating safety, trust, and security in robotic systems. This article introduces “secure robotics” as a new paradigm to address these collective challenges with a novel model to provide a structured methodology for evaluating and enhancing robotic system performance that symbolises the convergence of theoretical constructs with empirical analysis. By defining secure robotics, this article establishes a framework for advancing robotics in the cyber-physical era in alignment with current technological trends while anticipating future developments. This framework positions secure robotics as a key contributor to the evolution of cyber-physical systems."
+  },
+  {
+    "title": "Role-Based Administration of Role-Based Smart Home IoT",
+    "authors": [
+      {
+        "fullName": "Mehrnoosh Shakarami",
+        "lastName": "Shakarami"
+      },
+      {
+        "fullName": "Ravi Sandhu",
+        "lastName": "Sandhu"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3445969.3450426",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cyber Security for SMEs - Clear, Consistent and Complete?",
+    "authors": [
+      {
+        "fullName": "Steven Furnell",
+        "lastName": "Furnell"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1145/3655693.3661829",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Symbolic Gaussian Smoothing",
+    "authors": [
+      {
+        "fullName": "Andrew Mata",
+        "lastName": "Mata"
+      },
+      {
+        "fullName": "Ali ArjomandBigdeli",
+        "lastName": "ArjomandBigdeli"
+      },
+      {
+        "fullName": "Stanley Bak",
+        "lastName": "Bak"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725169",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "EvoCLINICAL: Evolving Cyber-Cyber Digital Twin with Active Transfer Learning for Automated Cancer Registry System",
+    "authors": [
+      {
+        "fullName": "Chengjie Lu",
+        "lastName": "Lu"
+      },
+      {
+        "fullName": "Qinghua Xu",
+        "lastName": "Xu"
+      },
+      {
+        "fullName": "Tao Yue",
+        "lastName": "Yue"
+      },
+      {
+        "fullName": "Shaukat Ali",
+        "lastName": "Ali"
+      },
+      {
+        "fullName": "Thomas Schwitalla",
+        "lastName": "Schwitalla"
+      },
+      {
+        "fullName": "Jan F. Nygård",
+        "lastName": "Nygård"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3611643.3613897",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Building a Digital Twin Platform for Adaptive Reuse of Industrial Heritage Parks: An IoT- and Community Feedback–Integrated Decision Framework",
+    "authors": [
+      {
+        "fullName": "Mohd Jaki Bin Mamat",
+        "lastName": "Mamat"
+      },
+      {
+        "fullName": "Songqi Gui",
+        "lastName": "Gui"
+      },
+      {
+        "fullName": "Yanlan Liu",
+        "lastName": "Liu"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3783669.3783701",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "POSTER: Advancing Enterprise Cyber Defense with Digital Twin–Modelling, Simulation and Prediction",
+    "authors": [
+      {
+        "fullName": "Manish Shukla",
+        "lastName": "Shukla"
+      },
+      {
+        "fullName": "Shivam Shinde",
+        "lastName": "Shinde"
+      },
+      {
+        "fullName": "Geetika Agarwal",
+        "lastName": "Agarwal"
+      },
+      {
+        "fullName": "Reshma Korabu",
+        "lastName": "Korabu"
+      },
+      {
+        "fullName": "Souvik Barat",
+        "lastName": "Barat"
+      }
+    ],
+    "publicationYear": "2026",
+    "doi": "10.1145/3779208.3804897",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Hazard Driven Threat Modelling for Cyber Physical Systems",
+    "authors": [
+      {
+        "fullName": "Luca Maria Castiglione",
+        "lastName": "Castiglione"
+      },
+      {
+        "fullName": "Emil C. Lupu",
+        "lastName": "Lupu"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1145/3411498.3419967",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Digital twins: Double Insecurity for Industrial Scenarios",
+    "authors": [
+      {
+        "fullName": "Cristina Alcaraz",
+        "lastName": "Alcaraz"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3592538.3607806",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Adaptive mobile VR content delivery for industrial 5.0",
+    "authors": [
+      {
+        "fullName": "Mushu Li",
+        "lastName": "Li"
+      },
+      {
+        "fullName": "Jie Gao",
+        "lastName": "Gao"
+      },
+      {
+        "fullName": "Conghao Zhou",
+        "lastName": "Zhou"
+      },
+      {
+        "fullName": "Xuemin (Sherman) Shen",
+        "lastName": "Shen"
+      },
+      {
+        "fullName": "Weihua Zhuang",
+        "lastName": "Zhuang"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3566099.3569002",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Session details: Cybersecurity in Practice",
+    "authors": [
+      {
+        "fullName": "Hui (Wendy) Wang",
+        "lastName": "Wang"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3256010",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "A framework for MDE of IoT-based manufacturing cyber-physical systems",
+    "authors": [
+      {
+        "fullName": "K. Thramboulidis",
+        "lastName": "Thramboulidis"
+      },
+      {
+        "fullName": "P. Bochalis",
+        "lastName": "Bochalis"
+      },
+      {
+        "fullName": "J. Bouloumpasis",
+        "lastName": "Bouloumpasis"
+      }
+    ],
+    "publicationYear": "2017",
+    "doi": "10.1145/3131542.3131554",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Attribute-based keyword search encryption scheme for IoT edge environment",
+    "authors": [
+      {
+        "fullName": "Kangjun Zhang",
+        "lastName": "Zhang"
+      },
+      {
+        "fullName": "Lingyun Yuan",
+        "lastName": "Yuan"
+      },
+      {
+        "fullName": "Xingwei Peng",
+        "lastName": "Peng"
+      }
+    ],
+    "publicationYear": "2024",
+    "doi": "10.1145/3672919.3672939",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Reliable Event Detection Using Time-Synchronized IoT Platforms",
+    "authors": [
+      {
+        "fullName": "Byeong-Gil Jun",
+        "lastName": "Jun"
+      },
+      {
+        "fullName": "Dongha Kim",
+        "lastName": "Kim"
+      },
+      {
+        "fullName": "Marten Lohstroh",
+        "lastName": "Lohstroh"
+      },
+      {
+        "fullName": "Hokeun Kim",
+        "lastName": "Kim"
+      }
+    ],
+    "publicationYear": "2023",
+    "doi": "10.1145/3576914.3587501",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Blockchain-Based Administration of Access in Smart Home IoT",
+    "authors": [
+      {
+        "fullName": "Mehrnoosh Shakarami",
+        "lastName": "Shakarami"
+      },
+      {
+        "fullName": "James Benson",
+        "lastName": "Benson"
+      },
+      {
+        "fullName": "Ravi Sandhu",
+        "lastName": "Sandhu"
+      }
+    ],
+    "publicationYear": "2022",
+    "doi": "10.1145/3510547.3517921",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Adaptive Code Relocation: Mitigating Remote Brute-Force Code Gadgets in Small IoT Devices",
+    "authors": [
+      {
+        "fullName": "Phi Tuong Lau",
+        "lastName": "Lau"
+      },
+      {
+        "fullName": "Stefan Katzenbeisser",
+        "lastName": "Katzenbeisser"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3709017.3737707",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Cost-Effective Rover for Farms",
+    "authors": [
+      {
+        "fullName": "Pawan Kumar",
+        "lastName": "Kumar"
+      },
+      {
+        "fullName": "Yejur Dube",
+        "lastName": "Dube"
+      },
+      {
+        "fullName": "Hokeun Kim",
+        "lastName": "Kim"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725150",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Exploring Flexible Road Reconstruction in Godot Simulator",
+    "authors": [
+      {
+        "fullName": "Daniel Peralta",
+        "lastName": "Peralta"
+      },
+      {
+        "fullName": "Xin Qin",
+        "lastName": "Qin"
+      }
+    ],
+    "publicationYear": "2025",
+    "doi": "10.1145/3716550.3725164",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "The HABAC Model for Smart Home IoT and Comparison to EGRBAC",
+    "authors": [
+      {
+        "fullName": "Safwa Ameer",
+        "lastName": "Ameer"
+      },
+      {
+        "fullName": "Ravi Sandhu",
+        "lastName": "Sandhu"
+      }
+    ],
+    "publicationYear": "2021",
+    "doi": "10.1145/3445969.3450428",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "CHARIOT",
+    "authors": [
+      {
+        "fullName": "Subhav Pradhan",
+        "lastName": "Pradhan"
+      },
+      {
+        "fullName": "Abhishek Dubey",
+        "lastName": "Dubey"
+      },
+      {
+        "fullName": "Shweta Khare",
+        "lastName": "Khare"
+      },
+      {
+        "fullName": "Saideep Nannapaneni",
+        "lastName": "Nannapaneni"
+      },
+      {
+        "fullName": "Aniruddha Gokhale",
+        "lastName": "Gokhale"
+      },
+      {
+        "fullName": "Sankaran Mahadevan",
+        "lastName": "Mahadevan"
+      },
+      {
+        "fullName": "Douglas C. Schmidt",
+        "lastName": "Schmidt"
+      },
+      {
+        "fullName": "Martin Lehofer",
+        "lastName": "Lehofer"
+      }
+    ],
+    "publicationYear": "2018",
+    "doi": "10.1145/3134844",
+    "source": "https://dl.acm.org/",
+    "abstract": "An emerging trend in Internet of Things (IoT) applications is to move the computation (cyber) closer to the source of the data (physical). This paradigm is often referred to as\n            edge computing\n            . If edge resources are pooled together, they can be used as decentralized shared resources for IoT applications, providing increased capacity to scale up computations and minimize end-to-end latency. Managing applications on these edge resources is hard, however, due to their remote, distributed, and (possibly) dynamic nature, which necessitates autonomous management mechanisms that facilitate application deployment, failure avoidance, failure management, and incremental updates. To address these needs, we present CHARIOT, which is orchestration middleware capable of autonomously managing IoT systems consisting of edge resources and applications.\n          \n          CHARIOT implements a three-layer architecture. The topmost layer comprises a system description language, the middle layer comprises a persistent data storage layer and the corresponding schema to store system information, and the bottom layer comprises a management engine that uses information stored persistently to formulate constraints that encode system properties and requirements, thereby enabling the use of satisfiability modulo theory solvers to compute optimal system (re)configurations dynamically at runtime. This article describes the structure and functionality of CHARIOT and evaluates its efficacy as the basis for a smart parking system case study that uses sensors to manage parking spaces."
+  },
+  {
+    "title": "CirclePIN",
+    "authors": [
+      {
+        "fullName": "Meriem Guerar",
+        "lastName": "Guerar"
+      },
+      {
+        "fullName": "Luca Verderame",
+        "lastName": "Verderame"
+      },
+      {
+        "fullName": "Alessio Merlo",
+        "lastName": "Merlo"
+      },
+      {
+        "fullName": "Francesco Palmieri",
+        "lastName": "Palmieri"
+      },
+      {
+        "fullName": "Mauro Migliardi",
+        "lastName": "Migliardi"
+      },
+      {
+        "fullName": "Luca Vallerini",
+        "lastName": "Vallerini"
+      }
+    ],
+    "publicationYear": "2020",
+    "doi": "10.1145/3365995",
+    "source": "https://dl.acm.org/",
+    "abstract": "In the last months, the market for personal wearable devices has been booming significantly, and, in particular, smartwatches are starting to assume a fundamental role in the Bring Your Own Device (BYOD) arena as well as in the more general Internet of Things (IoT) ecosystem, by acting both as sensitive data sources and as user identity proxies. These new roles, complementing the more traditional personal assistance and telemetry/tracking ones, open new perspectives in their integration in complex IoT-based critical infrastructures such as e-payment, health care monitoring, and emergency systems, as well as in their usage as remote control facilities in smart services. Users can access their IoT devices at any time from any place through smartwatches. We argue that this new scenario calls for a strengthened and more resilient authentication of users on these devices, despite their limitations in terms of dimensions and hardware constraints that may considerably affect the usability of security mechanisms. In this article, we present an innovative authentication scheme targeted at smartwatches, namely CirclePIN, that provides both resilience to most common attacks and a high level of usability in tests with real users."
+  },
+  {
+    "title": "Lessons learned and challenges on benchmarking publish-subscribe IoT platforms",
+    "authors": [
+      {
+        "fullName": "Ana Aguiar",
+        "lastName": "Aguiar"
+      },
+      {
+        "fullName": "Ricardo Morla",
+        "lastName": "Morla"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3312480.3313174",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  },
+  {
+    "title": "Deriving Impact-driven Security Requirements and Monitoring Measures for Industrial IoT",
+    "authors": [
+      {
+        "fullName": "Gerhard Hansch",
+        "lastName": "Hansch"
+      },
+      {
+        "fullName": "Peter Schneider",
+        "lastName": "Schneider"
+      },
+      {
+        "fullName": "Gerd Stefan Brost",
+        "lastName": "Brost"
+      }
+    ],
+    "publicationYear": "2019",
+    "doi": "10.1145/3327961.3329528",
+    "source": "https://dl.acm.org/",
+    "abstract": ""
+  }
+]
