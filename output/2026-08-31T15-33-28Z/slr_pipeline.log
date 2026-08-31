@@ -1,0 +1,88 @@
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — ============================================================
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — SLR PIPELINE START
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — Query: ("Digital Twin" OR "Digital Twins") AND ("cyberattack" OR "cyberattacks" OR "cyber attack" OR "cyber attacks" OR "cybersecurity" OR "cyber-security") AND ("internet of things" OR "IoT" OR "CPS" OR "cyber-physical systems")
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — Run directory: output/2026-08-31T15-33-28Z
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — ============================================================
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — [Stage 1/5] Extracting from databases …
+2026-08-31T15:33:29 [INFO    ] slr.extractors.acm_digital_library — Starting ACM DL extraction (API mode)
+2026-08-31T15:33:29 [INFO    ] slr.extractors.springer_link — Springer — using Open Access API
+2026-08-31T15:33:29 [INFO    ] slr.extractors.computer_org — Starting Computer.org extraction
+2026-08-31T15:33:29 [WARNING ] slr.extractors.ieee_xplore — IEEE Xplore extractor disabled: IEEE_API_KEY not set. Obtain a free key at https://developer.ieee.org/
+2026-08-31T15:33:29 [INFO    ] slr.extractors.semantic_scholar — Starting Semantic Scholar extraction
+2026-08-31T15:33:29 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — authenticated (higher rate limit)
+2026-08-31T15:33:29 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — simplifying complex boolean query to: '"digital twin" cybersecurity IoT'
+2026-08-31T15:33:29 [INFO    ] slr.pipeline — [Stage 1] ieee_xplore                    -> 0 articles
+2026-08-31T15:33:29 [WARNING ] slr.extractors.acm_digital_library — ACM DL is protected by Cloudflare. Falling back to CrossRef API for ACM papers (DOI prefix 10.1145).
+2026-08-31T15:33:29 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef fallback — querying CrossRef for ACM papers …
+2026-08-31T15:33:31 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 1: 50 items fetched (50 total so far, 37655 available)
+2026-08-31T15:33:32 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 2: 50 items fetched (100 total so far, 37655 available)
+2026-08-31T15:33:33 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 3: 50 items fetched (150 total so far, 37655 available)
+2026-08-31T15:33:35 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 4: 50 items fetched (200 total so far, 37655 available)
+2026-08-31T15:33:37 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 5: 50 items fetched (236 total so far, 37655 available)
+2026-08-31T15:33:39 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 6: 50 items fetched (286 total so far, 37655 available)
+2026-08-31T15:33:40 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 7: 50 items fetched (336 total so far, 37655 available)
+2026-08-31T15:33:41 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 8: 50 items fetched (386 total so far, 37655 available)
+2026-08-31T15:33:43 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 9: 50 items fetched (436 total so far, 37655 available)
+2026-08-31T15:33:44 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 10: 50 items fetched (486 total so far, 37655 available)
+2026-08-31T15:33:45 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 11: 50 items fetched (536 total so far, 37655 available)
+2026-08-31T15:33:47 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 12: 50 items fetched (586 total so far, 37655 available)
+2026-08-31T15:33:48 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 13: 50 items fetched (636 total so far, 37655 available)
+2026-08-31T15:33:50 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 14: 50 items fetched (686 total so far, 37655 available)
+2026-08-31T15:33:51 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 15: 50 items fetched (736 total so far, 37655 available)
+2026-08-31T15:33:52 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 16: 50 items fetched (786 total so far, 37655 available)
+2026-08-31T15:33:54 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 17: 50 items fetched (836 total so far, 37655 available)
+2026-08-31T15:33:55 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 100/7159 articles (offset=100)
+2026-08-31T15:33:55 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 18: 50 items fetched (886 total so far, 37655 available)
+2026-08-31T15:33:57 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 19: 50 items fetched (936 total so far, 37655 available)
+2026-08-31T15:33:58 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef — page 20: 50 items fetched (986 total so far, 37655 available)
+2026-08-31T15:33:58 [INFO    ] slr.extractors.acm_digital_library — ACM CrossRef fallback — collected 986 articles
+2026-08-31T15:33:58 [INFO    ] slr.extractors.acm_digital_library — Saved 986 raw articles -> acm_digital_library.json
+2026-08-31T15:33:58 [INFO    ] slr.pipeline — [Stage 1] acm_digital_library            -> 986 articles
+2026-08-31T15:34:02 [INFO    ] slr.extractors.computer_org — Computer.org — scraping page 1
+2026-08-31T15:34:13 [INFO    ] slr.extractors.computer_org — Computer.org — scraping page 2
+2026-08-31T15:34:22 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 200/7159 articles (offset=200)
+2026-08-31T15:34:25 [INFO    ] slr.extractors.computer_org — Computer.org — scraping page 3
+2026-08-31T15:34:28 [INFO    ] slr.extractors.computer_org — Computer.org — collected 223 articles
+2026-08-31T15:34:28 [INFO    ] slr.extractors.computer_org — Computer.org CrossRef — looking up DOIs for 223 articles …
+2026-08-31T15:34:30 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 300/7159 articles (offset=300)
+2026-08-31T15:34:39 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 400/7159 articles (offset=400)
+2026-08-31T15:35:00 [INFO    ] slr.extractors.springer_link — Springer — collected 1465 articles
+2026-08-31T15:35:00 [INFO    ] slr.extractors.springer_link — Saved 1465 raw articles -> springer_link.json
+2026-08-31T15:35:00 [INFO    ] slr.pipeline — [Stage 1] springer_link                  -> 1465 articles
+2026-08-31T15:35:26 [WARNING ] slr.extractors.semantic_scholar — Semantic Scholar rate-limited (429), attempt 1/5. Backing off 5s … (body: {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"})
+2026-08-31T15:35:52 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 500/7159 articles (offset=500)
+2026-08-31T15:36:05 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 600/7159 articles (offset=600)
+2026-08-31T15:36:35 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 700/7159 articles (offset=700)
+2026-08-31T15:36:43 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 800/7159 articles (offset=800)
+2026-08-31T15:36:54 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 900/977 articles (offset=900)
+2026-08-31T15:37:04 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — fetched 1000/7159 articles (offset=1000)
+2026-08-31T15:37:07 [ERROR   ] slr.extractors.semantic_scholar — Semantic Scholar API error at offset 1000: 400 Client Error: Bad Request for url: https://api.semanticscholar.org/graph/v1/paper/search?query=%22digital+twin%22+cybersecurity+IoT&fields=title%2Cauthors%2Cyear%2CexternalIds%2Cabstract&offset=1000&limit=100
+2026-08-31T15:37:07 [INFO    ] slr.extractors.semantic_scholar — Semantic Scholar — collected 1000 articles
+2026-08-31T15:37:08 [INFO    ] slr.extractors.semantic_scholar — Saved 1000 raw articles -> semantic_scholar.json
+2026-08-31T15:37:08 [INFO    ] slr.pipeline — [Stage 1] semantic_scholar               -> 1000 articles
+2026-08-31T15:39:19 [INFO    ] slr.extractors.computer_org — CrossRef enriched 203/223 articles with DOIs
+2026-08-31T15:39:19 [INFO    ] slr.extractors.computer_org — Computer.org — DOI enrichment complete: 206/223 articles have DOIs
+2026-08-31T15:39:19 [INFO    ] slr.extractors.computer_org — Saved 223 raw articles -> computer_org.json
+2026-08-31T15:39:19 [INFO    ] slr.pipeline — [Stage 1] computer_org                   -> 223 articles
+2026-08-31T15:39:19 [INFO    ] slr.pipeline — [Stage 1] Total raw articles: 3674
+2026-08-31T15:39:19 [INFO    ] slr.pipeline — [Stage 2/5] Deduplicating …
+2026-08-31T15:39:37 [INFO    ] slr.processors.deduplicator — Deduplication: 3674 in -> 3539 out (135 dropped: 86 DOI-exact, 16 title-exact, 33 title-fuzzy)
+2026-08-31T15:39:37 [INFO    ] slr.pipeline — [Stage 3/5] Filtering articles without valid DOIs …
+2026-08-31T15:39:37 [INFO    ] slr.processors.doi_filter — DOI filter: 3539 in -> 3499 out (40 rejected: missing: 40)
+2026-08-31T15:39:37 [INFO    ] slr.pipeline — [Stage 4/5] Exporting results …
+2026-08-31T15:39:37 [INFO    ] slr.exporters.csv_exporter — CSV exported: articles_final.csv (3499 articles)
+2026-08-31T15:39:39 [INFO    ] slr.exporters.excel_exporter — Excel exported: articles_final.xlsx (3499 articles)
+2026-08-31T15:39:39 [INFO    ] slr.pipeline — [Stage 5/5] Generating visualizations …
+2026-08-31T15:39:39 [INFO    ] matplotlib.font_manager — Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: In FT2Font: Can not load face (unknown file format; error code 0x2)
+2026-08-31T15:39:39 [INFO    ] matplotlib.font_manager — generated new fontManager
+2026-08-31T15:39:39 [INFO    ] matplotlib.category — Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-31T15:39:39 [INFO    ] matplotlib.category — Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-31T15:39:39 [INFO    ] slr.visualization.years_chart — Years chart saved: plt_publications_per_year.png
+2026-08-31T15:39:40 [INFO    ] slr.visualization.authors_chart — Authors chart saved: plt_top_authors.png
+2026-08-31T15:39:40 [INFO    ] slr.pipeline — ============================================================
+2026-08-31T15:39:40 [INFO    ] slr.pipeline — SLR PIPELINE COMPLETE
+2026-08-31T15:39:40 [INFO    ] slr.pipeline —   Raw articles collected : 3674
+2026-08-31T15:39:40 [INFO    ] slr.pipeline —   After deduplication    : 3539
+2026-08-31T15:39:40 [INFO    ] slr.pipeline —   After DOI filter       : 3499
+2026-08-31T15:39:40 [INFO    ] slr.pipeline —   Output directory       : output/2026-08-31T15-33-28Z/articleSelection/step4_export
+2026-08-31T15:39:40 [INFO    ] slr.pipeline — ============================================================

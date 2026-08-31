@@ -1,0 +1,88 @@
+{"ts": "2026-08-31T15:33:29.293362+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "============================================================"}
+{"ts": "2026-08-31T15:33:29.294369+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "SLR PIPELINE START"}
+{"ts": "2026-08-31T15:33:29.295978+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "Query: (\"Digital Twin\" OR \"Digital Twins\") AND (\"cyberattack\" OR \"cyberattacks\" OR \"cyber attack\" OR \"cyber attacks\" OR \"cybersecurity\" OR \"cyber-security\") AND (\"internet of things\" OR \"IoT\" OR \"CPS\" OR \"cyber-physical systems\")"}
+{"ts": "2026-08-31T15:33:29.297036+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "Run directory: output/2026-08-31T15-33-28Z"}
+{"ts": "2026-08-31T15:33:29.297845+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "============================================================"}
+{"ts": "2026-08-31T15:33:29.298833+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1/5] Extracting from databases …"}
+{"ts": "2026-08-31T15:33:29.300251+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "Starting ACM DL extraction (API mode)"}
+{"ts": "2026-08-31T15:33:29.301738+00:00", "level": "INFO", "logger": "slr.extractors.springer_link", "msg": "Springer — using Open Access API"}
+{"ts": "2026-08-31T15:33:29.302851+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Starting Computer.org extraction"}
+{"ts": "2026-08-31T15:33:29.304309+00:00", "level": "WARNING", "logger": "slr.extractors.ieee_xplore", "msg": "IEEE Xplore extractor disabled: IEEE_API_KEY not set. Obtain a free key at https://developer.ieee.org/"}
+{"ts": "2026-08-31T15:33:29.306651+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Starting Semantic Scholar extraction"}
+{"ts": "2026-08-31T15:33:29.307895+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — authenticated (higher rate limit)"}
+{"ts": "2026-08-31T15:33:29.309770+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — simplifying complex boolean query to: '\"digital twin\" cybersecurity IoT'"}
+{"ts": "2026-08-31T15:33:29.311237+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] ieee_xplore                    -> 0 articles"}
+{"ts": "2026-08-31T15:33:29.363371+00:00", "level": "WARNING", "logger": "slr.extractors.acm_digital_library", "msg": "ACM DL is protected by Cloudflare. Falling back to CrossRef API for ACM papers (DOI prefix 10.1145)."}
+{"ts": "2026-08-31T15:33:29.364514+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef fallback — querying CrossRef for ACM papers …"}
+{"ts": "2026-08-31T15:33:31.026477+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 1: 50 items fetched (50 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:32.160256+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 2: 50 items fetched (100 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:33.878627+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 3: 50 items fetched (150 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:35.719370+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 4: 50 items fetched (200 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:37.507576+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 5: 50 items fetched (236 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:39.030917+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 6: 50 items fetched (286 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:40.296652+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 7: 50 items fetched (336 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:41.661505+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 8: 50 items fetched (386 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:43.409839+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 9: 50 items fetched (436 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:44.689241+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 10: 50 items fetched (486 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:45.930781+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 11: 50 items fetched (536 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:47.032485+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 12: 50 items fetched (586 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:48.454557+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 13: 50 items fetched (636 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:50.230442+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 14: 50 items fetched (686 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:51.546948+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 15: 50 items fetched (736 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:52.823497+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 16: 50 items fetched (786 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:54.728761+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 17: 50 items fetched (836 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:55.658700+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 100/7159 articles (offset=100)"}
+{"ts": "2026-08-31T15:33:55.794347+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 18: 50 items fetched (886 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:57.063120+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 19: 50 items fetched (936 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:58.244714+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef — page 20: 50 items fetched (986 total so far, 37655 available)"}
+{"ts": "2026-08-31T15:33:58.245802+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "ACM CrossRef fallback — collected 986 articles"}
+{"ts": "2026-08-31T15:33:58.269566+00:00", "level": "INFO", "logger": "slr.extractors.acm_digital_library", "msg": "Saved 986 raw articles -> acm_digital_library.json"}
+{"ts": "2026-08-31T15:33:58.271572+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] acm_digital_library            -> 986 articles"}
+{"ts": "2026-08-31T15:34:02.101067+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org — scraping page 1"}
+{"ts": "2026-08-31T15:34:13.821444+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org — scraping page 2"}
+{"ts": "2026-08-31T15:34:22.995495+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 200/7159 articles (offset=200)"}
+{"ts": "2026-08-31T15:34:25.181132+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org — scraping page 3"}
+{"ts": "2026-08-31T15:34:28.698961+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org — collected 223 articles"}
+{"ts": "2026-08-31T15:34:28.700459+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org CrossRef — looking up DOIs for 223 articles …"}
+{"ts": "2026-08-31T15:34:30.527717+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 300/7159 articles (offset=300)"}
+{"ts": "2026-08-31T15:34:39.923039+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 400/7159 articles (offset=400)"}
+{"ts": "2026-08-31T15:35:00.892733+00:00", "level": "INFO", "logger": "slr.extractors.springer_link", "msg": "Springer — collected 1465 articles"}
+{"ts": "2026-08-31T15:35:00.946852+00:00", "level": "INFO", "logger": "slr.extractors.springer_link", "msg": "Saved 1465 raw articles -> springer_link.json"}
+{"ts": "2026-08-31T15:35:00.948438+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] springer_link                  -> 1465 articles"}
+{"ts": "2026-08-31T15:35:26.423349+00:00", "level": "WARNING", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar rate-limited (429), attempt 1/5. Backing off 5s … (body: {\"message\": \"Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form\", \"code\": \"429\"})"}
+{"ts": "2026-08-31T15:35:52.574975+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 500/7159 articles (offset=500)"}
+{"ts": "2026-08-31T15:36:05.007753+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 600/7159 articles (offset=600)"}
+{"ts": "2026-08-31T15:36:35.557202+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 700/7159 articles (offset=700)"}
+{"ts": "2026-08-31T15:36:43.661782+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 800/7159 articles (offset=800)"}
+{"ts": "2026-08-31T15:36:54.829050+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 900/977 articles (offset=900)"}
+{"ts": "2026-08-31T15:37:04.147910+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — fetched 1000/7159 articles (offset=1000)"}
+{"ts": "2026-08-31T15:37:07.992273+00:00", "level": "ERROR", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar API error at offset 1000: 400 Client Error: Bad Request for url: https://api.semanticscholar.org/graph/v1/paper/search?query=%22digital+twin%22+cybersecurity+IoT&fields=title%2Cauthors%2Cyear%2CexternalIds%2Cabstract&offset=1000&limit=100"}
+{"ts": "2026-08-31T15:37:07.993235+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Semantic Scholar — collected 1000 articles"}
+{"ts": "2026-08-31T15:37:08.024409+00:00", "level": "INFO", "logger": "slr.extractors.semantic_scholar", "msg": "Saved 1000 raw articles -> semantic_scholar.json"}
+{"ts": "2026-08-31T15:37:08.026533+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] semantic_scholar               -> 1000 articles"}
+{"ts": "2026-08-31T15:39:19.676227+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "CrossRef enriched 203/223 articles with DOIs"}
+{"ts": "2026-08-31T15:39:19.678287+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Computer.org — DOI enrichment complete: 206/223 articles have DOIs"}
+{"ts": "2026-08-31T15:39:19.683837+00:00", "level": "INFO", "logger": "slr.extractors.computer_org", "msg": "Saved 223 raw articles -> computer_org.json"}
+{"ts": "2026-08-31T15:39:19.685560+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] computer_org                   -> 223 articles"}
+{"ts": "2026-08-31T15:39:19.687087+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 1] Total raw articles: 3674"}
+{"ts": "2026-08-31T15:39:19.687977+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 2/5] Deduplicating …"}
+{"ts": "2026-08-31T15:39:37.416536+00:00", "level": "INFO", "logger": "slr.processors.deduplicator", "msg": "Deduplication: 3674 in -> 3539 out (135 dropped: 86 DOI-exact, 16 title-exact, 33 title-fuzzy)"}
+{"ts": "2026-08-31T15:39:37.476738+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 3/5] Filtering articles without valid DOIs …"}
+{"ts": "2026-08-31T15:39:37.480178+00:00", "level": "INFO", "logger": "slr.processors.doi_filter", "msg": "DOI filter: 3539 in -> 3499 out (40 rejected: missing: 40)"}
+{"ts": "2026-08-31T15:39:37.535527+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 4/5] Exporting results …"}
+{"ts": "2026-08-31T15:39:37.620155+00:00", "level": "INFO", "logger": "slr.exporters.csv_exporter", "msg": "CSV exported: articles_final.csv (3499 articles)"}
+{"ts": "2026-08-31T15:39:39.127201+00:00", "level": "INFO", "logger": "slr.exporters.excel_exporter", "msg": "Excel exported: articles_final.xlsx (3499 articles)"}
+{"ts": "2026-08-31T15:39:39.128294+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "[Stage 5/5] Generating visualizations …"}
+{"ts": "2026-08-31T15:39:39.395875+00:00", "level": "INFO", "logger": "matplotlib.font_manager", "msg": "Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: In FT2Font: Can not load face (unknown file format; error code 0x2)"}
+{"ts": "2026-08-31T15:39:39.411694+00:00", "level": "INFO", "logger": "matplotlib.font_manager", "msg": "generated new fontManager"}
+{"ts": "2026-08-31T15:39:39.678817+00:00", "level": "INFO", "logger": "matplotlib.category", "msg": "Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting."}
+{"ts": "2026-08-31T15:39:39.680485+00:00", "level": "INFO", "logger": "matplotlib.category", "msg": "Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting."}
+{"ts": "2026-08-31T15:39:39.964239+00:00", "level": "INFO", "logger": "slr.visualization.years_chart", "msg": "Years chart saved: plt_publications_per_year.png"}
+{"ts": "2026-08-31T15:39:40.224278+00:00", "level": "INFO", "logger": "slr.visualization.authors_chart", "msg": "Authors chart saved: plt_top_authors.png"}
+{"ts": "2026-08-31T15:39:40.225457+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "============================================================"}
+{"ts": "2026-08-31T15:39:40.226316+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "SLR PIPELINE COMPLETE"}
+{"ts": "2026-08-31T15:39:40.227339+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "  Raw articles collected : 3674"}
+{"ts": "2026-08-31T15:39:40.228224+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "  After deduplication    : 3539"}
+{"ts": "2026-08-31T15:39:40.229083+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "  After DOI filter       : 3499"}
+{"ts": "2026-08-31T15:39:40.230184+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "  Output directory       : output/2026-08-31T15-33-28Z/articleSelection/step4_export"}
+{"ts": "2026-08-31T15:39:40.231087+00:00", "level": "INFO", "logger": "slr.pipeline", "msg": "============================================================"}
